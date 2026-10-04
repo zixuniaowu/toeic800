@@ -1,5 +1,483 @@
 [
   {
+    "number": 4,
+    "theme": "市场营销与新品发布",
+    "date": "2026-10-05",
+    "duration_sec": 3040.1,
+    "segments": [
+      {
+        "title": "1. 开场介绍",
+        "start": 0.0,
+        "length": 66.07
+      },
+      {
+        "title": "2. 30 个高频词汇",
+        "start": 66.07,
+        "length": 762.3
+      },
+      {
+        "title": "3. Part 2 陷阱题 10 道",
+        "start": 828.38,
+        "length": 394.68
+      },
+      {
+        "title": "4. Part 3/4 对话与独白精听",
+        "start": 1223.06,
+        "length": 704.23
+      },
+      {
+        "title": "5. Part 5 语法精练 10 题",
+        "start": 1927.29,
+        "length": 423.42
+      },
+      {
+        "title": "6. Part 7 短篇阅读精讲",
+        "start": 2350.7,
+        "length": 341.07
+      },
+      {
+        "title": "7. 应试策略",
+        "start": 2691.77,
+        "length": 152.54
+      },
+      {
+        "title": "8. 10 词快速复习",
+        "start": 2844.31,
+        "length": 195.82
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "target audience",
+        "zh": "目标受众"
+      },
+      {
+        "word": "market share",
+        "zh": "市场份额"
+      },
+      {
+        "word": "customer satisfaction",
+        "zh": "顾客满意度"
+      },
+      {
+        "word": "promotional",
+        "zh": "促销的；宣传的"
+      },
+      {
+        "word": "innovative",
+        "zh": "创新的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "launch",
+        "zh": "推出；发布"
+      },
+      {
+        "word": "campaign",
+        "zh": "；广告；活动；宣传运动"
+      },
+      {
+        "word": "target audience",
+        "zh": "目标受众"
+      },
+      {
+        "word": "market share",
+        "zh": "市场份额"
+      },
+      {
+        "word": "promotional",
+        "zh": "促销的；宣传的"
+      },
+      {
+        "word": "retailer",
+        "zh": "零售商"
+      },
+      {
+        "word": "customer satisfaction",
+        "zh": "顾客满意度"
+      },
+      {
+        "word": "loyal",
+        "zh": "忠诚的"
+      },
+      {
+        "word": "innovative",
+        "zh": "创新的"
+      },
+      {
+        "word": "reputation",
+        "zh": "声誉；名声"
+      }
+    ],
+    "video": "media/ep4.mp4",
+    "script_pdf": "media/ep4_script.pdf",
+    "source_video": "ep4.mp4",
+    "poster": "media/ep4_cover.png",
+    "words": [
+      {
+        "word": "launch",
+        "pos": "v./n.",
+        "zh": "推出；发布",
+        "ex": "The company will launch its new skincare line in April.",
+        "exzh": "公司将于四月推出新的护肤产品线。",
+        "ipa": "/lɔntʃ/",
+        "audio": "media/words/ep4/launch.mp3",
+        "ex_audio": "media/words/ep4/launch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "campaign",
+        "pos": "n.",
+        "zh": "（广告）活动；宣传运动",
+        "ex": "Our latest advertising campaign targets young professionals.",
+        "exzh": "我们最新的广告活动针对年轻职场人士。",
+        "ipa": "/kæmˈpeɪn/",
+        "audio": "media/words/ep4/campaign.mp3",
+        "ex_audio": "media/words/ep4/campaign_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "target audience",
+        "pos": "n.",
+        "zh": "目标受众",
+        "ex": "Teenagers are the target audience for this game.",
+        "exzh": "青少年是这款游戏的目标受众。",
+        "ipa": "/ˈtɑrɡət ˈɑdiəns/",
+        "audio": "media/words/ep4/target-audience.mp3",
+        "ex_audio": "media/words/ep4/target-audience_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "consumer",
+        "pos": "n.",
+        "zh": "消费者",
+        "ex": "Consumers are becoming more interested in eco-friendly products.",
+        "exzh": "消费者对环保产品越来越感兴趣。",
+        "ipa": "/kənˈsumɚ/",
+        "audio": "media/words/ep4/consumer.mp3",
+        "ex_audio": "media/words/ep4/consumer_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "survey",
+        "pos": "n./v.",
+        "zh": "调查；问卷调查",
+        "ex": "We conducted a survey of 500 customers last month.",
+        "exzh": "上个月我们对500名顾客进行了调查。",
+        "ipa": "/sɚˈveɪ/",
+        "audio": "media/words/ep4/survey.mp3",
+        "ex_audio": "media/words/ep4/survey_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "questionnaire",
+        "pos": "n.",
+        "zh": "调查问卷",
+        "ex": "Please complete the short questionnaire after your visit.",
+        "exzh": "请在访问结束后填写这份简短问卷。",
+        "ipa": "/ˌkwɛstʃəˈnɛr/",
+        "audio": "media/words/ep4/questionnaire.mp3",
+        "ex_audio": "media/words/ep4/questionnaire_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "feedback",
+        "pos": "n.",
+        "zh": "反馈意见",
+        "ex": "Customer feedback helped us improve the design.",
+        "exzh": "顾客的反馈帮助我们改进了设计。",
+        "ipa": "/ˈfidˌbæk/",
+        "audio": "media/words/ep4/feedback.mp3",
+        "ex_audio": "media/words/ep4/feedback_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "competitor",
+        "pos": "n.",
+        "zh": "竞争对手",
+        "ex": "Our main competitor has just opened a store nearby.",
+        "exzh": "我们的主要竞争对手刚在附近开了一家店。",
+        "ipa": "/kəmˈpɛtətɚ/",
+        "audio": "media/words/ep4/competitor.mp3",
+        "ex_audio": "media/words/ep4/competitor_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "competitive",
+        "pos": "adj.",
+        "zh": "有竞争力的；竞争激烈的",
+        "ex": "We offer competitive prices on all office furniture.",
+        "exzh": "我们所有办公家具都提供有竞争力的价格。",
+        "ipa": "/kəmˈpɛtətɪv/",
+        "audio": "media/words/ep4/competitive.mp3",
+        "ex_audio": "media/words/ep4/competitive_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "market share",
+        "pos": "n.",
+        "zh": "市场份额",
+        "ex": "The firm aims to increase its market share in Asia.",
+        "exzh": "该公司的目标是提高在亚洲的市场份额。",
+        "ipa": "/ˈmɑrkət ʃɛr/",
+        "audio": "media/words/ep4/market-share.mp3",
+        "ex_audio": "media/words/ep4/market-share_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "brand",
+        "pos": "n.",
+        "zh": "品牌",
+        "ex": "The brand is well known for its durable luggage.",
+        "exzh": "该品牌以耐用的行李箱而闻名。",
+        "ipa": "/brænd/",
+        "audio": "media/words/ep4/brand.mp3",
+        "ex_audio": "media/words/ep4/brand_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "promotional",
+        "pos": "adj.",
+        "zh": "促销的；宣传的",
+        "ex": "Promotional materials will be sent to all stores.",
+        "exzh": "宣传材料将发送到所有门店。",
+        "ipa": "/prəˈmoʊʃənəl/",
+        "audio": "media/words/ep4/promotional.mp3",
+        "ex_audio": "media/words/ep4/promotional_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "discount",
+        "pos": "n./v.",
+        "zh": "折扣；打折",
+        "ex": "Members receive a ten percent discount on all items.",
+        "exzh": "会员购买所有商品均享九折优惠。",
+        "ipa": "/dɪˈskaʊnt/",
+        "audio": "media/words/ep4/discount.mp3",
+        "ex_audio": "media/words/ep4/discount_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "coupon",
+        "pos": "n.",
+        "zh": "优惠券",
+        "ex": "This coupon can be used at any of our locations.",
+        "exzh": "这张优惠券可在我们任何一家门店使用。",
+        "ipa": "/ˈkuˌpɔn/",
+        "audio": "media/words/ep4/coupon.mp3",
+        "ex_audio": "media/words/ep4/coupon_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "purchase",
+        "pos": "v./n.",
+        "zh": "购买；购买的物品",
+        "ex": "You can purchase tickets online or at the box office.",
+        "exzh": "您可以在线或在售票处购票。",
+        "ipa": "/ˈpɝtʃəs/",
+        "audio": "media/words/ep4/purchase.mp3",
+        "ex_audio": "media/words/ep4/purchase_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "retailer",
+        "pos": "n.",
+        "zh": "零售商",
+        "ex": "The retailer sells kitchenware in over 200 stores.",
+        "exzh": "这家零售商在200多家门店销售厨具。",
+        "ipa": "/ˈriˌteɪlɚ/",
+        "audio": "media/words/ep4/retailer.mp3",
+        "ex_audio": "media/words/ep4/retailer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wholesale",
+        "pos": "adj./n.",
+        "zh": "批发（的）",
+        "ex": "We buy coffee beans at wholesale prices.",
+        "exzh": "我们以批发价购买咖啡豆。",
+        "ipa": "/ˈhoʊlˌseɪl/",
+        "audio": "media/words/ep4/wholesale.mp3",
+        "ex_audio": "media/words/ep4/wholesale_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "customer satisfaction",
+        "pos": "n.",
+        "zh": "顾客满意度",
+        "ex": "Customer satisfaction is our top priority.",
+        "exzh": "顾客满意度是我们的首要任务。",
+        "ipa": "/ˈkʌstəmɚ ˌsætəsˈfækʃən/",
+        "audio": "media/words/ep4/customer-satisfaction.mp3",
+        "ex_audio": "media/words/ep4/customer-satisfaction_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "loyal",
+        "pos": "adj.",
+        "zh": "忠诚的",
+        "ex": "We reward loyal customers with special offers.",
+        "exzh": "我们用特别优惠回馈忠实顾客。",
+        "ipa": "/ˈlɔɪəl/",
+        "audio": "media/words/ep4/loyal.mp3",
+        "ex_audio": "media/words/ep4/loyal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "complaint",
+        "pos": "n.",
+        "zh": "投诉；抱怨",
+        "ex": "The manager responded to the complaint within an hour.",
+        "exzh": "经理在一小时内回应了投诉。",
+        "ipa": "/kəmˈpleɪnt/",
+        "audio": "media/words/ep4/complaint.mp3",
+        "ex_audio": "media/words/ep4/complaint_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "demonstrate",
+        "pos": "v.",
+        "zh": "演示；证明",
+        "ex": "The sales representative demonstrated how the vacuum works.",
+        "exzh": "销售代表演示了吸尘器的使用方法。",
+        "ipa": "/ˈdɛmənˌstreɪt/",
+        "audio": "media/words/ep4/demonstrate.mp3",
+        "ex_audio": "media/words/ep4/demonstrate_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "free sample",
+        "pos": "n.",
+        "zh": "免费样品",
+        "ex": "Visitors to the booth can pick up a free sample.",
+        "exzh": "展位参观者可以领取免费样品。",
+        "ipa": "/fri ˈsæmpəl/",
+        "audio": "media/words/ep4/free-sample.mp3",
+        "ex_audio": "media/words/ep4/free-sample_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "brochure",
+        "pos": "n.",
+        "zh": "宣传册",
+        "ex": "Please take a brochure that describes our services.",
+        "exzh": "请拿一份介绍我们服务的宣传册。",
+        "ipa": "/broʊˈʃʊr/",
+        "audio": "media/words/ep4/brochure.mp3",
+        "ex_audio": "media/words/ep4/brochure_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "expand",
+        "pos": "v.",
+        "zh": "扩大；扩展",
+        "ex": "The chain plans to expand into South America.",
+        "exzh": "这家连锁店计划扩展到南美洲。",
+        "ipa": "/ɪkˈspænd/",
+        "audio": "media/words/ep4/expand.mp3",
+        "ex_audio": "media/words/ep4/expand_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "trend",
+        "pos": "n.",
+        "zh": "趋势；潮流",
+        "ex": "Online shopping is a growing trend among older adults.",
+        "exzh": "网购在老年人中是一个日益增长的趋势。",
+        "ipa": "/trɛnd/",
+        "audio": "media/words/ep4/trend.mp3",
+        "ex_audio": "media/words/ep4/trend_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "analyze",
+        "pos": "v.",
+        "zh": "分析",
+        "ex": "The team analyzed last year's sales data.",
+        "exzh": "团队分析了去年的销售数据。",
+        "ipa": "/ˈænəˌlaɪz/",
+        "audio": "media/words/ep4/analyze.mp3",
+        "ex_audio": "media/words/ep4/analyze_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "affordable",
+        "pos": "adj.",
+        "zh": "负担得起的；价格合理的",
+        "ex": "We want to make healthy food affordable for everyone.",
+        "exzh": "我们希望让每个人都买得起健康食品。",
+        "ipa": "/əˈfɔrdəbəl/",
+        "audio": "media/words/ep4/affordable.mp3",
+        "ex_audio": "media/words/ep4/affordable_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "reputation",
+        "pos": "n.",
+        "zh": "声誉；名声",
+        "ex": "The restaurant has an excellent reputation for service.",
+        "exzh": "这家餐厅的服务享有极好的声誉。",
+        "ipa": "/ˌrɛpjəˈteɪʃən/",
+        "audio": "media/words/ep4/reputation.mp3",
+        "ex_audio": "media/words/ep4/reputation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "innovative",
+        "pos": "adj.",
+        "zh": "创新的",
+        "ex": "The company is known for its innovative designs.",
+        "exzh": "该公司以创新设计而闻名。",
+        "ipa": "/ˈɪnəˌveɪtɪv/",
+        "audio": "media/words/ep4/innovative.mp3",
+        "ex_audio": "media/words/ep4/innovative_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "attract",
+        "pos": "v.",
+        "zh": "吸引",
+        "ex": "The sale attracted hundreds of shoppers.",
+        "exzh": "这次促销吸引了数百名购物者。",
+        "ipa": "/əˈtrækt/",
+        "audio": "media/words/ep4/attract.mp3",
+        "ex_audio": "media/words/ep4/attract_ex.mp3",
+        "highlight": false,
+        "review": false
+      }
+    ]
+  },
+  {
     "number": 3,
     "theme": "人事招聘与职场沟通",
     "date": "2026-10-04",
