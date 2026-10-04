@@ -1,0 +1,320 @@
+[
+  {
+    "number": 3,
+    "theme": "人事招聘与职场沟通",
+    "date": "2026-10-04",
+    "duration_sec": 2402.9,
+    "segments": [
+      {
+        "title": "1. 开场介绍",
+        "start": 0.0,
+        "length": 51.53
+      },
+      {
+        "title": "2. 40 个高频词汇",
+        "start": 51.53,
+        "length": 1008.35
+      },
+      {
+        "title": "3. Part 2 陷阱题 10 道",
+        "start": 1059.88,
+        "length": 374.28
+      },
+      {
+        "title": "4. Part 3/4 对话与独白精听",
+        "start": 1434.16,
+        "length": 642.6
+      },
+      {
+        "title": "5. 600→800 应试策略",
+        "start": 2076.76,
+        "length": 133.84
+      },
+      {
+        "title": "6. 10 词快速复习",
+        "start": 2210.6,
+        "length": 192.27
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "orientation",
+        "zh": "入职培训；情况介绍会"
+      },
+      {
+        "word": "performance review",
+        "zh": "绩效评估"
+      },
+      {
+        "word": "benefits package",
+        "zh": "福利待遇"
+      },
+      {
+        "word": "recruit",
+        "zh": "招聘；招募"
+      },
+      {
+        "word": "flexible",
+        "zh": "灵活的；可变通的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "applicant",
+        "zh": "申请人；求职者"
+      },
+      {
+        "word": "recruit",
+        "zh": "招聘；招募"
+      },
+      {
+        "word": "orientation",
+        "zh": "入职培训；情况介绍会"
+      },
+      {
+        "word": "promote",
+        "zh": "晋升；提拔"
+      },
+      {
+        "word": "transfer",
+        "zh": "调职；调动"
+      },
+      {
+        "word": "performance review",
+        "zh": "绩效评估"
+      },
+      {
+        "word": "benefits package",
+        "zh": "福利待遇"
+      },
+      {
+        "word": "workshop",
+        "zh": "研讨会；培训班"
+      },
+      {
+        "word": "flexible",
+        "zh": "灵活的；可变通的"
+      },
+      {
+        "word": "remote",
+        "zh": "远程的；偏远的"
+      }
+    ],
+    "video": "media/ep3.mp4",
+    "script_pdf": "media/ep3_script.pdf",
+    "source_video": "ep3.mp4",
+    "poster": "media/ep3_cover.png"
+  },
+  {
+    "number": 2,
+    "theme": "商务差旅与酒店 / 会议注册",
+    "date": "2026-10-03",
+    "duration_sec": 2465.1,
+    "segments": [
+      {
+        "title": "1. 开场介绍",
+        "start": 0.0,
+        "length": 52.13
+      },
+      {
+        "title": "2. 40 个高频词汇",
+        "start": 52.13,
+        "length": 1026.06
+      },
+      {
+        "title": "3. Part 2 陷阱题 10 道",
+        "start": 1078.19,
+        "length": 374.26
+      },
+      {
+        "title": "4. Part 3/4 对话与独白精听",
+        "start": 1452.45,
+        "length": 690.18
+      },
+      {
+        "title": "5. 600→800 应试策略",
+        "start": 2142.63,
+        "length": 124.7
+      },
+      {
+        "title": "6. 10 词快速复习",
+        "start": 2267.33,
+        "length": 197.79
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "reservation",
+        "zh": "预订"
+      },
+      {
+        "word": "boarding pass",
+        "zh": "登机牌"
+      },
+      {
+        "word": "upgrade",
+        "zh": "升级"
+      },
+      {
+        "word": "malfunction",
+        "zh": "故障；出故障"
+      },
+      {
+        "word": "agenda",
+        "zh": "议程"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "reservation",
+        "zh": "预订"
+      },
+      {
+        "word": "accommodation",
+        "zh": "住宿"
+      },
+      {
+        "word": "boarding pass",
+        "zh": "登机牌"
+      },
+      {
+        "word": "delay",
+        "zh": "延误；推迟"
+      },
+      {
+        "word": "check in",
+        "zh": "办理登记；入住/登机；手续"
+      },
+      {
+        "word": "register",
+        "zh": "注册；登记"
+      },
+      {
+        "word": "agenda",
+        "zh": "议程"
+      },
+      {
+        "word": "upgrade",
+        "zh": "升级"
+      },
+      {
+        "word": "place an order",
+        "zh": "下订单"
+      },
+      {
+        "word": "on time",
+        "zh": "准时"
+      }
+    ],
+    "video": "media/ep2.mp4",
+    "script_pdf": "media/ep2_script.pdf",
+    "source_video": "ep2.mp4",
+    "poster": "media/ep2_cover.png"
+  },
+  {
+    "number": 1,
+    "theme": "办公日常：报销、会议改期与快递延误",
+    "date": "2026-10-02",
+    "duration_sec": 2548,
+    "segments": [
+      {
+        "title": "1. 开场介绍",
+        "start": 0,
+        "length": 46
+      },
+      {
+        "title": "2. 40 个高频词汇",
+        "start": 46,
+        "length": 1065
+      },
+      {
+        "title": "3. Part 2 陷阱题 10 道",
+        "start": 1112,
+        "length": 445
+      },
+      {
+        "title": "4. Part 3/4 对话与独白精听",
+        "start": 1557,
+        "length": 624
+      },
+      {
+        "title": "5. 600→800 应试策略",
+        "start": 2181,
+        "length": 160
+      },
+      {
+        "title": "6. 10 词快速复习",
+        "start": 2342,
+        "length": 206
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "reimburse",
+        "zh": "报销；偿还"
+      },
+      {
+        "word": "mandatory",
+        "zh": "强制的；必须的"
+      },
+      {
+        "word": "expedite",
+        "zh": "加快；促进"
+      },
+      {
+        "word": "outstanding",
+        "zh": "未付的；未解决的；杰出的"
+      },
+      {
+        "word": "itinerary",
+        "zh": "行程表"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "reimburse",
+        "zh": "报销；偿还"
+      },
+      {
+        "word": "mandatory",
+        "zh": "强制的；必须的"
+      },
+      {
+        "word": "expedite",
+        "zh": "加快；促进"
+      },
+      {
+        "word": "outstanding",
+        "zh": "未付的；未解决的；杰出的"
+      },
+      {
+        "word": "itinerary",
+        "zh": "行程表"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "merchandise",
+        "zh": "商品；货物"
+      },
+      {
+        "word": "allocate",
+        "zh": "分配；拨出；资金"
+      },
+      {
+        "word": "comply with",
+        "zh": "遵守；符合"
+      },
+      {
+        "word": "at your earliest convenience",
+        "zh": "在您方便时尽早"
+      }
+    ],
+    "video": "media/ep1.mp4",
+    "script_pdf": "media/ep1_script.pdf",
+    "source_video": "ep1_listen.mp4",
+    "poster": "media/ep1_cover.png"
+  }
+]
