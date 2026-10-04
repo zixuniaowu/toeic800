@@ -1,4 +1,19 @@
 (function(){
+  // word pronunciation: one shared Audio element, play() called inside the tap handler (iOS-safe)
+  var au=new Audio(); au.preload='none'; var cur=null;
+  function clear(){ if(cur){cur.classList.remove('playing'); cur=null;} }
+  au.addEventListener('ended',clear); au.addEventListener('pause',clear); au.addEventListener('error',clear);
+  document.addEventListener('click',function(ev){
+    var b=ev.target.closest&&ev.target.closest('button.say'); if(!b) return;
+    var vid=document.getElementById('player'); if(vid&&!vid.paused) vid.pause();
+    var src=new URL(b.dataset.src,location.href).href;
+    if(cur===b&&!au.paused){au.pause();return;}
+    clear(); au.src=src; au.currentTime=0;
+    var p=au.play(); cur=b; b.classList.add('playing');
+    if(p&&p.catch) p.catch(function(){clear();});
+  });
+})();
+(function(){
   var v=document.getElementById('player'); if(!v) return;
   var btns=[].slice.call(document.querySelectorAll('.segs button'));
   btns.forEach(function(b){b.addEventListener('click',function(){

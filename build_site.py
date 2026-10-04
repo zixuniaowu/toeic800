@@ -12,6 +12,18 @@ Usage:  python3 build_site.py [--src /workspace/toeic_podcast]
 import argparse, datetime as dt, html, json, os, re, shutil, subprocess, sys
 from pathlib import Path
 
+# Re-exec under the shared venv (edge-tts + cmudict) when run with plain python3.
+VENV_PY = "/tmp/wp/bin/python"
+try:
+    import edge_tts, cmudict  # noqa: F401
+except ImportError:
+    if os.path.exists(VENV_PY) and os.path.realpath(sys.prefix) != os.path.realpath(os.path.dirname(os.path.dirname(VENV_PY))) \
+            and not os.environ.get("TOEIC_NO_REEXEC"):
+        os.environ["TOEIC_NO_REEXEC"] = "1"
+        os.execv(VENV_PY, [VENV_PY, os.path.abspath(__file__), *sys.argv[1:]])
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import words as W  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent
 SITE = ROOT / "site"
 MEDIA = SITE / "media"
@@ -150,6 +162,9 @@ def build_metadata(src):
         old = {e["number"]: e for e in json.loads((ROOT / "episodes.json").read_text("utf-8"))}
     MEDIA.mkdir(parents=True, exist_ok=True)
     out = []
+    bank = W.vocab_bank()
+    ipa_cache = W.load_cache()
+    audio_jobs = []
     for n, (video, pdf) in find_episodes(src).items():
         info = parse_pdf(pdf)
         meta_p = src / f"ep{n}_meta.json"
@@ -183,8 +198,39 @@ def build_metadata(src):
         if cover.exists():
             copy_if_changed(cover, MEDIA / f"ep{n}_cover.png")
             ep["poster"] = f"media/ep{n}_cover.png"
+        # ---- full word list with IPA + pronunciation MP3s
+        wl = meta.get("words") or []
+        rows = W.word_rows(src, n, wl, bank) if wl else None
+        if rows is None:
+            rows = old.get(n, {}).get("words") if old.get(n, {}).get("words") and \
+                [r["word"] for r in old[n]["words"]] == wl else None
+        if rows:
+            hl_set = {h["word"] for h in hl}
+            rv_set = {r["word"] if isinstance(r, dict) else r
+                      for r in (meta.get("review_words") or info.get("review_words", []))}
+            wdir = MEDIA / "words" / f"ep{n}"
+            for r in rows:
+                sl = W.slug(r["word"])
+                r["ipa"] = W.ipa_for(r["word"], ipa_cache)
+                r["audio"] = f"media/words/ep{n}/{sl}.mp3"
+                audio_jobs.append((r["word"], wdir / f"{sl}.mp3"))
+                if r.get("ex"):
+                    r["ex_audio"] = f"media/words/ep{n}/{sl}_ex.mp3"
+                    audio_jobs.append((r["ex"], wdir / f"{sl}_ex.mp3"))
+                r["highlight"] = r["word"] in hl_set
+                r["review"] = r["word"] in rv_set
+            ep["words"] = rows
         ep.update(overrides.get(str(n), {}))
         out.append(ep)
+    W.save_cache(ipa_cache)
+    failed = W.make_audio(audio_jobs)
+    if failed:
+        print(f"WARNING: {failed} pronunciation MP3s could not be generated (re-run later)")
+    for e in out:  # don't link audio files that don't exist
+        for r in e.get("words", []):
+            for k in ("audio", "ex_audio"):
+                if r.get(k) and not (SITE / r[k]).exists():
+                    r.pop(k)
     out.sort(key=lambda e: e["number"], reverse=True)
     (ROOT / "episodes.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", "utf-8")
     return out
@@ -230,6 +276,28 @@ video{width:100%;border-radius:12px;background:#000;display:block;aspect-ratio:1
 .words li{background:rgba(99,102,241,.08);border:1px solid rgba(99,102,241,.25);border-radius:10px;padding:6px 10px}
 .words b{display:block;font-size:15px}
 .words span{font-size:13px;color:var(--muted)}
+.words a{color:inherit;display:block}
+.card h2 .more{float:right;font-size:13px;font-weight:500}
+.wlist{list-style:none;margin:0;padding:0}
+.wd{border-top:1px solid var(--line);padding:12px 0;scroll-margin-top:12px}
+.wd:first-child{border-top:0;padding-top:4px}
+.wh{display:flex;align-items:flex-start;gap:10px}
+.wn{flex:none;width:24px;height:24px;border-radius:7px;background:rgba(99,102,241,.12);color:var(--accent2);font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-top:2px}
+.wt{flex:1;min-width:0}
+.wt b{font-size:17px;word-break:break-word}
+.ph{font-size:14px;color:var(--muted);margin-top:1px}
+.ipa{font-family:"Charis SIL","Doulos SIL","Lucida Sans Unicode","Segoe UI",system-ui,sans-serif;margin-right:8px}
+.pos{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:6px;padding:0 5px;font-style:italic}
+.tag{display:inline-block;font-size:11px;border-radius:6px;padding:0 5px;margin-left:6px;vertical-align:2px}
+.tag.hl{background:#fef3c7;color:#92400e}
+.tag.rv{background:#dcfce7;color:#166534}
+.say{flex:none;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:var(--card);font-size:20px;line-height:1;cursor:pointer;-webkit-tap-highlight-color:transparent;padding:0}
+.say.sm{width:34px;height:34px;font-size:15px}
+.say.playing{background:rgba(14,165,233,.15);border-color:var(--accent)}
+.wd .zh{margin:4px 0 0 34px;font-size:15px}
+.ex{display:flex;gap:8px;align-items:flex-start;margin:8px 0 0 34px;background:rgba(14,165,233,.06);border-radius:10px;padding:8px}
+.ex .en{font-size:14px;line-height:1.5}
+.ex .exzh{font-size:13px;color:var(--muted)}
 .btn{display:block;text-align:center;background:linear-gradient(135deg,var(--accent2),var(--accent));color:#fff;border-radius:12px;padding:12px;font-weight:600}
 .btn.ghost{background:none;color:var(--accent);border:1px solid var(--accent);margin-top:10px}
 .nav{display:flex;justify-content:space-between;gap:10px;margin:6px 0 4px;font-size:14px}
@@ -239,6 +307,21 @@ footer img{height:20px;vertical-align:middle}
 """
 
 JS = """
+(function(){
+  // word pronunciation: one shared Audio element, play() called inside the tap handler (iOS-safe)
+  var au=new Audio(); au.preload='none'; var cur=null;
+  function clear(){ if(cur){cur.classList.remove('playing'); cur=null;} }
+  au.addEventListener('ended',clear); au.addEventListener('pause',clear); au.addEventListener('error',clear);
+  document.addEventListener('click',function(ev){
+    var b=ev.target.closest&&ev.target.closest('button.say'); if(!b) return;
+    var vid=document.getElementById('player'); if(vid&&!vid.paused) vid.pause();
+    var src=new URL(b.dataset.src,location.href).href;
+    if(cur===b&&!au.paused){au.pause();return;}
+    clear(); au.src=src; au.currentTime=0;
+    var p=au.play(); cur=b; b.classList.add('playing');
+    if(p&&p.catch) p.catch(function(){clear();});
+  });
+})();
 (function(){
   var v=document.getElementById('player'); if(!v) return;
   var btns=[].slice.call(document.querySelectorAll('.segs button'));
@@ -311,17 +394,50 @@ def render_index(eps):
     return page(SITE_TITLE, body)
 
 
+def render_wordlist(e):
+    items = []
+    for i, r in enumerate(e["words"], 1):
+        tags = ""
+        if r.get("highlight"):
+            tags += '<span class="tag hl">重点</span>'
+        if r.get("review"):
+            tags += '<span class="tag rv">复习</span>'
+        say = (f'<button type="button" class="say" data-src="{E(r["audio"])}" aria-label="播放 {E(r["word"])} 的发音">🔊</button>'
+               if r.get("audio") else "")
+        exsay = (f'<button type="button" class="say sm" data-src="{E(r["ex_audio"])}" aria-label="播放例句">🔊</button>'
+                 if r.get("ex_audio") else "")
+        ipa = f'<span class="ipa">{E(r["ipa"])}</span>' if r.get("ipa") else ""
+        pos = f'<span class="pos">{E(r["pos"])}</span>' if r.get("pos") else ""
+        ex = ""
+        if r.get("ex"):
+            ex = (f'<div class="ex">{exsay}<div><div class="en">{E(r["ex"])}</div>'
+                  f'<div class="exzh">{E(r.get("exzh", ""))}</div></div></div>')
+        items.append(f"""<li class="wd" id="w-{W.slug(r['word'])}">
+  <div class="wh"><span class="wn">{i}</span><div class="wt"><b>{E(r['word'])}</b>{tags}<div class="ph">{ipa}{pos}</div></div>{say}</div>
+  <div class="zh">{E(r.get('zh', ''))}</div>
+  {ex}
+</li>""")
+    return (f'<section class="card" id="words"><h2>本期 {len(e["words"])} 词</h2>'
+            '<p class="tip" style="margin:-4px 0 10px">点 🔊 听单词发音（美音），例句旁的 🔊 听整句。音标为美式 IPA。</p>'
+            f'<ol class="wlist">{"".join(items)}</ol></section>')
+
+
 def render_episode(e, prev_e, next_e):
     n = e["number"]
     segs = "\n".join(
         f'<li><button type="button" data-t="{s["start"]}"><span class="t">{mmss(s["start"])}</span>'
         f'<span>{E(s["title"])}</span><span class="len">{mmss(s["length"])}</span></button></li>'
         for s in e["segments"])
-    words = "\n".join(f'<li><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></li>' for w in e["highlight_words"])
-    review = ""
-    if e.get("review_words"):
+    words = "\n".join(f'<li><a href="#w-{W.slug(w["word"])}"><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></a></li>'
+                       if e.get("words") else f'<li><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></li>'
+                       for w in e["highlight_words"])
+    if e.get("words"):
+        review = render_wordlist(e)
+    elif e.get("review_words"):
         rw = "\n".join(f'<li><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></li>' for w in e["review_words"])
         review = f'<section class="card"><h2>本期复习 10 词</h2><ul class="words">{rw}</ul></section>'
+    else:
+        review = ""
     poster = f' poster="{E(e["poster"])}"' if e.get("poster") else ""
     nav = '<div class="nav">'
     nav += f'<a href="ep{prev_e["number"]}.html">← 第 {prev_e["number"]} 期</a>' if prev_e else "<span></span>"
@@ -341,7 +457,7 @@ def render_episode(e, prev_e, next_e):
 <section class="card"><h2>本期目录</h2><ul class="segs">
 {segs}
 </ul></section>
-<section class="card"><h2>今日重点词</h2><ul class="words">
+<section class="card"><h2>今日重点词{' <a class="more" href="#words">全部 %d 词 ↓</a>' % len(e["words"]) if e.get("words") else ""}</h2><ul class="words">
 {words}
 </ul></section>
 {review}
@@ -398,5 +514,7 @@ if __name__ == "__main__":
     render(eps)
     for e in eps:
         print(f"ep{e['number']}: {e['theme']} | {mmss(e['duration_sec'])} | {e['date']} | "
-              f"{len(e['segments'])} segs | {len(e['highlight_words'])} hl | {len(e['review_words'])} review")
+              f"{len(e['segments'])} segs | {len(e['highlight_words'])} hl | {len(e.get('words', []))} words, "
+              f"{sum(1 for r in e.get('words', []) if r.get('ipa'))} with IPA, "
+              f"{sum(1 for r in e.get('words', []) if r.get('audio'))} mp3")
     sys.exit(0 if check_sizes() else 1)
