@@ -1,5 +1,483 @@
 [
   {
+    "number": 5,
+    "theme": "财务预算与会计审计",
+    "date": "2026-10-06",
+    "duration_sec": 3137.3,
+    "segments": [
+      {
+        "title": "1. 开场介绍",
+        "start": 0.0,
+        "length": 72.05
+      },
+      {
+        "title": "2. 30 个高频词汇",
+        "start": 72.05,
+        "length": 784.5
+      },
+      {
+        "title": "3. Part 2 陷阱题 10 道",
+        "start": 856.55,
+        "length": 381.43
+      },
+      {
+        "title": "4. Part 3/4 对话与独白精听",
+        "start": 1237.98,
+        "length": 717.51
+      },
+      {
+        "title": "5. Part 5 语法精练 10 题",
+        "start": 1955.49,
+        "length": 440.65
+      },
+      {
+        "title": "6. Part 7 短篇阅读精讲",
+        "start": 2396.14,
+        "length": 378.62
+      },
+      {
+        "title": "7. 应试策略",
+        "start": 2774.76,
+        "length": 167.73
+      },
+      {
+        "title": "8. 10 词快速复习",
+        "start": 2942.48,
+        "length": 194.79
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "expenditure",
+        "zh": "支出；开支"
+      },
+      {
+        "word": "fiscal year",
+        "zh": "财政年度；会计年度"
+      },
+      {
+        "word": "cost-effective",
+        "zh": "划算的；性价比高的"
+      },
+      {
+        "word": "discrepancy",
+        "zh": "差异；不一致"
+      },
+      {
+        "word": "projected",
+        "zh": "预计的；规划的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "budget",
+        "zh": "预算；编预算"
+      },
+      {
+        "word": "expenditure",
+        "zh": "支出；开支"
+      },
+      {
+        "word": "revenue",
+        "zh": "收入；营业额"
+      },
+      {
+        "word": "deficit",
+        "zh": "赤字；亏损"
+      },
+      {
+        "word": "audit",
+        "zh": "审计；查账"
+      },
+      {
+        "word": "fiscal year",
+        "zh": "财政年度；会计年度"
+      },
+      {
+        "word": "financial statement",
+        "zh": "财务报表"
+      },
+      {
+        "word": "cost-effective",
+        "zh": "划算的；性价比高的"
+      },
+      {
+        "word": "discrepancy",
+        "zh": "差异；不一致"
+      },
+      {
+        "word": "projected",
+        "zh": "预计的；规划的"
+      }
+    ],
+    "video": "media/ep5.mp4",
+    "script_pdf": "media/ep5_script.pdf",
+    "source_video": "ep5.mp4",
+    "poster": "media/ep5_cover.png",
+    "words": [
+      {
+        "word": "budget",
+        "pos": "n./v.",
+        "zh": "预算；编预算",
+        "ex": "The marketing department has a budget of fifty thousand dollars for the trade show.",
+        "exzh": "市场部为这次展会准备了五万美元的预算。",
+        "ipa": "/ˈbʌdʒɪt/",
+        "audio": "media/words/ep5/budget.mp3",
+        "ex_audio": "media/words/ep5/budget_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expenditure",
+        "pos": "n.",
+        "zh": "支出；开支",
+        "ex": "The company plans to reduce its expenditure on office supplies next year.",
+        "exzh": "公司计划明年减少办公用品方面的支出。",
+        "ipa": "/ɪkˈspɛndətʃɚ/",
+        "audio": "media/words/ep5/expenditure.mp3",
+        "ex_audio": "media/words/ep5/expenditure_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "revenue",
+        "pos": "n.",
+        "zh": "收入；营业额",
+        "ex": "Revenue from online sales increased by fifteen percent this quarter.",
+        "exzh": "本季度线上销售收入增长了百分之十五。",
+        "ipa": "/ˈrɛvəˌnu/",
+        "audio": "media/words/ep5/revenue.mp3",
+        "ex_audio": "media/words/ep5/revenue_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "profit",
+        "pos": "n.",
+        "zh": "利润",
+        "ex": "The new product line helped the company make a record profit.",
+        "exzh": "新产品线帮助公司创下了利润纪录。",
+        "ipa": "/ˈprɑfət/",
+        "audio": "media/words/ep5/profit.mp3",
+        "ex_audio": "media/words/ep5/profit_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "deficit",
+        "pos": "n.",
+        "zh": "赤字；亏损",
+        "ex": "The branch reported a small deficit because of high rent costs.",
+        "exzh": "由于房租成本高，这家分店报告了少量亏损。",
+        "ipa": "/ˈdɛfəsət/",
+        "audio": "media/words/ep5/deficit.mp3",
+        "ex_audio": "media/words/ep5/deficit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "audit",
+        "pos": "n./v.",
+        "zh": "审计；查账",
+        "ex": "An outside firm will audit our accounts in November.",
+        "exzh": "一家外部公司将在十一月审计我们的账目。",
+        "ipa": "/ˈɔdɪt/",
+        "audio": "media/words/ep5/audit.mp3",
+        "ex_audio": "media/words/ep5/audit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "accountant",
+        "pos": "n.",
+        "zh": "会计师；会计",
+        "ex": "Please send all receipts to the accountant by Friday.",
+        "exzh": "请在周五前把所有收据交给会计。",
+        "ipa": "/əˈkaʊntənt/",
+        "audio": "media/words/ep5/accountant.mp3",
+        "ex_audio": "media/words/ep5/accountant_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "fiscal year",
+        "pos": "n.",
+        "zh": "财政年度；会计年度",
+        "ex": "Our fiscal year begins on April first.",
+        "exzh": "我们的财政年度从四月一日开始。",
+        "ipa": "/ˈfɪskəl jɪr/",
+        "audio": "media/words/ep5/fiscal-year.mp3",
+        "ex_audio": "media/words/ep5/fiscal-year_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "quarterly",
+        "pos": "adj./adv.",
+        "zh": "季度的；每季度",
+        "ex": "The quarterly report will be presented at the board meeting.",
+        "exzh": "季度报告将在董事会上汇报。",
+        "ipa": "/ˈkwɔrtɚli/",
+        "audio": "media/words/ep5/quarterly.mp3",
+        "ex_audio": "media/words/ep5/quarterly_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "forecast",
+        "pos": "n./v.",
+        "zh": "预测；预报",
+        "ex": "Analysts forecast strong sales during the holiday season.",
+        "exzh": "分析师预测节假日期间销售会很强劲。",
+        "ipa": "/ˈfɔrˌkæst/",
+        "audio": "media/words/ep5/forecast.mp3",
+        "ex_audio": "media/words/ep5/forecast_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "transaction",
+        "pos": "n.",
+        "zh": "交易；（一笔）业务",
+        "ex": "Every transaction is recorded in the online system.",
+        "exzh": "每一笔交易都记录在在线系统里。",
+        "ipa": "/trænˈzækʃən/",
+        "audio": "media/words/ep5/transaction.mp3",
+        "ex_audio": "media/words/ep5/transaction_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "deposit",
+        "pos": "n./v.",
+        "zh": "存款；押金；存入",
+        "ex": "A deposit of twenty percent is required to confirm the order.",
+        "exzh": "确认订单需要支付百分之二十的定金。",
+        "ipa": "/dəˈpɑzɪt/",
+        "audio": "media/words/ep5/deposit.mp3",
+        "ex_audio": "media/words/ep5/deposit_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "withdraw",
+        "pos": "v.",
+        "zh": "取款；撤回",
+        "ex": "Customers can withdraw cash from any of our machines free of charge.",
+        "exzh": "顾客可以在我们任何一台机器上免费取现金。",
+        "ipa": "/wɪðˈdrɔ/",
+        "audio": "media/words/ep5/withdraw.mp3",
+        "ex_audio": "media/words/ep5/withdraw_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "loan",
+        "pos": "n.",
+        "zh": "贷款；借款",
+        "ex": "The bakery received a loan to open a second location.",
+        "exzh": "这家面包店获得了一笔贷款，用来开第二家店。",
+        "ipa": "/loʊn/",
+        "audio": "media/words/ep5/loan.mp3",
+        "ex_audio": "media/words/ep5/loan_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "interest rate",
+        "pos": "n.",
+        "zh": "利率",
+        "ex": "The bank lowered its interest rate for small businesses.",
+        "exzh": "银行降低了面向小企业的利率。",
+        "ipa": "/ˈɪntrəst reɪt/",
+        "audio": "media/words/ep5/interest-rate.mp3",
+        "ex_audio": "media/words/ep5/interest-rate_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "investment",
+        "pos": "n.",
+        "zh": "投资",
+        "ex": "The new software was a good investment for our team.",
+        "exzh": "这款新软件对我们团队来说是一项很好的投资。",
+        "ipa": "/ˌɪnˈvɛstmənt/",
+        "audio": "media/words/ep5/investment.mp3",
+        "ex_audio": "media/words/ep5/investment_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "shareholder",
+        "pos": "n.",
+        "zh": "股东",
+        "ex": "Shareholders will vote on the proposal at the annual meeting.",
+        "exzh": "股东们将在年会上对这项提案进行投票。",
+        "ipa": "/ˈʃɛrˌhoʊldɚ/",
+        "audio": "media/words/ep5/shareholder.mp3",
+        "ex_audio": "media/words/ep5/shareholder_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "financial statement",
+        "pos": "n.",
+        "zh": "财务报表",
+        "ex": "The financial statement shows that costs rose last year.",
+        "exzh": "财务报表显示去年成本上升了。",
+        "ipa": "/fəˈnænʃəl ˈsteɪtmənt/",
+        "audio": "media/words/ep5/financial-statement.mp3",
+        "ex_audio": "media/words/ep5/financial-statement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tax",
+        "pos": "n.",
+        "zh": "税；税款",
+        "ex": "All prices on the menu include tax.",
+        "exzh": "菜单上的所有价格都已含税。",
+        "ipa": "/tæks/",
+        "audio": "media/words/ep5/tax.mp3",
+        "ex_audio": "media/words/ep5/tax_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "deduct",
+        "pos": "v.",
+        "zh": "扣除；减去",
+        "ex": "The fee will be deducted from your monthly salary.",
+        "exzh": "这笔费用将从你的月薪中扣除。",
+        "ipa": "/dɪˈdʌkt/",
+        "audio": "media/words/ep5/deduct.mp3",
+        "ex_audio": "media/words/ep5/deduct_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "receipt",
+        "pos": "n.",
+        "zh": "收据；收到",
+        "ex": "Keep your receipt in case you need to return the item.",
+        "exzh": "请保留收据，以备需要退货。",
+        "ipa": "/rɪˈsit/",
+        "audio": "media/words/ep5/receipt.mp3",
+        "ex_audio": "media/words/ep5/receipt_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "cost-effective",
+        "pos": "adj.",
+        "zh": "划算的；性价比高的",
+        "ex": "Video conferencing is a cost-effective way to hold meetings.",
+        "exzh": "视频会议是一种开会的经济划算的方式。",
+        "ipa": "/kɑst-ɪˈfɛktɪv/",
+        "audio": "media/words/ep5/cost-effective.mp3",
+        "ex_audio": "media/words/ep5/cost-effective_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "spreadsheet",
+        "pos": "n.",
+        "zh": "电子表格",
+        "ex": "I've entered all the travel costs into a spreadsheet.",
+        "exzh": "我已经把所有差旅费用输入到电子表格里了。",
+        "ipa": "/ˈsprɛdˌʃit/",
+        "audio": "media/words/ep5/spreadsheet.mp3",
+        "ex_audio": "media/words/ep5/spreadsheet_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "approval",
+        "pos": "n.",
+        "zh": "批准；认可",
+        "ex": "Any purchase over five hundred dollars needs the manager's approval.",
+        "exzh": "任何超过五百美元的采购都需要经理批准。",
+        "ipa": "/əˈpruvəl/",
+        "audio": "media/words/ep5/approval.mp3",
+        "ex_audio": "media/words/ep5/approval_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "cut costs",
+        "pos": "phr.",
+        "zh": "削减成本",
+        "ex": "We need to cut costs without lowering the quality of our service.",
+        "exzh": "我们需要在不降低服务质量的前提下削减成本。",
+        "ipa": "/kʌt kɑsts/",
+        "audio": "media/words/ep5/cut-costs.mp3",
+        "ex_audio": "media/words/ep5/cut-costs_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "balance",
+        "pos": "n.",
+        "zh": "余额；结余；平衡",
+        "ex": "You can check your account balance on our mobile app.",
+        "exzh": "您可以在我们的手机应用上查询账户余额。",
+        "ipa": "/ˈbæləns/",
+        "audio": "media/words/ep5/balance.mp3",
+        "ex_audio": "media/words/ep5/balance_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "payroll",
+        "pos": "n.",
+        "zh": "工资单；工资发放",
+        "ex": "The payroll department pays all staff on the twenty-fifth of each month.",
+        "exzh": "工资部门在每月二十五日给全体员工发工资。",
+        "ipa": "/ˈpeɪˌroʊl/",
+        "audio": "media/words/ep5/payroll.mp3",
+        "ex_audio": "media/words/ep5/payroll_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "accurate",
+        "pos": "adj.",
+        "zh": "准确的；精确的",
+        "ex": "Please make sure the figures in your report are accurate.",
+        "exzh": "请确保你报告中的数字是准确的。",
+        "ipa": "/ˈækjɚət/",
+        "audio": "media/words/ep5/accurate.mp3",
+        "ex_audio": "media/words/ep5/accurate_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "discrepancy",
+        "pos": "n.",
+        "zh": "差异；不一致",
+        "ex": "The accountant found a discrepancy between the invoice and the receipt.",
+        "exzh": "会计发现发票和收据之间有出入。",
+        "ipa": "/dɪˈskrɛpənsi/",
+        "audio": "media/words/ep5/discrepancy.mp3",
+        "ex_audio": "media/words/ep5/discrepancy_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "projected",
+        "pos": "adj.",
+        "zh": "预计的；规划的",
+        "ex": "The projected cost of the new warehouse is two million dollars.",
+        "exzh": "新仓库的预计成本是两百万美元。",
+        "ipa": "/prəˈdʒɛktəd/",
+        "audio": "media/words/ep5/projected.mp3",
+        "ex_audio": "media/words/ep5/projected_ex.mp3",
+        "highlight": true,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 4,
     "theme": "市场营销与新品发布",
     "date": "2026-10-05",
