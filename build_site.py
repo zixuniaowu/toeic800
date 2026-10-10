@@ -100,18 +100,24 @@ def parse_pdf(pdf):
 
 
 def find_episodes(src):
+    """Return {n: {"zh": (video, pdf)|None, "ja": (video, pdf)|None}}."""
     eps = {}
     for p in src.glob("ep*_script.pdf"):
-        m = re.fullmatch(r"ep(\d+)_script\.pdf", p.name)
+        m = re.fullmatch(r"ep(\d+)(ja)?_script\.pdf", p.name)
         if not m:
             continue
         n = int(m.group(1))
+        lang = "ja" if m.group(2) else "zh"
         video = None
-        for cand in ([f"ep{n}_listen.mp4"] if n == 1 else []) + [f"ep{n}.mp4"]:
+        if lang == "zh":
+            cands = ([f"ep{n}_listen.mp4"] if n == 1 else []) + [f"ep{n}.mp4"]
+        else:
+            cands = [f"ep{n}ja.mp4", f"ep{n}_ja.mp4"]
+        for cand in cands:
             if (src / cand).exists():
                 video = src / cand; break
         if video:
-            eps[n] = (video, p)
+            eps.setdefault(n, {})[lang] = (video, p)
     return dict(sorted(eps.items()))
 
 
@@ -165,9 +171,13 @@ def build_metadata(src):
     bank = W.vocab_bank()
     ipa_cache = W.load_cache()
     audio_jobs = []
-    for n, (video, pdf) in find_episodes(src).items():
+    found = find_episodes(src)
+    for n, langs in found.items():
+        # Prefer Chinese meta as primary; Japanese becomes languages.ja
+        primary_lang = "zh" if "zh" in langs else "ja"
+        video, pdf = langs[primary_lang]
         info = parse_pdf(pdf)
-        meta_p = src / f"ep{n}_meta.json"
+        meta_p = src / (f"ep{n}_meta.json" if primary_lang == "zh" else f"ep{n}ja_meta.json")
         meta = json.loads(meta_p.read_text("utf-8")) if meta_p.exists() else {}
         if meta.get("theme"):
             info["theme"] = meta["theme"]
@@ -191,14 +201,64 @@ def build_metadata(src):
             "video": f"media/ep{n}.mp4",
             "script_pdf": f"media/ep{n}_script.pdf",
             "source_video": video.name,
+            "languages": {},
         }
-        copy_video(video, MEDIA / f"ep{n}.mp4")
-        copy_if_changed(pdf, MEDIA / f"ep{n}_script.pdf")
-        cover = src / f"ep{n}_cover.png"
-        if cover.exists():
-            copy_if_changed(cover, MEDIA / f"ep{n}_cover.png")
-            ep["poster"] = f"media/ep{n}_cover.png"
-        # ---- full word list with IPA + pronunciation MP3s
+        # copy primary (zh naming)
+        if primary_lang == "zh":
+            copy_video(video, MEDIA / f"ep{n}.mp4")
+            copy_if_changed(pdf, MEDIA / f"ep{n}_script.pdf")
+            cover = src / f"ep{n}_cover.png"
+            if cover.exists():
+                copy_if_changed(cover, MEDIA / f"ep{n}_cover.png")
+                ep["poster"] = f"media/ep{n}_cover.png"
+            ep["languages"]["zh"] = {
+                "label": "中文版",
+                "page": f"ep{n}.html",
+                "video": f"media/ep{n}.mp4",
+                "script_pdf": f"media/ep{n}_script.pdf",
+                "duration_sec": round(dur, 1),
+                "theme": ep["theme"],
+                "segments": segs,
+            }
+        # Japanese variant
+        if "ja" in langs:
+            jv, jpdf = langs["ja"]
+            jmeta_p = src / "ep{}ja_meta.json".format(n)
+            jmeta = json.loads(jmeta_p.read_text("utf-8")) if jmeta_p.exists() else {}
+            jinfo = parse_pdf(jpdf) if jpdf.exists() else {}
+            if jmeta.get("theme"):
+                jinfo["theme"] = jmeta["theme"]
+            if jmeta.get("stamps"):
+                jinfo["segments"] = [{"title": t, "start": round(s, 2), "length": round(l, 2)} for t, s, l in jmeta["stamps"]]
+            jsegs = jinfo.get("segments") or []
+            jdur = (jsegs[-1]["start"] + jsegs[-1]["length"]) if jsegs else (jmeta.get("duration_sec") or ffprobe_duration(jv) or 0)
+            copy_video(jv, MEDIA / f"ep{n}ja.mp4")
+            copy_if_changed(jpdf, MEDIA / f"ep{n}ja_script.pdf")
+            jcover = src / f"ep{n}ja_cover.png"
+            if jcover.exists():
+                copy_if_changed(jcover, MEDIA / f"ep{n}ja_cover.png")
+            ep["languages"]["ja"] = {
+                "label": "日本語版",
+                "page": f"ep{n}ja.html",
+                "video": f"media/ep{n}ja.mp4",
+                "script_pdf": f"media/ep{n}ja_script.pdf",
+                "duration_sec": round(jdur, 1),
+                "theme": jinfo.get("theme") or jmeta.get("theme") or ep["theme"],
+                "segments": jsegs,
+                "poster": f"media/ep{n}ja_cover.png" if jcover.exists() else ep.get("poster"),
+                "highlight_words": jmeta.get("highlight_words") or hl,
+                "review_words": jinfo.get("review_words") or [],
+                "words_meta": jmeta.get("words") or [],
+            }
+            ep["theme_ja"] = ep["languages"]["ja"]["theme"]
+            if primary_lang == "ja":
+                # no zh — promote ja fields to top-level video paths still use epNja
+                ep["video"] = f"media/ep{n}ja.mp4"
+                ep["script_pdf"] = f"media/ep{n}ja_script.pdf"
+                ep["duration_sec"] = round(jdur, 1)
+                ep["segments"] = jsegs
+                ep["theme"] = ep["languages"]["ja"]["theme"]
+        # ---- full word list with IPA + pronunciation MP3s (Chinese / primary)
         wl = meta.get("words") or []
         rows = W.word_rows(src, n, wl, bank) if wl else None
         if rows is None:
@@ -220,6 +280,8 @@ def build_metadata(src):
                 r["highlight"] = r["word"] in hl_set
                 r["review"] = r["word"] in rv_set
             ep["words"] = rows
+            if "zh" in ep["languages"]:
+                ep["languages"]["zh"]["has_words"] = True
         ep.update(overrides.get(str(n), {}))
         out.append(ep)
     W.save_cache(ipa_cache)
@@ -234,6 +296,8 @@ def build_metadata(src):
     out.sort(key=lambda e: e["number"], reverse=True)
     (ROOT / "episodes.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", "utf-8")
     return out
+
+
 
 
 # ---------------------------------------------------------------- HTML
@@ -256,6 +320,14 @@ main{padding:20px 0 8px}
 .list{list-style:none;margin:0;padding:0;display:grid;gap:12px}
 .ep{display:flex;gap:14px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;color:inherit;box-shadow:0 1px 2px rgba(0,0,0,.04)}
 .ep:active{transform:scale(.99)}
+.ep-wrap{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 1px 2px rgba(0,0,0,.04);overflow:hidden}
+.ep-wrap .ep{border:0;box-shadow:none;border-radius:0}
+.lang-pick{display:flex;gap:8px;padding:0 14px 12px 80px}
+.lang-btn{flex:none;font-size:13px;padding:6px 12px;border-radius:999px;background:rgba(14,165,233,.12);color:var(--accent);border:1px solid rgba(14,165,233,.35);font-weight:600}
+.lang-btn.ja{background:rgba(99,102,241,.12);color:var(--accent2);border-color:rgba(99,102,241,.35)}
+.theme-ja{font-weight:500;color:var(--muted);font-size:14px}
+.lang-switch{display:flex;gap:8px;margin:8px 0 12px}
+
 .num{flex:none;width:52px;height:52px;border-radius:12px;background:linear-gradient(135deg,var(--accent2),var(--accent));color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:700;font-size:20px;line-height:1}
 .num small{font-size:10px;font-weight:500;opacity:.9;margin-top:3px}
 .ep h2{margin:0 0 4px;font-size:16px;line-height:1.4}
@@ -376,14 +448,36 @@ def render_index(eps):
     items = []
     for i, e in enumerate(eps):
         new = '<span class="badge-new">最新</span>' if i == 0 else ""
-        items.append(f"""  <li><a class="ep" href="ep{e['number']}.html">
+        langs = e.get("languages") or {}
+        lang_btns = ""
+        if langs.get("zh") and langs.get("ja"):
+            lang_btns = (f'<div class="lang-pick">'
+                         f'<a class="lang-btn" href="ep{e["number"]}.html">中文版</a>'
+                         f'<a class="lang-btn ja" href="ep{e["number"]}ja.html">日本語版</a>'
+                         f'</div>')
+            href = f"ep{e['number']}.html"
+            theme_line = E(e["theme"])
+            if e.get("theme_ja"):
+                theme_line += f'<span class="theme-ja"> / {E(e["theme_ja"])}</span>'
+        elif langs.get("ja") and not langs.get("zh"):
+            href = f"ep{e['number']}ja.html"
+            theme_line = E(e.get("theme_ja") or e["theme"])
+            lang_btns = f'<div class="lang-pick"><a class="lang-btn ja" href="{href}">日本語版</a></div>'
+        else:
+            href = f"ep{e['number']}.html"
+            theme_line = E(e["theme"])
+        items.append(f"""  <li class="ep-wrap">
+  <a class="ep" href="{href}">
     <div class="num">{e['number']}<small>期</small></div>
-    <div><h2>{E(e['theme'])}{new}</h2>
+    <div><h2>{theme_line}{new}</h2>
     <div class="meta">约 {round(e['duration_sec']/60)} 分钟 · {fmt_date(e['date'])}</div></div>
-  </a></li>""")
+  </a>
+  {lang_btns}
+  </li>""")
     body = f"""<header class="hero"><div class="wrap">
   <h1>{E(SITE_TITLE)}</h1>
   <p>{E(TAGLINE)}</p>
+  <p style="margin-top:8px;opacity:.9;font-size:14px">第 8 期起提供 <b>中文版</b> / <b>日本語版</b> 双解说（真题精讲）。</p>
 </div></header>
 <main class="wrap">
 <ul class="list">
@@ -392,6 +486,8 @@ def render_index(eps):
 <p class="tip">💡 iPhone 上如果在线播放卡住，可以点视频后“存储到文件”再离线播放。</p>
 </main>"""
     return page(SITE_TITLE, body)
+
+
 
 
 def render_wordlist(e):
@@ -422,53 +518,112 @@ def render_wordlist(e):
             f'<ol class="wlist">{"".join(items)}</ol></section>')
 
 
-def render_episode(e, prev_e, next_e):
+def render_episode(e, prev_e, next_e, lang="zh"):
     n = e["number"]
+    langs = e.get("languages") or {}
+    is_ja = lang == "ja" and "ja" in langs
+    L = langs.get("ja") if is_ja else (langs.get("zh") or {})
+    theme = (L.get("theme") if L else None) or (e.get("theme_ja") if is_ja else e["theme"]) or e["theme"]
+    segs_data = (L.get("segments") if L and L.get("segments") else e["segments"])
+    video = (L.get("video") if L and L.get("video") else e["video"])
+    pdf = (L.get("script_pdf") if L and L.get("script_pdf") else e["script_pdf"])
+    dur = (L.get("duration_sec") if L and L.get("duration_sec") else e["duration_sec"])
+    poster_path = (L.get("poster") if is_ja and L else None) or e.get("poster")
+    hl = (L.get("highlight_words") if is_ja and L and L.get("highlight_words") else e["highlight_words"])
+
+    if is_ja:
+        back = f"← {SITE_TITLE}"
+        tip_seek = "下の時刻をタップすると該当パートへジャンプします。"
+        tip_save = "iPhone では、先に「ファイルに保存」してから再生すると安定します。"
+        dir_title = "今期の目次"
+        hl_title = "今日の重点語"
+        pdf_label = "📄 スクリプト PDF を開く"
+        dl_label = "⬇️ 動画をダウンロード（オフライン）"
+        page_lang = "ja"
+        switch = ""
+        if langs.get("zh"):
+            switch = f'<div class="lang-switch"><a class="lang-btn" href="ep{n}.html">中文版</a><a class="lang-btn ja" href="ep{n}ja.html">日本語版 ✓</a></div>'
+        title_h1 = f"第 {n} 回 · {E(theme)}"
+        meta_line = f"約 {round(dur/60)} 分 · {fmt_date(e['date'])}"
+        footer_note_unused = None
+        words_section_skip_zh_list = True
+    else:
+        tip_seek = "点下面的时间可以直接跳到对应环节。"
+        tip_save = "iPhone 上如果在线播放卡住，请先存储到文件再离线播放。"
+        dir_title = "本期目录"
+        hl_title = "今日重点词"
+        pdf_label = "📄 打开讲稿 PDF（中英对照）"
+        dl_label = "⬇️ 下载视频（离线听）"
+        page_lang = "zh-CN"
+        switch = ""
+        if langs.get("ja"):
+            switch = f'<div class="lang-switch"><a class="lang-btn" href="ep{n}.html">中文版 ✓</a><a class="lang-btn ja" href="ep{n}ja.html">日本語版</a></div>'
+        title_h1 = f"第 {n} 期 · {E(theme)}"
+        meta_line = f"约 {round(dur/60)} 分钟 · {fmt_date(e['date'])}"
+        words_section_skip_zh_list = False
+
     segs = "\n".join(
         f'<li><button type="button" data-t="{s["start"]}"><span class="t">{mmss(s["start"])}</span>'
         f'<span>{E(s["title"])}</span><span class="len">{mmss(s["length"])}</span></button></li>'
-        for s in e["segments"])
-    words = "\n".join(f'<li><a href="#w-{W.slug(w["word"])}"><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></a></li>'
-                       if e.get("words") else f'<li><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></li>'
-                       for w in e["highlight_words"])
-    if e.get("words"):
+        for s in segs_data)
+    words = "\n".join(f'<li><a href="#w-{W.slug(w["word"])}"><b>{E(w["word"])}</b><span>{E(w.get("zh") or w.get("ja") or "")}</span></a></li>'
+                       if e.get("words") and not is_ja else f'<li><b>{E(w["word"])}</b><span>{E(w.get("zh") or w.get("ja") or "")}</span></li>'
+                       for w in hl)
+    if e.get("words") and not is_ja:
         review = render_wordlist(e)
-    elif e.get("review_words"):
+    elif (not is_ja) and e.get("review_words"):
         rw = "\n".join(f'<li><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></li>' for w in e["review_words"])
         review = f'<section class="card"><h2>本期复习 10 词</h2><ul class="words">{rw}</ul></section>'
     else:
         review = ""
-    poster = f' poster="{E(e["poster"])}"' if e.get("poster") else ""
+    poster = f' poster="{E(poster_path)}"' if poster_path else ""
     nav = '<div class="nav">'
-    nav += f'<a href="ep{prev_e["number"]}.html">← 第 {prev_e["number"]} 期</a>' if prev_e else "<span></span>"
-    nav += f'<a href="ep{next_e["number"]}.html">第 {next_e["number"]} 期 →</a>' if next_e else "<span></span>"
+    if is_ja:
+        nav += f'<a href="ep{prev_e["number"]}ja.html">← 第 {prev_e["number"]} 回</a>' if prev_e and (prev_e.get("languages") or {}).get("ja") else (
+            f'<a href="ep{prev_e["number"]}.html">← 第 {prev_e["number"]} 期</a>' if prev_e else "<span></span>")
+        nav += f'<a href="ep{next_e["number"]}ja.html">第 {next_e["number"]} 回 →</a>' if next_e and (next_e.get("languages") or {}).get("ja") else (
+            f'<a href="ep{next_e["number"]}.html">第 {next_e["number"]} 期 →</a>' if next_e else "<span></span>")
+    else:
+        nav += f'<a href="ep{prev_e["number"]}.html">← 第 {prev_e["number"]} 期</a>' if prev_e else "<span></span>"
+        nav += f'<a href="ep{next_e["number"]}.html">第 {next_e["number"]} 期 →</a>' if next_e else "<span></span>"
     nav += "</div>"
+    more = ""
+    if e.get("words") and not is_ja:
+        more = ' <a class="more" href="#words">全部 %d 词 ↓</a>' % len(e["words"])
     body = f"""<header class="bar"><div class="wrap"><a href="index.html">← {E(SITE_TITLE)}</a></div></header>
 <main class="wrap">
-<h1 class="title">第 {n} 期 · {E(e['theme'])}</h1>
-<div class="meta" style="margin-bottom:12px">约 {round(e['duration_sec']/60)} 分钟 · {fmt_date(e['date'])}</div>
+<h1 class="title">{title_h1}</h1>
+<div class="meta" style="margin-bottom:8px">{meta_line}</div>
+{switch}
 <section class="card">
   <video id="player" controls playsinline preload="metadata"{poster}>
-    <source src="{E(e['video'])}" type="video/mp4">
-    你的浏览器不支持视频播放，<a href="{E(e['video'])}">点此下载</a>。
+    <source src="{E(video)}" type="video/mp4">
   </video>
-  <p class="tip">点下面的时间可以直接跳到对应环节。</p>
+  <p class="tip">{tip_seek} {tip_save}</p>
 </section>
-<section class="card"><h2>本期目录</h2><ul class="segs">
+<section class="card"><h2>{dir_title}</h2><ul class="segs">
 {segs}
 </ul></section>
-<section class="card"><h2>今日重点词{' <a class="more" href="#words">全部 %d 词 ↓</a>' % len(e["words"]) if e.get("words") else ""}</h2><ul class="words">
+<section class="card"><h2>{hl_title}{more}</h2><ul class="words">
 {words}
 </ul></section>
 {review}
 <section class="card">
-  <a class="btn" href="{E(e['script_pdf'])}" target="_blank" rel="noopener">📄 打开讲稿 PDF（中英对照）</a>
-  <a class="btn ghost" href="{E(e['video'])}" download>⬇️ 下载视频（离线听）</a>
+  <a class="btn" href="{E(pdf)}" target="_blank" rel="noopener">{pdf_label}</a>
+  <a class="btn ghost" href="{E(video)}" download>{dl_label}</a>
 </section>
 {nav}
 </main>
 <script src="app.js"></script>"""
-    return page(f"第 {n} 期 · {e['theme']} | {SITE_TITLE}", body)
+    # page() hardcodes lang=zh-CN — patch via replace for ja
+    html = page(f"{title_h1} | {SITE_TITLE}", body)
+    if is_ja:
+        html = html.replace('lang="zh-CN"', 'lang="ja"')
+        html = html.replace("题目与例句均为原创 · 语音为 AI 合成 · 仅供学习使用",
+                            "本番問題は ETS 950+ 準拠の学習解説 · 音声は AI 合成 · 学習用途に限る")
+    return html
+
+
 
 
 def render(eps):
@@ -482,11 +637,16 @@ def render(eps):
     for i, e in enumerate(eps):
         newer = eps[i - 1] if i > 0 else None
         older = eps[i + 1] if i + 1 < len(eps) else None
-        (SITE / f"ep{e['number']}.html").write_text(render_episode(e, older, newer), "utf-8")
+        (SITE / f"ep{e['number']}.html").write_text(render_episode(e, older, newer, lang="zh"), "utf-8")
         keep.add(f"ep{e['number']}.html")
+        if (e.get("languages") or {}).get("ja"):
+            (SITE / f"ep{e['number']}ja.html").write_text(render_episode(e, older, newer, lang="ja"), "utf-8")
+            keep.add(f"ep{e['number']}ja.html")
     for p in SITE.glob("ep*.html"):
         if p.name not in keep:
             p.unlink()
+
+
 
 
 def check_sizes():

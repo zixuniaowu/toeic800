@@ -1,5 +1,598 @@
 [
   {
+    "number": 8,
+    "theme": "真题精讲 · Test 1 起步",
+    "date": "2026-10-11",
+    "duration_sec": 2303.4,
+    "segments": [
+      {
+        "title": "1. 开场介绍",
+        "start": 0.0,
+        "length": 42.5
+      },
+      {
+        "title": "2. 25 个真题词汇",
+        "start": 42.5,
+        "length": 615.99
+      },
+      {
+        "title": "3. Part 1 照片真题",
+        "start": 658.49,
+        "length": 179.29
+      },
+      {
+        "title": "4. Part 2 陷阱题 10 道",
+        "start": 837.78,
+        "length": 359.64
+      },
+      {
+        "title": "5. Part 3/4 真题精听",
+        "start": 1197.42,
+        "length": 311.49
+      },
+      {
+        "title": "6. Part 5 语法真题 8 题",
+        "start": 1508.91,
+        "length": 319.49
+      },
+      {
+        "title": "7. Part 6 短文填空",
+        "start": 1828.4,
+        "length": 229.74
+      },
+      {
+        "title": "8. 应试策略",
+        "start": 2058.13,
+        "length": 58.81
+      },
+      {
+        "title": "9. 10 词快速复习",
+        "start": 2116.94,
+        "length": 186.45
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "compile",
+        "zh": "汇编；整理（数据）"
+      },
+      {
+        "word": "slide deck",
+        "zh": "幻灯片演示稿"
+      },
+      {
+        "word": "interact",
+        "zh": "交流；互动"
+      },
+      {
+        "word": "satellite",
+        "zh": "卫星；卫星的"
+      },
+      {
+        "word": "anticipate",
+        "zh": "预计；期待"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "serve",
+        "zh": "提供；端上；服务"
+      },
+      {
+        "word": "buffet",
+        "zh": "自助餐；自助餐台"
+      },
+      {
+        "word": "proposal",
+        "zh": "提案；建议书"
+      },
+      {
+        "word": "advertise",
+        "zh": "登广告；做广告"
+      },
+      {
+        "word": "magazine",
+        "zh": "杂志"
+      },
+      {
+        "word": "schedule",
+        "zh": "安排；日程"
+      },
+      {
+        "word": "appointment",
+        "zh": "预约；约会"
+      },
+      {
+        "word": "vacation",
+        "zh": "假期；休假"
+      },
+      {
+        "word": "compile",
+        "zh": "汇编；整理；数据"
+      },
+      {
+        "word": "slide deck",
+        "zh": "幻灯片演示稿"
+      }
+    ],
+    "video": "media/ep8.mp4",
+    "script_pdf": "media/ep8_script.pdf",
+    "source_video": "ep8.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep8.html",
+        "video": "media/ep8.mp4",
+        "script_pdf": "media/ep8_script.pdf",
+        "duration_sec": 2303.4,
+        "theme": "真题精讲 · Test 1 起步",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 42.5
+          },
+          {
+            "title": "2. 25 个真题词汇",
+            "start": 42.5,
+            "length": 615.99
+          },
+          {
+            "title": "3. Part 1 照片真题",
+            "start": 658.49,
+            "length": 179.29
+          },
+          {
+            "title": "4. Part 2 陷阱题 10 道",
+            "start": 837.78,
+            "length": 359.64
+          },
+          {
+            "title": "5. Part 3/4 真题精听",
+            "start": 1197.42,
+            "length": 311.49
+          },
+          {
+            "title": "6. Part 5 语法真题 8 题",
+            "start": 1508.91,
+            "length": 319.49
+          },
+          {
+            "title": "7. Part 6 短文填空",
+            "start": 1828.4,
+            "length": 229.74
+          },
+          {
+            "title": "8. 应试策略",
+            "start": 2058.13,
+            "length": 58.81
+          },
+          {
+            "title": "9. 10 词快速复习",
+            "start": 2116.94,
+            "length": 186.45
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep8ja.html",
+        "video": "media/ep8ja.mp4",
+        "script_pdf": "media/ep8ja_script.pdf",
+        "duration_sec": 2471.4,
+        "theme": "本番問題の解説 · Test 1 スタート",
+        "segments": [
+          {
+            "title": "1. オープニング",
+            "start": 0.0,
+            "length": 48.55
+          },
+          {
+            "title": "2. 本番語彙 25 語",
+            "start": 48.55,
+            "length": 618.48
+          },
+          {
+            "title": "3. Part 1 写真問題",
+            "start": 667.04,
+            "length": 188.36
+          },
+          {
+            "title": "4. Part 2 ひっかけ 10 問",
+            "start": 855.4,
+            "length": 407.9
+          },
+          {
+            "title": "5. Part 3/4 本番精聴",
+            "start": 1263.3,
+            "length": 336.74
+          },
+          {
+            "title": "6. Part 5 文法本番 8 問",
+            "start": 1600.04,
+            "length": 354.07
+          },
+          {
+            "title": "7. Part 6 短文穴埋め",
+            "start": 1954.11,
+            "length": 267.56
+          },
+          {
+            "title": "8. 受験ストラテジー",
+            "start": 2221.67,
+            "length": 56.43
+          },
+          {
+            "title": "9. 復習 10 語",
+            "start": 2278.1,
+            "length": 193.34
+          }
+        ],
+        "poster": "media/ep8ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "compile",
+            "ja": "まとめる；編集する",
+            "zh": "まとめる；編集する"
+          },
+          {
+            "word": "slide deck",
+            "ja": "スライド資料",
+            "zh": "スライド資料"
+          },
+          {
+            "word": "interact",
+            "ja": "交流する",
+            "zh": "交流する"
+          },
+          {
+            "word": "satellite",
+            "ja": "衛星；衛星の",
+            "zh": "衛星；衛星の"
+          },
+          {
+            "word": "anticipate",
+            "ja": "見込む；予期する",
+            "zh": "見込む；予期する"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "serve",
+          "buffet",
+          "proposal",
+          "advertise",
+          "magazine",
+          "schedule",
+          "appointment",
+          "vacation",
+          "compile",
+          "slide deck",
+          "bowling",
+          "interact",
+          "coworker",
+          "satellite",
+          "messaging",
+          "anticipate",
+          "exceed",
+          "renovation",
+          "steadily",
+          "sculpture",
+          "artwork",
+          "rear",
+          "outdated",
+          "figure",
+          "ensure"
+        ]
+      }
+    },
+    "poster": "media/ep8_cover.png",
+    "theme_ja": "本番問題の解説 · Test 1 スタート",
+    "words": [
+      {
+        "word": "serve",
+        "pos": "v.",
+        "zh": "提供；端上；服务",
+        "ex": "The man is serving food at the buffet counter.",
+        "exzh": "男子正在自助餐台提供食物。",
+        "ipa": "/sɝv/",
+        "audio": "media/words/ep8/serve.mp3",
+        "ex_audio": "media/words/ep8/serve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "buffet",
+        "pos": "n.",
+        "zh": "自助餐；自助餐台",
+        "ex": "Please take a plate from the end of the buffet.",
+        "exzh": "请从自助餐台的尽头拿一个盘子。",
+        "ipa": "/ˈbʌfət/",
+        "audio": "media/words/ep8/buffet.mp3",
+        "ex_audio": "media/words/ep8/buffet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案；建议书",
+        "ex": "When is the final proposal due?",
+        "exzh": "最终提案什么时候截止？",
+        "ipa": "/prəˈpoʊzəl/",
+        "audio": "media/words/ep8/proposal.mp3",
+        "ex_audio": "media/words/ep8/proposal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "advertise",
+        "pos": "v.",
+        "zh": "登广告；做广告",
+        "ex": "Which magazine did you advertise in?",
+        "exzh": "你在哪本杂志上登了广告？",
+        "ipa": "/ˈædvɚˌtaɪz/",
+        "audio": "media/words/ep8/advertise.mp3",
+        "ex_audio": "media/words/ep8/advertise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "magazine",
+        "pos": "n.",
+        "zh": "杂志",
+        "ex": "It's called World Travels magazine.",
+        "exzh": "它叫《World Travels》杂志。",
+        "ipa": "/ˈmæɡəˌzin/",
+        "audio": "media/words/ep8/magazine.mp3",
+        "ex_audio": "media/words/ep8/magazine_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "schedule",
+        "pos": "v./n.",
+        "zh": "安排；日程",
+        "ex": "Could I schedule an appointment for Thursday?",
+        "exzh": "我能预约周四的会面吗？",
+        "ipa": "/ˈskɛdʒʊl/",
+        "audio": "media/words/ep8/schedule.mp3",
+        "ex_audio": "media/words/ep8/schedule_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appointment",
+        "pos": "n.",
+        "zh": "预约；约会",
+        "ex": "Sorry, she's busy that day and cannot take an appointment.",
+        "exzh": "抱歉，她那天很忙，不能接受预约。",
+        "ipa": "/əˈpɔɪntmənt/",
+        "audio": "media/words/ep8/appointment.mp3",
+        "ex_audio": "media/words/ep8/appointment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "vacation",
+        "pos": "n.",
+        "zh": "假期；休假",
+        "ex": "Where do you plan to go on vacation?",
+        "exzh": "你假期打算去哪里？",
+        "ipa": "/veɪˈkeɪʃən/",
+        "audio": "media/words/ep8/vacation.mp3",
+        "ex_audio": "media/words/ep8/vacation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "compile",
+        "pos": "v.",
+        "zh": "汇编；整理（数据）",
+        "ex": "I compiled the data on the team's quarterly sales figures.",
+        "exzh": "我整理了团队季度销售数据。",
+        "ipa": "/kəmˈpaɪl/",
+        "audio": "media/words/ep8/compile.mp3",
+        "ex_audio": "media/words/ep8/compile_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "slide deck",
+        "pos": "n.",
+        "zh": "幻灯片演示稿",
+        "ex": "I put together the slide deck last night.",
+        "exzh": "我昨晚做好了幻灯片。",
+        "ipa": "/slaɪd dɛk/",
+        "audio": "media/words/ep8/slide-deck.mp3",
+        "ex_audio": "media/words/ep8/slide-deck_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "bowling",
+        "pos": "n.",
+        "zh": "保龄球",
+        "ex": "Are you planning to go to the company bowling night?",
+        "exzh": "你打算去公司保龄球之夜吗？",
+        "ipa": "/ˈboʊlɪŋ/",
+        "audio": "media/words/ep8/bowling.mp3",
+        "ex_audio": "media/words/ep8/bowling_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "interact",
+        "pos": "v.",
+        "zh": "交流；互动",
+        "ex": "It's a good way to interact with coworkers outside of work.",
+        "exzh": "这是下班后和同事交流的好方法。",
+        "ipa": "/ˌɪntɚˈækt/",
+        "audio": "media/words/ep8/interact.mp3",
+        "ex_audio": "media/words/ep8/interact_ex.mp3",
+        "highlight": true,
+        "review": false
+      },
+      {
+        "word": "coworker",
+        "pos": "n.",
+        "zh": "同事",
+        "ex": "She likes to socialize with her coworkers after hours.",
+        "exzh": "她喜欢下班后和同事社交。",
+        "ipa": "/ˈkoʊˈwɝkɚ/",
+        "audio": "media/words/ep8/coworker.mp3",
+        "ex_audio": "media/words/ep8/coworker_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "satellite",
+        "pos": "n./adj.",
+        "zh": "卫星；卫星的",
+        "ex": "The phone has a powerful satellite messaging capability.",
+        "exzh": "这款手机有强大的卫星消息功能。",
+        "ipa": "/ˈsætəˌlaɪt/",
+        "audio": "media/words/ep8/satellite.mp3",
+        "ex_audio": "media/words/ep8/satellite_ex.mp3",
+        "highlight": true,
+        "review": false
+      },
+      {
+        "word": "messaging",
+        "pos": "n.",
+        "zh": "消息收发；通信",
+        "ex": "Satellite messaging lets you send texts without a cell tower.",
+        "exzh": "卫星消息可以在没有基站时发短信。",
+        "ipa": "/ˈmɛsɪdʒɪŋ/",
+        "audio": "media/words/ep8/messaging.mp3",
+        "ex_audio": "media/words/ep8/messaging_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "anticipate",
+        "pos": "v.",
+        "zh": "预计；期待",
+        "ex": "I anticipate sales will exceed all our expectations.",
+        "exzh": "我预计销量会超出所有预期。",
+        "ipa": "/ænˈtɪsəˌpeɪt/",
+        "audio": "media/words/ep8/anticipate.mp3",
+        "ex_audio": "media/words/ep8/anticipate_ex.mp3",
+        "highlight": true,
+        "review": false
+      },
+      {
+        "word": "exceed",
+        "pos": "v.",
+        "zh": "超过；超出",
+        "ex": "Demand will exceed supply in the first quarter.",
+        "exzh": "第一季度需求将超过供应。",
+        "ipa": "/ɪkˈsid/",
+        "audio": "media/words/ep8/exceed.mp3",
+        "ex_audio": "media/words/ep8/exceed_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "renovation",
+        "pos": "n.",
+        "zh": "翻修；装修",
+        "ex": "Renovations to the public library have progressed steadily.",
+        "exzh": "公共图书馆的翻修在稳步推进。",
+        "ipa": "/ˌrɛnəˈveɪʃən/",
+        "audio": "media/words/ep8/renovation.mp3",
+        "ex_audio": "media/words/ep8/renovation_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "steadily",
+        "pos": "adv.",
+        "zh": "稳步地；持续地",
+        "ex": "Sales have grown steadily over the past year.",
+        "exzh": "过去一年销售额稳步增长。",
+        "ipa": "/ˈstɛdəli/",
+        "audio": "media/words/ep8/steadily.mp3",
+        "ex_audio": "media/words/ep8/steadily_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "sculpture",
+        "pos": "n.",
+        "zh": "雕塑",
+        "ex": "She is known for her outdoor sculptures.",
+        "exzh": "她以户外雕塑闻名。",
+        "ipa": "/ˈskʌlptʃɚ/",
+        "audio": "media/words/ep8/sculpture.mp3",
+        "ex_audio": "media/words/ep8/sculpture_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "artwork",
+        "pos": "n.",
+        "zh": "艺术作品",
+        "ex": "The gallery displays artwork on paper and canvas.",
+        "exzh": "画廊展出纸上和画布上的艺术作品。",
+        "ipa": "/ˈɑrˌtwɝk/",
+        "audio": "media/words/ep8/artwork.mp3",
+        "ex_audio": "media/words/ep8/artwork_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "rear",
+        "pos": "n.",
+        "zh": "后部；后方",
+        "ex": "Sandwiches are sold from the food truck at the rear of the parking lot.",
+        "exzh": "三明治在停车场后部的餐车出售。",
+        "ipa": "/rɪr/",
+        "audio": "media/words/ep8/rear.mp3",
+        "ex_audio": "media/words/ep8/rear_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "outdated",
+        "pos": "adj.",
+        "zh": "过时的；陈旧的",
+        "ex": "The outdated equipment was replaced last month.",
+        "exzh": "过时的设备上个月被更换了。",
+        "ipa": "/ˈaʊtˌdeɪtɪd/",
+        "audio": "media/words/ep8/outdated.mp3",
+        "ex_audio": "media/words/ep8/outdated_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "figure",
+        "pos": "n.",
+        "zh": "数字；数据",
+        "ex": "This figure represents a twenty percent increase over the old plant.",
+        "exzh": "这一数字比旧工厂高出百分之二十。",
+        "ipa": "/ˈfɪɡjɚ/",
+        "audio": "media/words/ep8/figure.mp3",
+        "ex_audio": "media/words/ep8/figure_ex.mp3",
+        "highlight": false,
+        "review": false
+      },
+      {
+        "word": "ensure",
+        "pos": "v.",
+        "zh": "确保；保证",
+        "ex": "We work with suppliers to ensure vegetables are picked when ripest.",
+        "exzh": "我们与供应商合作，确保蔬菜在最成熟时采摘。",
+        "ipa": "/ɛnˈʃʊr/",
+        "audio": "media/words/ep8/ensure.mp3",
+        "ex_audio": "media/words/ep8/ensure_ex.mp3",
+        "highlight": false,
+        "review": false
+      }
+    ]
+  },
+  {
     "number": 7,
     "theme": "客户服务与投诉处理",
     "date": "2026-10-10",
@@ -113,6 +706,59 @@
     "video": "media/ep7.mp4",
     "script_pdf": "media/ep7_script.pdf",
     "source_video": "ep7.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep7.html",
+        "video": "media/ep7.mp4",
+        "script_pdf": "media/ep7_script.pdf",
+        "duration_sec": 3112.3,
+        "theme": "客户服务与投诉处理",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 71.47
+          },
+          {
+            "title": "2. 30 个高频词汇",
+            "start": 71.47,
+            "length": 807.71
+          },
+          {
+            "title": "3. Part 2 陷阱题 10 道",
+            "start": 879.18,
+            "length": 388.39
+          },
+          {
+            "title": "4. Part 3/4 对话与独白精听",
+            "start": 1267.58,
+            "length": 671.42
+          },
+          {
+            "title": "5. Part 5 语法精练 10 题",
+            "start": 1938.99,
+            "length": 398.67
+          },
+          {
+            "title": "6. Part 7 短篇阅读精讲",
+            "start": 2337.66,
+            "length": 436.71
+          },
+          {
+            "title": "7. 应试策略",
+            "start": 2774.37,
+            "length": 138.94
+          },
+          {
+            "title": "8. 10 词快速复习",
+            "start": 2913.31,
+            "length": 198.97
+          }
+        ],
+        "has_words": true
+      }
+    },
     "poster": "media/ep7_cover.png",
     "words": [
       {
@@ -591,6 +1237,59 @@
     "video": "media/ep6.mp4",
     "script_pdf": "media/ep6_script.pdf",
     "source_video": "ep6.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep6.html",
+        "video": "media/ep6.mp4",
+        "script_pdf": "media/ep6_script.pdf",
+        "duration_sec": 3165.9,
+        "theme": "制造生产与质量管理",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 72.5
+          },
+          {
+            "title": "2. 30 个高频词汇",
+            "start": 72.5,
+            "length": 810.11
+          },
+          {
+            "title": "3. Part 2 陷阱题 10 道",
+            "start": 882.62,
+            "length": 370.42
+          },
+          {
+            "title": "4. Part 3/4 对话与独白精听",
+            "start": 1253.03,
+            "length": 700.84
+          },
+          {
+            "title": "5. Part 5 语法精练 10 题",
+            "start": 1953.88,
+            "length": 428.17
+          },
+          {
+            "title": "6. Part 7 短篇阅读精讲",
+            "start": 2382.04,
+            "length": 402.82
+          },
+          {
+            "title": "7. 应试策略",
+            "start": 2784.86,
+            "length": 172.65
+          },
+          {
+            "title": "8. 10 词快速复习",
+            "start": 2957.51,
+            "length": 208.38
+          }
+        ],
+        "has_words": true
+      }
+    },
     "poster": "media/ep6_cover.png",
     "words": [
       {
@@ -1069,6 +1768,59 @@
     "video": "media/ep5.mp4",
     "script_pdf": "media/ep5_script.pdf",
     "source_video": "ep5.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep5.html",
+        "video": "media/ep5.mp4",
+        "script_pdf": "media/ep5_script.pdf",
+        "duration_sec": 3137.3,
+        "theme": "财务预算与会计审计",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 72.05
+          },
+          {
+            "title": "2. 30 个高频词汇",
+            "start": 72.05,
+            "length": 784.5
+          },
+          {
+            "title": "3. Part 2 陷阱题 10 道",
+            "start": 856.55,
+            "length": 381.43
+          },
+          {
+            "title": "4. Part 3/4 对话与独白精听",
+            "start": 1237.98,
+            "length": 717.51
+          },
+          {
+            "title": "5. Part 5 语法精练 10 题",
+            "start": 1955.49,
+            "length": 440.65
+          },
+          {
+            "title": "6. Part 7 短篇阅读精讲",
+            "start": 2396.14,
+            "length": 378.62
+          },
+          {
+            "title": "7. 应试策略",
+            "start": 2774.76,
+            "length": 167.73
+          },
+          {
+            "title": "8. 10 词快速复习",
+            "start": 2942.48,
+            "length": 194.79
+          }
+        ],
+        "has_words": true
+      }
+    },
     "poster": "media/ep5_cover.png",
     "words": [
       {
@@ -1547,6 +2299,59 @@
     "video": "media/ep4.mp4",
     "script_pdf": "media/ep4_script.pdf",
     "source_video": "ep4.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep4.html",
+        "video": "media/ep4.mp4",
+        "script_pdf": "media/ep4_script.pdf",
+        "duration_sec": 3040.1,
+        "theme": "市场营销与新品发布",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 66.07
+          },
+          {
+            "title": "2. 30 个高频词汇",
+            "start": 66.07,
+            "length": 762.3
+          },
+          {
+            "title": "3. Part 2 陷阱题 10 道",
+            "start": 828.38,
+            "length": 394.68
+          },
+          {
+            "title": "4. Part 3/4 对话与独白精听",
+            "start": 1223.06,
+            "length": 704.23
+          },
+          {
+            "title": "5. Part 5 语法精练 10 题",
+            "start": 1927.29,
+            "length": 423.42
+          },
+          {
+            "title": "6. Part 7 短篇阅读精讲",
+            "start": 2350.7,
+            "length": 341.07
+          },
+          {
+            "title": "7. 应试策略",
+            "start": 2691.77,
+            "length": 152.54
+          },
+          {
+            "title": "8. 10 词快速复习",
+            "start": 2844.31,
+            "length": 195.82
+          }
+        ],
+        "has_words": true
+      }
+    },
     "poster": "media/ep4_cover.png",
     "words": [
       {
@@ -2025,6 +2830,59 @@
     "video": "media/ep3.mp4",
     "script_pdf": "media/ep3_script.pdf",
     "source_video": "ep3.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep3.html",
+        "video": "media/ep3.mp4",
+        "script_pdf": "media/ep3_script.pdf",
+        "duration_sec": 2908.9,
+        "theme": "人事招聘与职场沟通",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 58.03
+          },
+          {
+            "title": "2. 30 个高频词汇",
+            "start": 58.03,
+            "length": 775.74
+          },
+          {
+            "title": "3. Part 2 陷阱题 10 道",
+            "start": 833.78,
+            "length": 374.28
+          },
+          {
+            "title": "4. Part 3/4 对话与独白精听",
+            "start": 1208.06,
+            "length": 645.67
+          },
+          {
+            "title": "5. Part 5 语法精练 10 题",
+            "start": 1853.72,
+            "length": 397.64
+          },
+          {
+            "title": "6. Part 7 短篇阅读精讲",
+            "start": 2251.36,
+            "length": 330.54
+          },
+          {
+            "title": "7. 应试策略",
+            "start": 2581.9,
+            "length": 131.9
+          },
+          {
+            "title": "8. 10 词快速复习",
+            "start": 2713.8,
+            "length": 195.1
+          }
+        ],
+        "has_words": true
+      }
+    },
     "poster": "media/ep3_cover.png",
     "words": [
       {
@@ -2503,6 +3361,59 @@
     "video": "media/ep2.mp4",
     "script_pdf": "media/ep2_script.pdf",
     "source_video": "ep2.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep2.html",
+        "video": "media/ep2.mp4",
+        "script_pdf": "media/ep2_script.pdf",
+        "duration_sec": 2906.8,
+        "theme": "商务差旅与酒店 / 会议注册",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 51.14
+          },
+          {
+            "title": "2. 30 个高频词汇",
+            "start": 51.14,
+            "length": 767.27
+          },
+          {
+            "title": "3. Part 2 陷阱题 10 道",
+            "start": 818.42,
+            "length": 374.26
+          },
+          {
+            "title": "4. Part 3/4 对话与独白精听",
+            "start": 1192.67,
+            "length": 693.26
+          },
+          {
+            "title": "5. Part 5 语法精练 10 题",
+            "start": 1885.93,
+            "length": 376.3
+          },
+          {
+            "title": "6. Part 7 短篇阅读精讲",
+            "start": 2262.23,
+            "length": 323.42
+          },
+          {
+            "title": "7. 应试策略",
+            "start": 2585.65,
+            "length": 124.77
+          },
+          {
+            "title": "8. 10 词快速复习",
+            "start": 2710.42,
+            "length": 196.38
+          }
+        ],
+        "has_words": true
+      }
+    },
     "poster": "media/ep2_cover.png",
     "words": [
       {
@@ -2981,6 +3892,59 @@
     "video": "media/ep1.mp4",
     "script_pdf": "media/ep1_script.pdf",
     "source_video": "ep1.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep1.html",
+        "video": "media/ep1.mp4",
+        "script_pdf": "media/ep1_script.pdf",
+        "duration_sec": 2939.3,
+        "theme": "办公日常：报销、会议改期与快递延误",
+        "segments": [
+          {
+            "title": "1. 开场介绍",
+            "start": 0.0,
+            "length": 52.66
+          },
+          {
+            "title": "2. 30 个高频词汇",
+            "start": 52.66,
+            "length": 788.51
+          },
+          {
+            "title": "3. Part 2 陷阱题 10 道",
+            "start": 841.17,
+            "length": 445.03
+          },
+          {
+            "title": "4. Part 3/4 对话与独白精听",
+            "start": 1286.2,
+            "length": 627.89
+          },
+          {
+            "title": "5. Part 5 语法精练 10 题",
+            "start": 1914.09,
+            "length": 365.91
+          },
+          {
+            "title": "6. Part 7 短篇阅读精讲",
+            "start": 2280.0,
+            "length": 301.28
+          },
+          {
+            "title": "7. 应试策略",
+            "start": 2581.29,
+            "length": 165.83
+          },
+          {
+            "title": "8. 10 词快速复习",
+            "start": 2747.12,
+            "length": 192.2
+          }
+        ],
+        "has_words": true
+      }
+    },
     "poster": "media/ep1_cover.png",
     "words": [
       {
