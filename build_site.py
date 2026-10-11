@@ -282,6 +282,12 @@ def build_metadata(src):
             ep["words"] = rows
             if "zh" in ep["languages"]:
                 ep["languages"]["zh"]["has_words"] = True
+            if "ja" in ep["languages"]:
+                ja_rows = W.ja_rows(src, n, rows)
+                ep["languages"]["ja"]["words"] = ja_rows
+                jg = {r["word"]: r["zh"] for r in ja_rows}
+                ep["languages"]["ja"]["highlight_words"] = [{"word": h["word"], "zh": jg.get(h["word"], "")} for h in hl]
+                ep["languages"]["ja"]["has_words"] = True
         ep.update(overrides.get(str(n), {}))
         out.append(ep)
     W.save_cache(ipa_cache)
@@ -346,7 +352,8 @@ video{width:100%;border-radius:12px;background:#000;display:block;aspect-ratio:1
 .segs button.on{background:rgba(14,165,233,.08);border-radius:8px}
 .words{display:flex;flex-wrap:wrap;gap:8px;margin:0;padding:0;list-style:none}
 .words li{background:rgba(99,102,241,.08);border:1px solid rgba(99,102,241,.25);border-radius:10px;padding:6px 10px}
-.words b{display:block;font-size:15px}
+.words b{font-size:15px}
+.words .sep{color:var(--muted)}
 .words span{font-size:13px;color:var(--muted)}
 .words a{color:inherit;display:block}
 .card h2 .more{float:right;font-size:13px;font-weight:500}
@@ -490,17 +497,19 @@ def render_index(eps):
 
 
 
-def render_wordlist(e):
+def render_wordlist(e, rows=None, ja=False):
+    U = (lambda z, j: j) if ja else (lambda z, j: z)
     items = []
-    for i, r in enumerate(e["words"], 1):
+    rows = rows if rows is not None else e["words"]
+    for i, r in enumerate(rows, 1):
         tags = ""
         if r.get("highlight"):
-            tags += '<span class="tag hl">重点</span>'
+            tags += f'<span class="tag hl">{U("重点", "重点")}</span>'
         if r.get("review"):
-            tags += '<span class="tag rv">复习</span>'
-        say = (f'<button type="button" class="say" data-src="{E(r["audio"])}" aria-label="播放 {E(r["word"])} 的发音">🔊</button>'
+            tags += f'<span class="tag rv">{U("复习", "復習")}</span>'
+        say = (f'<button type="button" class="say" data-src="{E(r["audio"])}" aria-label="{U("播放 " + E(r["word"]) + " 的发音", E(r["word"]) + " の発音を再生")}">🔊</button>'
                if r.get("audio") else "")
-        exsay = (f'<button type="button" class="say sm" data-src="{E(r["ex_audio"])}" aria-label="播放例句">🔊</button>'
+        exsay = (f'<button type="button" class="say sm" data-src="{E(r["ex_audio"])}" aria-label="{U("播放例句", "例文を再生")}">🔊</button>'
                  if r.get("ex_audio") else "")
         ipa = f'<span class="ipa">{E(r["ipa"])}</span>' if r.get("ipa") else ""
         pos = f'<span class="pos">{E(r["pos"])}</span>' if r.get("pos") else ""
@@ -513,8 +522,8 @@ def render_wordlist(e):
   <div class="zh">{E(r.get('zh', ''))}</div>
   {ex}
 </li>""")
-    return (f'<section class="card" id="words"><h2>本期 {len(e["words"])} 词</h2>'
-            '<p class="tip" style="margin:-4px 0 10px">点 🔊 听单词发音（美音），例句旁的 🔊 听整句。音标为美式 IPA。</p>'
+    return (f'<section class="card" id="words"><h2>{U("本期 %d 词", "今回の %d 語") % len(rows)}</h2>'
+            f'<p class="tip" style="margin:-4px 0 10px">{U("点 🔊 听单词发音（美音），例句旁的 🔊 听整句。音标为美式 IPA。", "🔊 をタップすると単語の発音（米音）、例文横の 🔊 で文全体を再生します。発音記号は米式 IPA です。")}</p>'
             f'<ol class="wlist">{"".join(items)}</ol></section>')
 
 
@@ -566,11 +575,13 @@ def render_episode(e, prev_e, next_e, lang="zh"):
         f'<li><button type="button" data-t="{s["start"]}"><span class="t">{mmss(s["start"])}</span>'
         f'<span>{E(s["title"])}</span><span class="len">{mmss(s["length"])}</span></button></li>'
         for s in segs_data)
-    words = "\n".join(f'<li><a href="#w-{W.slug(w["word"])}"><b>{E(w["word"])}</b><span>{E(w.get("zh") or w.get("ja") or "")}</span></a></li>'
-                       if e.get("words") and not is_ja else f'<li><b>{E(w["word"])}</b><span>{E(w.get("zh") or w.get("ja") or "")}</span></li>'
+    wrows = (L.get("words") if is_ja else e.get("words")) or []
+    words = "\n".join((f'<li><a href="#w-{W.slug(w["word"])}">' if wrows else '<li><span>') +
+                       f'<b>{E(w["word"])}</b><span class="sep"> — </span><span class="gl">{E(w.get("zh") or w.get("ja") or "")}</span>' +
+                       ('</a></li>' if wrows else '</span></li>')
                        for w in hl)
-    if e.get("words") and not is_ja:
-        review = render_wordlist(e)
+    if wrows:
+        review = render_wordlist(e, wrows, ja=is_ja)
     elif (not is_ja) and e.get("review_words"):
         rw = "\n".join(f'<li><b>{E(w["word"])}</b><span>{E(w["zh"])}</span></li>' for w in e["review_words"])
         review = f'<section class="card"><h2>本期复习 10 词</h2><ul class="words">{rw}</ul></section>'
@@ -588,8 +599,8 @@ def render_episode(e, prev_e, next_e, lang="zh"):
         nav += f'<a href="ep{next_e["number"]}.html">第 {next_e["number"]} 期 →</a>' if next_e else "<span></span>"
     nav += "</div>"
     more = ""
-    if e.get("words") and not is_ja:
-        more = ' <a class="more" href="#words">全部 %d 词 ↓</a>' % len(e["words"])
+    if wrows:
+        more = (' <a class="more" href="#words">全 %d 語 ↓</a>' if is_ja else ' <a class="more" href="#words">全部 %d 词 ↓</a>') % len(wrows)
     body = f"""<header class="bar"><div class="wrap"><a href="index.html">← {E(SITE_TITLE)}</a></div></header>
 <main class="wrap">
 <h1 class="title">{title_h1}</h1>

@@ -180,81 +180,76 @@
         "page": "ep8ja.html",
         "video": "media/ep8ja.mp4",
         "script_pdf": "media/ep8ja_script.pdf",
-        "duration_sec": 2471.4,
+        "duration_sec": 2629.1,
         "theme": "本番問題の解説 · Test 1 スタート",
         "segments": [
           {
             "title": "1. オープニング",
             "start": 0.0,
-            "length": 48.55
+            "length": 61.97
           },
           {
-            "title": "2. 本番語彙 25 語",
-            "start": 48.55,
-            "length": 618.48
+            "title": "2. 本番問題の語彙 25 語",
+            "start": 61.97,
+            "length": 638.64
           },
           {
-            "title": "3. Part 1 写真問題",
-            "start": 667.04,
-            "length": 188.36
+            "title": "3. Part 1 写真問題（本番）",
+            "start": 700.61,
+            "length": 224.17
           },
           {
-            "title": "4. Part 2 ひっかけ 10 問",
-            "start": 855.4,
-            "length": 407.9
+            "title": "4. Part 2 ひっかけ問題 10 問",
+            "start": 924.78,
+            "length": 422.21
           },
           {
-            "title": "5. Part 3/4 本番精聴",
-            "start": 1263.3,
-            "length": 336.74
+            "title": "5. Part 3/4 本番問題の精聴",
+            "start": 1346.99,
+            "length": 362.73
           },
           {
-            "title": "6. Part 5 文法本番 8 問",
-            "start": 1600.04,
-            "length": 354.07
+            "title": "6. Part 5 文法本番問題 8 問",
+            "start": 1709.72,
+            "length": 354.22
           },
           {
             "title": "7. Part 6 短文穴埋め",
-            "start": 1954.11,
-            "length": 267.56
+            "start": 2063.93,
+            "length": 271.81
           },
           {
             "title": "8. 受験ストラテジー",
-            "start": 2221.67,
-            "length": 56.43
+            "start": 2335.74,
+            "length": 88.59
           },
           {
-            "title": "9. 復習 10 語",
-            "start": 2278.1,
-            "length": 193.34
+            "title": "9. 10 語のクイック復習",
+            "start": 2424.33,
+            "length": 204.74
           }
         ],
         "poster": "media/ep8ja_cover.png",
         "highlight_words": [
           {
             "word": "compile",
-            "ja": "まとめる；編集する",
-            "zh": "まとめる；編集する"
+            "zh": "編集する；（データを）整理する"
           },
           {
             "word": "slide deck",
-            "ja": "スライド資料",
-            "zh": "スライド資料"
+            "zh": "スライドのプレゼン資料"
           },
           {
             "word": "interact",
-            "ja": "交流する",
-            "zh": "交流する"
+            "zh": "交流する；やりとりする"
           },
           {
             "word": "satellite",
-            "ja": "衛星；衛星の",
             "zh": "衛星；衛星の"
           },
           {
             "word": "anticipate",
-            "ja": "見込む；予期する",
-            "zh": "見込む；予期する"
+            "zh": "予想する；期待する"
           }
         ],
         "review_words": [],
@@ -284,7 +279,310 @@
           "outdated",
           "figure",
           "ensure"
-        ]
+        ],
+        "words": [
+          {
+            "word": "serve",
+            "pos": "v.",
+            "zh": "提供する；（料理を）出す；仕える",
+            "ex": "The man is serving food at the buffet counter.",
+            "exzh": "男性がビュッフェ台で料理を提供している。",
+            "ipa": "/sɝv/",
+            "audio": "media/words/ep8/serve.mp3",
+            "ex_audio": "media/words/ep8/serve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "buffet",
+            "pos": "n.",
+            "zh": "ビュッフェ；ビュッフェ台",
+            "ex": "Please take a plate from the end of the buffet.",
+            "exzh": "ビュッフェの端から皿を取ってください。",
+            "ipa": "/ˈbʌfət/",
+            "audio": "media/words/ep8/buffet.mp3",
+            "ex_audio": "media/words/ep8/buffet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "proposal",
+            "pos": "n.",
+            "zh": "提案；提案書",
+            "ex": "When is the final proposal due?",
+            "exzh": "最終提案書の締め切りはいつですか。",
+            "ipa": "/prəˈpoʊzəl/",
+            "audio": "media/words/ep8/proposal.mp3",
+            "ex_audio": "media/words/ep8/proposal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "advertise",
+            "pos": "v.",
+            "zh": "広告を出す；宣伝する",
+            "ex": "Which magazine did you advertise in?",
+            "exzh": "どの雑誌に広告を出しましたか。",
+            "ipa": "/ˈædvɚˌtaɪz/",
+            "audio": "media/words/ep8/advertise.mp3",
+            "ex_audio": "media/words/ep8/advertise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "magazine",
+            "pos": "n.",
+            "zh": "雑誌",
+            "ex": "It's called World Travels magazine.",
+            "exzh": "それは『World Travels』という雑誌です。",
+            "ipa": "/ˈmæɡəˌzin/",
+            "audio": "media/words/ep8/magazine.mp3",
+            "ex_audio": "media/words/ep8/magazine_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "schedule",
+            "pos": "v./n.",
+            "zh": "予定を入れる；スケジュール",
+            "ex": "Could I schedule an appointment for Thursday?",
+            "exzh": "木曜日に面会の予約を入れられますか。",
+            "ipa": "/ˈskɛdʒʊl/",
+            "audio": "media/words/ep8/schedule.mp3",
+            "ex_audio": "media/words/ep8/schedule_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appointment",
+            "pos": "n.",
+            "zh": "予約；約束",
+            "ex": "Sorry, she's busy that day and cannot take an appointment.",
+            "exzh": "すみません、彼女はその日忙しくて予約を受けられません。",
+            "ipa": "/əˈpɔɪntmənt/",
+            "audio": "media/words/ep8/appointment.mp3",
+            "ex_audio": "media/words/ep8/appointment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "vacation",
+            "pos": "n.",
+            "zh": "休暇；休み",
+            "ex": "Where do you plan to go on vacation?",
+            "exzh": "休暇はどこに行く予定ですか。",
+            "ipa": "/veɪˈkeɪʃən/",
+            "audio": "media/words/ep8/vacation.mp3",
+            "ex_audio": "media/words/ep8/vacation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "compile",
+            "pos": "v.",
+            "zh": "編集する；（データを）整理する",
+            "ex": "I compiled the data on the team's quarterly sales figures.",
+            "exzh": "チームの四半期売上データを整理しました。",
+            "ipa": "/kəmˈpaɪl/",
+            "audio": "media/words/ep8/compile.mp3",
+            "ex_audio": "media/words/ep8/compile_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "slide deck",
+            "pos": "n.",
+            "zh": "スライドのプレゼン資料",
+            "ex": "I put together the slide deck last night.",
+            "exzh": "昨夜スライドを作り終えました。",
+            "ipa": "/slaɪd dɛk/",
+            "audio": "media/words/ep8/slide-deck.mp3",
+            "ex_audio": "media/words/ep8/slide-deck_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "bowling",
+            "pos": "n.",
+            "zh": "ボウリング",
+            "ex": "Are you planning to go to the company bowling night?",
+            "exzh": "会社のボウリングの夜に行く予定ですか。",
+            "ipa": "/ˈboʊlɪŋ/",
+            "audio": "media/words/ep8/bowling.mp3",
+            "ex_audio": "media/words/ep8/bowling_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "interact",
+            "pos": "v.",
+            "zh": "交流する；やりとりする",
+            "ex": "It's a good way to interact with coworkers outside of work.",
+            "exzh": "仕事の後に同僚と交流する良い方法です。",
+            "ipa": "/ˌɪntɚˈækt/",
+            "audio": "media/words/ep8/interact.mp3",
+            "ex_audio": "media/words/ep8/interact_ex.mp3",
+            "highlight": true,
+            "review": false
+          },
+          {
+            "word": "coworker",
+            "pos": "n.",
+            "zh": "同僚",
+            "ex": "She likes to socialize with her coworkers after hours.",
+            "exzh": "彼女は退勤後に同僚と交流するのが好きです。",
+            "ipa": "/ˈkoʊˈwɝkɚ/",
+            "audio": "media/words/ep8/coworker.mp3",
+            "ex_audio": "media/words/ep8/coworker_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "satellite",
+            "pos": "n./adj.",
+            "zh": "衛星；衛星の",
+            "ex": "The phone has a powerful satellite messaging capability.",
+            "exzh": "この携帯電話には強力な衛星メッセージ機能があります。",
+            "ipa": "/ˈsætəˌlaɪt/",
+            "audio": "media/words/ep8/satellite.mp3",
+            "ex_audio": "media/words/ep8/satellite_ex.mp3",
+            "highlight": true,
+            "review": false
+          },
+          {
+            "word": "messaging",
+            "pos": "n.",
+            "zh": "メッセージの送受信；通信",
+            "ex": "Satellite messaging lets you send texts without a cell tower.",
+            "exzh": "衛星メッセージなら、基地局がなくてもショートメッセージを送れます。",
+            "ipa": "/ˈmɛsɪdʒɪŋ/",
+            "audio": "media/words/ep8/messaging.mp3",
+            "ex_audio": "media/words/ep8/messaging_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "anticipate",
+            "pos": "v.",
+            "zh": "予想する；期待する",
+            "ex": "I anticipate sales will exceed all our expectations.",
+            "exzh": "売上はすべての予想を上回ると見込んでいます。",
+            "ipa": "/ænˈtɪsəˌpeɪt/",
+            "audio": "media/words/ep8/anticipate.mp3",
+            "ex_audio": "media/words/ep8/anticipate_ex.mp3",
+            "highlight": true,
+            "review": false
+          },
+          {
+            "word": "exceed",
+            "pos": "v.",
+            "zh": "上回る；超える",
+            "ex": "Demand will exceed supply in the first quarter.",
+            "exzh": "第1四半期は需要が供給を超えるでしょう。",
+            "ipa": "/ɪkˈsid/",
+            "audio": "media/words/ep8/exceed.mp3",
+            "ex_audio": "media/words/ep8/exceed_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "renovation",
+            "pos": "n.",
+            "zh": "改修；改装",
+            "ex": "Renovations to the public library have progressed steadily.",
+            "exzh": "公立図書館の改修は着実に進んでいる。",
+            "ipa": "/ˌrɛnəˈveɪʃən/",
+            "audio": "media/words/ep8/renovation.mp3",
+            "ex_audio": "media/words/ep8/renovation_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "steadily",
+            "pos": "adv.",
+            "zh": "着実に；一貫して",
+            "ex": "Sales have grown steadily over the past year.",
+            "exzh": "過去1年で売上は着実に伸びた。",
+            "ipa": "/ˈstɛdəli/",
+            "audio": "media/words/ep8/steadily.mp3",
+            "ex_audio": "media/words/ep8/steadily_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "sculpture",
+            "pos": "n.",
+            "zh": "彫刻",
+            "ex": "She is known for her outdoor sculptures.",
+            "exzh": "彼女は屋外彫刻で知られている。",
+            "ipa": "/ˈskʌlptʃɚ/",
+            "audio": "media/words/ep8/sculpture.mp3",
+            "ex_audio": "media/words/ep8/sculpture_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "artwork",
+            "pos": "n.",
+            "zh": "芸術作品",
+            "ex": "The gallery displays artwork on paper and canvas.",
+            "exzh": "そのギャラリーは紙とキャンバスの芸術作品を展示している。",
+            "ipa": "/ˈɑrˌtwɝk/",
+            "audio": "media/words/ep8/artwork.mp3",
+            "ex_audio": "media/words/ep8/artwork_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "rear",
+            "pos": "n.",
+            "zh": "後部；後方",
+            "ex": "Sandwiches are sold from the food truck at the rear of the parking lot.",
+            "exzh": "サンドイッチは駐車場の後部にあるフードトラックで売られている。",
+            "ipa": "/rɪr/",
+            "audio": "media/words/ep8/rear.mp3",
+            "ex_audio": "media/words/ep8/rear_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "outdated",
+            "pos": "adj.",
+            "zh": "時代遅れの；古くなった",
+            "ex": "The outdated equipment was replaced last month.",
+            "exzh": "時代遅れの設備は先月交換された。",
+            "ipa": "/ˈaʊtˌdeɪtɪd/",
+            "audio": "media/words/ep8/outdated.mp3",
+            "ex_audio": "media/words/ep8/outdated_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "figure",
+            "pos": "n.",
+            "zh": "数字；データ",
+            "ex": "This figure represents a twenty percent increase over the old plant.",
+            "exzh": "この数字は旧工場より20パーセント高い。",
+            "ipa": "/ˈfɪɡjɚ/",
+            "audio": "media/words/ep8/figure.mp3",
+            "ex_audio": "media/words/ep8/figure_ex.mp3",
+            "highlight": false,
+            "review": false
+          },
+          {
+            "word": "ensure",
+            "pos": "v.",
+            "zh": "確実にする；保証する",
+            "ex": "We work with suppliers to ensure vegetables are picked when ripest.",
+            "exzh": "私たちは仕入先と協力し、野菜が最も熟した時に収穫されるようにしています。",
+            "ipa": "/ɛnˈʃʊr/",
+            "audio": "media/words/ep8/ensure.mp3",
+            "ex_audio": "media/words/ep8/ensure_ex.mp3",
+            "highlight": false,
+            "review": false
+          }
+        ],
+        "has_words": true
       }
     },
     "poster": "media/ep8_cover.png",

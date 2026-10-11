@@ -251,3 +251,23 @@ def make_audio(jobs):
         print("WARNING: edge-tts not installed; skipped", len(todo), "word MP3s")
         return len(todo)
     return sum(1 for r in res if not r)
+
+
+def ja_rows(src, n, zh_rows):
+    """Japanese word rows: the SAME rows as the Chinese page (order, word, pos, example,
+    IPA, audio, tags); only the gloss and the example translation come from the
+    aligned Japanese content epNja_content.py (built by ja_aligned from epN_content.py)."""
+    import sys as _s
+    if str(src) not in _s.path:
+        _s.path.insert(0, str(src))
+    m = _load_py(src / f"ep{n}ja_content.py")
+    ve = getattr(m, "VOCAB_EXTRA", {})
+    out = []
+    for r in zh_rows:
+        v = ve.get(r["word"])
+        if not v:
+            raise SystemExit(f"ja_rows: ep{n}ja has no Japanese gloss for {r['word']!r}")
+        jr = dict(r)
+        jr["zh"], jr["exzh"] = v[1], v[3]
+        out.append(jr)
+    return out

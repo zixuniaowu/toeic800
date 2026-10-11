@@ -21,3 +21,6 @@ Visitor counter: https://visitor-badge.laobi.icu (no signup), page_id `toeic800-
 - MP3: edge-tts `en-US-AriaNeural` (24 kHz, 48 kbps mono) → `site/media/words/epN/<slug>.mp3` and `<slug>_ex.mp3` (example sentence). Only missing files are generated.
 - Needs the venv `/tmp/wp` (edge-tts, cmudict); `build_site.py` re-execs itself there automatically. If /tmp/wp is gone:
   `python3 -m venv /tmp/wp && /tmp/wp/bin/pip install edge-tts cmudict`.
+
+## Japanese pages (aligned, ep8+)
+`epNja.html` is rendered from the same rows as `epN.html` (`words.ja_rows`): same word list, IPA, POS, MP3s, examples, tags; only gloss / example translation come from `epNja_content.py`, which is itself derived 1:1 from `epN_content.py` via `/workspace/toeic_podcast/ja_aligned.py`. Highlight words use `word — gloss` on both languages.
