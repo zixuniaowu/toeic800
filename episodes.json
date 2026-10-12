@@ -1,54 +1,2047 @@
 [
   {
+    "number": 10,
+    "theme": "真题精讲 · Test 1 续篇",
+    "date": "2026-10-13",
+    "duration_sec": 3411.9,
+    "segments": [
+      {
+        "title": "1. Part 1 照片真题",
+        "start": 0.0,
+        "length": 198.7
+      },
+      {
+        "title": "2. Part 2 应答题 10 道",
+        "start": 198.7,
+        "length": 580.52
+      },
+      {
+        "title": "3. Part 3/4 逐句精听",
+        "start": 779.22,
+        "length": 749.16
+      },
+      {
+        "title": "4. Part 5 语法真题 8 题",
+        "start": 1528.38,
+        "length": 464.01
+      },
+      {
+        "title": "5. Part 7 单篇阅读 2 篇",
+        "start": 1992.38,
+        "length": 475.94
+      },
+      {
+        "title": "6. 本期 63 词总复习 · 拼读",
+        "start": 2468.33,
+        "length": 943.57
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "come with",
+        "zh": "附带；配有"
+      },
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      },
+      {
+        "word": "count on",
+        "zh": "指望；依靠"
+      },
+      {
+        "word": "implement",
+        "zh": "实施；执行"
+      },
+      {
+        "word": "retain",
+        "zh": "保留；保持"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "examine",
+        "zh": "仔细查看；检查"
+      },
+      {
+        "word": "rack",
+        "zh": "架子；衣架"
+      },
+      {
+        "word": "aisle",
+        "zh": "通道；过道"
+      },
+      {
+        "word": "cart",
+        "zh": "手推车；购物车"
+      },
+      {
+        "word": "erase",
+        "zh": "擦掉；抹去"
+      },
+      {
+        "word": "closet",
+        "zh": "壁橱；储藏柜"
+      },
+      {
+        "word": "put together",
+        "zh": "组装；拼装"
+      },
+      {
+        "word": "process",
+        "zh": "处理；流程"
+      },
+      {
+        "word": "handle",
+        "zh": "处理；应付"
+      },
+      {
+        "word": "replace",
+        "zh": "更换；替换"
+      },
+      {
+        "word": "cartridge",
+        "zh": "墨盒；；可替换的；芯"
+      },
+      {
+        "word": "copier",
+        "zh": "复印机"
+      },
+      {
+        "word": "come with",
+        "zh": "附带；配有"
+      },
+      {
+        "word": "announce",
+        "zh": "宣布；公布"
+      },
+      {
+        "word": "extra",
+        "zh": "额外的；额外费用"
+      },
+      {
+        "word": "parade",
+        "zh": "游行；巡游"
+      },
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      },
+      {
+        "word": "set up",
+        "zh": "布置；搭建"
+      },
+      {
+        "word": "folding",
+        "zh": "可折叠的"
+      },
+      {
+        "word": "register",
+        "zh": "报名；登记；收银台"
+      },
+      {
+        "word": "certification",
+        "zh": "资格认证；证书"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期"
+      },
+      {
+        "word": "construction",
+        "zh": "建设；施工"
+      },
+      {
+        "word": "handout",
+        "zh": "讲义；分发的资料"
+      },
+      {
+        "word": "lounge",
+        "zh": "休息室；休息厅"
+      },
+      {
+        "word": "count on",
+        "zh": "指望；依靠"
+      },
+      {
+        "word": "entertain",
+        "zh": "使娱乐；招待"
+      },
+      {
+        "word": "bowling alley",
+        "zh": "保龄球馆"
+      },
+      {
+        "word": "shuttle",
+        "zh": "接驳车；班车"
+      },
+      {
+        "word": "discount",
+        "zh": "折扣"
+      },
+      {
+        "word": "look into",
+        "zh": "调查；了解"
+      },
+      {
+        "word": "celebration",
+        "zh": "庆祝活动；庆祝会"
+      },
+      {
+        "word": "retire",
+        "zh": "退休"
+      },
+      {
+        "word": "dedicated",
+        "zh": "致力于…的；专注的"
+      },
+      {
+        "word": "environment",
+        "zh": "环境"
+      },
+      {
+        "word": "implement",
+        "zh": "实施；执行"
+      },
+      {
+        "word": "effective",
+        "zh": "有效的；生效的"
+      },
+      {
+        "word": "previous",
+        "zh": "以前的；前任的"
+      },
+      {
+        "word": "framed",
+        "zh": "装了框的；裱起来的"
+      },
+      {
+        "word": "anniversary",
+        "zh": "周年纪念"
+      },
+      {
+        "word": "residential",
+        "zh": "住宅的；居家的"
+      },
+      {
+        "word": "storage",
+        "zh": "储存；仓储"
+      },
+      {
+        "word": "qualified",
+        "zh": "合格的；有资格的"
+      },
+      {
+        "word": "dealership",
+        "zh": "经销店；代理商"
+      },
+      {
+        "word": "consultation",
+        "zh": "咨询；顾问服务"
+      },
+      {
+        "word": "automation",
+        "zh": "自动化"
+      },
+      {
+        "word": "collective",
+        "zh": "集体的；共同的"
+      },
+      {
+        "word": "conduct",
+        "zh": "进行；实施"
+      },
+      {
+        "word": "guarantee",
+        "zh": "保证；担保"
+      },
+      {
+        "word": "occasionally",
+        "zh": "偶尔；有时"
+      },
+      {
+        "word": "contract",
+        "zh": "合同；合约"
+      },
+      {
+        "word": "regret",
+        "zh": "遗憾；后悔"
+      },
+      {
+        "word": "performance",
+        "zh": "演出；表现"
+      },
+      {
+        "word": "patron",
+        "zh": "顾客；赞助人"
+      },
+      {
+        "word": "retain",
+        "zh": "保留；保持"
+      },
+      {
+        "word": "box office",
+        "zh": "售票处"
+      },
+      {
+        "word": "inconvenience",
+        "zh": "不便；麻烦"
+      },
+      {
+        "word": "annual",
+        "zh": "每年的；年度的"
+      },
+      {
+        "word": "collaboration",
+        "zh": "合作；协作"
+      },
+      {
+        "word": "appreciation",
+        "zh": "感谢；欣赏"
+      },
+      {
+        "word": "beverage",
+        "zh": "饮料"
+      },
+      {
+        "word": "circulate",
+        "zh": "传阅；流通"
+      },
+      {
+        "word": "signature",
+        "zh": "签名"
+      }
+    ],
+    "video": "media/ep10.mp4",
+    "script_pdf": "media/ep10_script.pdf",
+    "source_video": "ep10.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep10.html",
+        "video": "media/ep10.mp4",
+        "script_pdf": "media/ep10_script.pdf",
+        "duration_sec": 3411.9,
+        "theme": "真题精讲 · Test 1 续篇",
+        "segments": [
+          {
+            "title": "1. Part 1 照片真题",
+            "start": 0.0,
+            "length": 198.7
+          },
+          {
+            "title": "2. Part 2 应答题 10 道",
+            "start": 198.7,
+            "length": 580.52
+          },
+          {
+            "title": "3. Part 3/4 逐句精听",
+            "start": 779.22,
+            "length": 749.16
+          },
+          {
+            "title": "4. Part 5 语法真题 8 题",
+            "start": 1528.38,
+            "length": 464.01
+          },
+          {
+            "title": "5. Part 7 单篇阅读 2 篇",
+            "start": 1992.38,
+            "length": 475.94
+          },
+          {
+            "title": "6. 本期 63 词总复习 · 拼读",
+            "start": 2468.33,
+            "length": 943.57
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep10ja.html",
+        "video": "media/ep10ja.mp4",
+        "script_pdf": "media/ep10ja_script.pdf",
+        "duration_sec": 4005.9,
+        "theme": "本番問題の解説 · Test 1 続編",
+        "segments": [
+          {
+            "title": "1. Part 1 写真の本番問題",
+            "start": 0.0,
+            "length": 251.09
+          },
+          {
+            "title": "2. Part 2 応答問題 10 問",
+            "start": 251.09,
+            "length": 698.1
+          },
+          {
+            "title": "3. Part 3/4 1文ずつ精聴",
+            "start": 949.18,
+            "length": 950.23
+          },
+          {
+            "title": "4. Part 5 文法の本番問題 8 問",
+            "start": 1899.42,
+            "length": 542.2
+          },
+          {
+            "title": "5. Part 7 シングルパッセージ 2 題",
+            "start": 2441.62,
+            "length": 572.9
+          },
+          {
+            "title": "6. 今回の 63 語まとめ復習 · スペル",
+            "start": 3014.52,
+            "length": 991.35
+          }
+        ],
+        "poster": "media/ep10ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "come with",
+            "zh": "〜が付いてくる；〜付きである"
+          },
+          {
+            "word": "reschedule",
+            "zh": "予定を変更する；日程を組み直す"
+          },
+          {
+            "word": "count on",
+            "zh": "当てにする；頼りにする"
+          },
+          {
+            "word": "implement",
+            "zh": "実施する；実行する"
+          },
+          {
+            "word": "retain",
+            "zh": "保持する；取っておく"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "examine",
+          "rack",
+          "aisle",
+          "cart",
+          "erase",
+          "closet",
+          "put together",
+          "process",
+          "handle",
+          "replace",
+          "cartridge",
+          "copier",
+          "come with",
+          "announce",
+          "extra",
+          "parade",
+          "reschedule",
+          "set up",
+          "folding",
+          "register",
+          "certification",
+          "deadline",
+          "construction",
+          "handout",
+          "lounge",
+          "count on",
+          "entertain",
+          "bowling alley",
+          "shuttle",
+          "discount",
+          "look into",
+          "celebration",
+          "retire",
+          "dedicated",
+          "environment",
+          "implement",
+          "effective",
+          "previous",
+          "framed",
+          "anniversary",
+          "residential",
+          "storage",
+          "qualified",
+          "dealership",
+          "consultation",
+          "automation",
+          "collective",
+          "conduct",
+          "guarantee",
+          "occasionally",
+          "contract",
+          "regret",
+          "performance",
+          "patron",
+          "retain",
+          "box office",
+          "inconvenience",
+          "annual",
+          "collaboration",
+          "appreciation",
+          "beverage",
+          "circulate",
+          "signature"
+        ],
+        "words": [
+          {
+            "word": "examine",
+            "pos": "v.",
+            "zh": "よく見る；調べる",
+            "ex": "The woman is examining clothes on a rack.",
+            "exzh": "女性がハンガーラックの服をよく見ている。",
+            "ipa": "/ɪɡˈzæmɪn/",
+            "audio": "media/words/ep10/examine.mp3",
+            "ex_audio": "media/words/ep10/examine_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rack",
+            "pos": "n.",
+            "zh": "棚；ハンガーラック",
+            "ex": "Several shirts are hanging on a rack.",
+            "exzh": "シャツが何枚かハンガーラックに掛かっている。",
+            "ipa": "/ræk/",
+            "audio": "media/words/ep10/rack.mp3",
+            "ex_audio": "media/words/ep10/rack_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "aisle",
+            "pos": "n.",
+            "zh": "通路",
+            "ex": "The woman is pushing a cart down an aisle.",
+            "exzh": "女性がカートを押して通路を進んでいる。",
+            "ipa": "/aɪl/",
+            "audio": "media/words/ep10/aisle.mp3",
+            "ex_audio": "media/words/ep10/aisle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cart",
+            "pos": "n.",
+            "zh": "手押し車；ショッピングカート",
+            "ex": "She left her cart near the fitting room.",
+            "exzh": "彼女は試着室の近くにカートを置いていった。",
+            "ipa": "/kɑrt/",
+            "audio": "media/words/ep10/cart.mp3",
+            "ex_audio": "media/words/ep10/cart_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "erase",
+            "pos": "v.",
+            "zh": "消す；拭き取る",
+            "ex": "One of the people is erasing a whiteboard.",
+            "exzh": "1人がホワイトボードを消している。",
+            "ipa": "/ɪˈreɪs/",
+            "audio": "media/words/ep10/erase.mp3",
+            "ex_audio": "media/words/ep10/erase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "closet",
+            "pos": "n.",
+            "zh": "戸棚；収納庫",
+            "ex": "Some chairs have been stored in a closet.",
+            "exzh": "椅子がいくつか戸棚にしまわれている。",
+            "ipa": "/ˈklɑzət/",
+            "audio": "media/words/ep10/closet.mp3",
+            "ex_audio": "media/words/ep10/closet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "put together",
+            "pos": "v.",
+            "zh": "組み立てる",
+            "ex": "Some people are putting together a bookshelf.",
+            "exzh": "何人かが本棚を組み立てている。",
+            "ipa": "/pʊt təˈɡɛðɚ/",
+            "audio": "media/words/ep10/put-together.mp3",
+            "ex_audio": "media/words/ep10/put-together_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "process",
+            "pos": "v./n.",
+            "zh": "処理する；手順",
+            "ex": "I can help you process the order for shipment.",
+            "exzh": "その注文の発送手続きを手伝いますよ。",
+            "ipa": "/ˈprɑˌsɛs/",
+            "audio": "media/words/ep10/process.mp3",
+            "ex_audio": "media/words/ep10/process_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "handle",
+            "pos": "v.",
+            "zh": "処理する；対応する",
+            "ex": "No, thanks, I already handled it.",
+            "exzh": "いいえ、結構です。もう済ませました。",
+            "ipa": "/ˈhændəl/",
+            "audio": "media/words/ep10/handle.mp3",
+            "ex_audio": "media/words/ep10/handle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "replace",
+            "pos": "v.",
+            "zh": "交換する；取り替える",
+            "ex": "Mr. Ruiz replaced the ink cartridge in the copier.",
+            "exzh": "Ruiz さんがコピー機のインクカートリッジを交換した。",
+            "ipa": "/ˌriˈpleɪs/",
+            "audio": "media/words/ep10/replace.mp3",
+            "ex_audio": "media/words/ep10/replace_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cartridge",
+            "pos": "n.",
+            "zh": "カートリッジ；交換用の芯",
+            "ex": "We need to order more ink cartridges.",
+            "exzh": "インクカートリッジをもっと注文する必要がある。",
+            "ipa": "/ˈkɑrtrədʒ/",
+            "audio": "media/words/ep10/cartridge.mp3",
+            "ex_audio": "media/words/ep10/cartridge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "copier",
+            "pos": "n.",
+            "zh": "コピー機",
+            "ex": "The copier on the second floor is out of paper.",
+            "exzh": "2階のコピー機は紙切れだ。",
+            "ipa": "/ˈkɑpiɚ/",
+            "audio": "media/words/ep10/copier.mp3",
+            "ex_audio": "media/words/ep10/copier_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "come with",
+            "pos": "v.",
+            "zh": "〜が付いてくる；〜付きである",
+            "ex": "Doesn't this meal usually come with a salad?",
+            "exzh": "この料理には普通サラダが付いてきませんか？",
+            "ipa": "/kʌm wɪð/",
+            "audio": "media/words/ep10/come-with.mp3",
+            "ex_audio": "media/words/ep10/come-with_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "announce",
+            "pos": "v.",
+            "zh": "発表する；公表する",
+            "ex": "It won't be announced until Wednesday.",
+            "exzh": "水曜日まで発表されません。",
+            "ipa": "/əˈnaʊns/",
+            "audio": "media/words/ep10/announce.mp3",
+            "ex_audio": "media/words/ep10/announce_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "extra",
+            "pos": "adj./n.",
+            "zh": "追加の；追加料金",
+            "ex": "I don't want to pay any extra.",
+            "exzh": "追加料金は払いたくない。",
+            "ipa": "/ˈɛkstrə/",
+            "audio": "media/words/ep10/extra.mp3",
+            "ex_audio": "media/words/ep10/extra_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "parade",
+            "pos": "n.",
+            "zh": "パレード；行進",
+            "ex": "Who's going to be in the parade?",
+            "exzh": "パレードには誰が参加しますか？",
+            "ipa": "/pɚˈeɪd/",
+            "audio": "media/words/ep10/parade.mp3",
+            "ex_audio": "media/words/ep10/parade_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reschedule",
+            "pos": "v.",
+            "zh": "予定を変更する；日程を組み直す",
+            "ex": "It was rescheduled for next month.",
+            "exzh": "来月に延期されました。",
+            "ipa": "/riˈskɛdʒul/",
+            "audio": "media/words/ep10/reschedule.mp3",
+            "ex_audio": "media/words/ep10/reschedule_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "set up",
+            "pos": "v.",
+            "zh": "準備する；設置する",
+            "ex": "We have to set up the conference tables for the seminar.",
+            "exzh": "セミナー用の会議テーブルを準備しなければならない。",
+            "ipa": "/sɛt ʌp/",
+            "audio": "media/words/ep10/set-up.mp3",
+            "ex_audio": "media/words/ep10/set-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "folding",
+            "pos": "adj.",
+            "zh": "折りたたみ式の",
+            "ex": "We need several folding metal chairs.",
+            "exzh": "折りたたみ式の金属製の椅子が数脚必要だ。",
+            "ipa": "/ˈfoʊldɪŋ/",
+            "audio": "media/words/ep10/folding.mp3",
+            "ex_audio": "media/words/ep10/folding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "register",
+            "pos": "v./n.",
+            "zh": "申し込む；登録する；レジ",
+            "ex": "Should we register for the course today or tomorrow?",
+            "exzh": "その講座には今日申し込みますか、それとも明日ですか？",
+            "ipa": "/ˈrɛdʒɪstɚ/",
+            "audio": "media/words/ep10/register.mp3",
+            "ex_audio": "media/words/ep10/register_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "certification",
+            "pos": "n.",
+            "zh": "資格認定；資格証明",
+            "ex": "She completed a certification course in accounting.",
+            "exzh": "彼女は会計の資格認定講座を修了した。",
+            "ipa": "/ˌsɝtəfəˈkeɪʃən/",
+            "audio": "media/words/ep10/certification.mp3",
+            "ex_audio": "media/words/ep10/certification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deadline",
+            "pos": "n.",
+            "zh": "締め切り",
+            "ex": "The deadline has already passed.",
+            "exzh": "締め切りはもう過ぎています。",
+            "ipa": "/ˈdɛdˌlaɪn/",
+            "audio": "media/words/ep10/deadline.mp3",
+            "ex_audio": "media/words/ep10/deadline_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "construction",
+            "pos": "n.",
+            "zh": "建設；工事",
+            "ex": "The construction project should be completed by now.",
+            "exzh": "その建設プロジェクトはもう完了しているはずだ。",
+            "ipa": "/kənˈstrʌkʃən/",
+            "audio": "media/words/ep10/construction.mp3",
+            "ex_audio": "media/words/ep10/construction_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "handout",
+            "pos": "n.",
+            "zh": "配布資料；ハンドアウト",
+            "ex": "I'll make copies of the handout for the workshop.",
+            "exzh": "ワークショップ用の配布資料をコピーしておきます。",
+            "ipa": "/ˈhænˌdaʊt/",
+            "audio": "media/words/ep10/handout.mp3",
+            "ex_audio": "media/words/ep10/handout_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lounge",
+            "pos": "n.",
+            "zh": "ラウンジ；休憩室",
+            "ex": "The game room and lounge are closed for renovations.",
+            "exzh": "ゲームルームとラウンジは改装のため閉鎖中だ。",
+            "ipa": "/laʊndʒ/",
+            "audio": "media/words/ep10/lounge.mp3",
+            "ex_audio": "media/words/ep10/lounge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "count on",
+            "pos": "v.",
+            "zh": "当てにする；頼りにする",
+            "ex": "I was really counting on the hotel's outdoor pool.",
+            "exzh": "ホテルの屋外プールを本当に当てにしていた。",
+            "ipa": "/kaʊnt ɑn/",
+            "audio": "media/words/ep10/count-on.mp3",
+            "ex_audio": "media/words/ep10/count-on_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "entertain",
+            "pos": "v.",
+            "zh": "楽しませる；もてなす",
+            "ex": "We need activities to keep guests entertained.",
+            "exzh": "お客様を楽しませるアクティビティが必要だ。",
+            "ipa": "/ˌɛntɚˈteɪn/",
+            "audio": "media/words/ep10/entertain.mp3",
+            "ex_audio": "media/words/ep10/entertain_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bowling alley",
+            "pos": "n.",
+            "zh": "ボウリング場",
+            "ex": "There is a bowling alley in the city center.",
+            "exzh": "市の中心部にボウリング場がある。",
+            "ipa": "/ˈboʊlɪŋ ˈæli/",
+            "audio": "media/words/ep10/bowling-alley.mp3",
+            "ex_audio": "media/words/ep10/bowling-alley_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shuttle",
+            "pos": "n.",
+            "zh": "シャトルバス；送迎車",
+            "ex": "We could use the shuttle to take guests there.",
+            "exzh": "シャトルバスでお客様をそこへお連れできる。",
+            "ipa": "/ˈʃʌtəl/",
+            "audio": "media/words/ep10/shuttle.mp3",
+            "ex_audio": "media/words/ep10/shuttle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "discount",
+            "pos": "n.",
+            "zh": "割引",
+            "ex": "We might be able to get group discounts.",
+            "exzh": "団体割引が受けられるかもしれない。",
+            "ipa": "/dɪˈskaʊnt/",
+            "audio": "media/words/ep10/discount.mp3",
+            "ex_audio": "media/words/ep10/discount_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "look into",
+            "pos": "v.",
+            "zh": "調べる；検討する",
+            "ex": "The man says he will look into available discounts.",
+            "exzh": "男性は利用できる割引を調べると言っている。",
+            "ipa": "/lʊk ˈɪntu/",
+            "audio": "media/words/ep10/look-into.mp3",
+            "ex_audio": "media/words/ep10/look-into_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "celebration",
+            "pos": "n.",
+            "zh": "お祝い；祝賀会",
+            "ex": "Thank you so much, everyone, for this celebration.",
+            "exzh": "皆さん、このようなお祝いの会を本当にありがとうございます。",
+            "ipa": "/ˌsɛləˈbreɪʃən/",
+            "audio": "media/words/ep10/celebration.mp3",
+            "ex_audio": "media/words/ep10/celebration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retire",
+            "pos": "v.",
+            "zh": "退職する；引退する",
+            "ex": "After nearly 30 years of working here, I'm ready to retire.",
+            "exzh": "ここで30年近く働き、退職する準備ができました。",
+            "ipa": "/rɪˈtaɪr/",
+            "audio": "media/words/ep10/retire.mp3",
+            "ex_audio": "media/words/ep10/retire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dedicated",
+            "pos": "adj.",
+            "zh": "〜に専念した；献身的な",
+            "ex": "I've been dedicated to making sure that all staff members are safe.",
+            "exzh": "私は全従業員の安全を確保することに力を注いできました。",
+            "ipa": "/ˈdɛdəkeɪtəd/",
+            "audio": "media/words/ep10/dedicated.mp3",
+            "ex_audio": "media/words/ep10/dedicated_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "environment",
+            "pos": "n.",
+            "zh": "環境",
+            "ex": "All staff members should have a safe environment to work in.",
+            "exzh": "全従業員が安全な環境で働けるべきだ。",
+            "ipa": "/ɪnˈvaɪrənmənt/",
+            "audio": "media/words/ep10/environment.mp3",
+            "ex_audio": "media/words/ep10/environment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "implement",
+            "pos": "v.",
+            "zh": "実施する；実行する",
+            "ex": "The safety policies we've implemented have proven to be effective.",
+            "exzh": "私たちが実施した安全方針は効果的だと証明されました。",
+            "ipa": "/ˈɪmpləmənt/",
+            "audio": "media/words/ep10/implement.mp3",
+            "ex_audio": "media/words/ep10/implement_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "effective",
+            "pos": "adj.",
+            "zh": "効果的な；有効な",
+            "ex": "The new training program was very effective.",
+            "exzh": "新しい研修プログラムはとても効果的だった。",
+            "ipa": "/ɪˈfɛktɪv/",
+            "audio": "media/words/ep10/effective.mp3",
+            "ex_audio": "media/words/ep10/effective_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "previous",
+            "pos": "adj.",
+            "zh": "前の；前任の",
+            "ex": "Gregor Hoffman was our previous CEO.",
+            "exzh": "Gregor Hoffman は私たちの前 CEO だった。",
+            "ipa": "/ˈpriviəs/",
+            "audio": "media/words/ep10/previous.mp3",
+            "ex_audio": "media/words/ep10/previous_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "framed",
+            "pos": "adj.",
+            "zh": "額に入った",
+            "ex": "It's framed and hanging on my wall.",
+            "exzh": "それは額に入れて私の部屋の壁に掛けてあります。",
+            "ipa": "/freɪmd/",
+            "audio": "media/words/ep10/framed.mp3",
+            "ex_audio": "media/words/ep10/framed_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "anniversary",
+            "pos": "n.",
+            "zh": "記念日；周年",
+            "ex": "The company held an anniversary celebration last year.",
+            "exzh": "会社は昨年、周年記念のお祝いを開いた。",
+            "ipa": "/ˌænəˈvɝsɚi/",
+            "audio": "media/words/ep10/anniversary.mp3",
+            "ex_audio": "media/words/ep10/anniversary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "residential",
+            "pos": "adj.",
+            "zh": "住宅の；家庭用の",
+            "ex": "We have the right facilities for all your residential storage needs.",
+            "exzh": "当社にはご家庭のあらゆる保管ニーズに合う設備があります。",
+            "ipa": "/ˌrɛzɪˈdɛnʃəl/",
+            "audio": "media/words/ep10/residential.mp3",
+            "ex_audio": "media/words/ep10/residential_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "storage",
+            "pos": "n.",
+            "zh": "保管；倉庫",
+            "ex": "The company rents out storage units at affordable rates.",
+            "exzh": "その会社は手頃な料金で収納スペースを貸し出している。",
+            "ipa": "/ˈstɔrədʒ/",
+            "audio": "media/words/ep10/storage.mp3",
+            "ex_audio": "media/words/ep10/storage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "qualified",
+            "pos": "adj.",
+            "zh": "資格のある；適任の",
+            "ex": "Mr. Arakaki was clearly the most qualified individual for the position.",
+            "exzh": "Arakaki さんは明らかにその職に最も適任な人物だった。",
+            "ipa": "/ˈkwɑləˌfaɪd/",
+            "audio": "media/words/ep10/qualified.mp3",
+            "ex_audio": "media/words/ep10/qualified_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dealership",
+            "pos": "n.",
+            "zh": "販売店；特約店",
+            "ex": "A motorcycle dealership is opening a few blocks away.",
+            "exzh": "数ブロック先にオートバイの販売店が開店する。",
+            "ipa": "/ˈdilɚˌʃɪp/",
+            "audio": "media/words/ep10/dealership.mp3",
+            "ex_audio": "media/words/ep10/dealership_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "consultation",
+            "pos": "n.",
+            "zh": "相談；コンサルティング",
+            "ex": "Mr. Bajaj provides consultation services to companies.",
+            "exzh": "Bajaj さんは企業にコンサルティングサービスを提供している。",
+            "ipa": "/ˌkɑnsəlˈteɪʃən/",
+            "audio": "media/words/ep10/consultation.mp3",
+            "ex_audio": "media/words/ep10/consultation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "automation",
+            "pos": "n.",
+            "zh": "自動化；オートメーション",
+            "ex": "Many factories are interested in industrial automation.",
+            "exzh": "多くの工場が産業オートメーションに関心を持っている。",
+            "ipa": "/ɔtəˈmeɪʃən/",
+            "audio": "media/words/ep10/automation.mp3",
+            "ex_audio": "media/words/ep10/automation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "collective",
+            "pos": "adj.",
+            "zh": "集団の；共同の",
+            "ex": "The marketing team made a collective decision.",
+            "exzh": "マーケティングチームは全員で決定を下した。",
+            "ipa": "/kəˈlɛktɪv/",
+            "audio": "media/words/ep10/collective.mp3",
+            "ex_audio": "media/words/ep10/collective_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "conduct",
+            "pos": "v.",
+            "zh": "実施する；行う",
+            "ex": "We will keep conducting customer surveys.",
+            "exzh": "顧客アンケートを引き続き実施する。",
+            "ipa": "/ˈkɑndəkt/",
+            "audio": "media/words/ep10/conduct.mp3",
+            "ex_audio": "media/words/ep10/conduct_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "guarantee",
+            "pos": "n./v.",
+            "zh": "保証；保証する",
+            "ex": "Each pan comes with a twelve-year guarantee.",
+            "exzh": "各フライパンには12年保証が付いている。",
+            "ipa": "/ˌɡɛrənˈti/",
+            "audio": "media/words/ep10/guarantee.mp3",
+            "ex_audio": "media/words/ep10/guarantee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "occasionally",
+            "pos": "adv.",
+            "zh": "時々；たまに",
+            "ex": "The delivery company has occasionally experienced delays.",
+            "exzh": "その配送会社は時々遅延を起こしている。",
+            "ipa": "/əˈkeɪʒənəli/",
+            "audio": "media/words/ep10/occasionally.mp3",
+            "ex_audio": "media/words/ep10/occasionally_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contract",
+            "pos": "n.",
+            "zh": "契約；契約書",
+            "ex": "The contract will be awarded once all documents are received.",
+            "exzh": "必要書類がすべて届き次第、契約が与えられる。",
+            "ipa": "/ˈkɑnˌtrækt/",
+            "audio": "media/words/ep10/contract.mp3",
+            "ex_audio": "media/words/ep10/contract_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regret",
+            "pos": "v./n.",
+            "zh": "残念に思う；後悔する",
+            "ex": "We regret to inform you that the performance has been postponed.",
+            "exzh": "残念ながら、公演が延期になったことをお知らせします。",
+            "ipa": "/rəˈɡrɛt/",
+            "audio": "media/words/ep10/regret.mp3",
+            "ex_audio": "media/words/ep10/regret_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "performance",
+            "pos": "n.",
+            "zh": "公演；演奏；成績",
+            "ex": "Tomorrow's 8:00 P.M. performance has been postponed.",
+            "exzh": "明日午後8時の公演は延期になりました。",
+            "ipa": "/pɚˈfɔrməns/",
+            "audio": "media/words/ep10/performance.mp3",
+            "ex_audio": "media/words/ep10/performance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "patron",
+            "pos": "n.",
+            "zh": "常連客；後援者",
+            "ex": "The theater offers discounted tickets to loyal patrons.",
+            "exzh": "その劇場は常連のお客様に割引チケットを提供している。",
+            "ipa": "/ˈpeɪtrən/",
+            "audio": "media/words/ep10/patron.mp3",
+            "ex_audio": "media/words/ep10/patron_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retain",
+            "pos": "v.",
+            "zh": "保持する；取っておく",
+            "ex": "Please retain your tickets.",
+            "exzh": "チケットはお手元に保管しておいてください。",
+            "ipa": "/rɪˈteɪn/",
+            "audio": "media/words/ep10/retain.mp3",
+            "ex_audio": "media/words/ep10/retain_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "box office",
+            "pos": "n.",
+            "zh": "チケット売り場",
+            "ex": "For any questions, contact the box office.",
+            "exzh": "ご質問はチケット売り場までお問い合わせください。",
+            "ipa": "/bɑks ˈɔfɪs/",
+            "audio": "media/words/ep10/box-office.mp3",
+            "ex_audio": "media/words/ep10/box-office_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inconvenience",
+            "pos": "n.",
+            "zh": "不便；迷惑",
+            "ex": "We sincerely apologize for the inconvenience.",
+            "exzh": "ご不便をおかけし、心よりお詫び申し上げます。",
+            "ipa": "/ˌɪnkənˈvinjəns/",
+            "audio": "media/words/ep10/inconvenience.mp3",
+            "ex_audio": "media/words/ep10/inconvenience_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "annual",
+            "pos": "adj.",
+            "zh": "毎年の；年1回の",
+            "ex": "It is time for a favourite annual tradition.",
+            "exzh": "毎年恒例の人気行事の時期がやってきました。",
+            "ipa": "/ˈænjuəl/",
+            "audio": "media/words/ep10/annual.mp3",
+            "ex_audio": "media/words/ep10/annual_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "collaboration",
+            "pos": "n.",
+            "zh": "協力；共同作業",
+            "ex": "Lunch is provided in honour of our continued business collaboration.",
+            "exzh": "昼食は私たちの継続的な業務提携を記念して提供される。",
+            "ipa": "/kəˌlæbɚˈeɪʃən/",
+            "audio": "media/words/ep10/collaboration.mp3",
+            "ex_audio": "media/words/ep10/collaboration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appreciation",
+            "pos": "n.",
+            "zh": "感謝；評価",
+            "ex": "The gift was given to express appreciation for a business partnership.",
+            "exzh": "その贈り物は業務提携への感謝を示すために贈られた。",
+            "ipa": "/əˌpriʃiˈeɪʃən/",
+            "audio": "media/words/ep10/appreciation.mp3",
+            "ex_audio": "media/words/ep10/appreciation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "beverage",
+            "pos": "n.",
+            "zh": "飲み物",
+            "ex": "Beverages will also be provided.",
+            "exzh": "飲み物も用意されます。",
+            "ipa": "/ˈbɛvɚɪdʒ/",
+            "audio": "media/words/ep10/beverage.mp3",
+            "ex_audio": "media/words/ep10/beverage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "circulate",
+            "pos": "v.",
+            "zh": "回覧する；行き渡らせる",
+            "ex": "We will be circulating a thank-you card for Bolano's staff.",
+            "exzh": "Bolano のスタッフ宛ての感謝カードを回覧します。",
+            "ipa": "/ˈsɝkjəˌleɪt/",
+            "audio": "media/words/ep10/circulate.mp3",
+            "ex_audio": "media/words/ep10/circulate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "signature",
+            "pos": "n.",
+            "zh": "署名；サイン",
+            "ex": "Please make sure to add your signature by 1 June.",
+            "exzh": "6月1日までに必ず署名してください。",
+            "ipa": "/ˈsɪɡnətʃɚ/",
+            "audio": "media/words/ep10/signature.mp3",
+            "ex_audio": "media/words/ep10/signature_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep10_cover.png",
+    "theme_ja": "本番問題の解説 · Test 1 続編",
+    "words": [
+      {
+        "word": "examine",
+        "pos": "v.",
+        "zh": "仔细查看；检查",
+        "ex": "The woman is examining clothes on a rack.",
+        "exzh": "女子正在仔细查看衣架上的衣服。",
+        "ipa": "/ɪɡˈzæmɪn/",
+        "audio": "media/words/ep10/examine.mp3",
+        "ex_audio": "media/words/ep10/examine_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rack",
+        "pos": "n.",
+        "zh": "架子；衣架",
+        "ex": "Several shirts are hanging on a rack.",
+        "exzh": "几件衬衫挂在衣架上。",
+        "ipa": "/ræk/",
+        "audio": "media/words/ep10/rack.mp3",
+        "ex_audio": "media/words/ep10/rack_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "aisle",
+        "pos": "n.",
+        "zh": "通道；过道",
+        "ex": "The woman is pushing a cart down an aisle.",
+        "exzh": "女子正推着购物车沿过道走。",
+        "ipa": "/aɪl/",
+        "audio": "media/words/ep10/aisle.mp3",
+        "ex_audio": "media/words/ep10/aisle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cart",
+        "pos": "n.",
+        "zh": "手推车；购物车",
+        "ex": "She left her cart near the fitting room.",
+        "exzh": "她把购物车留在试衣间附近。",
+        "ipa": "/kɑrt/",
+        "audio": "media/words/ep10/cart.mp3",
+        "ex_audio": "media/words/ep10/cart_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "erase",
+        "pos": "v.",
+        "zh": "擦掉；抹去",
+        "ex": "One of the people is erasing a whiteboard.",
+        "exzh": "其中一人正在擦白板。",
+        "ipa": "/ɪˈreɪs/",
+        "audio": "media/words/ep10/erase.mp3",
+        "ex_audio": "media/words/ep10/erase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "closet",
+        "pos": "n.",
+        "zh": "壁橱；储藏柜",
+        "ex": "Some chairs have been stored in a closet.",
+        "exzh": "一些椅子被收进了壁橱。",
+        "ipa": "/ˈklɑzət/",
+        "audio": "media/words/ep10/closet.mp3",
+        "ex_audio": "media/words/ep10/closet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "put together",
+        "pos": "v.",
+        "zh": "组装；拼装",
+        "ex": "Some people are putting together a bookshelf.",
+        "exzh": "有几个人正在组装书架。",
+        "ipa": "/pʊt təˈɡɛðɚ/",
+        "audio": "media/words/ep10/put-together.mp3",
+        "ex_audio": "media/words/ep10/put-together_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "process",
+        "pos": "v./n.",
+        "zh": "处理；流程",
+        "ex": "I can help you process the order for shipment.",
+        "exzh": "我可以帮你处理这份订单的发货。",
+        "ipa": "/ˈprɑˌsɛs/",
+        "audio": "media/words/ep10/process.mp3",
+        "ex_audio": "media/words/ep10/process_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "handle",
+        "pos": "v.",
+        "zh": "处理；应付",
+        "ex": "No, thanks, I already handled it.",
+        "exzh": "不用了，谢谢，我已经处理好了。",
+        "ipa": "/ˈhændəl/",
+        "audio": "media/words/ep10/handle.mp3",
+        "ex_audio": "media/words/ep10/handle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "replace",
+        "pos": "v.",
+        "zh": "更换；替换",
+        "ex": "Mr. Ruiz replaced the ink cartridge in the copier.",
+        "exzh": "Ruiz 先生换了复印机的墨盒。",
+        "ipa": "/ˌriˈpleɪs/",
+        "audio": "media/words/ep10/replace.mp3",
+        "ex_audio": "media/words/ep10/replace_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cartridge",
+        "pos": "n.",
+        "zh": "墨盒；（可替换的）芯",
+        "ex": "We need to order more ink cartridges.",
+        "exzh": "我们需要再订一些墨盒。",
+        "ipa": "/ˈkɑrtrədʒ/",
+        "audio": "media/words/ep10/cartridge.mp3",
+        "ex_audio": "media/words/ep10/cartridge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "copier",
+        "pos": "n.",
+        "zh": "复印机",
+        "ex": "The copier on the second floor is out of paper.",
+        "exzh": "二楼的复印机没纸了。",
+        "ipa": "/ˈkɑpiɚ/",
+        "audio": "media/words/ep10/copier.mp3",
+        "ex_audio": "media/words/ep10/copier_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "come with",
+        "pos": "v.",
+        "zh": "附带；配有",
+        "ex": "Doesn't this meal usually come with a salad?",
+        "exzh": "这份套餐通常不是配沙拉吗？",
+        "ipa": "/kʌm wɪð/",
+        "audio": "media/words/ep10/come-with.mp3",
+        "ex_audio": "media/words/ep10/come-with_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "announce",
+        "pos": "v.",
+        "zh": "宣布；公布",
+        "ex": "It won't be announced until Wednesday.",
+        "exzh": "要到星期三才会公布。",
+        "ipa": "/əˈnaʊns/",
+        "audio": "media/words/ep10/announce.mp3",
+        "ex_audio": "media/words/ep10/announce_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "extra",
+        "pos": "adj./n.",
+        "zh": "额外的；额外费用",
+        "ex": "I don't want to pay any extra.",
+        "exzh": "我不想额外付钱。",
+        "ipa": "/ˈɛkstrə/",
+        "audio": "media/words/ep10/extra.mp3",
+        "ex_audio": "media/words/ep10/extra_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "parade",
+        "pos": "n.",
+        "zh": "游行；巡游",
+        "ex": "Who's going to be in the parade?",
+        "exzh": "谁会参加游行？",
+        "ipa": "/pɚˈeɪd/",
+        "audio": "media/words/ep10/parade.mp3",
+        "ex_audio": "media/words/ep10/parade_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "zh": "重新安排时间；改期",
+        "ex": "It was rescheduled for next month.",
+        "exzh": "它被改到下个月了。",
+        "ipa": "/riˈskɛdʒul/",
+        "audio": "media/words/ep10/reschedule.mp3",
+        "ex_audio": "media/words/ep10/reschedule_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "set up",
+        "pos": "v.",
+        "zh": "布置；搭建",
+        "ex": "We have to set up the conference tables for the seminar.",
+        "exzh": "我们得为研讨会布置会议桌。",
+        "ipa": "/sɛt ʌp/",
+        "audio": "media/words/ep10/set-up.mp3",
+        "ex_audio": "media/words/ep10/set-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "folding",
+        "pos": "adj.",
+        "zh": "可折叠的",
+        "ex": "We need several folding metal chairs.",
+        "exzh": "我们需要几把折叠金属椅。",
+        "ipa": "/ˈfoʊldɪŋ/",
+        "audio": "media/words/ep10/folding.mp3",
+        "ex_audio": "media/words/ep10/folding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "register",
+        "pos": "v./n.",
+        "zh": "报名；登记；收银台",
+        "ex": "Should we register for the course today or tomorrow?",
+        "exzh": "我们是今天还是明天报名这门课？",
+        "ipa": "/ˈrɛdʒɪstɚ/",
+        "audio": "media/words/ep10/register.mp3",
+        "ex_audio": "media/words/ep10/register_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "certification",
+        "pos": "n.",
+        "zh": "资格认证；证书",
+        "ex": "She completed a certification course in accounting.",
+        "exzh": "她完成了一门会计资格认证课程。",
+        "ipa": "/ˌsɝtəfəˈkeɪʃən/",
+        "audio": "media/words/ep10/certification.mp3",
+        "ex_audio": "media/words/ep10/certification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "zh": "截止日期",
+        "ex": "The deadline has already passed.",
+        "exzh": "截止日期已经过了。",
+        "ipa": "/ˈdɛdˌlaɪn/",
+        "audio": "media/words/ep10/deadline.mp3",
+        "ex_audio": "media/words/ep10/deadline_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "construction",
+        "pos": "n.",
+        "zh": "建设；施工",
+        "ex": "The construction project should be completed by now.",
+        "exzh": "这个施工项目现在应该完工了。",
+        "ipa": "/kənˈstrʌkʃən/",
+        "audio": "media/words/ep10/construction.mp3",
+        "ex_audio": "media/words/ep10/construction_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "handout",
+        "pos": "n.",
+        "zh": "讲义；分发的资料",
+        "ex": "I'll make copies of the handout for the workshop.",
+        "exzh": "我来为研讨会复印讲义。",
+        "ipa": "/ˈhænˌdaʊt/",
+        "audio": "media/words/ep10/handout.mp3",
+        "ex_audio": "media/words/ep10/handout_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lounge",
+        "pos": "n.",
+        "zh": "休息室；休息厅",
+        "ex": "The game room and lounge are closed for renovations.",
+        "exzh": "游戏室和休息室因装修而关闭。",
+        "ipa": "/laʊndʒ/",
+        "audio": "media/words/ep10/lounge.mp3",
+        "ex_audio": "media/words/ep10/lounge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "count on",
+        "pos": "v.",
+        "zh": "指望；依靠",
+        "ex": "I was really counting on the hotel's outdoor pool.",
+        "exzh": "我本来很指望酒店的室外泳池。",
+        "ipa": "/kaʊnt ɑn/",
+        "audio": "media/words/ep10/count-on.mp3",
+        "ex_audio": "media/words/ep10/count-on_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "entertain",
+        "pos": "v.",
+        "zh": "使娱乐；招待",
+        "ex": "We need activities to keep guests entertained.",
+        "exzh": "我们需要一些活动让客人玩得开心。",
+        "ipa": "/ˌɛntɚˈteɪn/",
+        "audio": "media/words/ep10/entertain.mp3",
+        "ex_audio": "media/words/ep10/entertain_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bowling alley",
+        "pos": "n.",
+        "zh": "保龄球馆",
+        "ex": "There is a bowling alley in the city center.",
+        "exzh": "市中心有一家保龄球馆。",
+        "ipa": "/ˈboʊlɪŋ ˈæli/",
+        "audio": "media/words/ep10/bowling-alley.mp3",
+        "ex_audio": "media/words/ep10/bowling-alley_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shuttle",
+        "pos": "n.",
+        "zh": "接驳车；班车",
+        "ex": "We could use the shuttle to take guests there.",
+        "exzh": "我们可以用接驳车把客人送过去。",
+        "ipa": "/ˈʃʌtəl/",
+        "audio": "media/words/ep10/shuttle.mp3",
+        "ex_audio": "media/words/ep10/shuttle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "discount",
+        "pos": "n.",
+        "zh": "折扣",
+        "ex": "We might be able to get group discounts.",
+        "exzh": "我们也许能拿到团体折扣。",
+        "ipa": "/dɪˈskaʊnt/",
+        "audio": "media/words/ep10/discount.mp3",
+        "ex_audio": "media/words/ep10/discount_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "look into",
+        "pos": "v.",
+        "zh": "调查；了解",
+        "ex": "The man says he will look into available discounts.",
+        "exzh": "男子说他会去了解有哪些折扣。",
+        "ipa": "/lʊk ˈɪntu/",
+        "audio": "media/words/ep10/look-into.mp3",
+        "ex_audio": "media/words/ep10/look-into_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "celebration",
+        "pos": "n.",
+        "zh": "庆祝活动；庆祝会",
+        "ex": "Thank you so much, everyone, for this celebration.",
+        "exzh": "非常感谢大家为我举办这次庆祝会。",
+        "ipa": "/ˌsɛləˈbreɪʃən/",
+        "audio": "media/words/ep10/celebration.mp3",
+        "ex_audio": "media/words/ep10/celebration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retire",
+        "pos": "v.",
+        "zh": "退休",
+        "ex": "After nearly 30 years of working here, I'm ready to retire.",
+        "exzh": "在这里工作了将近三十年，我准备退休了。",
+        "ipa": "/rɪˈtaɪr/",
+        "audio": "media/words/ep10/retire.mp3",
+        "ex_audio": "media/words/ep10/retire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dedicated",
+        "pos": "adj.",
+        "zh": "致力于…的；专注的",
+        "ex": "I've been dedicated to making sure that all staff members are safe.",
+        "exzh": "我一直致力于确保所有员工的安全。",
+        "ipa": "/ˈdɛdəkeɪtəd/",
+        "audio": "media/words/ep10/dedicated.mp3",
+        "ex_audio": "media/words/ep10/dedicated_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "environment",
+        "pos": "n.",
+        "zh": "环境",
+        "ex": "All staff members should have a safe environment to work in.",
+        "exzh": "所有员工都应拥有安全的工作环境。",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "audio": "media/words/ep10/environment.mp3",
+        "ex_audio": "media/words/ep10/environment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "implement",
+        "pos": "v.",
+        "zh": "实施；执行",
+        "ex": "The safety policies we've implemented have proven to be effective.",
+        "exzh": "我们实施的安全政策已被证明有效。",
+        "ipa": "/ˈɪmpləmənt/",
+        "audio": "media/words/ep10/implement.mp3",
+        "ex_audio": "media/words/ep10/implement_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "effective",
+        "pos": "adj.",
+        "zh": "有效的；生效的",
+        "ex": "The new training program was very effective.",
+        "exzh": "新的培训计划非常有效。",
+        "ipa": "/ɪˈfɛktɪv/",
+        "audio": "media/words/ep10/effective.mp3",
+        "ex_audio": "media/words/ep10/effective_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "previous",
+        "pos": "adj.",
+        "zh": "以前的；前任的",
+        "ex": "Gregor Hoffman was our previous CEO.",
+        "exzh": "Gregor Hoffman 是我们的前任 CEO。",
+        "ipa": "/ˈpriviəs/",
+        "audio": "media/words/ep10/previous.mp3",
+        "ex_audio": "media/words/ep10/previous_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "framed",
+        "pos": "adj.",
+        "zh": "装了框的；裱起来的",
+        "ex": "It's framed and hanging on my wall.",
+        "exzh": "它被装进相框，挂在我的墙上。",
+        "ipa": "/freɪmd/",
+        "audio": "media/words/ep10/framed.mp3",
+        "ex_audio": "media/words/ep10/framed_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "anniversary",
+        "pos": "n.",
+        "zh": "周年纪念",
+        "ex": "The company held an anniversary celebration last year.",
+        "exzh": "公司去年举办了周年庆。",
+        "ipa": "/ˌænəˈvɝsɚi/",
+        "audio": "media/words/ep10/anniversary.mp3",
+        "ex_audio": "media/words/ep10/anniversary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "residential",
+        "pos": "adj.",
+        "zh": "住宅的；居家的",
+        "ex": "We have the right facilities for all your residential storage needs.",
+        "exzh": "我们有满足您所有居家储物需求的合适设施。",
+        "ipa": "/ˌrɛzɪˈdɛnʃəl/",
+        "audio": "media/words/ep10/residential.mp3",
+        "ex_audio": "media/words/ep10/residential_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "storage",
+        "pos": "n.",
+        "zh": "储存；仓储",
+        "ex": "The company rents out storage units at affordable rates.",
+        "exzh": "这家公司以实惠的价格出租储物间。",
+        "ipa": "/ˈstɔrədʒ/",
+        "audio": "media/words/ep10/storage.mp3",
+        "ex_audio": "media/words/ep10/storage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "qualified",
+        "pos": "adj.",
+        "zh": "合格的；有资格的",
+        "ex": "Mr. Arakaki was clearly the most qualified individual for the position.",
+        "exzh": "Arakaki 先生显然是这个职位最合格的人选。",
+        "ipa": "/ˈkwɑləˌfaɪd/",
+        "audio": "media/words/ep10/qualified.mp3",
+        "ex_audio": "media/words/ep10/qualified_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dealership",
+        "pos": "n.",
+        "zh": "经销店；代理商",
+        "ex": "A motorcycle dealership is opening a few blocks away.",
+        "exzh": "几个街区外要开一家摩托车经销店。",
+        "ipa": "/ˈdilɚˌʃɪp/",
+        "audio": "media/words/ep10/dealership.mp3",
+        "ex_audio": "media/words/ep10/dealership_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "consultation",
+        "pos": "n.",
+        "zh": "咨询；顾问服务",
+        "ex": "Mr. Bajaj provides consultation services to companies.",
+        "exzh": "Bajaj 先生为企业提供咨询服务。",
+        "ipa": "/ˌkɑnsəlˈteɪʃən/",
+        "audio": "media/words/ep10/consultation.mp3",
+        "ex_audio": "media/words/ep10/consultation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "automation",
+        "pos": "n.",
+        "zh": "自动化",
+        "ex": "Many factories are interested in industrial automation.",
+        "exzh": "许多工厂对工业自动化感兴趣。",
+        "ipa": "/ɔtəˈmeɪʃən/",
+        "audio": "media/words/ep10/automation.mp3",
+        "ex_audio": "media/words/ep10/automation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "collective",
+        "pos": "adj.",
+        "zh": "集体的；共同的",
+        "ex": "The marketing team made a collective decision.",
+        "exzh": "营销团队作出了一个集体决定。",
+        "ipa": "/kəˈlɛktɪv/",
+        "audio": "media/words/ep10/collective.mp3",
+        "ex_audio": "media/words/ep10/collective_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "conduct",
+        "pos": "v.",
+        "zh": "进行；实施",
+        "ex": "We will keep conducting customer surveys.",
+        "exzh": "我们会继续进行顾客调查。",
+        "ipa": "/ˈkɑndəkt/",
+        "audio": "media/words/ep10/conduct.mp3",
+        "ex_audio": "media/words/ep10/conduct_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "guarantee",
+        "pos": "n./v.",
+        "zh": "保证；担保",
+        "ex": "Each pan comes with a twelve-year guarantee.",
+        "exzh": "每只锅都附带十二年保证。",
+        "ipa": "/ˌɡɛrənˈti/",
+        "audio": "media/words/ep10/guarantee.mp3",
+        "ex_audio": "media/words/ep10/guarantee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "occasionally",
+        "pos": "adv.",
+        "zh": "偶尔；有时",
+        "ex": "The delivery company has occasionally experienced delays.",
+        "exzh": "这家快递公司偶尔会遇到延误。",
+        "ipa": "/əˈkeɪʒənəli/",
+        "audio": "media/words/ep10/occasionally.mp3",
+        "ex_audio": "media/words/ep10/occasionally_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contract",
+        "pos": "n.",
+        "zh": "合同；合约",
+        "ex": "The contract will be awarded once all documents are received.",
+        "exzh": "一旦收到所有文件，就会授予合同。",
+        "ipa": "/ˈkɑnˌtrækt/",
+        "audio": "media/words/ep10/contract.mp3",
+        "ex_audio": "media/words/ep10/contract_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regret",
+        "pos": "v./n.",
+        "zh": "遗憾；后悔",
+        "ex": "We regret to inform you that the performance has been postponed.",
+        "exzh": "我们很遗憾地通知您，演出已延期。",
+        "ipa": "/rəˈɡrɛt/",
+        "audio": "media/words/ep10/regret.mp3",
+        "ex_audio": "media/words/ep10/regret_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "performance",
+        "pos": "n.",
+        "zh": "演出；表现",
+        "ex": "Tomorrow's 8:00 P.M. performance has been postponed.",
+        "exzh": "明晚八点的演出已延期。",
+        "ipa": "/pɚˈfɔrməns/",
+        "audio": "media/words/ep10/performance.mp3",
+        "ex_audio": "media/words/ep10/performance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "patron",
+        "pos": "n.",
+        "zh": "顾客；赞助人",
+        "ex": "The theater offers discounted tickets to loyal patrons.",
+        "exzh": "剧院为忠实观众提供折扣票。",
+        "ipa": "/ˈpeɪtrən/",
+        "audio": "media/words/ep10/patron.mp3",
+        "ex_audio": "media/words/ep10/patron_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retain",
+        "pos": "v.",
+        "zh": "保留；保持",
+        "ex": "Please retain your tickets.",
+        "exzh": "请保留好您的门票。",
+        "ipa": "/rɪˈteɪn/",
+        "audio": "media/words/ep10/retain.mp3",
+        "ex_audio": "media/words/ep10/retain_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "box office",
+        "pos": "n.",
+        "zh": "售票处",
+        "ex": "For any questions, contact the box office.",
+        "exzh": "如有任何问题，请联系售票处。",
+        "ipa": "/bɑks ˈɔfɪs/",
+        "audio": "media/words/ep10/box-office.mp3",
+        "ex_audio": "media/words/ep10/box-office_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n.",
+        "zh": "不便；麻烦",
+        "ex": "We sincerely apologize for the inconvenience.",
+        "exzh": "我们对造成的不便深表歉意。",
+        "ipa": "/ˌɪnkənˈvinjəns/",
+        "audio": "media/words/ep10/inconvenience.mp3",
+        "ex_audio": "media/words/ep10/inconvenience_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "annual",
+        "pos": "adj.",
+        "zh": "每年的；年度的",
+        "ex": "It is time for a favourite annual tradition.",
+        "exzh": "一年一度大家喜爱的传统活动又来了。",
+        "ipa": "/ˈænjuəl/",
+        "audio": "media/words/ep10/annual.mp3",
+        "ex_audio": "media/words/ep10/annual_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "collaboration",
+        "pos": "n.",
+        "zh": "合作；协作",
+        "ex": "Lunch is provided in honour of our continued business collaboration.",
+        "exzh": "午餐是为纪念我们持续的业务合作而提供的。",
+        "ipa": "/kəˌlæbɚˈeɪʃən/",
+        "audio": "media/words/ep10/collaboration.mp3",
+        "ex_audio": "media/words/ep10/collaboration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appreciation",
+        "pos": "n.",
+        "zh": "感谢；欣赏",
+        "ex": "The gift was given to express appreciation for a business partnership.",
+        "exzh": "这份礼物是为了感谢双方的业务合作。",
+        "ipa": "/əˌpriʃiˈeɪʃən/",
+        "audio": "media/words/ep10/appreciation.mp3",
+        "ex_audio": "media/words/ep10/appreciation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "beverage",
+        "pos": "n.",
+        "zh": "饮料",
+        "ex": "Beverages will also be provided.",
+        "exzh": "也会提供饮料。",
+        "ipa": "/ˈbɛvɚɪdʒ/",
+        "audio": "media/words/ep10/beverage.mp3",
+        "ex_audio": "media/words/ep10/beverage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "circulate",
+        "pos": "v.",
+        "zh": "传阅；流通",
+        "ex": "We will be circulating a thank-you card for Bolano's staff.",
+        "exzh": "我们会传阅一张给 Bolano 员工的感谢卡。",
+        "ipa": "/ˈsɝkjəˌleɪt/",
+        "audio": "media/words/ep10/circulate.mp3",
+        "ex_audio": "media/words/ep10/circulate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "signature",
+        "pos": "n.",
+        "zh": "签名",
+        "ex": "Please make sure to add your signature by 1 June.",
+        "exzh": "请务必在6月1日前签上名字。",
+        "ipa": "/ˈsɪɡnətʃɚ/",
+        "audio": "media/words/ep10/signature.mp3",
+        "ex_audio": "media/words/ep10/signature_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 9,
     "theme": "真题精讲 · Test 1 进阶",
     "date": "2026-10-12",
-    "duration_sec": 2317.0,
+    "duration_sec": 2715.7,
     "segments": [
       {
-        "title": "1. 开场介绍",
+        "title": "1. Part 1 照片真题",
         "start": 0.0,
-        "length": 42.29
+        "length": 160.7
       },
       {
-        "title": "2. 25 个真题词汇",
-        "start": 42.29,
-        "length": 622.78
+        "title": "2. Part 2 应答题 10 道",
+        "start": 160.7,
+        "length": 472.23
       },
       {
-        "title": "3. Part 1 照片真题",
-        "start": 665.07,
-        "length": 183.61
+        "title": "3. Part 3/4 逐句精听",
+        "start": 632.94,
+        "length": 575.46
       },
       {
-        "title": "4. Part 2 陷阱题 10 道",
-        "start": 848.68,
-        "length": 353.33
+        "title": "4. Part 5 语法真题 8 题",
+        "start": 1208.4,
+        "length": 394.25
       },
       {
-        "title": "5. Part 3/4 真题精听",
-        "start": 1202.0,
-        "length": 306.79
+        "title": "5. Part 6 短文填空",
+        "start": 1602.64,
+        "length": 284.44
       },
       {
-        "title": "6. Part 5 语法真题 8 题",
-        "start": 1508.8,
-        "length": 325.37
-      },
-      {
-        "title": "7. Part 6 短文填空",
-        "start": 1834.16,
-        "length": 243.41
-      },
-      {
-        "title": "8. 应试策略",
-        "start": 2077.57,
-        "length": 64.54
-      },
-      {
-        "title": "9. 10 词快速复习",
-        "start": 2142.12,
-        "length": 174.88
+        "title": "6. 本期 55 词总复习 · 拼读",
+        "start": 1887.08,
+        "length": 828.58
       }
     ],
     "highlight_words": [
@@ -83,36 +2076,216 @@
         "zh": "文件；文档"
       },
       {
+        "word": "wipe off",
+        "zh": "擦掉；擦拭"
+      },
+      {
         "word": "potted plant",
         "zh": "盆栽；盆景"
+      },
+      {
+        "word": "entrance",
+        "zh": "入口"
+      },
+      {
+        "word": "ladder",
+        "zh": "梯子"
       },
       {
         "word": "elevator",
         "zh": "电梯"
       },
       {
-        "word": "examine",
-        "zh": "检查；仔细查看"
-      },
-      {
         "word": "award",
         "zh": "奖；奖励"
+      },
+      {
+        "word": "prototype",
+        "zh": "样品；原型"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；盘点"
       },
       {
         "word": "gallery",
         "zh": "美术馆；画廊"
       },
       {
+        "word": "ride",
+        "zh": "搭车；便车"
+      },
+      {
+        "word": "payroll",
+        "zh": "工资；薪资发放"
+      },
+      {
+        "word": "go into effect",
+        "zh": "生效；开始实施"
+      },
+      {
         "word": "pamphlet",
         "zh": "小册子；宣传册"
+      },
+      {
+        "word": "auditorium",
+        "zh": "礼堂；会堂"
+      },
+      {
+        "word": "committee",
+        "zh": "委员会"
       },
       {
         "word": "projector",
         "zh": "投影仪"
       },
       {
+        "word": "equipped",
+        "zh": "配备…的"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "budget",
+        "zh": "预算"
+      },
+      {
+        "word": "shipment",
+        "zh": "货物；运送"
+      },
+      {
+        "word": "glitch",
+        "zh": "小故障；技术故障"
+      },
+      {
         "word": "drop off",
         "zh": "放下；归还；车等"
+      },
+      {
+        "word": "rent",
+        "zh": "租用"
+      },
+      {
+        "word": "notify",
+        "zh": "通知"
+      },
+      {
+        "word": "branch",
+        "zh": "分店；分公司"
+      },
+      {
+        "word": "be aware",
+        "zh": "注意；知道"
+      },
+      {
+        "word": "late fee",
+        "zh": "滞纳金；逾期费"
+      },
+      {
+        "word": "rental",
+        "zh": "租赁；租用的"
+      },
+      {
+        "word": "forecast",
+        "zh": "预报；预测"
+      },
+      {
+        "word": "mounting",
+        "zh": "不断加剧的；上升的"
+      },
+      {
+        "word": "cancellation",
+        "zh": "取消"
+      },
+      {
+        "word": "affect",
+        "zh": "影响"
+      },
+      {
+        "word": "multiple",
+        "zh": "多个的；多种的"
+      },
+      {
+        "word": "ripple",
+        "zh": "；影响；扩散；波及"
+      },
+      {
+        "word": "authority",
+        "zh": "当局；管理机构"
+      },
+      {
+        "word": "public relations",
+        "zh": "公关；公共关系"
+      },
+      {
+        "word": "malfunction",
+        "zh": "故障；失灵"
+      },
+      {
+        "word": "shortage",
+        "zh": "短缺；不足"
+      },
+      {
+        "word": "amphitheater",
+        "zh": "露天剧场；圆形剧场"
+      },
+      {
+        "word": "resident",
+        "zh": "居民"
+      },
+      {
+        "word": "stationery",
+        "zh": "文具"
+      },
+      {
+        "word": "retail",
+        "zh": "零售；零售的"
+      },
+      {
+        "word": "activate",
+        "zh": "激活；开通"
+      },
+      {
+        "word": "submit",
+        "zh": "提交"
+      },
+      {
+        "word": "sector",
+        "zh": "行业；部门"
+      },
+      {
+        "word": "renovation",
+        "zh": "翻修；装修"
+      },
+      {
+        "word": "extended",
+        "zh": "延长的；长期的"
+      },
+      {
+        "word": "bakery",
+        "zh": "面包店；烘焙店"
+      },
+      {
+        "word": "successful",
+        "zh": "成功的"
+      },
+      {
+        "word": "baked goods",
+        "zh": "烘焙食品；糕点"
+      },
+      {
+        "word": "loan",
+        "zh": "贷款"
+      },
+      {
+        "word": "precisely",
+        "zh": "准确地；精确地"
+      },
+      {
+        "word": "business plan",
+        "zh": "商业计划书"
       }
     ],
     "video": "media/ep9.mp4",
@@ -124,53 +2297,38 @@
         "page": "ep9.html",
         "video": "media/ep9.mp4",
         "script_pdf": "media/ep9_script.pdf",
-        "duration_sec": 2317.0,
+        "duration_sec": 2715.7,
         "theme": "真题精讲 · Test 1 进阶",
         "segments": [
           {
-            "title": "1. 开场介绍",
+            "title": "1. Part 1 照片真题",
             "start": 0.0,
-            "length": 42.29
+            "length": 160.7
           },
           {
-            "title": "2. 25 个真题词汇",
-            "start": 42.29,
-            "length": 622.78
+            "title": "2. Part 2 应答题 10 道",
+            "start": 160.7,
+            "length": 472.23
           },
           {
-            "title": "3. Part 1 照片真题",
-            "start": 665.07,
-            "length": 183.61
+            "title": "3. Part 3/4 逐句精听",
+            "start": 632.94,
+            "length": 575.46
           },
           {
-            "title": "4. Part 2 陷阱题 10 道",
-            "start": 848.68,
-            "length": 353.33
+            "title": "4. Part 5 语法真题 8 题",
+            "start": 1208.4,
+            "length": 394.25
           },
           {
-            "title": "5. Part 3/4 真题精听",
-            "start": 1202.0,
-            "length": 306.79
+            "title": "5. Part 6 短文填空",
+            "start": 1602.64,
+            "length": 284.44
           },
           {
-            "title": "6. Part 5 语法真题 8 题",
-            "start": 1508.8,
-            "length": 325.37
-          },
-          {
-            "title": "7. Part 6 短文填空",
-            "start": 1834.16,
-            "length": 243.41
-          },
-          {
-            "title": "8. 应试策略",
-            "start": 2077.57,
-            "length": 64.54
-          },
-          {
-            "title": "9. 10 词快速复习",
-            "start": 2142.12,
-            "length": 174.88
+            "title": "6. 本期 55 词总复习 · 拼读",
+            "start": 1887.08,
+            "length": 828.58
           }
         ],
         "has_words": true
@@ -180,53 +2338,38 @@
         "page": "ep9ja.html",
         "video": "media/ep9ja.mp4",
         "script_pdf": "media/ep9ja_script.pdf",
-        "duration_sec": 2637.7,
+        "duration_sec": 3128.4,
         "theme": "本番問題の解説 · Test 1 応用",
         "segments": [
           {
-            "title": "1. オープニング",
+            "title": "1. Part 1 写真の本番問題",
             "start": 0.0,
-            "length": 57.96
+            "length": 200.9
           },
           {
-            "title": "2. 本番問題の語彙 25 語",
-            "start": 57.96,
-            "length": 647.74
+            "title": "2. Part 2 応答問題 10 問",
+            "start": 200.9,
+            "length": 560.22
           },
           {
-            "title": "3. Part 1 写真問題（本番）",
-            "start": 705.7,
-            "length": 224.26
+            "title": "3. Part 3/4 1文ずつ精聴",
+            "start": 761.12,
+            "length": 712.31
           },
           {
-            "title": "4. Part 2 ひっかけ問題 10 問",
-            "start": 929.96,
-            "length": 418.15
+            "title": "4. Part 5 文法の本番問題 8 問",
+            "start": 1473.43,
+            "length": 455.04
           },
           {
-            "title": "5. Part 3/4 本番問題の精聴",
-            "start": 1348.12,
-            "length": 352.56
+            "title": "5. Part 6 長文穴埋め",
+            "start": 1928.47,
+            "length": 331.02
           },
           {
-            "title": "6. Part 5 文法本番問題 8 問",
-            "start": 1700.68,
-            "length": 371.38
-          },
-          {
-            "title": "7. Part 6 短文穴埋め",
-            "start": 2072.05,
-            "length": 280.08
-          },
-          {
-            "title": "8. 受験ストラテジー",
-            "start": 2352.13,
-            "length": 85.52
-          },
-          {
-            "title": "9. 10 語のクイック復習",
-            "start": 2437.65,
-            "length": 200.08
+            "title": "6. 今回の 55 語まとめ復習 · スペル",
+            "start": 2259.49,
+            "length": 868.9
           }
         ],
         "poster": "media/ep9ja_cover.png",
@@ -256,28 +2399,58 @@
         "words_meta": [
           "stacked",
           "document",
+          "wipe off",
           "potted plant",
+          "entrance",
+          "ladder",
           "elevator",
-          "examine",
           "award",
+          "prototype",
+          "inventory",
           "gallery",
+          "ride",
+          "payroll",
+          "go into effect",
           "pamphlet",
+          "auditorium",
+          "committee",
           "projector",
-          "drop off",
-          "late fee",
+          "equipped",
+          "postpone",
+          "budget",
+          "shipment",
           "glitch",
-          "cancellation",
+          "drop off",
+          "rent",
+          "notify",
+          "branch",
+          "be aware",
+          "late fee",
+          "rental",
+          "forecast",
           "mounting",
+          "cancellation",
+          "affect",
+          "multiple",
+          "ripple",
+          "authority",
+          "public relations",
+          "malfunction",
+          "shortage",
           "amphitheater",
+          "resident",
           "stationery",
           "retail",
           "activate",
+          "submit",
+          "sector",
+          "renovation",
+          "extended",
           "bakery",
           "successful",
           "baked goods",
+          "loan",
           "precisely",
-          "extended",
-          "erase",
           "business plan"
         ],
         "words": [
@@ -306,6 +2479,18 @@
             "review": true
           },
           {
+            "word": "wipe off",
+            "pos": "v.",
+            "zh": "拭き取る、拭く",
+            "ex": "She's wiping off a computer keyboard.",
+            "exzh": "彼女はパソコンのキーボードを拭いている。",
+            "ipa": "/waɪp ɔf/",
+            "audio": "media/words/ep9/wipe-off.mp3",
+            "ex_audio": "media/words/ep9/wipe-off_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
             "word": "potted plant",
             "pos": "n.",
             "zh": "鉢植え；盆栽",
@@ -314,6 +2499,30 @@
             "ipa": "/ˈpɑtɪd plænt/",
             "audio": "media/words/ep9/potted-plant.mp3",
             "ex_audio": "media/words/ep9/potted-plant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "entrance",
+            "pos": "n.",
+            "zh": "入り口",
+            "ex": "An entrance is blocked by a ladder.",
+            "exzh": "入り口がはしごでふさがれている。",
+            "ipa": "/ˈɛntrəns/",
+            "audio": "media/words/ep9/entrance.mp3",
+            "ex_audio": "media/words/ep9/entrance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ladder",
+            "pos": "n.",
+            "zh": "はしご",
+            "ex": "A ladder is leaning against the wall.",
+            "exzh": "はしごが壁に立てかけてある。",
+            "ipa": "/ˈlædɚ/",
+            "audio": "media/words/ep9/ladder.mp3",
+            "ex_audio": "media/words/ep9/ladder_ex.mp3",
             "highlight": false,
             "review": true
           },
@@ -330,18 +2539,6 @@
             "review": true
           },
           {
-            "word": "examine",
-            "pos": "v.",
-            "zh": "調べる；よく見る",
-            "ex": "The woman is examining clothes on a rack.",
-            "exzh": "その女性はハンガーラックの服を見ている。",
-            "ipa": "/ɪɡˈzæmɪn/",
-            "audio": "media/words/ep9/examine.mp3",
-            "ex_audio": "media/words/ep9/examine_ex.mp3",
-            "highlight": false,
-            "review": true
-          },
-          {
             "word": "award",
             "pos": "n.",
             "zh": "賞；表彰",
@@ -350,6 +2547,30 @@
             "ipa": "/əˈwɔrd/",
             "audio": "media/words/ep9/award.mp3",
             "ex_audio": "media/words/ep9/award_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prototype",
+            "pos": "n.",
+            "zh": "試作品、プロトタイプ",
+            "ex": "Because the client liked her prototype.",
+            "exzh": "顧客が彼女の試作品を気に入ったからです。",
+            "ipa": "/ˈproʊtəˌtaɪp/",
+            "audio": "media/words/ep9/prototype.mp3",
+            "ex_audio": "media/words/ep9/prototype_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inventory",
+            "pos": "n.",
+            "zh": "在庫、棚卸し",
+            "ex": "Should we finish taking inventory first?",
+            "exzh": "先に棚卸しを終わらせましょうか。",
+            "ipa": "/ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep9/inventory.mp3",
+            "ex_audio": "media/words/ep9/inventory_ex.mp3",
             "highlight": false,
             "review": true
           },
@@ -366,6 +2587,42 @@
             "review": true
           },
           {
+            "word": "ride",
+            "pos": "n.",
+            "zh": "車に乗せてもらうこと",
+            "ex": "I need a ride.",
+            "exzh": "車に乗せてもらいたいです。",
+            "ipa": "/raɪd/",
+            "audio": "media/words/ep9/ride.mp3",
+            "ex_audio": "media/words/ep9/ride_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "payroll",
+            "pos": "n.",
+            "zh": "給与、給与支払い",
+            "ex": "The updated payroll policy will go into effect soon.",
+            "exzh": "新しい給与方針がまもなく施行される。",
+            "ipa": "/ˈpeɪˌroʊl/",
+            "audio": "media/words/ep9/payroll.mp3",
+            "ex_audio": "media/words/ep9/payroll_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go into effect",
+            "pos": "v.",
+            "zh": "施行される、発効する",
+            "ex": "When will the updated payroll policy go into effect?",
+            "exzh": "新しい給与方針はいつ施行されますか。",
+            "ipa": "/ɡoʊ ˈɪntu ɪˈfɛkt/",
+            "audio": "media/words/ep9/go-into-effect.mp3",
+            "ex_audio": "media/words/ep9/go-into-effect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
             "word": "pamphlet",
             "pos": "n.",
             "zh": "パンフレット；小冊子",
@@ -374,6 +2631,30 @@
             "ipa": "/ˈpæmflət/",
             "audio": "media/words/ep9/pamphlet.mp3",
             "ex_audio": "media/words/ep9/pamphlet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "auditorium",
+            "pos": "n.",
+            "zh": "講堂、ホール",
+            "ex": "The auditorium is on the third floor.",
+            "exzh": "講堂は3階です。",
+            "ipa": "/ˌɔdəˈtɔriəm/",
+            "audio": "media/words/ep9/auditorium.mp3",
+            "ex_audio": "media/words/ep9/auditorium_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "committee",
+            "pos": "n.",
+            "zh": "委員会",
+            "ex": "He's the committee chair.",
+            "exzh": "彼は委員長です。",
+            "ipa": "/kəˈmɪti/",
+            "audio": "media/words/ep9/committee.mp3",
+            "ex_audio": "media/words/ep9/committee_ex.mp3",
             "highlight": false,
             "review": true
           },
@@ -390,6 +2671,66 @@
             "review": true
           },
           {
+            "word": "equipped",
+            "pos": "adj.",
+            "zh": "〜を備えた",
+            "ex": "It came equipped with a navigation system.",
+            "exzh": "それにはナビゲーションシステムが付いていた。",
+            "ipa": "/ɪˈkwɪpt/",
+            "audio": "media/words/ep9/equipped.mp3",
+            "ex_audio": "media/words/ep9/equipped_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する",
+            "ex": "When was the last time the budget meeting was postponed?",
+            "exzh": "予算会議が最後に延期されたのはいつですか。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep9/postpone.mp3",
+            "ex_audio": "media/words/ep9/postpone_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "budget",
+            "pos": "n.",
+            "zh": "予算",
+            "ex": "The budget meeting starts at ten.",
+            "exzh": "予算会議は10時に始まる。",
+            "ipa": "/ˈbʌdʒɪt/",
+            "audio": "media/words/ep9/budget.mp3",
+            "ex_audio": "media/words/ep9/budget_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shipment",
+            "pos": "n.",
+            "zh": "出荷品、発送",
+            "ex": "Why was the shipment delayed?",
+            "exzh": "その出荷品はなぜ遅れたのですか。",
+            "ipa": "/ˈʃɪpmənt/",
+            "audio": "media/words/ep9/shipment.mp3",
+            "ex_audio": "media/words/ep9/shipment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "glitch",
+            "pos": "n.",
+            "zh": "小さな不具合；技術的な故障",
+            "ex": "A computer glitch caused the cancellation of many flights.",
+            "exzh": "コンピューターの不具合で多くの便が欠航した。",
+            "ipa": "/ɡlɪtʃ/",
+            "audio": "media/words/ep9/glitch.mp3",
+            "ex_audio": "media/words/ep9/glitch_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
             "word": "drop off",
             "pos": "v.",
             "zh": "置く；返却する（車など）",
@@ -402,6 +2743,54 @@
             "review": true
           },
           {
+            "word": "rent",
+            "pos": "v.",
+            "zh": "借りる、レンタルする",
+            "ex": "I'm calling about a car I rented on Monday.",
+            "exzh": "月曜日に借りた車のことでお電話しています。",
+            "ipa": "/rɛnt/",
+            "audio": "media/words/ep9/rent.mp3",
+            "ex_audio": "media/words/ep9/rent_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "notify",
+            "pos": "v.",
+            "zh": "知らせる、通知する",
+            "ex": "I can notify our Oakland branch.",
+            "exzh": "Oakland 支店に知らせておきます。",
+            "ipa": "/ˈnoʊtəˌfaɪ/",
+            "audio": "media/words/ep9/notify.mp3",
+            "ex_audio": "media/words/ep9/notify_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "branch",
+            "pos": "n.",
+            "zh": "支店、支社",
+            "ex": "Our Oakland branch closes early on Sundays.",
+            "exzh": "Oakland 支店は日曜日は早く閉まります。",
+            "ipa": "/bræntʃ/",
+            "audio": "media/words/ep9/branch.mp3",
+            "ex_audio": "media/words/ep9/branch_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be aware",
+            "pos": "v.",
+            "zh": "注意する、承知している",
+            "ex": "Please be aware that the office closes early on Sundays.",
+            "exzh": "営業所は日曜日は早く閉まるのでご注意ください。",
+            "ipa": "/bi əˈwɛr/",
+            "audio": "media/words/ep9/be-aware.mp3",
+            "ex_audio": "media/words/ep9/be-aware_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
             "word": "late fee",
             "pos": "n.",
             "zh": "延滞料金；遅延手数料",
@@ -411,31 +2800,31 @@
             "audio": "media/words/ep9/late-fee.mp3",
             "ex_audio": "media/words/ep9/late-fee_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
-            "word": "glitch",
-            "pos": "n.",
-            "zh": "小さな不具合；技術的な故障",
-            "ex": "A computer glitch caused the cancellation of many flights.",
-            "exzh": "コンピューターの不具合で多くの便が欠航した。",
-            "ipa": "/ɡlɪtʃ/",
-            "audio": "media/words/ep9/glitch.mp3",
-            "ex_audio": "media/words/ep9/glitch_ex.mp3",
-            "highlight": true,
-            "review": false
-          },
-          {
-            "word": "cancellation",
-            "pos": "n.",
-            "zh": "キャンセル；欠航",
-            "ex": "Flight cancellations are rippling across the system.",
-            "exzh": "欠航がシステム全体に広がっている。",
-            "ipa": "/ˌkænsəˈleɪʃən/",
-            "audio": "media/words/ep9/cancellation.mp3",
-            "ex_audio": "media/words/ep9/cancellation_ex.mp3",
+            "word": "rental",
+            "pos": "n./adj.",
+            "zh": "レンタル、賃貸の",
+            "ex": "To extend a car rental period.",
+            "exzh": "レンタカーの期間を延長するため。",
+            "ipa": "/ˈrɛntəl/",
+            "audio": "media/words/ep9/rental.mp3",
+            "ex_audio": "media/words/ep9/rental_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "forecast",
+            "pos": "n.",
+            "zh": "予報、予測",
+            "ex": "A weather forecast.",
+            "exzh": "天気予報。",
+            "ipa": "/ˈfɔrˌkæst/",
+            "audio": "media/words/ep9/forecast.mp3",
+            "ex_audio": "media/words/ep9/forecast_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "mounting",
@@ -447,7 +2836,103 @@
             "audio": "media/words/ep9/mounting.mp3",
             "ex_audio": "media/words/ep9/mounting_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "cancellation",
+            "pos": "n.",
+            "zh": "キャンセル；欠航",
+            "ex": "Flight cancellations are rippling across the system.",
+            "exzh": "欠航がシステム全体に広がっている。",
+            "ipa": "/ˌkænsəˈleɪʃən/",
+            "audio": "media/words/ep9/cancellation.mp3",
+            "ex_audio": "media/words/ep9/cancellation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "affect",
+            "pos": "v.",
+            "zh": "影響を与える",
+            "ex": "This technical problem is affecting multiple airlines.",
+            "exzh": "この技術的な問題は複数の航空会社に影響を与えている。",
+            "ipa": "/əˈfɛkt/",
+            "audio": "media/words/ep9/affect.mp3",
+            "ex_audio": "media/words/ep9/affect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "multiple",
+            "pos": "adj.",
+            "zh": "複数の、多数の",
+            "ex": "Multiple airlines were affected.",
+            "exzh": "複数の航空会社が影響を受けた。",
+            "ipa": "/ˈmʌltəpəl/",
+            "audio": "media/words/ep9/multiple.mp3",
+            "ex_audio": "media/words/ep9/multiple_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ripple",
+            "pos": "v.",
+            "zh": "（影響が）波及する、広がる",
+            "ex": "Delays and cancellations are rippling throughout the system.",
+            "exzh": "遅延と欠航がシステム全体に広がっている。",
+            "ipa": "/ˈrɪpəl/",
+            "audio": "media/words/ep9/ripple.mp3",
+            "ex_audio": "media/words/ep9/ripple_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "authority",
+            "pos": "n.",
+            "zh": "当局",
+            "ex": "Pressure is mounting on airport authorities to fix the issue.",
+            "exzh": "空港当局に問題解決を求める圧力が高まっている。",
+            "ipa": "/əˈθɔrəti/",
+            "audio": "media/words/ep9/authority.mp3",
+            "ex_audio": "media/words/ep9/authority_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "public relations",
+            "pos": "n.",
+            "zh": "広報、パブリック・リレーションズ",
+            "ex": "I tried to contact the public relations officer.",
+            "exzh": "広報担当者に連絡を取ろうとした。",
+            "ipa": "/ˈpʌblɪk riˈleɪʃənz/",
+            "audio": "media/words/ep9/public-relations.mp3",
+            "ex_audio": "media/words/ep9/public-relations_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "malfunction",
+            "pos": "n.",
+            "zh": "故障、誤作動",
+            "ex": "A computer malfunction caused the problem.",
+            "exzh": "コンピューターの故障がこの問題を引き起こした。",
+            "ipa": "/mælˈfʌŋkʃən/",
+            "audio": "media/words/ep9/malfunction.mp3",
+            "ex_audio": "media/words/ep9/malfunction_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shortage",
+            "pos": "n.",
+            "zh": "不足",
+            "ex": "A staff shortage delayed the work.",
+            "exzh": "人手不足で作業が遅れた。",
+            "ipa": "/ˈʃɔrtədʒ/",
+            "audio": "media/words/ep9/shortage.mp3",
+            "ex_audio": "media/words/ep9/shortage_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "amphitheater",
@@ -459,7 +2944,19 @@
             "audio": "media/words/ep9/amphitheater.mp3",
             "ex_audio": "media/words/ep9/amphitheater_ex.mp3",
             "highlight": true,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "resident",
+            "pos": "n.",
+            "zh": "住民",
+            "ex": "The events are popular with the city's residents.",
+            "exzh": "それらのイベントは市民に人気がある。",
+            "ipa": "/ˈrɛzɪdənt/",
+            "audio": "media/words/ep9/resident.mp3",
+            "ex_audio": "media/words/ep9/resident_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "stationery",
@@ -471,7 +2968,7 @@
             "audio": "media/words/ep9/stationery.mp3",
             "ex_audio": "media/words/ep9/stationery_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
             "word": "retail",
@@ -483,7 +2980,7 @@
             "audio": "media/words/ep9/retail.mp3",
             "ex_audio": "media/words/ep9/retail_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
             "word": "activate",
@@ -495,55 +2992,43 @@
             "audio": "media/words/ep9/activate.mp3",
             "ex_audio": "media/words/ep9/activate_ex.mp3",
             "highlight": true,
-            "review": false
+            "review": true
           },
           {
-            "word": "bakery",
+            "word": "submit",
+            "pos": "v.",
+            "zh": "提出する",
+            "ex": "Applications must be submitted online.",
+            "exzh": "応募はオンラインで提出しなければならない。",
+            "ipa": "/səbˈmɪt/",
+            "audio": "media/words/ep9/submit.mp3",
+            "ex_audio": "media/words/ep9/submit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sector",
             "pos": "n.",
-            "zh": "パン屋；ベーカリー",
-            "ex": "Joe owns a local bakery downtown.",
-            "exzh": "Joe は都心で地元のパン屋を経営している。",
-            "ipa": "/ˈbeɪkɚi/",
-            "audio": "media/words/ep9/bakery.mp3",
-            "ex_audio": "media/words/ep9/bakery_ex.mp3",
+            "zh": "業界、部門",
+            "ex": "We need individuals with experience in the technology sector.",
+            "exzh": "テクノロジー業界での経験がある人が必要だ。",
+            "ipa": "/ˈsɛktɚ/",
+            "audio": "media/words/ep9/sector.mp3",
+            "ex_audio": "media/words/ep9/sector_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
-            "word": "successful",
-            "pos": "adj.",
-            "zh": "成功した；好調な",
-            "ex": "The bakery has become increasingly successful.",
-            "exzh": "このパン屋はますます成功している。",
-            "ipa": "/səkˈsɛsfəl/",
-            "audio": "media/words/ep9/successful.mp3",
-            "ex_audio": "media/words/ep9/successful_ex.mp3",
-            "highlight": false,
-            "review": false
-          },
-          {
-            "word": "baked goods",
+            "word": "renovation",
             "pos": "n.",
-            "zh": "焼き菓子・パン類；ベーカリー製品",
-            "ex": "The coffee shop will also sell some baked goods.",
-            "exzh": "カフェでも焼き菓子をいくつか売る予定だ。",
-            "ipa": "/beɪkt ɡʊdz/",
-            "audio": "media/words/ep9/baked-goods.mp3",
-            "ex_audio": "media/words/ep9/baked-goods_ex.mp3",
+            "zh": "改装、改修",
+            "ex": "The café reopened after a two-month renovation project.",
+            "exzh": "カフェは2か月の改装工事の後、営業を再開した。",
+            "ipa": "/ˌrɛnəˈveɪʃən/",
+            "audio": "media/words/ep9/renovation.mp3",
+            "ex_audio": "media/words/ep9/renovation_ex.mp3",
             "highlight": false,
-            "review": false
-          },
-          {
-            "word": "precisely",
-            "pos": "adv.",
-            "zh": "正確に；精密に",
-            "ex": "You can see precisely how I plan to use the loan.",
-            "exzh": "融資をどのように使う計画か、正確に確認できます。",
-            "ipa": "/prɪˈsaɪsli/",
-            "audio": "media/words/ep9/precisely.mp3",
-            "ex_audio": "media/words/ep9/precisely_ex.mp3",
-            "highlight": true,
-            "review": false
+            "review": true
           },
           {
             "word": "extended",
@@ -555,19 +3040,67 @@
             "audio": "media/words/ep9/extended.mp3",
             "ex_audio": "media/words/ep9/extended_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
-            "word": "erase",
-            "pos": "v.",
-            "zh": "消す；拭き取る",
-            "ex": "One of the people is erasing a whiteboard.",
-            "exzh": "そのうちの1人がホワイトボードを消している。",
-            "ipa": "/ɪˈreɪs/",
-            "audio": "media/words/ep9/erase.mp3",
-            "ex_audio": "media/words/ep9/erase_ex.mp3",
+            "word": "bakery",
+            "pos": "n.",
+            "zh": "パン屋；ベーカリー",
+            "ex": "Joe owns a local bakery downtown.",
+            "exzh": "Joe は都心で地元のパン屋を経営している。",
+            "ipa": "/ˈbeɪkɚi/",
+            "audio": "media/words/ep9/bakery.mp3",
+            "ex_audio": "media/words/ep9/bakery_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "successful",
+            "pos": "adj.",
+            "zh": "成功した；好調な",
+            "ex": "The bakery has become increasingly successful.",
+            "exzh": "このパン屋はますます成功している。",
+            "ipa": "/səkˈsɛsfəl/",
+            "audio": "media/words/ep9/successful.mp3",
+            "ex_audio": "media/words/ep9/successful_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "baked goods",
+            "pos": "n.",
+            "zh": "焼き菓子・パン類；ベーカリー製品",
+            "ex": "The coffee shop will also sell some baked goods.",
+            "exzh": "カフェでも焼き菓子をいくつか売る予定だ。",
+            "ipa": "/beɪkt ɡʊdz/",
+            "audio": "media/words/ep9/baked-goods.mp3",
+            "ex_audio": "media/words/ep9/baked-goods_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loan",
+            "pos": "n.",
+            "zh": "ローン、融資",
+            "ex": "I need to request a loan.",
+            "exzh": "融資を申し込む必要がある。",
+            "ipa": "/loʊn/",
+            "audio": "media/words/ep9/loan.mp3",
+            "ex_audio": "media/words/ep9/loan_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "precisely",
+            "pos": "adv.",
+            "zh": "正確に；精密に",
+            "ex": "You can see precisely how I plan to use the loan.",
+            "exzh": "融資をどのように使う計画か、正確に確認できます。",
+            "ipa": "/prɪˈsaɪsli/",
+            "audio": "media/words/ep9/precisely.mp3",
+            "ex_audio": "media/words/ep9/precisely_ex.mp3",
+            "highlight": true,
+            "review": true
           },
           {
             "word": "business plan",
@@ -579,7 +3112,7 @@
             "audio": "media/words/ep9/business-plan.mp3",
             "ex_audio": "media/words/ep9/business-plan_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           }
         ],
         "has_words": true
@@ -613,6 +3146,18 @@
         "review": true
       },
       {
+        "word": "wipe off",
+        "pos": "v.",
+        "zh": "擦掉；擦拭",
+        "ex": "She's wiping off a computer keyboard.",
+        "exzh": "她正在擦电脑键盘。",
+        "ipa": "/waɪp ɔf/",
+        "audio": "media/words/ep9/wipe-off.mp3",
+        "ex_audio": "media/words/ep9/wipe-off_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
         "word": "potted plant",
         "pos": "n.",
         "zh": "盆栽；盆景",
@@ -621,6 +3166,30 @@
         "ipa": "/ˈpɑtɪd plænt/",
         "audio": "media/words/ep9/potted-plant.mp3",
         "ex_audio": "media/words/ep9/potted-plant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "zh": "入口",
+        "ex": "An entrance is blocked by a ladder.",
+        "exzh": "一个入口被梯子挡住了。",
+        "ipa": "/ˈɛntrəns/",
+        "audio": "media/words/ep9/entrance.mp3",
+        "ex_audio": "media/words/ep9/entrance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ladder",
+        "pos": "n.",
+        "zh": "梯子",
+        "ex": "A ladder is leaning against the wall.",
+        "exzh": "一架梯子靠在墙上。",
+        "ipa": "/ˈlædɚ/",
+        "audio": "media/words/ep9/ladder.mp3",
+        "ex_audio": "media/words/ep9/ladder_ex.mp3",
         "highlight": false,
         "review": true
       },
@@ -637,18 +3206,6 @@
         "review": true
       },
       {
-        "word": "examine",
-        "pos": "v.",
-        "zh": "检查；仔细查看",
-        "ex": "The woman is examining clothes on a rack.",
-        "exzh": "那位女士正在查看衣架上的衣服。",
-        "ipa": "/ɪɡˈzæmɪn/",
-        "audio": "media/words/ep9/examine.mp3",
-        "ex_audio": "media/words/ep9/examine_ex.mp3",
-        "highlight": false,
-        "review": true
-      },
-      {
         "word": "award",
         "pos": "n.",
         "zh": "奖；奖励",
@@ -657,6 +3214,30 @@
         "ipa": "/əˈwɔrd/",
         "audio": "media/words/ep9/award.mp3",
         "ex_audio": "media/words/ep9/award_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prototype",
+        "pos": "n.",
+        "zh": "样品；原型",
+        "ex": "Because the client liked her prototype.",
+        "exzh": "因为客户喜欢她的样品。",
+        "ipa": "/ˈproʊtəˌtaɪp/",
+        "audio": "media/words/ep9/prototype.mp3",
+        "ex_audio": "media/words/ep9/prototype_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "zh": "库存；盘点",
+        "ex": "Should we finish taking inventory first?",
+        "exzh": "我们要先把库存盘点完吗？",
+        "ipa": "/ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep9/inventory.mp3",
+        "ex_audio": "media/words/ep9/inventory_ex.mp3",
         "highlight": false,
         "review": true
       },
@@ -673,6 +3254,42 @@
         "review": true
       },
       {
+        "word": "ride",
+        "pos": "n.",
+        "zh": "搭车；便车",
+        "ex": "I need a ride.",
+        "exzh": "我需要搭个便车。",
+        "ipa": "/raɪd/",
+        "audio": "media/words/ep9/ride.mp3",
+        "ex_audio": "media/words/ep9/ride_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "payroll",
+        "pos": "n.",
+        "zh": "工资；薪资发放",
+        "ex": "The updated payroll policy will go into effect soon.",
+        "exzh": "新的薪资政策即将生效。",
+        "ipa": "/ˈpeɪˌroʊl/",
+        "audio": "media/words/ep9/payroll.mp3",
+        "ex_audio": "media/words/ep9/payroll_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go into effect",
+        "pos": "v.",
+        "zh": "生效；开始实施",
+        "ex": "When will the updated payroll policy go into effect?",
+        "exzh": "新的薪资政策什么时候生效？",
+        "ipa": "/ɡoʊ ˈɪntu ɪˈfɛkt/",
+        "audio": "media/words/ep9/go-into-effect.mp3",
+        "ex_audio": "media/words/ep9/go-into-effect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
         "word": "pamphlet",
         "pos": "n.",
         "zh": "小册子；宣传册",
@@ -681,6 +3298,30 @@
         "ipa": "/ˈpæmflət/",
         "audio": "media/words/ep9/pamphlet.mp3",
         "ex_audio": "media/words/ep9/pamphlet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "auditorium",
+        "pos": "n.",
+        "zh": "礼堂；会堂",
+        "ex": "The auditorium is on the third floor.",
+        "exzh": "礼堂在三楼。",
+        "ipa": "/ˌɔdəˈtɔriəm/",
+        "audio": "media/words/ep9/auditorium.mp3",
+        "ex_audio": "media/words/ep9/auditorium_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "committee",
+        "pos": "n.",
+        "zh": "委员会",
+        "ex": "He's the committee chair.",
+        "exzh": "他是委员会主席。",
+        "ipa": "/kəˈmɪti/",
+        "audio": "media/words/ep9/committee.mp3",
+        "ex_audio": "media/words/ep9/committee_ex.mp3",
         "highlight": false,
         "review": true
       },
@@ -697,6 +3338,66 @@
         "review": true
       },
       {
+        "word": "equipped",
+        "pos": "adj.",
+        "zh": "配备…的",
+        "ex": "It came equipped with a navigation system.",
+        "exzh": "它配有导航系统。",
+        "ipa": "/ɪˈkwɪpt/",
+        "audio": "media/words/ep9/equipped.mp3",
+        "ex_audio": "media/words/ep9/equipped_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟；延期",
+        "ex": "When was the last time the budget meeting was postponed?",
+        "exzh": "预算会议上一次延期是什么时候？",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep9/postpone.mp3",
+        "ex_audio": "media/words/ep9/postpone_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "budget",
+        "pos": "n.",
+        "zh": "预算",
+        "ex": "The budget meeting starts at ten.",
+        "exzh": "预算会议十点开始。",
+        "ipa": "/ˈbʌdʒɪt/",
+        "audio": "media/words/ep9/budget.mp3",
+        "ex_audio": "media/words/ep9/budget_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "zh": "货物；运送",
+        "ex": "Why was the shipment delayed?",
+        "exzh": "这批货为什么延误了？",
+        "ipa": "/ˈʃɪpmənt/",
+        "audio": "media/words/ep9/shipment.mp3",
+        "ex_audio": "media/words/ep9/shipment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "glitch",
+        "pos": "n.",
+        "zh": "小故障；技术故障",
+        "ex": "A computer glitch caused the cancellation of many flights.",
+        "exzh": "电脑故障导致许多航班取消。",
+        "ipa": "/ɡlɪtʃ/",
+        "audio": "media/words/ep9/glitch.mp3",
+        "ex_audio": "media/words/ep9/glitch_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
         "word": "drop off",
         "pos": "v.",
         "zh": "放下；归还（车等）",
@@ -709,6 +3410,54 @@
         "review": true
       },
       {
+        "word": "rent",
+        "pos": "v.",
+        "zh": "租用",
+        "ex": "I'm calling about a car I rented on Monday.",
+        "exzh": "我打电话是关于周一租的一辆车。",
+        "ipa": "/rɛnt/",
+        "audio": "media/words/ep9/rent.mp3",
+        "ex_audio": "media/words/ep9/rent_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "notify",
+        "pos": "v.",
+        "zh": "通知",
+        "ex": "I can notify our Oakland branch.",
+        "exzh": "我可以通知我们奥克兰分店。",
+        "ipa": "/ˈnoʊtəˌfaɪ/",
+        "audio": "media/words/ep9/notify.mp3",
+        "ex_audio": "media/words/ep9/notify_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "branch",
+        "pos": "n.",
+        "zh": "分店；分公司",
+        "ex": "Our Oakland branch closes early on Sundays.",
+        "exzh": "我们奥克兰分店周日提早关门。",
+        "ipa": "/bræntʃ/",
+        "audio": "media/words/ep9/branch.mp3",
+        "ex_audio": "media/words/ep9/branch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be aware",
+        "pos": "v.",
+        "zh": "注意；知道",
+        "ex": "Please be aware that the office closes early on Sundays.",
+        "exzh": "请注意办公室周日提早关门。",
+        "ipa": "/bi əˈwɛr/",
+        "audio": "media/words/ep9/be-aware.mp3",
+        "ex_audio": "media/words/ep9/be-aware_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
         "word": "late fee",
         "pos": "n.",
         "zh": "滞纳金；逾期费",
@@ -718,31 +3467,31 @@
         "audio": "media/words/ep9/late-fee.mp3",
         "ex_audio": "media/words/ep9/late-fee_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
-        "word": "glitch",
-        "pos": "n.",
-        "zh": "小故障；技术故障",
-        "ex": "A computer glitch caused the cancellation of many flights.",
-        "exzh": "电脑故障导致许多航班取消。",
-        "ipa": "/ɡlɪtʃ/",
-        "audio": "media/words/ep9/glitch.mp3",
-        "ex_audio": "media/words/ep9/glitch_ex.mp3",
-        "highlight": true,
-        "review": false
-      },
-      {
-        "word": "cancellation",
-        "pos": "n.",
-        "zh": "取消",
-        "ex": "Flight cancellations are rippling across the system.",
-        "exzh": "航班取消在整个系统中蔓延。",
-        "ipa": "/ˌkænsəˈleɪʃən/",
-        "audio": "media/words/ep9/cancellation.mp3",
-        "ex_audio": "media/words/ep9/cancellation_ex.mp3",
+        "word": "rental",
+        "pos": "n./adj.",
+        "zh": "租赁；租用的",
+        "ex": "To extend a car rental period.",
+        "exzh": "为了延长租车期限。",
+        "ipa": "/ˈrɛntəl/",
+        "audio": "media/words/ep9/rental.mp3",
+        "ex_audio": "media/words/ep9/rental_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "forecast",
+        "pos": "n.",
+        "zh": "预报；预测",
+        "ex": "A weather forecast.",
+        "exzh": "天气预报。",
+        "ipa": "/ˈfɔrˌkæst/",
+        "audio": "media/words/ep9/forecast.mp3",
+        "ex_audio": "media/words/ep9/forecast_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "mounting",
@@ -754,7 +3503,103 @@
         "audio": "media/words/ep9/mounting.mp3",
         "ex_audio": "media/words/ep9/mounting_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "cancellation",
+        "pos": "n.",
+        "zh": "取消",
+        "ex": "Flight cancellations are rippling across the system.",
+        "exzh": "航班取消在整个系统中蔓延。",
+        "ipa": "/ˌkænsəˈleɪʃən/",
+        "audio": "media/words/ep9/cancellation.mp3",
+        "ex_audio": "media/words/ep9/cancellation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "affect",
+        "pos": "v.",
+        "zh": "影响",
+        "ex": "This technical problem is affecting multiple airlines.",
+        "exzh": "这个技术问题正在影响多家航空公司。",
+        "ipa": "/əˈfɛkt/",
+        "audio": "media/words/ep9/affect.mp3",
+        "ex_audio": "media/words/ep9/affect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "multiple",
+        "pos": "adj.",
+        "zh": "多个的；多种的",
+        "ex": "Multiple airlines were affected.",
+        "exzh": "多家航空公司受到影响。",
+        "ipa": "/ˈmʌltəpəl/",
+        "audio": "media/words/ep9/multiple.mp3",
+        "ex_audio": "media/words/ep9/multiple_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ripple",
+        "pos": "v.",
+        "zh": "（影响）扩散；波及",
+        "ex": "Delays and cancellations are rippling throughout the system.",
+        "exzh": "延误和取消正在整个系统中扩散。",
+        "ipa": "/ˈrɪpəl/",
+        "audio": "media/words/ep9/ripple.mp3",
+        "ex_audio": "media/words/ep9/ripple_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "authority",
+        "pos": "n.",
+        "zh": "当局；管理机构",
+        "ex": "Pressure is mounting on airport authorities to fix the issue.",
+        "exzh": "要求机场当局解决问题的压力越来越大。",
+        "ipa": "/əˈθɔrəti/",
+        "audio": "media/words/ep9/authority.mp3",
+        "ex_audio": "media/words/ep9/authority_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "public relations",
+        "pos": "n.",
+        "zh": "公关；公共关系",
+        "ex": "I tried to contact the public relations officer.",
+        "exzh": "我试图联系公关负责人。",
+        "ipa": "/ˈpʌblɪk riˈleɪʃənz/",
+        "audio": "media/words/ep9/public-relations.mp3",
+        "ex_audio": "media/words/ep9/public-relations_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "malfunction",
+        "pos": "n.",
+        "zh": "故障；失灵",
+        "ex": "A computer malfunction caused the problem.",
+        "exzh": "电脑故障导致了这个问题。",
+        "ipa": "/mælˈfʌŋkʃən/",
+        "audio": "media/words/ep9/malfunction.mp3",
+        "ex_audio": "media/words/ep9/malfunction_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shortage",
+        "pos": "n.",
+        "zh": "短缺；不足",
+        "ex": "A staff shortage delayed the work.",
+        "exzh": "人手不足拖延了工作。",
+        "ipa": "/ˈʃɔrtədʒ/",
+        "audio": "media/words/ep9/shortage.mp3",
+        "ex_audio": "media/words/ep9/shortage_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "amphitheater",
@@ -766,7 +3611,19 @@
         "audio": "media/words/ep9/amphitheater.mp3",
         "ex_audio": "media/words/ep9/amphitheater_ex.mp3",
         "highlight": true,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "zh": "居民",
+        "ex": "The events are popular with the city's residents.",
+        "exzh": "这些活动受到市民欢迎。",
+        "ipa": "/ˈrɛzɪdənt/",
+        "audio": "media/words/ep9/resident.mp3",
+        "ex_audio": "media/words/ep9/resident_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "stationery",
@@ -778,7 +3635,7 @@
         "audio": "media/words/ep9/stationery.mp3",
         "ex_audio": "media/words/ep9/stationery_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
         "word": "retail",
@@ -790,7 +3647,7 @@
         "audio": "media/words/ep9/retail.mp3",
         "ex_audio": "media/words/ep9/retail_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
         "word": "activate",
@@ -802,55 +3659,43 @@
         "audio": "media/words/ep9/activate.mp3",
         "ex_audio": "media/words/ep9/activate_ex.mp3",
         "highlight": true,
-        "review": false
+        "review": true
       },
       {
-        "word": "bakery",
+        "word": "submit",
+        "pos": "v.",
+        "zh": "提交",
+        "ex": "Applications must be submitted online.",
+        "exzh": "申请必须在网上提交。",
+        "ipa": "/səbˈmɪt/",
+        "audio": "media/words/ep9/submit.mp3",
+        "ex_audio": "media/words/ep9/submit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sector",
         "pos": "n.",
-        "zh": "面包店；烘焙店",
-        "ex": "Joe owns a local bakery downtown.",
-        "exzh": "Joe 在市中心经营一家本地面包店。",
-        "ipa": "/ˈbeɪkɚi/",
-        "audio": "media/words/ep9/bakery.mp3",
-        "ex_audio": "media/words/ep9/bakery_ex.mp3",
+        "zh": "行业；部门",
+        "ex": "We need individuals with experience in the technology sector.",
+        "exzh": "我们需要有技术行业经验的人。",
+        "ipa": "/ˈsɛktɚ/",
+        "audio": "media/words/ep9/sector.mp3",
+        "ex_audio": "media/words/ep9/sector_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
-        "word": "successful",
-        "pos": "adj.",
-        "zh": "成功的",
-        "ex": "The bakery has become increasingly successful.",
-        "exzh": "这家面包店越来越成功。",
-        "ipa": "/səkˈsɛsfəl/",
-        "audio": "media/words/ep9/successful.mp3",
-        "ex_audio": "media/words/ep9/successful_ex.mp3",
-        "highlight": false,
-        "review": false
-      },
-      {
-        "word": "baked goods",
+        "word": "renovation",
         "pos": "n.",
-        "zh": "烘焙食品；糕点",
-        "ex": "The coffee shop will also sell some baked goods.",
-        "exzh": "咖啡店也会售卖一些烘焙食品。",
-        "ipa": "/beɪkt ɡʊdz/",
-        "audio": "media/words/ep9/baked-goods.mp3",
-        "ex_audio": "media/words/ep9/baked-goods_ex.mp3",
+        "zh": "翻修；装修",
+        "ex": "The café reopened after a two-month renovation project.",
+        "exzh": "咖啡馆在两个月的翻修工程后重新开业。",
+        "ipa": "/ˌrɛnəˈveɪʃən/",
+        "audio": "media/words/ep9/renovation.mp3",
+        "ex_audio": "media/words/ep9/renovation_ex.mp3",
         "highlight": false,
-        "review": false
-      },
-      {
-        "word": "precisely",
-        "pos": "adv.",
-        "zh": "准确地；精确地",
-        "ex": "You can see precisely how I plan to use the loan.",
-        "exzh": "你可以准确看到我打算如何使用这笔贷款。",
-        "ipa": "/prɪˈsaɪsli/",
-        "audio": "media/words/ep9/precisely.mp3",
-        "ex_audio": "media/words/ep9/precisely_ex.mp3",
-        "highlight": true,
-        "review": false
+        "review": true
       },
       {
         "word": "extended",
@@ -862,19 +3707,67 @@
         "audio": "media/words/ep9/extended.mp3",
         "ex_audio": "media/words/ep9/extended_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
-        "word": "erase",
-        "pos": "v.",
-        "zh": "擦掉；消除",
-        "ex": "One of the people is erasing a whiteboard.",
-        "exzh": "其中一人正在擦白板。",
-        "ipa": "/ɪˈreɪs/",
-        "audio": "media/words/ep9/erase.mp3",
-        "ex_audio": "media/words/ep9/erase_ex.mp3",
+        "word": "bakery",
+        "pos": "n.",
+        "zh": "面包店；烘焙店",
+        "ex": "Joe owns a local bakery downtown.",
+        "exzh": "Joe 在市中心经营一家本地面包店。",
+        "ipa": "/ˈbeɪkɚi/",
+        "audio": "media/words/ep9/bakery.mp3",
+        "ex_audio": "media/words/ep9/bakery_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "successful",
+        "pos": "adj.",
+        "zh": "成功的",
+        "ex": "The bakery has become increasingly successful.",
+        "exzh": "这家面包店越来越成功。",
+        "ipa": "/səkˈsɛsfəl/",
+        "audio": "media/words/ep9/successful.mp3",
+        "ex_audio": "media/words/ep9/successful_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "baked goods",
+        "pos": "n.",
+        "zh": "烘焙食品；糕点",
+        "ex": "The coffee shop will also sell some baked goods.",
+        "exzh": "咖啡店也会售卖一些烘焙食品。",
+        "ipa": "/beɪkt ɡʊdz/",
+        "audio": "media/words/ep9/baked-goods.mp3",
+        "ex_audio": "media/words/ep9/baked-goods_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loan",
+        "pos": "n.",
+        "zh": "贷款",
+        "ex": "I need to request a loan.",
+        "exzh": "我需要申请一笔贷款。",
+        "ipa": "/loʊn/",
+        "audio": "media/words/ep9/loan.mp3",
+        "ex_audio": "media/words/ep9/loan_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "precisely",
+        "pos": "adv.",
+        "zh": "准确地；精确地",
+        "ex": "You can see precisely how I plan to use the loan.",
+        "exzh": "你可以准确看到我打算如何使用这笔贷款。",
+        "ipa": "/prɪˈsaɪsli/",
+        "audio": "media/words/ep9/precisely.mp3",
+        "ex_audio": "media/words/ep9/precisely_ex.mp3",
+        "highlight": true,
+        "review": true
       },
       {
         "word": "business plan",
@@ -886,7 +3779,7 @@
         "audio": "media/words/ep9/business-plan.mp3",
         "ex_audio": "media/words/ep9/business-plan_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       }
     ]
   },
@@ -894,52 +3787,37 @@
     "number": 8,
     "theme": "真题精讲 · Test 1 起步",
     "date": "2026-10-11",
-    "duration_sec": 2303.4,
+    "duration_sec": 2615.3,
     "segments": [
       {
-        "title": "1. 开场介绍",
+        "title": "1. Part 1 照片真题",
         "start": 0.0,
-        "length": 42.5
+        "length": 139.92
       },
       {
-        "title": "2. 25 个真题词汇",
-        "start": 42.5,
-        "length": 615.99
+        "title": "2. Part 2 应答题 10 道",
+        "start": 139.92,
+        "length": 478.06
       },
       {
-        "title": "3. Part 1 照片真题",
-        "start": 658.49,
-        "length": 179.29
+        "title": "3. Part 3/4 逐句精听",
+        "start": 617.98,
+        "length": 578.93
       },
       {
-        "title": "4. Part 2 陷阱题 10 道",
-        "start": 837.78,
-        "length": 359.64
+        "title": "4. Part 5 语法真题 8 题",
+        "start": 1196.91,
+        "length": 384.85
       },
       {
-        "title": "5. Part 3/4 真题精听",
-        "start": 1197.42,
-        "length": 311.49
+        "title": "5. Part 6 短文填空",
+        "start": 1581.76,
+        "length": 253.31
       },
       {
-        "title": "6. Part 5 语法真题 8 题",
-        "start": 1508.91,
-        "length": 319.49
-      },
-      {
-        "title": "7. Part 6 短文填空",
-        "start": 1828.4,
-        "length": 229.74
-      },
-      {
-        "title": "8. 应试策略",
-        "start": 2058.13,
-        "length": 58.81
-      },
-      {
-        "title": "9. 10 词快速复习",
-        "start": 2116.94,
-        "length": 186.45
+        "title": "6. 本期 53 词总复习 · 拼读",
+        "start": 1835.07,
+        "length": 780.26
       }
     ],
     "highlight_words": [
@@ -970,12 +3848,32 @@
         "zh": "提供；端上；服务"
       },
       {
-        "word": "buffet",
-        "zh": "自助餐；自助餐台"
+        "word": "pitcher",
+        "zh": "水壶；大水罐"
+      },
+      {
+        "word": "assemble",
+        "zh": "组装；装配"
+      },
+      {
+        "word": "bend over",
+        "zh": "弯腰；俯身"
       },
       {
         "word": "proposal",
         "zh": "提案；建议书"
+      },
+      {
+        "word": "due",
+        "zh": "到期的；截止的"
+      },
+      {
+        "word": "available",
+        "zh": "有空的；可用的"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期"
       },
       {
         "word": "advertise",
@@ -984,6 +3882,14 @@
       {
         "word": "magazine",
         "zh": "杂志"
+      },
+      {
+        "word": "reception",
+        "zh": "招待会；接待处"
+      },
+      {
+        "word": "client",
+        "zh": "客户"
       },
       {
         "word": "schedule",
@@ -998,12 +3904,156 @@
         "zh": "假期；休假"
       },
       {
+        "word": "overseas",
+        "zh": "在海外；在国外"
+      },
+      {
+        "word": "luggage",
+        "zh": "行李"
+      },
+      {
+        "word": "position",
+        "zh": "职位；岗位"
+      },
+      {
+        "word": "quarterly",
+        "zh": "季度的；每季的"
+      },
+      {
         "word": "compile",
         "zh": "汇编；整理；数据"
       },
       {
+        "word": "figure",
+        "zh": "数字；数据"
+      },
+      {
         "word": "slide deck",
         "zh": "幻灯片演示稿"
+      },
+      {
+        "word": "bowling",
+        "zh": "保龄球"
+      },
+      {
+        "word": "competitive",
+        "zh": "竞争性的；好胜的"
+      },
+      {
+        "word": "interact",
+        "zh": "交流；互动"
+      },
+      {
+        "word": "coworker",
+        "zh": "同事"
+      },
+      {
+        "word": "retreat",
+        "zh": "；公司；集体外出活动；静修"
+      },
+      {
+        "word": "trade fair",
+        "zh": "商品交易会；展销会"
+      },
+      {
+        "word": "reservation",
+        "zh": "预订"
+      },
+      {
+        "word": "socialize",
+        "zh": "社交；交际"
+      },
+      {
+        "word": "charity",
+        "zh": "慈善；慈善机构"
+      },
+      {
+        "word": "upgrade",
+        "zh": "升级；改进"
+      },
+      {
+        "word": "accomplish",
+        "zh": "完成；实现"
+      },
+      {
+        "word": "satellite",
+        "zh": "卫星；卫星的"
+      },
+      {
+        "word": "messaging",
+        "zh": "消息收发；通信"
+      },
+      {
+        "word": "capability",
+        "zh": "功能；能力"
+      },
+      {
+        "word": "anticipate",
+        "zh": "预计；期待"
+      },
+      {
+        "word": "exceed",
+        "zh": "超过；超出"
+      },
+      {
+        "word": "expectation",
+        "zh": "预期；期望"
+      },
+      {
+        "word": "demand",
+        "zh": "需求"
+      },
+      {
+        "word": "sculpture",
+        "zh": "雕塑"
+      },
+      {
+        "word": "artwork",
+        "zh": "艺术作品"
+      },
+      {
+        "word": "purchase",
+        "zh": "购买"
+      },
+      {
+        "word": "rear",
+        "zh": "后部；后方"
+      },
+      {
+        "word": "receipt",
+        "zh": "收据；小票"
+      },
+      {
+        "word": "equipment",
+        "zh": "设备；器材"
+      },
+      {
+        "word": "renovation",
+        "zh": "翻修；装修"
+      },
+      {
+        "word": "steadily",
+        "zh": "稳步地；持续地"
+      },
+      {
+        "word": "warranty",
+        "zh": "保修；保修期"
+      },
+      {
+        "word": "outdated",
+        "zh": "过时的；陈旧的"
+      },
+      {
+        "word": "facility",
+        "zh": "设施；；工厂等；场所"
+      },
+      {
+        "word": "ensure",
+        "zh": "确保；保证"
+      },
+      {
+        "word": "supplier",
+        "zh": "供应商"
       }
     ],
     "video": "media/ep8.mp4",
@@ -1015,53 +4065,38 @@
         "page": "ep8.html",
         "video": "media/ep8.mp4",
         "script_pdf": "media/ep8_script.pdf",
-        "duration_sec": 2303.4,
+        "duration_sec": 2615.3,
         "theme": "真题精讲 · Test 1 起步",
         "segments": [
           {
-            "title": "1. 开场介绍",
+            "title": "1. Part 1 照片真题",
             "start": 0.0,
-            "length": 42.5
+            "length": 139.92
           },
           {
-            "title": "2. 25 个真题词汇",
-            "start": 42.5,
-            "length": 615.99
+            "title": "2. Part 2 应答题 10 道",
+            "start": 139.92,
+            "length": 478.06
           },
           {
-            "title": "3. Part 1 照片真题",
-            "start": 658.49,
-            "length": 179.29
+            "title": "3. Part 3/4 逐句精听",
+            "start": 617.98,
+            "length": 578.93
           },
           {
-            "title": "4. Part 2 陷阱题 10 道",
-            "start": 837.78,
-            "length": 359.64
+            "title": "4. Part 5 语法真题 8 题",
+            "start": 1196.91,
+            "length": 384.85
           },
           {
-            "title": "5. Part 3/4 真题精听",
-            "start": 1197.42,
-            "length": 311.49
+            "title": "5. Part 6 短文填空",
+            "start": 1581.76,
+            "length": 253.31
           },
           {
-            "title": "6. Part 5 语法真题 8 题",
-            "start": 1508.91,
-            "length": 319.49
-          },
-          {
-            "title": "7. Part 6 短文填空",
-            "start": 1828.4,
-            "length": 229.74
-          },
-          {
-            "title": "8. 应试策略",
-            "start": 2058.13,
-            "length": 58.81
-          },
-          {
-            "title": "9. 10 词快速复习",
-            "start": 2116.94,
-            "length": 186.45
+            "title": "6. 本期 53 词总复习 · 拼读",
+            "start": 1835.07,
+            "length": 780.26
           }
         ],
         "has_words": true
@@ -1071,53 +4106,38 @@
         "page": "ep8ja.html",
         "video": "media/ep8ja.mp4",
         "script_pdf": "media/ep8ja_script.pdf",
-        "duration_sec": 2629.1,
+        "duration_sec": 2994.9,
         "theme": "本番問題の解説 · Test 1 スタート",
         "segments": [
           {
-            "title": "1. オープニング",
+            "title": "1. Part 1 写真の本番問題",
             "start": 0.0,
-            "length": 61.97
+            "length": 169.68
           },
           {
-            "title": "2. 本番問題の語彙 25 語",
-            "start": 61.97,
-            "length": 638.64
+            "title": "2. Part 2 応答問題 10 問",
+            "start": 169.68,
+            "length": 562.66
           },
           {
-            "title": "3. Part 1 写真問題（本番）",
-            "start": 700.61,
-            "length": 224.17
+            "title": "3. Part 3/4 1文ずつ精聴",
+            "start": 732.34,
+            "length": 707.95
           },
           {
-            "title": "4. Part 2 ひっかけ問題 10 問",
-            "start": 924.78,
-            "length": 422.21
+            "title": "4. Part 5 文法の本番問題 8 問",
+            "start": 1440.3,
+            "length": 433.57
           },
           {
-            "title": "5. Part 3/4 本番問題の精聴",
-            "start": 1346.99,
-            "length": 362.73
+            "title": "5. Part 6 長文穴埋め",
+            "start": 1873.86,
+            "length": 301.96
           },
           {
-            "title": "6. Part 5 文法本番問題 8 問",
-            "start": 1709.72,
-            "length": 354.22
-          },
-          {
-            "title": "7. Part 6 短文穴埋め",
-            "start": 2063.93,
-            "length": 271.81
-          },
-          {
-            "title": "8. 受験ストラテジー",
-            "start": 2335.74,
-            "length": 88.59
-          },
-          {
-            "title": "9. 10 語のクイック復習",
-            "start": 2424.33,
-            "length": 204.74
+            "title": "6. 今回の 53 語まとめ復習 · スペル",
+            "start": 2175.82,
+            "length": 819.09
           }
         ],
         "poster": "media/ep8ja_cover.png",
@@ -1146,30 +4166,58 @@
         "review_words": [],
         "words_meta": [
           "serve",
-          "buffet",
+          "pitcher",
+          "assemble",
+          "bend over",
           "proposal",
+          "due",
+          "available",
+          "deadline",
           "advertise",
           "magazine",
+          "reception",
+          "client",
           "schedule",
           "appointment",
           "vacation",
+          "overseas",
+          "luggage",
+          "position",
+          "quarterly",
           "compile",
+          "figure",
           "slide deck",
           "bowling",
+          "competitive",
           "interact",
           "coworker",
+          "retreat",
+          "trade fair",
+          "reservation",
+          "socialize",
+          "charity",
+          "upgrade",
+          "accomplish",
           "satellite",
           "messaging",
+          "capability",
           "anticipate",
           "exceed",
-          "renovation",
-          "steadily",
+          "expectation",
+          "demand",
           "sculpture",
           "artwork",
+          "purchase",
           "rear",
+          "receipt",
+          "equipment",
+          "renovation",
+          "steadily",
+          "warranty",
           "outdated",
-          "figure",
-          "ensure"
+          "facility",
+          "ensure",
+          "supplier"
         ],
         "words": [
           {
@@ -1185,14 +4233,38 @@
             "review": true
           },
           {
-            "word": "buffet",
+            "word": "pitcher",
             "pos": "n.",
-            "zh": "ビュッフェ；ビュッフェ台",
-            "ex": "Please take a plate from the end of the buffet.",
-            "exzh": "ビュッフェの端から皿を取ってください。",
-            "ipa": "/ˈbʌfət/",
-            "audio": "media/words/ep8/buffet.mp3",
-            "ex_audio": "media/words/ep8/buffet_ex.mp3",
+            "zh": "水差し、ピッチャー",
+            "ex": "The man is lifting a pitcher of water.",
+            "exzh": "男性が水差しを持ち上げている。",
+            "ipa": "/ˈpɪtʃɚ/",
+            "audio": "media/words/ep8/pitcher.mp3",
+            "ex_audio": "media/words/ep8/pitcher_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assemble",
+            "pos": "v.",
+            "zh": "組み立てる",
+            "ex": "They're assembling a wooden box.",
+            "exzh": "彼らは木箱を組み立てている。",
+            "ipa": "/əˈsɛmbəl/",
+            "audio": "media/words/ep8/assemble.mp3",
+            "ex_audio": "media/words/ep8/assemble_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bend over",
+            "pos": "v.",
+            "zh": "かがむ、身をかがめる",
+            "ex": "They're bending over a work project.",
+            "exzh": "彼らは作業に身をかがめている。",
+            "ipa": "/bɛnd ˈoʊvɚ/",
+            "audio": "media/words/ep8/bend-over.mp3",
+            "ex_audio": "media/words/ep8/bend-over_ex.mp3",
             "highlight": false,
             "review": true
           },
@@ -1205,6 +4277,42 @@
             "ipa": "/prəˈpoʊzəl/",
             "audio": "media/words/ep8/proposal.mp3",
             "ex_audio": "media/words/ep8/proposal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "due",
+            "pos": "adj.",
+            "zh": "期限の、締め切りの",
+            "ex": "When is the final proposal due?",
+            "exzh": "最終提案書の締め切りはいつですか。",
+            "ipa": "/du/",
+            "audio": "media/words/ep8/due.mp3",
+            "ex_audio": "media/words/ep8/due_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "available",
+            "pos": "adj.",
+            "zh": "手が空いている、利用できる",
+            "ex": "I'm available now to help you.",
+            "exzh": "今なら手伝えますよ。",
+            "ipa": "/əˈveɪləbəl/",
+            "audio": "media/words/ep8/available.mp3",
+            "ex_audio": "media/words/ep8/available_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deadline",
+            "pos": "n.",
+            "zh": "締め切り",
+            "ex": "Because I have a project deadline.",
+            "exzh": "プロジェクトの締め切りがあるからです。",
+            "ipa": "/ˈdɛdˌlaɪn/",
+            "audio": "media/words/ep8/deadline.mp3",
+            "ex_audio": "media/words/ep8/deadline_ex.mp3",
             "highlight": false,
             "review": true
           },
@@ -1229,6 +4337,30 @@
             "ipa": "/ˈmæɡəˌzin/",
             "audio": "media/words/ep8/magazine.mp3",
             "ex_audio": "media/words/ep8/magazine_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reception",
+            "pos": "n.",
+            "zh": "歓迎会、受付",
+            "ex": "No, the reception is outdoors.",
+            "exzh": "いいえ、歓迎会は屋外です。",
+            "ipa": "/rɪˈsɛpʃən/",
+            "audio": "media/words/ep8/reception.mp3",
+            "ex_audio": "media/words/ep8/reception_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "client",
+            "pos": "n.",
+            "zh": "顧客、取引先",
+            "ex": "No, I'm visiting a client.",
+            "exzh": "いいえ、取引先を訪問します。",
+            "ipa": "/ˈklaɪənt/",
+            "audio": "media/words/ep8/client.mp3",
+            "ex_audio": "media/words/ep8/client_ex.mp3",
             "highlight": false,
             "review": true
           },
@@ -1269,6 +4401,54 @@
             "review": true
           },
           {
+            "word": "overseas",
+            "pos": "adv.",
+            "zh": "海外で",
+            "ex": "He worked for a company overseas.",
+            "exzh": "彼は海外の会社で働いていた。",
+            "ipa": "/ˈoʊvɚˈsiz/",
+            "audio": "media/words/ep8/overseas.mp3",
+            "ex_audio": "media/words/ep8/overseas_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "luggage",
+            "pos": "n.",
+            "zh": "荷物、手荷物",
+            "ex": "Yes, I'll be checking luggage.",
+            "exzh": "はい、荷物を預けます。",
+            "ipa": "/ˈlʌɡədʒ/",
+            "audio": "media/words/ep8/luggage.mp3",
+            "ex_audio": "media/words/ep8/luggage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "position",
+            "pos": "n.",
+            "zh": "職、ポジション",
+            "ex": "How soon can you start your new position?",
+            "exzh": "新しい職にはどのくらい早く就けますか。",
+            "ipa": "/pəˈzɪʃən/",
+            "audio": "media/words/ep8/position.mp3",
+            "ex_audio": "media/words/ep8/position_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "quarterly",
+            "pos": "adj.",
+            "zh": "四半期の",
+            "ex": "When will the quarterly report be ready?",
+            "exzh": "四半期報告書はいつできますか。",
+            "ipa": "/ˈkwɔrtɚli/",
+            "audio": "media/words/ep8/quarterly.mp3",
+            "ex_audio": "media/words/ep8/quarterly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
             "word": "compile",
             "pos": "v.",
             "zh": "編集する；（データを）整理する",
@@ -1278,6 +4458,18 @@
             "audio": "media/words/ep8/compile.mp3",
             "ex_audio": "media/words/ep8/compile_ex.mp3",
             "highlight": true,
+            "review": true
+          },
+          {
+            "word": "figure",
+            "pos": "n.",
+            "zh": "数字；データ",
+            "ex": "This figure represents a twenty percent increase over the old plant.",
+            "exzh": "この数字は旧工場より20パーセント高い。",
+            "ipa": "/ˈfɪɡjɚ/",
+            "audio": "media/words/ep8/figure.mp3",
+            "ex_audio": "media/words/ep8/figure_ex.mp3",
+            "highlight": false,
             "review": true
           },
           {
@@ -1302,7 +4494,19 @@
             "audio": "media/words/ep8/bowling.mp3",
             "ex_audio": "media/words/ep8/bowling_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "competitive",
+            "pos": "adj.",
+            "zh": "競争的な、勝ち負けを競う",
+            "ex": "It's not competitive!",
+            "exzh": "勝ち負けを競うものじゃないよ！",
+            "ipa": "/kəmˈpɛtətɪv/",
+            "audio": "media/words/ep8/competitive.mp3",
+            "ex_audio": "media/words/ep8/competitive_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "interact",
@@ -1314,7 +4518,7 @@
             "audio": "media/words/ep8/interact.mp3",
             "ex_audio": "media/words/ep8/interact_ex.mp3",
             "highlight": true,
-            "review": false
+            "review": true
           },
           {
             "word": "coworker",
@@ -1326,7 +4530,91 @@
             "audio": "media/words/ep8/coworker.mp3",
             "ex_audio": "media/words/ep8/coworker_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "retreat",
+            "pos": "n.",
+            "zh": "（会社の）研修旅行、合宿",
+            "ex": "The company retreat is in the mountains this year.",
+            "exzh": "今年の会社の研修旅行は山で行われる。",
+            "ipa": "/riˈtrit/",
+            "audio": "media/words/ep8/retreat.mp3",
+            "ex_audio": "media/words/ep8/retreat_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "trade fair",
+            "pos": "n.",
+            "zh": "見本市、展示会",
+            "ex": "We will have a booth at the trade fair.",
+            "exzh": "見本市にブースを出します。",
+            "ipa": "/treɪd fɛr/",
+            "audio": "media/words/ep8/trade-fair.mp3",
+            "ex_audio": "media/words/ep8/trade-fair_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reservation",
+            "pos": "n.",
+            "zh": "予約",
+            "ex": "He made a reservation.",
+            "exzh": "彼は予約をした。",
+            "ipa": "/ˌrɛzɚˈveɪʃən/",
+            "audio": "media/words/ep8/reservation.mp3",
+            "ex_audio": "media/words/ep8/reservation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "socialize",
+            "pos": "v.",
+            "zh": "交流する、付き合う",
+            "ex": "The event is a chance to socialize with colleagues.",
+            "exzh": "そのイベントは同僚と交流する機会だ。",
+            "ipa": "/ˈsoʊʃəˌlaɪz/",
+            "audio": "media/words/ep8/socialize.mp3",
+            "ex_audio": "media/words/ep8/socialize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "charity",
+            "pos": "n.",
+            "zh": "慈善、慈善団体",
+            "ex": "They want to raise money for a charity.",
+            "exzh": "彼らは慈善団体のために募金をしたい。",
+            "ipa": "/ˈtʃɛrɪti/",
+            "audio": "media/words/ep8/charity.mp3",
+            "ex_audio": "media/words/ep8/charity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "upgrade",
+            "pos": "n./v.",
+            "zh": "アップグレード、改良",
+            "ex": "My team has been working on the technological upgrades for over a year.",
+            "exzh": "私のチームは1年以上技術的なアップグレードに取り組んできた。",
+            "ipa": "/ʌpˈɡreɪd/",
+            "audio": "media/words/ep8/upgrade.mp3",
+            "ex_audio": "media/words/ep8/upgrade_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "accomplish",
+            "pos": "v.",
+            "zh": "成し遂げる、達成する",
+            "ex": "I'm very pleased with everything we have accomplished.",
+            "exzh": "私たちが成し遂げたことすべてにとても満足している。",
+            "ipa": "/əˈkɑmplɪʃ/",
+            "audio": "media/words/ep8/accomplish.mp3",
+            "ex_audio": "media/words/ep8/accomplish_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "satellite",
@@ -1338,7 +4626,7 @@
             "audio": "media/words/ep8/satellite.mp3",
             "ex_audio": "media/words/ep8/satellite_ex.mp3",
             "highlight": true,
-            "review": false
+            "review": true
           },
           {
             "word": "messaging",
@@ -1350,7 +4638,19 @@
             "audio": "media/words/ep8/messaging.mp3",
             "ex_audio": "media/words/ep8/messaging_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "capability",
+            "pos": "n.",
+            "zh": "機能、能力",
+            "ex": "This model has a powerful satellite messaging capability.",
+            "exzh": "このモデルには強力な衛星メッセージ機能がある。",
+            "ipa": "/ˌkeɪpəˈbɪləti/",
+            "audio": "media/words/ep8/capability.mp3",
+            "ex_audio": "media/words/ep8/capability_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "anticipate",
@@ -1362,7 +4662,7 @@
             "audio": "media/words/ep8/anticipate.mp3",
             "ex_audio": "media/words/ep8/anticipate_ex.mp3",
             "highlight": true,
-            "review": false
+            "review": true
           },
           {
             "word": "exceed",
@@ -1374,31 +4674,31 @@
             "audio": "media/words/ep8/exceed.mp3",
             "ex_audio": "media/words/ep8/exceed_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
-            "word": "renovation",
+            "word": "expectation",
             "pos": "n.",
-            "zh": "改修；改装",
-            "ex": "Renovations to the public library have progressed steadily.",
-            "exzh": "公立図書館の改修は着実に進んでいる。",
-            "ipa": "/ˌrɛnəˈveɪʃən/",
-            "audio": "media/words/ep8/renovation.mp3",
-            "ex_audio": "media/words/ep8/renovation_ex.mp3",
+            "zh": "予想、期待",
+            "ex": "Sales will exceed all our expectations.",
+            "exzh": "売上は私たちのすべての予想を上回るだろう。",
+            "ipa": "/ˌɛkspɛkˈteɪʃən/",
+            "audio": "media/words/ep8/expectation.mp3",
+            "ex_audio": "media/words/ep8/expectation_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
-            "word": "steadily",
-            "pos": "adv.",
-            "zh": "着実に；一貫して",
-            "ex": "Sales have grown steadily over the past year.",
-            "exzh": "過去1年で売上は着実に伸びた。",
-            "ipa": "/ˈstɛdəli/",
-            "audio": "media/words/ep8/steadily.mp3",
-            "ex_audio": "media/words/ep8/steadily_ex.mp3",
+            "word": "demand",
+            "pos": "n.",
+            "zh": "需要",
+            "ex": "Demand will be high.",
+            "exzh": "需要は高くなるだろう。",
+            "ipa": "/dɪˈmænd/",
+            "audio": "media/words/ep8/demand.mp3",
+            "ex_audio": "media/words/ep8/demand_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
             "word": "sculpture",
@@ -1410,7 +4710,7 @@
             "audio": "media/words/ep8/sculpture.mp3",
             "ex_audio": "media/words/ep8/sculpture_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
             "word": "artwork",
@@ -1422,7 +4722,19 @@
             "audio": "media/words/ep8/artwork.mp3",
             "ex_audio": "media/words/ep8/artwork_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "purchase",
+            "pos": "v.",
+            "zh": "購入する",
+            "ex": "Sandwiches can be purchased from the food truck.",
+            "exzh": "サンドイッチはフードトラックで購入できる。",
+            "ipa": "/ˈpɝtʃəs/",
+            "audio": "media/words/ep8/purchase.mp3",
+            "ex_audio": "media/words/ep8/purchase_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "rear",
@@ -1434,7 +4746,67 @@
             "audio": "media/words/ep8/rear.mp3",
             "ex_audio": "media/words/ep8/rear_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "receipt",
+            "pos": "n.",
+            "zh": "レシート、領収書",
+            "ex": "Customers are required to present a receipt.",
+            "exzh": "客はレシートを提示する必要がある。",
+            "ipa": "/rɪˈsit/",
+            "audio": "media/words/ep8/receipt.mp3",
+            "ex_audio": "media/words/ep8/receipt_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "equipment",
+            "pos": "n.",
+            "zh": "設備、機器",
+            "ex": "The plant upgraded its equipment for faster production.",
+            "exzh": "工場は生産を速めるために設備を更新した。",
+            "ipa": "/ɪˈkwɪpmənt/",
+            "audio": "media/words/ep8/equipment.mp3",
+            "ex_audio": "media/words/ep8/equipment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "renovation",
+            "pos": "n.",
+            "zh": "改修；改装",
+            "ex": "Renovations to the public library have progressed steadily.",
+            "exzh": "公立図書館の改修は着実に進んでいる。",
+            "ipa": "/ˌrɛnəˈveɪʃən/",
+            "audio": "media/words/ep8/renovation.mp3",
+            "ex_audio": "media/words/ep8/renovation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "steadily",
+            "pos": "adv.",
+            "zh": "着実に；一貫して",
+            "ex": "Sales have grown steadily over the past year.",
+            "exzh": "過去1年で売上は着実に伸びた。",
+            "ipa": "/ˈstɛdəli/",
+            "audio": "media/words/ep8/steadily.mp3",
+            "ex_audio": "media/words/ep8/steadily_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "warranty",
+            "pos": "n.",
+            "zh": "保証、保証期間",
+            "ex": "Amber Kitchen Supply provides a one-year warranty on all its products.",
+            "exzh": "Amber Kitchen Supply は全製品に1年保証を付けている。",
+            "ipa": "/ˈwɔrənti/",
+            "audio": "media/words/ep8/warranty.mp3",
+            "ex_audio": "media/words/ep8/warranty_ex.mp3",
+            "highlight": false,
+            "review": true
           },
           {
             "word": "outdated",
@@ -1446,19 +4818,19 @@
             "audio": "media/words/ep8/outdated.mp3",
             "ex_audio": "media/words/ep8/outdated_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
-            "word": "figure",
+            "word": "facility",
             "pos": "n.",
-            "zh": "数字；データ",
-            "ex": "This figure represents a twenty percent increase over the old plant.",
-            "exzh": "この数字は旧工場より20パーセント高い。",
-            "ipa": "/ˈfɪɡjɚ/",
-            "audio": "media/words/ep8/figure.mp3",
-            "ex_audio": "media/words/ep8/figure_ex.mp3",
+            "zh": "施設、（工場などの）設備",
+            "ex": "It replaces an outdated facility located nearby.",
+            "exzh": "それは近くにある古くなった施設に取って代わる。",
+            "ipa": "/fəˈsɪlɪti/",
+            "audio": "media/words/ep8/facility.mp3",
+            "ex_audio": "media/words/ep8/facility_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
           },
           {
             "word": "ensure",
@@ -1470,7 +4842,19 @@
             "audio": "media/words/ep8/ensure.mp3",
             "ex_audio": "media/words/ep8/ensure_ex.mp3",
             "highlight": false,
-            "review": false
+            "review": true
+          },
+          {
+            "word": "supplier",
+            "pos": "n.",
+            "zh": "供給業者、仕入れ先",
+            "ex": "Norlich works closely with its local network of suppliers.",
+            "exzh": "Norlich は地元の供給業者のネットワークと緊密に協力している。",
+            "ipa": "/səˈplaɪɚ/",
+            "audio": "media/words/ep8/supplier.mp3",
+            "ex_audio": "media/words/ep8/supplier_ex.mp3",
+            "highlight": false,
+            "review": true
           }
         ],
         "has_words": true
@@ -1492,14 +4876,38 @@
         "review": true
       },
       {
-        "word": "buffet",
+        "word": "pitcher",
         "pos": "n.",
-        "zh": "自助餐；自助餐台",
-        "ex": "Please take a plate from the end of the buffet.",
-        "exzh": "请从自助餐台的尽头拿一个盘子。",
-        "ipa": "/ˈbʌfət/",
-        "audio": "media/words/ep8/buffet.mp3",
-        "ex_audio": "media/words/ep8/buffet_ex.mp3",
+        "zh": "水壶；大水罐",
+        "ex": "The man is lifting a pitcher of water.",
+        "exzh": "男子正举起一壶水。",
+        "ipa": "/ˈpɪtʃɚ/",
+        "audio": "media/words/ep8/pitcher.mp3",
+        "ex_audio": "media/words/ep8/pitcher_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assemble",
+        "pos": "v.",
+        "zh": "组装；装配",
+        "ex": "They're assembling a wooden box.",
+        "exzh": "他们正在组装一个木箱。",
+        "ipa": "/əˈsɛmbəl/",
+        "audio": "media/words/ep8/assemble.mp3",
+        "ex_audio": "media/words/ep8/assemble_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bend over",
+        "pos": "v.",
+        "zh": "弯腰；俯身",
+        "ex": "They're bending over a work project.",
+        "exzh": "他们正俯身做一项工作。",
+        "ipa": "/bɛnd ˈoʊvɚ/",
+        "audio": "media/words/ep8/bend-over.mp3",
+        "ex_audio": "media/words/ep8/bend-over_ex.mp3",
         "highlight": false,
         "review": true
       },
@@ -1512,6 +4920,42 @@
         "ipa": "/prəˈpoʊzəl/",
         "audio": "media/words/ep8/proposal.mp3",
         "ex_audio": "media/words/ep8/proposal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "due",
+        "pos": "adj.",
+        "zh": "到期的；截止的",
+        "ex": "When is the final proposal due?",
+        "exzh": "最终提案什么时候截止？",
+        "ipa": "/du/",
+        "audio": "media/words/ep8/due.mp3",
+        "ex_audio": "media/words/ep8/due_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "available",
+        "pos": "adj.",
+        "zh": "有空的；可用的",
+        "ex": "I'm available now to help you.",
+        "exzh": "我现在有空帮你。",
+        "ipa": "/əˈveɪləbəl/",
+        "audio": "media/words/ep8/available.mp3",
+        "ex_audio": "media/words/ep8/available_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "zh": "截止日期",
+        "ex": "Because I have a project deadline.",
+        "exzh": "因为我有一个项目要截止。",
+        "ipa": "/ˈdɛdˌlaɪn/",
+        "audio": "media/words/ep8/deadline.mp3",
+        "ex_audio": "media/words/ep8/deadline_ex.mp3",
         "highlight": false,
         "review": true
       },
@@ -1536,6 +4980,30 @@
         "ipa": "/ˈmæɡəˌzin/",
         "audio": "media/words/ep8/magazine.mp3",
         "ex_audio": "media/words/ep8/magazine_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reception",
+        "pos": "n.",
+        "zh": "招待会；接待处",
+        "ex": "No, the reception is outdoors.",
+        "exzh": "不，招待会在户外。",
+        "ipa": "/rɪˈsɛpʃən/",
+        "audio": "media/words/ep8/reception.mp3",
+        "ex_audio": "media/words/ep8/reception_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "client",
+        "pos": "n.",
+        "zh": "客户",
+        "ex": "No, I'm visiting a client.",
+        "exzh": "不，我要去拜访客户。",
+        "ipa": "/ˈklaɪənt/",
+        "audio": "media/words/ep8/client.mp3",
+        "ex_audio": "media/words/ep8/client_ex.mp3",
         "highlight": false,
         "review": true
       },
@@ -1576,6 +5044,54 @@
         "review": true
       },
       {
+        "word": "overseas",
+        "pos": "adv.",
+        "zh": "在海外；在国外",
+        "ex": "He worked for a company overseas.",
+        "exzh": "他曾在海外的一家公司工作。",
+        "ipa": "/ˈoʊvɚˈsiz/",
+        "audio": "media/words/ep8/overseas.mp3",
+        "ex_audio": "media/words/ep8/overseas_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "luggage",
+        "pos": "n.",
+        "zh": "行李",
+        "ex": "Yes, I'll be checking luggage.",
+        "exzh": "是的，我要托运行李。",
+        "ipa": "/ˈlʌɡədʒ/",
+        "audio": "media/words/ep8/luggage.mp3",
+        "ex_audio": "media/words/ep8/luggage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "position",
+        "pos": "n.",
+        "zh": "职位；岗位",
+        "ex": "How soon can you start your new position?",
+        "exzh": "你多快能开始新职位的工作？",
+        "ipa": "/pəˈzɪʃən/",
+        "audio": "media/words/ep8/position.mp3",
+        "ex_audio": "media/words/ep8/position_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "quarterly",
+        "pos": "adj.",
+        "zh": "季度的；每季的",
+        "ex": "When will the quarterly report be ready?",
+        "exzh": "季度报告什么时候准备好？",
+        "ipa": "/ˈkwɔrtɚli/",
+        "audio": "media/words/ep8/quarterly.mp3",
+        "ex_audio": "media/words/ep8/quarterly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
         "word": "compile",
         "pos": "v.",
         "zh": "汇编；整理（数据）",
@@ -1585,6 +5101,18 @@
         "audio": "media/words/ep8/compile.mp3",
         "ex_audio": "media/words/ep8/compile_ex.mp3",
         "highlight": true,
+        "review": true
+      },
+      {
+        "word": "figure",
+        "pos": "n.",
+        "zh": "数字；数据",
+        "ex": "This figure represents a twenty percent increase over the old plant.",
+        "exzh": "这一数字比旧工厂高出百分之二十。",
+        "ipa": "/ˈfɪɡjɚ/",
+        "audio": "media/words/ep8/figure.mp3",
+        "ex_audio": "media/words/ep8/figure_ex.mp3",
+        "highlight": false,
         "review": true
       },
       {
@@ -1609,7 +5137,19 @@
         "audio": "media/words/ep8/bowling.mp3",
         "ex_audio": "media/words/ep8/bowling_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "competitive",
+        "pos": "adj.",
+        "zh": "竞争性的；好胜的",
+        "ex": "It's not competitive!",
+        "exzh": "这不是比赛性质的！",
+        "ipa": "/kəmˈpɛtətɪv/",
+        "audio": "media/words/ep8/competitive.mp3",
+        "ex_audio": "media/words/ep8/competitive_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "interact",
@@ -1621,7 +5161,7 @@
         "audio": "media/words/ep8/interact.mp3",
         "ex_audio": "media/words/ep8/interact_ex.mp3",
         "highlight": true,
-        "review": false
+        "review": true
       },
       {
         "word": "coworker",
@@ -1633,7 +5173,91 @@
         "audio": "media/words/ep8/coworker.mp3",
         "ex_audio": "media/words/ep8/coworker_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "retreat",
+        "pos": "n.",
+        "zh": "（公司）集体外出活动；静修",
+        "ex": "The company retreat is in the mountains this year.",
+        "exzh": "今年公司的集体外出活动在山里。",
+        "ipa": "/riˈtrit/",
+        "audio": "media/words/ep8/retreat.mp3",
+        "ex_audio": "media/words/ep8/retreat_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "trade fair",
+        "pos": "n.",
+        "zh": "商品交易会；展销会",
+        "ex": "We will have a booth at the trade fair.",
+        "exzh": "我们会在交易会上设一个展位。",
+        "ipa": "/treɪd fɛr/",
+        "audio": "media/words/ep8/trade-fair.mp3",
+        "ex_audio": "media/words/ep8/trade-fair_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reservation",
+        "pos": "n.",
+        "zh": "预订",
+        "ex": "He made a reservation.",
+        "exzh": "他做了预订。",
+        "ipa": "/ˌrɛzɚˈveɪʃən/",
+        "audio": "media/words/ep8/reservation.mp3",
+        "ex_audio": "media/words/ep8/reservation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "socialize",
+        "pos": "v.",
+        "zh": "社交；交际",
+        "ex": "The event is a chance to socialize with colleagues.",
+        "exzh": "这次活动是和同事交际的机会。",
+        "ipa": "/ˈsoʊʃəˌlaɪz/",
+        "audio": "media/words/ep8/socialize.mp3",
+        "ex_audio": "media/words/ep8/socialize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "charity",
+        "pos": "n.",
+        "zh": "慈善；慈善机构",
+        "ex": "They want to raise money for a charity.",
+        "exzh": "他们想为一家慈善机构筹款。",
+        "ipa": "/ˈtʃɛrɪti/",
+        "audio": "media/words/ep8/charity.mp3",
+        "ex_audio": "media/words/ep8/charity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "upgrade",
+        "pos": "n./v.",
+        "zh": "升级；改进",
+        "ex": "My team has been working on the technological upgrades for over a year.",
+        "exzh": "我的团队致力于技术升级已经一年多了。",
+        "ipa": "/ʌpˈɡreɪd/",
+        "audio": "media/words/ep8/upgrade.mp3",
+        "ex_audio": "media/words/ep8/upgrade_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "accomplish",
+        "pos": "v.",
+        "zh": "完成；实现",
+        "ex": "I'm very pleased with everything we have accomplished.",
+        "exzh": "我对我们取得的一切成果非常满意。",
+        "ipa": "/əˈkɑmplɪʃ/",
+        "audio": "media/words/ep8/accomplish.mp3",
+        "ex_audio": "media/words/ep8/accomplish_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "satellite",
@@ -1645,7 +5269,7 @@
         "audio": "media/words/ep8/satellite.mp3",
         "ex_audio": "media/words/ep8/satellite_ex.mp3",
         "highlight": true,
-        "review": false
+        "review": true
       },
       {
         "word": "messaging",
@@ -1657,7 +5281,19 @@
         "audio": "media/words/ep8/messaging.mp3",
         "ex_audio": "media/words/ep8/messaging_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "capability",
+        "pos": "n.",
+        "zh": "功能；能力",
+        "ex": "This model has a powerful satellite messaging capability.",
+        "exzh": "这款机型有强大的卫星消息功能。",
+        "ipa": "/ˌkeɪpəˈbɪləti/",
+        "audio": "media/words/ep8/capability.mp3",
+        "ex_audio": "media/words/ep8/capability_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "anticipate",
@@ -1669,7 +5305,7 @@
         "audio": "media/words/ep8/anticipate.mp3",
         "ex_audio": "media/words/ep8/anticipate_ex.mp3",
         "highlight": true,
-        "review": false
+        "review": true
       },
       {
         "word": "exceed",
@@ -1681,31 +5317,31 @@
         "audio": "media/words/ep8/exceed.mp3",
         "ex_audio": "media/words/ep8/exceed_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
-        "word": "renovation",
+        "word": "expectation",
         "pos": "n.",
-        "zh": "翻修；装修",
-        "ex": "Renovations to the public library have progressed steadily.",
-        "exzh": "公共图书馆的翻修在稳步推进。",
-        "ipa": "/ˌrɛnəˈveɪʃən/",
-        "audio": "media/words/ep8/renovation.mp3",
-        "ex_audio": "media/words/ep8/renovation_ex.mp3",
+        "zh": "预期；期望",
+        "ex": "Sales will exceed all our expectations.",
+        "exzh": "销量将超出我们所有的预期。",
+        "ipa": "/ˌɛkspɛkˈteɪʃən/",
+        "audio": "media/words/ep8/expectation.mp3",
+        "ex_audio": "media/words/ep8/expectation_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
-        "word": "steadily",
-        "pos": "adv.",
-        "zh": "稳步地；持续地",
-        "ex": "Sales have grown steadily over the past year.",
-        "exzh": "过去一年销售额稳步增长。",
-        "ipa": "/ˈstɛdəli/",
-        "audio": "media/words/ep8/steadily.mp3",
-        "ex_audio": "media/words/ep8/steadily_ex.mp3",
+        "word": "demand",
+        "pos": "n.",
+        "zh": "需求",
+        "ex": "Demand will be high.",
+        "exzh": "需求会很高。",
+        "ipa": "/dɪˈmænd/",
+        "audio": "media/words/ep8/demand.mp3",
+        "ex_audio": "media/words/ep8/demand_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
         "word": "sculpture",
@@ -1717,7 +5353,7 @@
         "audio": "media/words/ep8/sculpture.mp3",
         "ex_audio": "media/words/ep8/sculpture_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
         "word": "artwork",
@@ -1729,7 +5365,19 @@
         "audio": "media/words/ep8/artwork.mp3",
         "ex_audio": "media/words/ep8/artwork_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "purchase",
+        "pos": "v.",
+        "zh": "购买",
+        "ex": "Sandwiches can be purchased from the food truck.",
+        "exzh": "三明治可以在餐车购买。",
+        "ipa": "/ˈpɝtʃəs/",
+        "audio": "media/words/ep8/purchase.mp3",
+        "ex_audio": "media/words/ep8/purchase_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "rear",
@@ -1741,7 +5389,67 @@
         "audio": "media/words/ep8/rear.mp3",
         "ex_audio": "media/words/ep8/rear_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "receipt",
+        "pos": "n.",
+        "zh": "收据；小票",
+        "ex": "Customers are required to present a receipt.",
+        "exzh": "顾客需要出示收据。",
+        "ipa": "/rɪˈsit/",
+        "audio": "media/words/ep8/receipt.mp3",
+        "ex_audio": "media/words/ep8/receipt_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "equipment",
+        "pos": "n.",
+        "zh": "设备；器材",
+        "ex": "The plant upgraded its equipment for faster production.",
+        "exzh": "工厂升级了设备以加快生产。",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "audio": "media/words/ep8/equipment.mp3",
+        "ex_audio": "media/words/ep8/equipment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "renovation",
+        "pos": "n.",
+        "zh": "翻修；装修",
+        "ex": "Renovations to the public library have progressed steadily.",
+        "exzh": "公共图书馆的翻修在稳步推进。",
+        "ipa": "/ˌrɛnəˈveɪʃən/",
+        "audio": "media/words/ep8/renovation.mp3",
+        "ex_audio": "media/words/ep8/renovation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "steadily",
+        "pos": "adv.",
+        "zh": "稳步地；持续地",
+        "ex": "Sales have grown steadily over the past year.",
+        "exzh": "过去一年销售额稳步增长。",
+        "ipa": "/ˈstɛdəli/",
+        "audio": "media/words/ep8/steadily.mp3",
+        "ex_audio": "media/words/ep8/steadily_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "warranty",
+        "pos": "n.",
+        "zh": "保修；保修期",
+        "ex": "Amber Kitchen Supply provides a one-year warranty on all its products.",
+        "exzh": "Amber 厨房用品为所有产品提供一年保修。",
+        "ipa": "/ˈwɔrənti/",
+        "audio": "media/words/ep8/warranty.mp3",
+        "ex_audio": "media/words/ep8/warranty_ex.mp3",
+        "highlight": false,
+        "review": true
       },
       {
         "word": "outdated",
@@ -1753,19 +5461,19 @@
         "audio": "media/words/ep8/outdated.mp3",
         "ex_audio": "media/words/ep8/outdated_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
-        "word": "figure",
+        "word": "facility",
         "pos": "n.",
-        "zh": "数字；数据",
-        "ex": "This figure represents a twenty percent increase over the old plant.",
-        "exzh": "这一数字比旧工厂高出百分之二十。",
-        "ipa": "/ˈfɪɡjɚ/",
-        "audio": "media/words/ep8/figure.mp3",
-        "ex_audio": "media/words/ep8/figure_ex.mp3",
+        "zh": "设施；（工厂等）场所",
+        "ex": "It replaces an outdated facility located nearby.",
+        "exzh": "它取代了附近一座陈旧的设施。",
+        "ipa": "/fəˈsɪlɪti/",
+        "audio": "media/words/ep8/facility.mp3",
+        "ex_audio": "media/words/ep8/facility_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
       },
       {
         "word": "ensure",
@@ -1777,7 +5485,19 @@
         "audio": "media/words/ep8/ensure.mp3",
         "ex_audio": "media/words/ep8/ensure_ex.mp3",
         "highlight": false,
-        "review": false
+        "review": true
+      },
+      {
+        "word": "supplier",
+        "pos": "n.",
+        "zh": "供应商",
+        "ex": "Norlich works closely with its local network of suppliers.",
+        "exzh": "Norlich 与当地供应商网络紧密合作。",
+        "ipa": "/səˈplaɪɚ/",
+        "audio": "media/words/ep8/supplier.mp3",
+        "ex_audio": "media/words/ep8/supplier_ex.mp3",
+        "highlight": false,
+        "review": true
       }
     ]
   },
