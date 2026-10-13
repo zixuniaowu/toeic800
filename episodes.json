@@ -1,5 +1,1606 @@
 [
   {
+    "number": 11,
+    "theme": "真题精讲 · Test 1 第四篇",
+    "date": "2026-10-14",
+    "duration_sec": 3324.5,
+    "segments": [
+      {
+        "title": "1. Part 3/4 逐句精听",
+        "start": 0.0,
+        "length": 1276.81
+      },
+      {
+        "title": "2. Part 5 语法真题 6 题",
+        "start": 1276.81,
+        "length": 405.62
+      },
+      {
+        "title": "3. Part 6/7 阅读真题 3 篇",
+        "start": 1682.43,
+        "length": 832.34
+      },
+      {
+        "title": "4. 本期 50 词总复习 · 拼读",
+        "start": 2514.76,
+        "length": 809.78
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "make up for",
+        "zh": "弥补；补偿"
+      },
+      {
+        "word": "substitute",
+        "zh": "替代品；代替"
+      },
+      {
+        "word": "justify",
+        "zh": "证明…合理；为…辩护"
+      },
+      {
+        "word": "be subject to",
+        "zh": "须经…；受…制约"
+      },
+      {
+        "word": "determination",
+        "zh": "决定；裁定"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "tile",
+        "zh": "瓷砖；地砖"
+      },
+      {
+        "word": "on back order",
+        "zh": "缺货待补；延期交货"
+      },
+      {
+        "word": "ship",
+        "zh": "发货；运送"
+      },
+      {
+        "word": "carry",
+        "zh": "；商店；有…出售；经营"
+      },
+      {
+        "word": "manufacturer",
+        "zh": "制造商；厂商"
+      },
+      {
+        "word": "make up for",
+        "zh": "弥补；补偿"
+      },
+      {
+        "word": "in person",
+        "zh": "亲自；当面"
+      },
+      {
+        "word": "stop by",
+        "zh": "顺便去；顺路拜访"
+      },
+      {
+        "word": "substitute",
+        "zh": "替代品；代替"
+      },
+      {
+        "word": "internship",
+        "zh": "实习；实习期"
+      },
+      {
+        "word": "come along",
+        "zh": "进展；进行"
+      },
+      {
+        "word": "remind",
+        "zh": "提醒；使想起"
+      },
+      {
+        "word": "mentor",
+        "zh": "导师；指导者"
+      },
+      {
+        "word": "assign",
+        "zh": "分配；指派"
+      },
+      {
+        "word": "send out",
+        "zh": "发出；分发"
+      },
+      {
+        "word": "availability",
+        "zh": "有空；可用性"
+      },
+      {
+        "word": "regarding",
+        "zh": "关于；就…而言"
+      },
+      {
+        "word": "funding",
+        "zh": "资金；经费"
+      },
+      {
+        "word": "necessity",
+        "zh": "必要性；必需品"
+      },
+      {
+        "word": "in particular",
+        "zh": "尤其；特别"
+      },
+      {
+        "word": "call for",
+        "zh": "；天气预报；预计有；需要"
+      },
+      {
+        "word": "invitation",
+        "zh": "邀请；请柬"
+      },
+      {
+        "word": "justify",
+        "zh": "证明…合理；为…辩护"
+      },
+      {
+        "word": "decoration",
+        "zh": "装饰；装饰品"
+      },
+      {
+        "word": "lubricate",
+        "zh": "给…上润滑油"
+      },
+      {
+        "word": "willing",
+        "zh": "愿意的；乐意的"
+      },
+      {
+        "word": "sign-up sheet",
+        "zh": "报名表；登记表"
+      },
+      {
+        "word": "reveal",
+        "zh": "揭示；显示"
+      },
+      {
+        "word": "overpay",
+        "zh": "多付；钱"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；盘点清单"
+      },
+      {
+        "word": "holiday rush",
+        "zh": "节假日购物高峰"
+      },
+      {
+        "word": "description",
+        "zh": "说明；描述"
+      },
+      {
+        "word": "bank transfer",
+        "zh": "银行转账"
+      },
+      {
+        "word": "be subject to",
+        "zh": "须经…；受…制约"
+      },
+      {
+        "word": "identify",
+        "zh": "发现；识别；确定"
+      },
+      {
+        "word": "opportunity",
+        "zh": "机会"
+      },
+      {
+        "word": "thoroughly",
+        "zh": "非常；彻底地"
+      },
+      {
+        "word": "technician",
+        "zh": "技术员；技师"
+      },
+      {
+        "word": "interview",
+        "zh": "面试；采访"
+      },
+      {
+        "word": "given",
+        "zh": "考虑到；鉴于"
+      },
+      {
+        "word": "trite",
+        "zh": "陈腐的；老套的"
+      },
+      {
+        "word": "stylish",
+        "zh": "时髦的；有型的"
+      },
+      {
+        "word": "indicate",
+        "zh": "表明；指出"
+      },
+      {
+        "word": "sturdy",
+        "zh": "结实的；耐用的"
+      },
+      {
+        "word": "launder",
+        "zh": "洗；衣物；；洗熨"
+      },
+      {
+        "word": "stain resistant",
+        "zh": "防污的；耐脏的"
+      },
+      {
+        "word": "make sense",
+        "zh": "有道理；说得通"
+      },
+      {
+        "word": "notification",
+        "zh": "通知"
+      },
+      {
+        "word": "determination",
+        "zh": "决定；裁定"
+      },
+      {
+        "word": "candidate",
+        "zh": "候选人；应聘者"
+      }
+    ],
+    "video": "media/ep11.mp4",
+    "script_pdf": "media/ep11_script.pdf",
+    "source_video": "ep11.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep11.html",
+        "video": "media/ep11.mp4",
+        "script_pdf": "media/ep11_script.pdf",
+        "duration_sec": 3324.5,
+        "theme": "真题精讲 · Test 1 第四篇",
+        "segments": [
+          {
+            "title": "1. Part 3/4 逐句精听",
+            "start": 0.0,
+            "length": 1276.81
+          },
+          {
+            "title": "2. Part 5 语法真题 6 题",
+            "start": 1276.81,
+            "length": 405.62
+          },
+          {
+            "title": "3. Part 6/7 阅读真题 3 篇",
+            "start": 1682.43,
+            "length": 832.34
+          },
+          {
+            "title": "4. 本期 50 词总复习 · 拼读",
+            "start": 2514.76,
+            "length": 809.78
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep11ja.html",
+        "video": "media/ep11ja.mp4",
+        "script_pdf": "media/ep11ja_script.pdf",
+        "duration_sec": 3999.4,
+        "theme": "本番問題の解説 · Test 1 第4弾",
+        "segments": [
+          {
+            "title": "1. Part 3/4 1文ずつ精聴",
+            "start": 0.0,
+            "length": 1634.32
+          },
+          {
+            "title": "2. Part 5 文法の本番問題 6 問",
+            "start": 1634.32,
+            "length": 494.85
+          },
+          {
+            "title": "3. Part 6/7 読解の本番問題 3 題",
+            "start": 2129.16,
+            "length": 1018.29
+          },
+          {
+            "title": "4. 今回の 50 語まとめ復習 · スペル",
+            "start": 3147.45,
+            "length": 851.94
+          }
+        ],
+        "poster": "media/ep11ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "make up for",
+            "zh": "埋め合わせる；補う"
+          },
+          {
+            "word": "substitute",
+            "zh": "代わりの物；代用する"
+          },
+          {
+            "word": "justify",
+            "zh": "正当化する；妥当だと示す"
+          },
+          {
+            "word": "be subject to",
+            "zh": "〜の対象となる；〜を受ける"
+          },
+          {
+            "word": "determination",
+            "zh": "決定；判断"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "tile",
+          "on back order",
+          "ship",
+          "carry",
+          "manufacturer",
+          "make up for",
+          "in person",
+          "stop by",
+          "substitute",
+          "internship",
+          "come along",
+          "remind",
+          "mentor",
+          "assign",
+          "send out",
+          "availability",
+          "regarding",
+          "funding",
+          "necessity",
+          "in particular",
+          "call for",
+          "invitation",
+          "justify",
+          "decoration",
+          "lubricate",
+          "willing",
+          "sign-up sheet",
+          "reveal",
+          "overpay",
+          "inventory",
+          "holiday rush",
+          "description",
+          "bank transfer",
+          "be subject to",
+          "identify",
+          "opportunity",
+          "thoroughly",
+          "technician",
+          "interview",
+          "given",
+          "trite",
+          "stylish",
+          "indicate",
+          "sturdy",
+          "launder",
+          "stain resistant",
+          "make sense",
+          "notification",
+          "determination",
+          "candidate"
+        ],
+        "words": [
+          {
+            "word": "tile",
+            "pos": "n.",
+            "zh": "タイル；床タイル",
+            "ex": "I'm calling about the order you placed for floor tile.",
+            "exzh": "床タイルのご注文の件でお電話しました。",
+            "ipa": "/taɪl/",
+            "audio": "media/words/ep11/tile.mp3",
+            "ex_audio": "media/words/ep11/tile_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on back order",
+            "pos": "phr.",
+            "zh": "入荷待ち；取り寄せ中",
+            "ex": "The tile is on back order.",
+            "exzh": "そのタイルは現在入荷待ちです。",
+            "ipa": "/ɑn bæk ˈɔrdɚ/",
+            "audio": "media/words/ep11/on-back-order.mp3",
+            "ex_audio": "media/words/ep11/on-back-order_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ship",
+            "pos": "v.",
+            "zh": "発送する；出荷する",
+            "ex": "We won't be able to ship your tile for at least two months.",
+            "exzh": "少なくとも2か月はタイルを発送できません。",
+            "ipa": "/ʃɪp/",
+            "audio": "media/words/ep11/ship.mp3",
+            "ex_audio": "media/words/ep11/ship_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "carry",
+            "pos": "v.",
+            "zh": "（店が商品を）扱う；置いている",
+            "ex": "We carry a very similar tile from another manufacturer.",
+            "exzh": "別のメーカーのよく似たタイルを扱っています。",
+            "ipa": "/ˈkæri/",
+            "audio": "media/words/ep11/carry.mp3",
+            "ex_audio": "media/words/ep11/carry_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "manufacturer",
+            "pos": "n.",
+            "zh": "メーカー；製造業者",
+            "ex": "The manufacturer will send the parts next week.",
+            "exzh": "メーカーが来週部品を送ってくれる。",
+            "ipa": "/ˌmænjəˈfæktʃɚɚ/",
+            "audio": "media/words/ep11/manufacturer.mp3",
+            "ex_audio": "media/words/ep11/manufacturer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "make up for",
+            "pos": "v.",
+            "zh": "埋め合わせる；補う",
+            "ex": "I can give it to you for the same price to make up for the inconvenience.",
+            "exzh": "ご迷惑の埋め合わせに、同じ価格でお譲りします。",
+            "ipa": "/meɪk ʌp fɔr/",
+            "audio": "media/words/ep11/make-up-for.mp3",
+            "ex_audio": "media/words/ep11/make-up-for_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "in person",
+            "pos": "adv.",
+            "zh": "直接；自分で",
+            "ex": "I'll still have to see the tile in person before I decide.",
+            "exzh": "決める前に、やはり実際にタイルを見ないといけません。",
+            "ipa": "/ɪn ˈpɝsən/",
+            "audio": "media/words/ep11/in-person.mp3",
+            "ex_audio": "media/words/ep11/in-person_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stop by",
+            "pos": "v.",
+            "zh": "立ち寄る",
+            "ex": "I could stop by tomorrow evening.",
+            "exzh": "明日の夕方に立ち寄れます。",
+            "ipa": "/stɑp baɪ/",
+            "audio": "media/words/ep11/stop-by.mp3",
+            "ex_audio": "media/words/ep11/stop-by_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "substitute",
+            "pos": "n./v.",
+            "zh": "代わりの物；代用する",
+            "ex": "The store offered a substitute item.",
+            "exzh": "店は代わりの商品を提案した。",
+            "ipa": "/ˈsʌbstəˌtut/",
+            "audio": "media/words/ep11/substitute.mp3",
+            "ex_audio": "media/words/ep11/substitute_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "internship",
+            "pos": "n.",
+            "zh": "インターンシップ；実習期間",
+            "ex": "Our plans for the summer internships are coming along nicely.",
+            "exzh": "夏のインターンシップの計画は順調に進んでいる。",
+            "ipa": "/ˈɪntɚnˌʃɪp/",
+            "audio": "media/words/ep11/internship.mp3",
+            "ex_audio": "media/words/ep11/internship_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "come along",
+            "pos": "v.",
+            "zh": "進む；はかどる",
+            "ex": "How is the new project coming along?",
+            "exzh": "新しいプロジェクトの進み具合はどうですか？",
+            "ipa": "/kʌm əˈlɔŋ/",
+            "audio": "media/words/ep11/come-along.mp3",
+            "ex_audio": "media/words/ep11/come-along_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "remind",
+            "pos": "v.",
+            "zh": "思い出させる；念を押す",
+            "ex": "That reminds me—I had an idea.",
+            "exzh": "それで思い出しました。アイデアがあるんです。",
+            "ipa": "/riˈmaɪnd/",
+            "audio": "media/words/ep11/remind.mp3",
+            "ex_audio": "media/words/ep11/remind_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mentor",
+            "pos": "n.",
+            "zh": "メンター；指導役",
+            "ex": "I'll see who's available to be a mentor.",
+            "exzh": "誰がメンターになれるか確認します。",
+            "ipa": "/ˈmɛnˌtɔr/",
+            "audio": "media/words/ep11/mentor.mp3",
+            "ex_audio": "media/words/ep11/mentor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assign",
+            "pos": "v.",
+            "zh": "割り当てる；任命する",
+            "ex": "I'd be happy to assign a mentor to each intern.",
+            "exzh": "インターン1人1人に喜んでメンターを割り当てます。",
+            "ipa": "/əˈsaɪn/",
+            "audio": "media/words/ep11/assign.mp3",
+            "ex_audio": "media/words/ep11/assign_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "send out",
+            "pos": "v.",
+            "zh": "送る；発送する",
+            "ex": "I'm hoping to send out invitations by the end of the week.",
+            "exzh": "今週末までに招待状を送りたいと思っています。",
+            "ipa": "/sɛnd aʊt/",
+            "audio": "media/words/ep11/send-out.mp3",
+            "ex_audio": "media/words/ep11/send-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "availability",
+            "pos": "n.",
+            "zh": "都合がつくこと；利用できること",
+            "ex": "Please check staff availability before the meeting.",
+            "exzh": "会議の前にスタッフの都合を確認してください。",
+            "ipa": "/əˌveɪləˈbɪləti/",
+            "audio": "media/words/ep11/availability.mp3",
+            "ex_audio": "media/words/ep11/availability_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regarding",
+            "pos": "prep.",
+            "zh": "〜に関して；〜について",
+            "ex": "I'm returning your call regarding the funding request.",
+            "exzh": "資金申請の件で折り返しお電話しています。",
+            "ipa": "/rɪˈɡɑrdɪŋ/",
+            "audio": "media/words/ep11/regarding.mp3",
+            "ex_audio": "media/words/ep11/regarding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "funding",
+            "pos": "n.",
+            "zh": "資金；経費",
+            "ex": "The museum received funding from the city.",
+            "exzh": "その博物館は市から資金を受けた。",
+            "ipa": "/ˈfʌndɪŋ/",
+            "audio": "media/words/ep11/funding.mp3",
+            "ex_audio": "media/words/ep11/funding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "necessity",
+            "pos": "n.",
+            "zh": "必要性；必需品",
+            "ex": "You questioned the necessity of some of the items.",
+            "exzh": "一部の項目の必要性に疑問を示されました。",
+            "ipa": "/nəˈsɛsəti/",
+            "audio": "media/words/ep11/necessity.mp3",
+            "ex_audio": "media/words/ep11/necessity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in particular",
+            "pos": "adv.",
+            "zh": "特に；とりわけ",
+            "ex": "In particular, the rental fee for the tent.",
+            "exzh": "特にテントのレンタル料です。",
+            "ipa": "/ɪn pɚˈtɪkjəlɚ/",
+            "audio": "media/words/ep11/in-particular.mp3",
+            "ex_audio": "media/words/ep11/in-particular_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "call for",
+            "pos": "v.",
+            "zh": "（天気予報が）予想する；必要とする",
+            "ex": "The forecast is calling for rain.",
+            "exzh": "天気予報では雨です。",
+            "ipa": "/kɔl fɔr/",
+            "audio": "media/words/ep11/call-for.mp3",
+            "ex_audio": "media/words/ep11/call-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "invitation",
+            "pos": "n.",
+            "zh": "招待；招待状",
+            "ex": "We sent invitations to all the clients.",
+            "exzh": "全顧客に招待状を送った。",
+            "ipa": "/ˌɪnvɪˈteɪʃən/",
+            "audio": "media/words/ep11/invitation.mp3",
+            "ex_audio": "media/words/ep11/invitation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "justify",
+            "pos": "v.",
+            "zh": "正当化する；妥当だと示す",
+            "ex": "He gave a reason to justify his request.",
+            "exzh": "彼は申請が妥当である理由を説明した。",
+            "ipa": "/ˈdʒʌstəˌfaɪ/",
+            "audio": "media/words/ep11/justify.mp3",
+            "ex_audio": "media/words/ep11/justify_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "decoration",
+            "pos": "n.",
+            "zh": "飾り；装飾品",
+            "ex": "We need to purchase decorations for the party.",
+            "exzh": "パーティー用の飾りを買う必要がある。",
+            "ipa": "/ˌdɛkɚˈeɪʃən/",
+            "audio": "media/words/ep11/decoration.mp3",
+            "ex_audio": "media/words/ep11/decoration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lubricate",
+            "pos": "v.",
+            "zh": "注油する；潤滑油を差す",
+            "ex": "Some equipment parts must be lubricated at the start of the shift.",
+            "exzh": "一部の機器部品はシフトの開始時に注油しなければならない。",
+            "ipa": "/ˈlubrɪˌkeɪt/",
+            "audio": "media/words/ep11/lubricate.mp3",
+            "ex_audio": "media/words/ep11/lubricate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "willing",
+            "pos": "adj.",
+            "zh": "進んで〜する；〜する意思がある",
+            "ex": "Anyone willing to work overtime should sign up.",
+            "exzh": "残業してもよい人は申し込んでください。",
+            "ipa": "/ˈwɪlɪŋ/",
+            "audio": "media/words/ep11/willing.mp3",
+            "ex_audio": "media/words/ep11/willing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sign-up sheet",
+            "pos": "n.",
+            "zh": "申込用紙；登録シート",
+            "ex": "Please write your name on the sign-up sheet.",
+            "exzh": "申込用紙に名前を書いてください。",
+            "ipa": "/saɪn-ʌp ʃit/",
+            "audio": "media/words/ep11/sign-up-sheet.mp3",
+            "ex_audio": "media/words/ep11/sign-up-sheet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reveal",
+            "pos": "v.",
+            "zh": "明らかにする；示す",
+            "ex": "The internal audit revealed a small mistake.",
+            "exzh": "内部監査で小さな誤りが明らかになった。",
+            "ipa": "/rɪˈvil/",
+            "audio": "media/words/ep11/reveal.mp3",
+            "ex_audio": "media/words/ep11/reveal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "overpay",
+            "pos": "v.",
+            "zh": "払い過ぎる",
+            "ex": "The company had overpaid for travel expenses.",
+            "exzh": "会社は出張費を払い過ぎていた。",
+            "ipa": "/ˈoʊvɚˌpeɪ/",
+            "audio": "media/words/ep11/overpay.mp3",
+            "ex_audio": "media/words/ep11/overpay_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inventory",
+            "pos": "n.",
+            "zh": "在庫；棚卸し表",
+            "ex": "The latest inventory shows we have enough decorations.",
+            "exzh": "最新の棚卸しでは飾りの在庫は十分ある。",
+            "ipa": "/ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep11/inventory.mp3",
+            "ex_audio": "media/words/ep11/inventory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "holiday rush",
+            "pos": "n.",
+            "zh": "休暇シーズンの繁忙期",
+            "ex": "Stores hire extra staff for the holiday rush.",
+            "exzh": "店は休暇シーズンの繁忙期に臨時スタッフを雇う。",
+            "ipa": "/ˈhɑləˌdeɪ rʌʃ/",
+            "audio": "media/words/ep11/holiday-rush.mp3",
+            "ex_audio": "media/words/ep11/holiday-rush_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "description",
+            "pos": "n.",
+            "zh": "説明；記述",
+            "ex": "The catalog contains detailed descriptions of its software products.",
+            "exzh": "カタログにはソフトウェア製品の詳しい説明が載っている。",
+            "ipa": "/dɪˈskrɪpʃən/",
+            "audio": "media/words/ep11/description.mp3",
+            "ex_audio": "media/words/ep11/description_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bank transfer",
+            "pos": "n.",
+            "zh": "銀行振込",
+            "ex": "All bank transfers are subject to review.",
+            "exzh": "すべての銀行振込は審査の対象となります。",
+            "ipa": "/bæŋk trænsˈfɝ/",
+            "audio": "media/words/ep11/bank-transfer.mp3",
+            "ex_audio": "media/words/ep11/bank-transfer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be subject to",
+            "pos": "v.",
+            "zh": "〜の対象となる；〜を受ける",
+            "ex": "Prices are subject to change.",
+            "exzh": "価格は変更されることがあります。",
+            "ipa": "/bi səbˈdʒɛkt tu/",
+            "audio": "media/words/ep11/be-subject-to.mp3",
+            "ex_audio": "media/words/ep11/be-subject-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "identify",
+            "pos": "v.",
+            "zh": "特定する；見つける；確認する",
+            "ex": "The transfer could be delayed if an issue is identified.",
+            "exzh": "問題が見つかった場合、振込が遅れることがあります。",
+            "ipa": "/aɪˈdɛntəˌfaɪ/",
+            "audio": "media/words/ep11/identify.mp3",
+            "ex_audio": "media/words/ep11/identify_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "opportunity",
+            "pos": "n.",
+            "zh": "機会；チャンス",
+            "ex": "Thank you for offering me the opportunity to work at your company.",
+            "exzh": "貴社で働く機会をいただき、ありがとうございます。",
+            "ipa": "/ˌɑpɚˈtunəti/",
+            "audio": "media/words/ep11/opportunity.mp3",
+            "ex_audio": "media/words/ep11/opportunity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "thoroughly",
+            "pos": "adv.",
+            "zh": "すっかり；徹底的に",
+            "ex": "I thoroughly enjoyed meeting you.",
+            "exzh": "お会いできて本当に楽しかったです。",
+            "ipa": "/ˈθɝoʊli/",
+            "audio": "media/words/ep11/thoroughly.mp3",
+            "ex_audio": "media/words/ep11/thoroughly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "technician",
+            "pos": "n.",
+            "zh": "技術者；技師",
+            "ex": "A technician will repair the machine tomorrow.",
+            "exzh": "明日、技術者が機械を修理に来る。",
+            "ipa": "/tɛkˈnɪʃən/",
+            "audio": "media/words/ep11/technician.mp3",
+            "ex_audio": "media/words/ep11/technician_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "interview",
+            "pos": "n./v.",
+            "zh": "面接；インタビュー",
+            "ex": "I enjoyed meeting the team during my interview.",
+            "exzh": "面接のときにチームの方々と会えて楽しかったです。",
+            "ipa": "/ˈɪntɚˌvju/",
+            "audio": "media/words/ep11/interview.mp3",
+            "ex_audio": "media/words/ep11/interview_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "given",
+            "pos": "prep.",
+            "zh": "〜を考慮すると；〜を踏まえると",
+            "ex": "The decision was very difficult given my interest in your products.",
+            "exzh": "貴社製品への関心を考えると、とても難しい決断でした。",
+            "ipa": "/ˈɡɪvən/",
+            "audio": "media/words/ep11/given.mp3",
+            "ex_audio": "media/words/ep11/given_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "trite",
+            "pos": "adj.",
+            "zh": "ありきたりの；陳腐な",
+            "ex": "Playtime clothes for children shouldn't be boring or trite!",
+            "exzh": "子どもの遊び着は退屈でありきたりであってはいけません！",
+            "ipa": "/traɪt/",
+            "audio": "media/words/ep11/trite.mp3",
+            "ex_audio": "media/words/ep11/trite_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stylish",
+            "pos": "adj.",
+            "zh": "おしゃれな；洗練された",
+            "ex": "Children's clothing should be comfortable, affordable, and stylish.",
+            "exzh": "子ども服は着心地がよく、手頃で、おしゃれであるべきです。",
+            "ipa": "/ˈstaɪlɪʃ/",
+            "audio": "media/words/ep11/stylish.mp3",
+            "ex_audio": "media/words/ep11/stylish_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "indicate",
+            "pos": "v.",
+            "zh": "示す；述べる",
+            "ex": "What is indicated about the line of clothing?",
+            "exzh": "その衣料品シリーズについて何が述べられていますか？",
+            "ipa": "/ˈɪndəˌkeɪt/",
+            "audio": "media/words/ep11/indicate.mp3",
+            "ex_audio": "media/words/ep11/indicate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sturdy",
+            "pos": "adj.",
+            "zh": "丈夫な；頑丈な",
+            "ex": "The clothes kids play in must be sturdy.",
+            "exzh": "子どもが遊ぶときの服は丈夫でなければならない。",
+            "ipa": "/ˈstɝdi/",
+            "audio": "media/words/ep11/sturdy.mp3",
+            "ex_audio": "media/words/ep11/sturdy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "launder",
+            "pos": "v.",
+            "zh": "洗濯する",
+            "ex": "These shirts are easy to launder.",
+            "exzh": "これらのシャツは洗濯しやすい。",
+            "ipa": "/ˈlɔndɚ/",
+            "audio": "media/words/ep11/launder.mp3",
+            "ex_audio": "media/words/ep11/launder_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stain resistant",
+            "pos": "adj.",
+            "zh": "汚れに強い；防汚の",
+            "ex": "Our sweaters are machine washable and stain resistant.",
+            "exzh": "当店のセーターは洗濯機で洗えて、汚れに強いです。",
+            "ipa": "/steɪn rɪˈzɪstənt/",
+            "audio": "media/words/ep11/stain-resistant.mp3",
+            "ex_audio": "media/words/ep11/stain-resistant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "make sense",
+            "pos": "v.",
+            "zh": "筋が通る；なるほどと思う",
+            "ex": "That makes sense. See you this afternoon.",
+            "exzh": "なるほど。では午後に。",
+            "ipa": "/meɪk sɛns/",
+            "audio": "media/words/ep11/make-sense.mp3",
+            "ex_audio": "media/words/ep11/make-sense_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "notification",
+            "pos": "n.",
+            "zh": "通知；お知らせ",
+            "ex": "You will receive a notification when your order ships.",
+            "exzh": "ご注文の品が発送されると通知が届きます。",
+            "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+            "audio": "media/words/ep11/notification.mp3",
+            "ex_audio": "media/words/ep11/notification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "determination",
+            "pos": "n.",
+            "zh": "決定；判断",
+            "ex": "She wants our final determination by Monday.",
+            "exzh": "彼女は月曜までに私たちの最終決定を求めている。",
+            "ipa": "/dɪˌtɝməˈneɪʃən/",
+            "audio": "media/words/ep11/determination.mp3",
+            "ex_audio": "media/words/ep11/determination_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "candidate",
+            "pos": "n.",
+            "zh": "候補者；応募者",
+            "ex": "We interviewed five candidates for two positions.",
+            "exzh": "2つのポジションに5人の候補者を面接した。",
+            "ipa": "/ˈkændədeɪt/",
+            "audio": "media/words/ep11/candidate.mp3",
+            "ex_audio": "media/words/ep11/candidate_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep11_cover.png",
+    "theme_ja": "本番問題の解説 · Test 1 第4弾",
+    "words": [
+      {
+        "word": "tile",
+        "pos": "n.",
+        "zh": "瓷砖；地砖",
+        "ex": "I'm calling about the order you placed for floor tile.",
+        "exzh": "我打电话是关于您订购地砖的那份订单。",
+        "ipa": "/taɪl/",
+        "audio": "media/words/ep11/tile.mp3",
+        "ex_audio": "media/words/ep11/tile_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on back order",
+        "pos": "phr.",
+        "zh": "缺货待补；延期交货",
+        "ex": "The tile is on back order.",
+        "exzh": "这款瓷砖目前缺货，正在等待补货。",
+        "ipa": "/ɑn bæk ˈɔrdɚ/",
+        "audio": "media/words/ep11/on-back-order.mp3",
+        "ex_audio": "media/words/ep11/on-back-order_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ship",
+        "pos": "v.",
+        "zh": "发货；运送",
+        "ex": "We won't be able to ship your tile for at least two months.",
+        "exzh": "至少两个月内我们无法给您发货。",
+        "ipa": "/ʃɪp/",
+        "audio": "media/words/ep11/ship.mp3",
+        "ex_audio": "media/words/ep11/ship_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "carry",
+        "pos": "v.",
+        "zh": "（商店）有…出售；经营",
+        "ex": "We carry a very similar tile from another manufacturer.",
+        "exzh": "我们店有另一家厂商生产的非常相似的瓷砖。",
+        "ipa": "/ˈkæri/",
+        "audio": "media/words/ep11/carry.mp3",
+        "ex_audio": "media/words/ep11/carry_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "manufacturer",
+        "pos": "n.",
+        "zh": "制造商；厂商",
+        "ex": "The manufacturer will send the parts next week.",
+        "exzh": "厂商下周会把零件寄过来。",
+        "ipa": "/ˌmænjəˈfæktʃɚɚ/",
+        "audio": "media/words/ep11/manufacturer.mp3",
+        "ex_audio": "media/words/ep11/manufacturer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "make up for",
+        "pos": "v.",
+        "zh": "弥补；补偿",
+        "ex": "I can give it to you for the same price to make up for the inconvenience.",
+        "exzh": "为了弥补给您带来的不便，我可以按原价卖给您。",
+        "ipa": "/meɪk ʌp fɔr/",
+        "audio": "media/words/ep11/make-up-for.mp3",
+        "ex_audio": "media/words/ep11/make-up-for_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "in person",
+        "pos": "adv.",
+        "zh": "亲自；当面",
+        "ex": "I'll still have to see the tile in person before I decide.",
+        "exzh": "决定之前，我还是得亲自看看瓷砖。",
+        "ipa": "/ɪn ˈpɝsən/",
+        "audio": "media/words/ep11/in-person.mp3",
+        "ex_audio": "media/words/ep11/in-person_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stop by",
+        "pos": "v.",
+        "zh": "顺便去；顺路拜访",
+        "ex": "I could stop by tomorrow evening.",
+        "exzh": "我明天傍晚可以过去一趟。",
+        "ipa": "/stɑp baɪ/",
+        "audio": "media/words/ep11/stop-by.mp3",
+        "ex_audio": "media/words/ep11/stop-by_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "substitute",
+        "pos": "n./v.",
+        "zh": "替代品；代替",
+        "ex": "The store offered a substitute item.",
+        "exzh": "商店提供了一件替代商品。",
+        "ipa": "/ˈsʌbstəˌtut/",
+        "audio": "media/words/ep11/substitute.mp3",
+        "ex_audio": "media/words/ep11/substitute_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "internship",
+        "pos": "n.",
+        "zh": "实习；实习期",
+        "ex": "Our plans for the summer internships are coming along nicely.",
+        "exzh": "我们的暑期实习计划进展得很顺利。",
+        "ipa": "/ˈɪntɚnˌʃɪp/",
+        "audio": "media/words/ep11/internship.mp3",
+        "ex_audio": "media/words/ep11/internship_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "come along",
+        "pos": "v.",
+        "zh": "进展；进行",
+        "ex": "How is the new project coming along?",
+        "exzh": "新项目进展得怎么样了？",
+        "ipa": "/kʌm əˈlɔŋ/",
+        "audio": "media/words/ep11/come-along.mp3",
+        "ex_audio": "media/words/ep11/come-along_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "remind",
+        "pos": "v.",
+        "zh": "提醒；使想起",
+        "ex": "That reminds me—I had an idea.",
+        "exzh": "这倒提醒我了，我有个主意。",
+        "ipa": "/riˈmaɪnd/",
+        "audio": "media/words/ep11/remind.mp3",
+        "ex_audio": "media/words/ep11/remind_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mentor",
+        "pos": "n.",
+        "zh": "导师；指导者",
+        "ex": "I'll see who's available to be a mentor.",
+        "exzh": "我来看看谁有空当导师。",
+        "ipa": "/ˈmɛnˌtɔr/",
+        "audio": "media/words/ep11/mentor.mp3",
+        "ex_audio": "media/words/ep11/mentor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assign",
+        "pos": "v.",
+        "zh": "分配；指派",
+        "ex": "I'd be happy to assign a mentor to each intern.",
+        "exzh": "我很乐意给每位实习生分配一位导师。",
+        "ipa": "/əˈsaɪn/",
+        "audio": "media/words/ep11/assign.mp3",
+        "ex_audio": "media/words/ep11/assign_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "send out",
+        "pos": "v.",
+        "zh": "发出；分发",
+        "ex": "I'm hoping to send out invitations by the end of the week.",
+        "exzh": "我希望在本周结束前发出邀请函。",
+        "ipa": "/sɛnd aʊt/",
+        "audio": "media/words/ep11/send-out.mp3",
+        "ex_audio": "media/words/ep11/send-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "availability",
+        "pos": "n.",
+        "zh": "有空；可用性",
+        "ex": "Please check staff availability before the meeting.",
+        "exzh": "开会之前请确认员工有没有空。",
+        "ipa": "/əˌveɪləˈbɪləti/",
+        "audio": "media/words/ep11/availability.mp3",
+        "ex_audio": "media/words/ep11/availability_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regarding",
+        "pos": "prep.",
+        "zh": "关于；就…而言",
+        "ex": "I'm returning your call regarding the funding request.",
+        "exzh": "我给您回电，是关于那份经费申请的事。",
+        "ipa": "/rɪˈɡɑrdɪŋ/",
+        "audio": "media/words/ep11/regarding.mp3",
+        "ex_audio": "media/words/ep11/regarding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "funding",
+        "pos": "n.",
+        "zh": "资金；经费",
+        "ex": "The museum received funding from the city.",
+        "exzh": "博物馆获得了市政府的资金。",
+        "ipa": "/ˈfʌndɪŋ/",
+        "audio": "media/words/ep11/funding.mp3",
+        "ex_audio": "media/words/ep11/funding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "necessity",
+        "pos": "n.",
+        "zh": "必要性；必需品",
+        "ex": "You questioned the necessity of some of the items.",
+        "exzh": "您对其中一些项目的必要性提出了疑问。",
+        "ipa": "/nəˈsɛsəti/",
+        "audio": "media/words/ep11/necessity.mp3",
+        "ex_audio": "media/words/ep11/necessity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in particular",
+        "pos": "adv.",
+        "zh": "尤其；特别",
+        "ex": "In particular, the rental fee for the tent.",
+        "exzh": "尤其是帐篷的租金。",
+        "ipa": "/ɪn pɚˈtɪkjəlɚ/",
+        "audio": "media/words/ep11/in-particular.mp3",
+        "ex_audio": "media/words/ep11/in-particular_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "call for",
+        "pos": "v.",
+        "zh": "（天气预报）预计有；需要",
+        "ex": "The forecast is calling for rain.",
+        "exzh": "天气预报说会下雨。",
+        "ipa": "/kɔl fɔr/",
+        "audio": "media/words/ep11/call-for.mp3",
+        "ex_audio": "media/words/ep11/call-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "invitation",
+        "pos": "n.",
+        "zh": "邀请；请柬",
+        "ex": "We sent invitations to all the clients.",
+        "exzh": "我们给所有客户发了请柬。",
+        "ipa": "/ˌɪnvɪˈteɪʃən/",
+        "audio": "media/words/ep11/invitation.mp3",
+        "ex_audio": "media/words/ep11/invitation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "justify",
+        "pos": "v.",
+        "zh": "证明…合理；为…辩护",
+        "ex": "He gave a reason to justify his request.",
+        "exzh": "他给出了理由，说明他的申请是合理的。",
+        "ipa": "/ˈdʒʌstəˌfaɪ/",
+        "audio": "media/words/ep11/justify.mp3",
+        "ex_audio": "media/words/ep11/justify_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "decoration",
+        "pos": "n.",
+        "zh": "装饰；装饰品",
+        "ex": "We need to purchase decorations for the party.",
+        "exzh": "我们得为聚会买些装饰品。",
+        "ipa": "/ˌdɛkɚˈeɪʃən/",
+        "audio": "media/words/ep11/decoration.mp3",
+        "ex_audio": "media/words/ep11/decoration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lubricate",
+        "pos": "v.",
+        "zh": "给…上润滑油",
+        "ex": "Some equipment parts must be lubricated at the start of the shift.",
+        "exzh": "一些设备零件必须在轮班开始时上润滑油。",
+        "ipa": "/ˈlubrɪˌkeɪt/",
+        "audio": "media/words/ep11/lubricate.mp3",
+        "ex_audio": "media/words/ep11/lubricate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "willing",
+        "pos": "adj.",
+        "zh": "愿意的；乐意的",
+        "ex": "Anyone willing to work overtime should sign up.",
+        "exzh": "愿意加班的人请报名。",
+        "ipa": "/ˈwɪlɪŋ/",
+        "audio": "media/words/ep11/willing.mp3",
+        "ex_audio": "media/words/ep11/willing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sign-up sheet",
+        "pos": "n.",
+        "zh": "报名表；登记表",
+        "ex": "Please write your name on the sign-up sheet.",
+        "exzh": "请在报名表上写下你的名字。",
+        "ipa": "/saɪn-ʌp ʃit/",
+        "audio": "media/words/ep11/sign-up-sheet.mp3",
+        "ex_audio": "media/words/ep11/sign-up-sheet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reveal",
+        "pos": "v.",
+        "zh": "揭示；显示",
+        "ex": "The internal audit revealed a small mistake.",
+        "exzh": "内部审计发现了一个小错误。",
+        "ipa": "/rɪˈvil/",
+        "audio": "media/words/ep11/reveal.mp3",
+        "ex_audio": "media/words/ep11/reveal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "overpay",
+        "pos": "v.",
+        "zh": "多付（钱）",
+        "ex": "The company had overpaid for travel expenses.",
+        "exzh": "公司多付了差旅费。",
+        "ipa": "/ˈoʊvɚˌpeɪ/",
+        "audio": "media/words/ep11/overpay.mp3",
+        "ex_audio": "media/words/ep11/overpay_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "zh": "库存；盘点清单",
+        "ex": "The latest inventory shows we have enough decorations.",
+        "exzh": "最新的盘点显示我们的装饰品库存充足。",
+        "ipa": "/ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep11/inventory.mp3",
+        "ex_audio": "media/words/ep11/inventory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "holiday rush",
+        "pos": "n.",
+        "zh": "节假日购物高峰",
+        "ex": "Stores hire extra staff for the holiday rush.",
+        "exzh": "商店为节假日高峰增加临时员工。",
+        "ipa": "/ˈhɑləˌdeɪ rʌʃ/",
+        "audio": "media/words/ep11/holiday-rush.mp3",
+        "ex_audio": "media/words/ep11/holiday-rush_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "description",
+        "pos": "n.",
+        "zh": "说明；描述",
+        "ex": "The catalog contains detailed descriptions of its software products.",
+        "exzh": "目录里有其软件产品的详细说明。",
+        "ipa": "/dɪˈskrɪpʃən/",
+        "audio": "media/words/ep11/description.mp3",
+        "ex_audio": "media/words/ep11/description_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bank transfer",
+        "pos": "n.",
+        "zh": "银行转账",
+        "ex": "All bank transfers are subject to review.",
+        "exzh": "所有银行转账都要经过审查。",
+        "ipa": "/bæŋk trænsˈfɝ/",
+        "audio": "media/words/ep11/bank-transfer.mp3",
+        "ex_audio": "media/words/ep11/bank-transfer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be subject to",
+        "pos": "v.",
+        "zh": "须经…；受…制约",
+        "ex": "Prices are subject to change.",
+        "exzh": "价格可能会有变动。",
+        "ipa": "/bi səbˈdʒɛkt tu/",
+        "audio": "media/words/ep11/be-subject-to.mp3",
+        "ex_audio": "media/words/ep11/be-subject-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "identify",
+        "pos": "v.",
+        "zh": "发现；识别；确定",
+        "ex": "The transfer could be delayed if an issue is identified.",
+        "exzh": "如果发现问题，转账可能会延迟。",
+        "ipa": "/aɪˈdɛntəˌfaɪ/",
+        "audio": "media/words/ep11/identify.mp3",
+        "ex_audio": "media/words/ep11/identify_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "opportunity",
+        "pos": "n.",
+        "zh": "机会",
+        "ex": "Thank you for offering me the opportunity to work at your company.",
+        "exzh": "感谢您给我在贵公司工作的机会。",
+        "ipa": "/ˌɑpɚˈtunəti/",
+        "audio": "media/words/ep11/opportunity.mp3",
+        "ex_audio": "media/words/ep11/opportunity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "thoroughly",
+        "pos": "adv.",
+        "zh": "非常；彻底地",
+        "ex": "I thoroughly enjoyed meeting you.",
+        "exzh": "和您见面我非常愉快。",
+        "ipa": "/ˈθɝoʊli/",
+        "audio": "media/words/ep11/thoroughly.mp3",
+        "ex_audio": "media/words/ep11/thoroughly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "technician",
+        "pos": "n.",
+        "zh": "技术员；技师",
+        "ex": "A technician will repair the machine tomorrow.",
+        "exzh": "明天会有技术员来修机器。",
+        "ipa": "/tɛkˈnɪʃən/",
+        "audio": "media/words/ep11/technician.mp3",
+        "ex_audio": "media/words/ep11/technician_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "interview",
+        "pos": "n./v.",
+        "zh": "面试；采访",
+        "ex": "I enjoyed meeting the team during my interview.",
+        "exzh": "面试时和团队见面，我很愉快。",
+        "ipa": "/ˈɪntɚˌvju/",
+        "audio": "media/words/ep11/interview.mp3",
+        "ex_audio": "media/words/ep11/interview_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "given",
+        "pos": "prep.",
+        "zh": "考虑到；鉴于",
+        "ex": "The decision was very difficult given my interest in your products.",
+        "exzh": "考虑到我对贵公司产品的兴趣，这个决定非常艰难。",
+        "ipa": "/ˈɡɪvən/",
+        "audio": "media/words/ep11/given.mp3",
+        "ex_audio": "media/words/ep11/given_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "trite",
+        "pos": "adj.",
+        "zh": "陈腐的；老套的",
+        "ex": "Playtime clothes for children shouldn't be boring or trite!",
+        "exzh": "孩子们玩耍时穿的衣服不应该无聊又老套！",
+        "ipa": "/traɪt/",
+        "audio": "media/words/ep11/trite.mp3",
+        "ex_audio": "media/words/ep11/trite_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stylish",
+        "pos": "adj.",
+        "zh": "时髦的；有型的",
+        "ex": "Children's clothing should be comfortable, affordable, and stylish.",
+        "exzh": "童装应该舒适、实惠又时髦。",
+        "ipa": "/ˈstaɪlɪʃ/",
+        "audio": "media/words/ep11/stylish.mp3",
+        "ex_audio": "media/words/ep11/stylish_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "indicate",
+        "pos": "v.",
+        "zh": "表明；指出",
+        "ex": "What is indicated about the line of clothing?",
+        "exzh": "关于这个服装系列，文中表明了什么？",
+        "ipa": "/ˈɪndəˌkeɪt/",
+        "audio": "media/words/ep11/indicate.mp3",
+        "ex_audio": "media/words/ep11/indicate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sturdy",
+        "pos": "adj.",
+        "zh": "结实的；耐用的",
+        "ex": "The clothes kids play in must be sturdy.",
+        "exzh": "孩子们玩耍时穿的衣服必须结实。",
+        "ipa": "/ˈstɝdi/",
+        "audio": "media/words/ep11/sturdy.mp3",
+        "ex_audio": "media/words/ep11/sturdy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "launder",
+        "pos": "v.",
+        "zh": "洗（衣物）；洗熨",
+        "ex": "These shirts are easy to launder.",
+        "exzh": "这些衬衫很好洗。",
+        "ipa": "/ˈlɔndɚ/",
+        "audio": "media/words/ep11/launder.mp3",
+        "ex_audio": "media/words/ep11/launder_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stain resistant",
+        "pos": "adj.",
+        "zh": "防污的；耐脏的",
+        "ex": "Our sweaters are machine washable and stain resistant.",
+        "exzh": "我们的毛衣可以机洗，而且防污。",
+        "ipa": "/steɪn rɪˈzɪstənt/",
+        "audio": "media/words/ep11/stain-resistant.mp3",
+        "ex_audio": "media/words/ep11/stain-resistant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "make sense",
+        "pos": "v.",
+        "zh": "有道理；说得通",
+        "ex": "That makes sense. See you this afternoon.",
+        "exzh": "有道理。下午见。",
+        "ipa": "/meɪk sɛns/",
+        "audio": "media/words/ep11/make-sense.mp3",
+        "ex_audio": "media/words/ep11/make-sense_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "notification",
+        "pos": "n.",
+        "zh": "通知",
+        "ex": "You will receive a notification when your order ships.",
+        "exzh": "订单发货时您会收到通知。",
+        "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+        "audio": "media/words/ep11/notification.mp3",
+        "ex_audio": "media/words/ep11/notification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "determination",
+        "pos": "n.",
+        "zh": "决定；裁定",
+        "ex": "She wants our final determination by Monday.",
+        "exzh": "她希望周一前得到我们的最终决定。",
+        "ipa": "/dɪˌtɝməˈneɪʃən/",
+        "audio": "media/words/ep11/determination.mp3",
+        "ex_audio": "media/words/ep11/determination_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "candidate",
+        "pos": "n.",
+        "zh": "候选人；应聘者",
+        "ex": "We interviewed five candidates for two positions.",
+        "exzh": "两个职位我们面试了五位应聘者。",
+        "ipa": "/ˈkændədeɪt/",
+        "audio": "media/words/ep11/candidate.mp3",
+        "ex_audio": "media/words/ep11/candidate_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 10,
     "theme": "真题精讲 · Test 1 续篇",
     "date": "2026-10-13",
