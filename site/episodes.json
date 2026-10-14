@@ -1,5 +1,1621 @@
 [
   {
+    "number": 17,
+    "theme": "真题精讲 · Test 2 起步",
+    "date": "2026-10-14",
+    "duration_sec": 3014.5,
+    "segments": [
+      {
+        "title": "1. Part 1 照片真题 6 题",
+        "start": 0.0,
+        "length": 485.92
+      },
+      {
+        "title": "2. Part 2 应答题 14 道",
+        "start": 485.92,
+        "length": 683.1
+      },
+      {
+        "title": "3. Part 5 语法真题 8 题",
+        "start": 1169.02,
+        "length": 474.42
+      },
+      {
+        "title": "4. Part 6/7 阅读真题 2 篇",
+        "start": 1643.44,
+        "length": 522.05
+      },
+      {
+        "title": "5. 本期 50 词总复习 · 拼读",
+        "start": 2165.49,
+        "length": 849.04
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "line",
+        "zh": "沿…排列；排成行"
+      },
+      {
+        "word": "go out of business",
+        "zh": "倒闭；停业"
+      },
+      {
+        "word": "be supposed to",
+        "zh": "应该；本该"
+      },
+      {
+        "word": "rigorous",
+        "zh": "严格的；严谨的"
+      },
+      {
+        "word": "void",
+        "zh": "使无效；无效的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "flat tire",
+        "zh": "瘪了的轮胎；爆胎"
+      },
+      {
+        "word": "stack",
+        "zh": "堆放；摞起来"
+      },
+      {
+        "word": "reach for",
+        "zh": "伸手去拿"
+      },
+      {
+        "word": "pour",
+        "zh": "倒；灌"
+      },
+      {
+        "word": "mop",
+        "zh": "用拖把擦；拖把"
+      },
+      {
+        "word": "bin",
+        "zh": "箱子；盆；桶"
+      },
+      {
+        "word": "attach",
+        "zh": "附上；固定；贴"
+      },
+      {
+        "word": "line",
+        "zh": "沿…排列；排成行"
+      },
+      {
+        "word": "walkway",
+        "zh": "人行道；通道"
+      },
+      {
+        "word": "prune",
+        "zh": "修剪；树枝"
+      },
+      {
+        "word": "courtyard",
+        "zh": "庭院；院子"
+      },
+      {
+        "word": "tow truck",
+        "zh": "拖车；清障车"
+      },
+      {
+        "word": "raise",
+        "zh": "举起；升高；提高"
+      },
+      {
+        "word": "structure",
+        "zh": "建筑物；结构"
+      },
+      {
+        "word": "pathway",
+        "zh": "小路；小径"
+      },
+      {
+        "word": "trail",
+        "zh": "小径；步道；山路"
+      },
+      {
+        "word": "pastry chef",
+        "zh": "糕点师；甜点师"
+      },
+      {
+        "word": "be scheduled to",
+        "zh": "定于；预定做某事"
+      },
+      {
+        "word": "loading dock",
+        "zh": "装卸平台；货物装卸区"
+      },
+      {
+        "word": "quarter",
+        "zh": "季度；四分之一"
+      },
+      {
+        "word": "degree",
+        "zh": "学位；程度；度数"
+      },
+      {
+        "word": "résumé",
+        "zh": "简历；履历"
+      },
+      {
+        "word": "go out of business",
+        "zh": "倒闭；停业"
+      },
+      {
+        "word": "publish",
+        "zh": "刊登；出版；发表"
+      },
+      {
+        "word": "arts and crafts",
+        "zh": "手工艺；工艺美术"
+      },
+      {
+        "word": "express mail",
+        "zh": "快递邮件；速递"
+      },
+      {
+        "word": "be supposed to",
+        "zh": "应该；本该"
+      },
+      {
+        "word": "passenger ship",
+        "zh": "客轮；客船"
+      },
+      {
+        "word": "session",
+        "zh": "；会议、培训的；一场；一节"
+      },
+      {
+        "word": "decisive",
+        "zh": "果断的；决定性的"
+      },
+      {
+        "word": "be limited to",
+        "zh": "仅限于；限于"
+      },
+      {
+        "word": "parking garage",
+        "zh": "室内停车场；停车楼"
+      },
+      {
+        "word": "appreciate",
+        "zh": "欣赏；感激；重视"
+      },
+      {
+        "word": "polisher",
+        "zh": "抛光机；打蜡机"
+      },
+      {
+        "word": "policy",
+        "zh": "政策；规定；方针"
+      },
+      {
+        "word": "silverware",
+        "zh": "银器；金属餐具"
+      },
+      {
+        "word": "free of charge",
+        "zh": "免费的；免费地"
+      },
+      {
+        "word": "respectfully",
+        "zh": "恭敬地；礼貌地"
+      },
+      {
+        "word": "common area",
+        "zh": "公共区域"
+      },
+      {
+        "word": "establish",
+        "zh": "建立；设立；确立"
+      },
+      {
+        "word": "be intended for",
+        "zh": "专为…设计；供…使用"
+      },
+      {
+        "word": "back",
+        "zh": "支持；为…作保障"
+      },
+      {
+        "word": "rigorous",
+        "zh": "严格的；严谨的"
+      },
+      {
+        "word": "undergo",
+        "zh": "经历；接受；检查、治疗"
+      },
+      {
+        "word": "defect",
+        "zh": "缺陷；瑕疵"
+      },
+      {
+        "word": "void",
+        "zh": "使无效；无效的"
+      },
+      {
+        "word": "alteration",
+        "zh": "改动；修改"
+      },
+      {
+        "word": "iron",
+        "zh": "熨烫；熨斗"
+      },
+      {
+        "word": "toiletries",
+        "zh": "洗漱用品；化妆品"
+      },
+      {
+        "word": "address",
+        "zh": "处理；解决；对…讲话"
+      }
+    ],
+    "video": "media/ep17.mp4",
+    "script_pdf": "media/ep17_script.pdf",
+    "source_video": "ep17.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep17.html",
+        "video": "media/ep17.mp4",
+        "script_pdf": "media/ep17_script.pdf",
+        "duration_sec": 3014.5,
+        "theme": "真题精讲 · Test 2 起步",
+        "segments": [
+          {
+            "title": "1. Part 1 照片真题 6 题",
+            "start": 0.0,
+            "length": 485.92
+          },
+          {
+            "title": "2. Part 2 应答题 14 道",
+            "start": 485.92,
+            "length": 683.1
+          },
+          {
+            "title": "3. Part 5 语法真题 8 题",
+            "start": 1169.02,
+            "length": 474.42
+          },
+          {
+            "title": "4. Part 6/7 阅读真题 2 篇",
+            "start": 1643.44,
+            "length": 522.05
+          },
+          {
+            "title": "5. 本期 50 词总复习 · 拼读",
+            "start": 2165.49,
+            "length": 849.04
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep17ja.html",
+        "video": "media/ep17ja.mp4",
+        "script_pdf": "media/ep17ja_script.pdf",
+        "duration_sec": 3490.6,
+        "theme": "本番問題精講 · Test 2 スタート",
+        "segments": [
+          {
+            "title": "1. Part 1 写真問題 6問",
+            "start": 0.0,
+            "length": 587.3
+          },
+          {
+            "title": "2. Part 2 応答問題 14問",
+            "start": 587.3,
+            "length": 818.07
+          },
+          {
+            "title": "3. Part 5 文法問題 8問",
+            "start": 1405.37,
+            "length": 572.34
+          },
+          {
+            "title": "4. Part 6/7 読解の本番問題 2本",
+            "start": 1977.71,
+            "length": 632.42
+          },
+          {
+            "title": "5. 今回の 50 語総復習 · スペル",
+            "start": 2610.14,
+            "length": 880.48
+          }
+        ],
+        "poster": "media/ep17ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "line",
+            "zh": "…に沿って並ぶ"
+          },
+          {
+            "word": "go out of business",
+            "zh": "廃業する；倒産する"
+          },
+          {
+            "word": "be supposed to",
+            "zh": "…することになっている；…のはずだ"
+          },
+          {
+            "word": "rigorous",
+            "zh": "厳格な；厳密な"
+          },
+          {
+            "word": "void",
+            "zh": "無効にする；無効の"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "flat tire",
+          "stack",
+          "reach for",
+          "pour",
+          "mop",
+          "bin",
+          "attach",
+          "line",
+          "walkway",
+          "prune",
+          "courtyard",
+          "tow truck",
+          "raise",
+          "structure",
+          "pathway",
+          "trail",
+          "pastry chef",
+          "be scheduled to",
+          "loading dock",
+          "quarter",
+          "degree",
+          "résumé",
+          "go out of business",
+          "publish",
+          "arts and crafts",
+          "express mail",
+          "be supposed to",
+          "passenger ship",
+          "session",
+          "decisive",
+          "be limited to",
+          "parking garage",
+          "appreciate",
+          "polisher",
+          "policy",
+          "silverware",
+          "free of charge",
+          "respectfully",
+          "common area",
+          "establish",
+          "be intended for",
+          "back",
+          "rigorous",
+          "undergo",
+          "defect",
+          "void",
+          "alteration",
+          "iron",
+          "toiletries",
+          "address"
+        ],
+        "words": [
+          {
+            "word": "flat tire",
+            "pos": "n.",
+            "zh": "パンクしたタイヤ",
+            "ex": "He's changing a flat tire.",
+            "exzh": "彼はパンクしたタイヤを交換している。",
+            "ipa": "/flæt ˈtaɪɚ/",
+            "audio": "media/words/ep17/flat-tire.mp3",
+            "ex_audio": "media/words/ep17/flat-tire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stack",
+            "pos": "v.",
+            "zh": "積み重ねる",
+            "ex": "He's stacking boxes on the ground.",
+            "exzh": "彼は地面に箱を積み重ねている。",
+            "ipa": "/stæk/",
+            "audio": "media/words/ep17/stack.mp3",
+            "ex_audio": "media/words/ep17/stack_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reach for",
+            "pos": "v.",
+            "zh": "…に手を伸ばす",
+            "ex": "One of the people is reaching for some soap.",
+            "exzh": "1人が石けんに手を伸ばしている。",
+            "ipa": "/ritʃ fɔr/",
+            "audio": "media/words/ep17/reach-for.mp3",
+            "ex_audio": "media/words/ep17/reach-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pour",
+            "pos": "v.",
+            "zh": "注ぐ",
+            "ex": "She is pouring a drink into a glass.",
+            "exzh": "彼女はグラスに飲み物を注いでいる。",
+            "ipa": "/pɔr/",
+            "audio": "media/words/ep17/pour.mp3",
+            "ex_audio": "media/words/ep17/pour_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mop",
+            "pos": "v./n.",
+            "zh": "モップがけする；モップ",
+            "ex": "The people are mopping a kitchen floor.",
+            "exzh": "人々がキッチンの床にモップをかけている。",
+            "ipa": "/mɑp/",
+            "audio": "media/words/ep17/mop.mp3",
+            "ex_audio": "media/words/ep17/mop_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bin",
+            "pos": "n.",
+            "zh": "容器；箱；入れ物",
+            "ex": "A plastic bin is on top of a work area.",
+            "exzh": "プラスチックの容器が作業場所の上にある。",
+            "ipa": "/bɪn/",
+            "audio": "media/words/ep17/bin.mp3",
+            "ex_audio": "media/words/ep17/bin_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attach",
+            "pos": "v.",
+            "zh": "取り付ける；添付する",
+            "ex": "Some tools are attached to a wall.",
+            "exzh": "いくつかの道具が壁に取り付けられている。",
+            "ipa": "/əˈtætʃ/",
+            "audio": "media/words/ep17/attach.mp3",
+            "ex_audio": "media/words/ep17/attach_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "line",
+            "pos": "v.",
+            "zh": "…に沿って並ぶ",
+            "ex": "Some trees line a pedestrian walkway.",
+            "exzh": "木々が歩行者用通路に沿って並んでいる。",
+            "ipa": "/laɪn/",
+            "audio": "media/words/ep17/line.mp3",
+            "ex_audio": "media/words/ep17/line_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "walkway",
+            "pos": "n.",
+            "zh": "歩道；通路",
+            "ex": "The walkway leads to the main entrance.",
+            "exzh": "その通路は正面入口に続いている。",
+            "ipa": "/ˈwɔˌkweɪ/",
+            "audio": "media/words/ep17/walkway.mp3",
+            "ex_audio": "media/words/ep17/walkway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prune",
+            "pos": "v.",
+            "zh": "剪定する",
+            "ex": "Some workers are pruning trees.",
+            "exzh": "作業員たちが木を剪定している。",
+            "ipa": "/prun/",
+            "audio": "media/words/ep17/prune.mp3",
+            "ex_audio": "media/words/ep17/prune_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "courtyard",
+            "pos": "n.",
+            "zh": "中庭",
+            "ex": "There's a water fountain in a courtyard.",
+            "exzh": "中庭に噴水がある。",
+            "ipa": "/ˈkɔrtˌjɑrd/",
+            "audio": "media/words/ep17/courtyard.mp3",
+            "ex_audio": "media/words/ep17/courtyard_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tow truck",
+            "pos": "n.",
+            "zh": "レッカー車",
+            "ex": "A tow truck is pulling a bus.",
+            "exzh": "レッカー車がバスを引いている。",
+            "ipa": "/toʊ trʌk/",
+            "audio": "media/words/ep17/tow-truck.mp3",
+            "ex_audio": "media/words/ep17/tow-truck_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "raise",
+            "pos": "v.",
+            "zh": "持ち上げる；上げる",
+            "ex": "A man has been raised above a road.",
+            "exzh": "男性が道路の上に持ち上げられている。",
+            "ipa": "/reɪz/",
+            "audio": "media/words/ep17/raise.mp3",
+            "ex_audio": "media/words/ep17/raise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "structure",
+            "pos": "n.",
+            "zh": "建造物；構造",
+            "ex": "A wooden structure has been built outdoors.",
+            "exzh": "木造の建造物が屋外に建てられている。",
+            "ipa": "/ˈstrʌktʃɚ/",
+            "audio": "media/words/ep17/structure.mp3",
+            "ex_audio": "media/words/ep17/structure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pathway",
+            "pos": "n.",
+            "zh": "小道；通り道",
+            "ex": "A stone pathway leads to a lake.",
+            "exzh": "石の小道が湖に続いている。",
+            "ipa": "/ˈpæˌθweɪ/",
+            "audio": "media/words/ep17/pathway.mp3",
+            "ex_audio": "media/words/ep17/pathway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "trail",
+            "pos": "n.",
+            "zh": "遊歩道；小道",
+            "ex": "A nature trail is being cleared of debris.",
+            "exzh": "自然遊歩道のがれきが片付けられているところだ。",
+            "ipa": "/treɪl/",
+            "audio": "media/words/ep17/trail.mp3",
+            "ex_audio": "media/words/ep17/trail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pastry chef",
+            "pos": "n.",
+            "zh": "パティシエ；菓子職人",
+            "ex": "The hotel hired a new pastry chef.",
+            "exzh": "ホテルは新しいパティシエを雇った。",
+            "ipa": "/ˈpeɪstri ʃɛf/",
+            "audio": "media/words/ep17/pastry-chef.mp3",
+            "ex_audio": "media/words/ep17/pastry-chef_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be scheduled to",
+            "pos": "v.",
+            "zh": "…する予定である",
+            "ex": "The company dinner is scheduled to start at seven.",
+            "exzh": "会社の夕食会は7時に始まる予定だ。",
+            "ipa": "/bi ˈskɛdʒʊld tu/",
+            "audio": "media/words/ep17/be-scheduled-to.mp3",
+            "ex_audio": "media/words/ep17/be-scheduled-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loading dock",
+            "pos": "n.",
+            "zh": "荷物の積み降ろし場；搬入口",
+            "ex": "Trucks wait at the loading dock.",
+            "exzh": "トラックが搬入口で待っている。",
+            "ipa": "/ˈloʊdɪŋ dɑk/",
+            "audio": "media/words/ep17/loading-dock.mp3",
+            "ex_audio": "media/words/ep17/loading-dock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "quarter",
+            "pos": "n.",
+            "zh": "四半期；4分の1",
+            "ex": "Our sales are up this quarter.",
+            "exzh": "今四半期は売上が伸びている。",
+            "ipa": "/ˈkwɔrtɚ/",
+            "audio": "media/words/ep17/quarter.mp3",
+            "ex_audio": "media/words/ep17/quarter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "degree",
+            "pos": "n.",
+            "zh": "学位；程度；度",
+            "ex": "Rajeev has an art degree.",
+            "exzh": "Rajeev は美術の学位を持っている。",
+            "ipa": "/dɪˈɡri/",
+            "audio": "media/words/ep17/degree.mp3",
+            "ex_audio": "media/words/ep17/degree_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "résumé",
+            "pos": "n.",
+            "zh": "履歴書",
+            "ex": "That was on his résumé.",
+            "exzh": "それは彼の履歴書に書いてあった。",
+            "ipa": "",
+            "audio": "media/words/ep17/r-sum.mp3",
+            "ex_audio": "media/words/ep17/r-sum_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go out of business",
+            "pos": "v.",
+            "zh": "廃業する；倒産する",
+            "ex": "The supplier went out of business.",
+            "exzh": "仕入れ先は廃業した。",
+            "ipa": "/ɡoʊ aʊt əv ˈbɪznəs/",
+            "audio": "media/words/ep17/go-out-of-business.mp3",
+            "ex_audio": "media/words/ep17/go-out-of-business_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "publish",
+            "pos": "v.",
+            "zh": "掲載する；出版する",
+            "ex": "The article was published today.",
+            "exzh": "その記事は今日掲載された。",
+            "ipa": "/ˈpʌblɪʃ/",
+            "audio": "media/words/ep17/publish.mp3",
+            "ex_audio": "media/words/ep17/publish_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "arts and crafts",
+            "pos": "n.",
+            "zh": "手工芸",
+            "ex": "She subscribes to an arts and crafts magazine.",
+            "exzh": "彼女は手工芸の雑誌を定期購読している。",
+            "ipa": "/ɑrts ənd kræfts/",
+            "audio": "media/words/ep17/arts-and-crafts.mp3",
+            "ex_audio": "media/words/ep17/arts-and-crafts_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "express mail",
+            "pos": "n.",
+            "zh": "速達郵便",
+            "ex": "I sent it by express mail.",
+            "exzh": "速達で送りました。",
+            "ipa": "/ɪkˈsprɛs meɪl/",
+            "audio": "media/words/ep17/express-mail.mp3",
+            "ex_audio": "media/words/ep17/express-mail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be supposed to",
+            "pos": "v.",
+            "zh": "…することになっている；…のはずだ",
+            "ex": "The shipment was supposed to be ready yesterday.",
+            "exzh": "その荷物は昨日用意できているはずだった。",
+            "ipa": "/bi səˈpoʊzd tu/",
+            "audio": "media/words/ep17/be-supposed-to.mp3",
+            "ex_audio": "media/words/ep17/be-supposed-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "passenger ship",
+            "pos": "n.",
+            "zh": "客船",
+            "ex": "It's a passenger ship.",
+            "exzh": "それは客船です。",
+            "ipa": "/ˈpæsəndʒɚ ʃɪp/",
+            "audio": "media/words/ep17/passenger-ship.mp3",
+            "ex_audio": "media/words/ep17/passenger-ship_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "session",
+            "pos": "n.",
+            "zh": "（会議や研修の）1コマ；セッション",
+            "ex": "We will take a break after the second session.",
+            "exzh": "第2セッションのあとに休憩します。",
+            "ipa": "/ˈsɛʃən/",
+            "audio": "media/words/ep17/session.mp3",
+            "ex_audio": "media/words/ep17/session_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "decisive",
+            "pos": "adj.",
+            "zh": "決断力のある；決定的な",
+            "ex": "She is a decisive team leader.",
+            "exzh": "彼女は決断力のあるチームリーダーだ。",
+            "ipa": "/dɪˈsaɪsɪv/",
+            "audio": "media/words/ep17/decisive.mp3",
+            "ex_audio": "media/words/ep17/decisive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be limited to",
+            "pos": "v.",
+            "zh": "…に限られる",
+            "ex": "Use of the garage is limited to employees.",
+            "exzh": "駐車場の利用は従業員に限られる。",
+            "ipa": "/bi ˈlɪmətəd tu/",
+            "audio": "media/words/ep17/be-limited-to.mp3",
+            "ex_audio": "media/words/ep17/be-limited-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "parking garage",
+            "pos": "n.",
+            "zh": "屋内駐車場；立体駐車場",
+            "ex": "The parking garage is under the building.",
+            "exzh": "駐車場はビルの地下にある。",
+            "ipa": "/ˈpɑrkɪŋ ɡɚˈɑʒ/",
+            "audio": "media/words/ep17/parking-garage.mp3",
+            "ex_audio": "media/words/ep17/parking-garage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appreciate",
+            "pos": "v.",
+            "zh": "高く評価する；感謝する",
+            "ex": "The team members appreciate his strong leadership skills.",
+            "exzh": "チームのメンバーは彼の優れたリーダーシップを高く評価している。",
+            "ipa": "/əˈpriʃiˌeɪt/",
+            "audio": "media/words/ep17/appreciate.mp3",
+            "ex_audio": "media/words/ep17/appreciate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "polisher",
+            "pos": "n.",
+            "zh": "磨き機；ポリッシャー",
+            "ex": "Please put the floor polisher back in the closet.",
+            "exzh": "床磨き機を用具入れに戻してください。",
+            "ipa": "",
+            "audio": "media/words/ep17/polisher.mp3",
+            "ex_audio": "media/words/ep17/polisher_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "policy",
+            "pos": "n.",
+            "zh": "方針；規定",
+            "ex": "Many companies are updating their policies.",
+            "exzh": "多くの会社が規定を更新している。",
+            "ipa": "/ˈpɑləsi/",
+            "audio": "media/words/ep17/policy.mp3",
+            "ex_audio": "media/words/ep17/policy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "silverware",
+            "pos": "n.",
+            "zh": "銀食器；金属製の食器",
+            "ex": "All silverware orders will be shipped free of charge.",
+            "exzh": "銀食器の注文はすべて送料無料で発送される。",
+            "ipa": "/ˈsɪlvɚˌwɛr/",
+            "audio": "media/words/ep17/silverware.mp3",
+            "ex_audio": "media/words/ep17/silverware_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "free of charge",
+            "pos": "adj./adv.",
+            "zh": "無料で",
+            "ex": "Brantmerr will replace the unit free of charge.",
+            "exzh": "Brantmerr は製品を無料で交換する。",
+            "ipa": "/fri əv tʃɑrdʒ/",
+            "audio": "media/words/ep17/free-of-charge.mp3",
+            "ex_audio": "media/words/ep17/free-of-charge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "respectfully",
+            "pos": "adv.",
+            "zh": "丁重に；うやうやしく",
+            "ex": "Residents are respectfully asked to keep noise levels low.",
+            "exzh": "居住者の皆様は騒音を抑えるようお願いいたします。",
+            "ipa": "/rɪˈspɛktfəli/",
+            "audio": "media/words/ep17/respectfully.mp3",
+            "ex_audio": "media/words/ep17/respectfully_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "common area",
+            "pos": "n.",
+            "zh": "共用部分；共用スペース",
+            "ex": "Please keep the common areas clean.",
+            "exzh": "共用部分をきれいに保ってください。",
+            "ipa": "/ˈkɑmən ˈɛriə/",
+            "audio": "media/words/ep17/common-area.mp3",
+            "ex_audio": "media/words/ep17/common-area_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "establish",
+            "pos": "v.",
+            "zh": "設立する；確立する",
+            "ex": "Many companies establish their headquarters in Reno.",
+            "exzh": "多くの企業が Reno に本社を置いている。",
+            "ipa": "/ɪˈstæblɪʃ/",
+            "audio": "media/words/ep17/establish.mp3",
+            "ex_audio": "media/words/ep17/establish_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be intended for",
+            "pos": "v.",
+            "zh": "…向けである；…用に作られている",
+            "ex": "This appliance is intended for indoor use only.",
+            "exzh": "この家電は屋内専用です。",
+            "ipa": "/bi ˌɪnˈtɛndɪd fɔr/",
+            "audio": "media/words/ep17/be-intended-for.mp3",
+            "ex_audio": "media/words/ep17/be-intended-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "back",
+            "pos": "v.",
+            "zh": "支える；保証する",
+            "ex": "The B10 model is backed by a one-year warranty.",
+            "exzh": "B10 型には1年間の保証が付いている。",
+            "ipa": "/bæk/",
+            "audio": "media/words/ep17/back.mp3",
+            "ex_audio": "media/words/ep17/back_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rigorous",
+            "pos": "adj.",
+            "zh": "厳格な；厳密な",
+            "ex": "Every toaster undergoes rigorous inspection.",
+            "exzh": "すべてのトースターが厳しい検査を受ける。",
+            "ipa": "/ˈrɪɡɚəs/",
+            "audio": "media/words/ep17/rigorous.mp3",
+            "ex_audio": "media/words/ep17/rigorous_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "undergo",
+            "pos": "v.",
+            "zh": "受ける；経験する",
+            "ex": "The building will undergo renovations next year.",
+            "exzh": "その建物は来年改修される。",
+            "ipa": "/ˌʌndɚˈɡoʊ/",
+            "audio": "media/words/ep17/undergo.mp3",
+            "ex_audio": "media/words/ep17/undergo_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "defect",
+            "pos": "n.",
+            "zh": "欠陥",
+            "ex": "We will replace the unit if there are any manufacturing defects.",
+            "exzh": "製造上の欠陥があれば製品を交換します。",
+            "ipa": "/ˈdifɛkt/",
+            "audio": "media/words/ep17/defect.mp3",
+            "ex_audio": "media/words/ep17/defect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "void",
+            "pos": "v./adj.",
+            "zh": "無効にする；無効の",
+            "ex": "Improper usage will void this guarantee.",
+            "exzh": "不適切な使用はこの保証を無効にする。",
+            "ipa": "/vɔɪd/",
+            "audio": "media/words/ep17/void.mp3",
+            "ex_audio": "media/words/ep17/void_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "alteration",
+            "pos": "n.",
+            "zh": "変更；手直し",
+            "ex": "Minor alterations to the design are made yearly.",
+            "exzh": "デザインには毎年小さな変更が加えられる。",
+            "ipa": "/ˌɔltɚˈeɪʃən/",
+            "audio": "media/words/ep17/alteration.mp3",
+            "ex_audio": "media/words/ep17/alteration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "iron",
+            "pos": "v./n.",
+            "zh": "アイロンをかける；アイロン",
+            "ex": "We will deliver your washed and ironed clothing.",
+            "exzh": "洗濯してアイロンをかけた衣類をお届けします。",
+            "ipa": "/ˈaɪɚn/",
+            "audio": "media/words/ep17/iron.mp3",
+            "ex_audio": "media/words/ep17/iron_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "toiletries",
+            "pos": "n.",
+            "zh": "洗面用品",
+            "ex": "Please call if you need additional toiletries.",
+            "exzh": "洗面用品が足りなければお電話ください。",
+            "ipa": "/ˈtɔɪlətriz/",
+            "audio": "media/words/ep17/toiletries.mp3",
+            "ex_audio": "media/words/ep17/toiletries_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "address",
+            "pos": "v.",
+            "zh": "対処する；取り組む",
+            "ex": "We will address the reported maintenance issue.",
+            "exzh": "報告された修理の問題に対処します。",
+            "ipa": "/ˈæˌdrɛs/",
+            "audio": "media/words/ep17/address.mp3",
+            "ex_audio": "media/words/ep17/address_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep17_cover.png",
+    "theme_ja": "本番問題精講 · Test 2 スタート",
+    "words": [
+      {
+        "word": "flat tire",
+        "pos": "n.",
+        "zh": "瘪了的轮胎；爆胎",
+        "ex": "He's changing a flat tire.",
+        "exzh": "他正在换瘪了的轮胎。",
+        "ipa": "/flæt ˈtaɪɚ/",
+        "audio": "media/words/ep17/flat-tire.mp3",
+        "ex_audio": "media/words/ep17/flat-tire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stack",
+        "pos": "v.",
+        "zh": "堆放；摞起来",
+        "ex": "He's stacking boxes on the ground.",
+        "exzh": "他正在地上堆箱子。",
+        "ipa": "/stæk/",
+        "audio": "media/words/ep17/stack.mp3",
+        "ex_audio": "media/words/ep17/stack_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reach for",
+        "pos": "v.",
+        "zh": "伸手去拿",
+        "ex": "One of the people is reaching for some soap.",
+        "exzh": "其中一人正伸手去拿肥皂。",
+        "ipa": "/ritʃ fɔr/",
+        "audio": "media/words/ep17/reach-for.mp3",
+        "ex_audio": "media/words/ep17/reach-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pour",
+        "pos": "v.",
+        "zh": "倒；灌",
+        "ex": "She is pouring a drink into a glass.",
+        "exzh": "她正往玻璃杯里倒饮料。",
+        "ipa": "/pɔr/",
+        "audio": "media/words/ep17/pour.mp3",
+        "ex_audio": "media/words/ep17/pour_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mop",
+        "pos": "v./n.",
+        "zh": "用拖把擦；拖把",
+        "ex": "The people are mopping a kitchen floor.",
+        "exzh": "人们正在拖厨房的地板。",
+        "ipa": "/mɑp/",
+        "audio": "media/words/ep17/mop.mp3",
+        "ex_audio": "media/words/ep17/mop_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bin",
+        "pos": "n.",
+        "zh": "箱子；盆；桶",
+        "ex": "A plastic bin is on top of a work area.",
+        "exzh": "一个塑料盆放在工作区上面。",
+        "ipa": "/bɪn/",
+        "audio": "media/words/ep17/bin.mp3",
+        "ex_audio": "media/words/ep17/bin_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attach",
+        "pos": "v.",
+        "zh": "附上；固定；贴",
+        "ex": "Some tools are attached to a wall.",
+        "exzh": "一些工具固定在墙上。",
+        "ipa": "/əˈtætʃ/",
+        "audio": "media/words/ep17/attach.mp3",
+        "ex_audio": "media/words/ep17/attach_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "line",
+        "pos": "v.",
+        "zh": "沿…排列；排成行",
+        "ex": "Some trees line a pedestrian walkway.",
+        "exzh": "树木沿着步行道排列。",
+        "ipa": "/laɪn/",
+        "audio": "media/words/ep17/line.mp3",
+        "ex_audio": "media/words/ep17/line_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "walkway",
+        "pos": "n.",
+        "zh": "人行道；通道",
+        "ex": "The walkway leads to the main entrance.",
+        "exzh": "这条通道通向正门。",
+        "ipa": "/ˈwɔˌkweɪ/",
+        "audio": "media/words/ep17/walkway.mp3",
+        "ex_audio": "media/words/ep17/walkway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prune",
+        "pos": "v.",
+        "zh": "修剪（树枝）",
+        "ex": "Some workers are pruning trees.",
+        "exzh": "一些工人正在修剪树木。",
+        "ipa": "/prun/",
+        "audio": "media/words/ep17/prune.mp3",
+        "ex_audio": "media/words/ep17/prune_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "courtyard",
+        "pos": "n.",
+        "zh": "庭院；院子",
+        "ex": "There's a water fountain in a courtyard.",
+        "exzh": "庭院里有一个喷泉。",
+        "ipa": "/ˈkɔrtˌjɑrd/",
+        "audio": "media/words/ep17/courtyard.mp3",
+        "ex_audio": "media/words/ep17/courtyard_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tow truck",
+        "pos": "n.",
+        "zh": "拖车；清障车",
+        "ex": "A tow truck is pulling a bus.",
+        "exzh": "一辆拖车正在拖一辆公交车。",
+        "ipa": "/toʊ trʌk/",
+        "audio": "media/words/ep17/tow-truck.mp3",
+        "ex_audio": "media/words/ep17/tow-truck_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "raise",
+        "pos": "v.",
+        "zh": "举起；升高；提高",
+        "ex": "A man has been raised above a road.",
+        "exzh": "一名男子被升到了道路上方。",
+        "ipa": "/reɪz/",
+        "audio": "media/words/ep17/raise.mp3",
+        "ex_audio": "media/words/ep17/raise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "structure",
+        "pos": "n.",
+        "zh": "建筑物；结构",
+        "ex": "A wooden structure has been built outdoors.",
+        "exzh": "一座木制建筑建在户外。",
+        "ipa": "/ˈstrʌktʃɚ/",
+        "audio": "media/words/ep17/structure.mp3",
+        "ex_audio": "media/words/ep17/structure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pathway",
+        "pos": "n.",
+        "zh": "小路；小径",
+        "ex": "A stone pathway leads to a lake.",
+        "exzh": "一条石头小路通向湖边。",
+        "ipa": "/ˈpæˌθweɪ/",
+        "audio": "media/words/ep17/pathway.mp3",
+        "ex_audio": "media/words/ep17/pathway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "trail",
+        "pos": "n.",
+        "zh": "小径；步道；山路",
+        "ex": "A nature trail is being cleared of debris.",
+        "exzh": "一条自然步道正在被清理杂物。",
+        "ipa": "/treɪl/",
+        "audio": "media/words/ep17/trail.mp3",
+        "ex_audio": "media/words/ep17/trail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pastry chef",
+        "pos": "n.",
+        "zh": "糕点师；甜点师",
+        "ex": "The hotel hired a new pastry chef.",
+        "exzh": "酒店聘请了一位新的糕点师。",
+        "ipa": "/ˈpeɪstri ʃɛf/",
+        "audio": "media/words/ep17/pastry-chef.mp3",
+        "ex_audio": "media/words/ep17/pastry-chef_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be scheduled to",
+        "pos": "v.",
+        "zh": "定于；预定做某事",
+        "ex": "The company dinner is scheduled to start at seven.",
+        "exzh": "公司晚宴定于七点开始。",
+        "ipa": "/bi ˈskɛdʒʊld tu/",
+        "audio": "media/words/ep17/be-scheduled-to.mp3",
+        "ex_audio": "media/words/ep17/be-scheduled-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loading dock",
+        "pos": "n.",
+        "zh": "装卸平台；货物装卸区",
+        "ex": "Trucks wait at the loading dock.",
+        "exzh": "卡车在装卸平台等候。",
+        "ipa": "/ˈloʊdɪŋ dɑk/",
+        "audio": "media/words/ep17/loading-dock.mp3",
+        "ex_audio": "media/words/ep17/loading-dock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "quarter",
+        "pos": "n.",
+        "zh": "季度；四分之一",
+        "ex": "Our sales are up this quarter.",
+        "exzh": "我们这个季度的销售额上升了。",
+        "ipa": "/ˈkwɔrtɚ/",
+        "audio": "media/words/ep17/quarter.mp3",
+        "ex_audio": "media/words/ep17/quarter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "degree",
+        "pos": "n.",
+        "zh": "学位；程度；度数",
+        "ex": "Rajeev has an art degree.",
+        "exzh": "Rajeev 有艺术学位。",
+        "ipa": "/dɪˈɡri/",
+        "audio": "media/words/ep17/degree.mp3",
+        "ex_audio": "media/words/ep17/degree_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "résumé",
+        "pos": "n.",
+        "zh": "简历；履历",
+        "ex": "That was on his résumé.",
+        "exzh": "他的简历上写了这一点。",
+        "ipa": "",
+        "audio": "media/words/ep17/r-sum.mp3",
+        "ex_audio": "media/words/ep17/r-sum_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go out of business",
+        "pos": "v.",
+        "zh": "倒闭；停业",
+        "ex": "The supplier went out of business.",
+        "exzh": "供货商已经倒闭了。",
+        "ipa": "/ɡoʊ aʊt əv ˈbɪznəs/",
+        "audio": "media/words/ep17/go-out-of-business.mp3",
+        "ex_audio": "media/words/ep17/go-out-of-business_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "publish",
+        "pos": "v.",
+        "zh": "刊登；出版；发表",
+        "ex": "The article was published today.",
+        "exzh": "这篇文章今天刊登了。",
+        "ipa": "/ˈpʌblɪʃ/",
+        "audio": "media/words/ep17/publish.mp3",
+        "ex_audio": "media/words/ep17/publish_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "arts and crafts",
+        "pos": "n.",
+        "zh": "手工艺；工艺美术",
+        "ex": "She subscribes to an arts and crafts magazine.",
+        "exzh": "她订阅了一本手工艺杂志。",
+        "ipa": "/ɑrts ənd kræfts/",
+        "audio": "media/words/ep17/arts-and-crafts.mp3",
+        "ex_audio": "media/words/ep17/arts-and-crafts_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "express mail",
+        "pos": "n.",
+        "zh": "快递邮件；速递",
+        "ex": "I sent it by express mail.",
+        "exzh": "我用快递寄出去了。",
+        "ipa": "/ɪkˈsprɛs meɪl/",
+        "audio": "media/words/ep17/express-mail.mp3",
+        "ex_audio": "media/words/ep17/express-mail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be supposed to",
+        "pos": "v.",
+        "zh": "应该；本该",
+        "ex": "The shipment was supposed to be ready yesterday.",
+        "exzh": "这批货本该昨天准备好。",
+        "ipa": "/bi səˈpoʊzd tu/",
+        "audio": "media/words/ep17/be-supposed-to.mp3",
+        "ex_audio": "media/words/ep17/be-supposed-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "passenger ship",
+        "pos": "n.",
+        "zh": "客轮；客船",
+        "ex": "It's a passenger ship.",
+        "exzh": "那是一艘客轮。",
+        "ipa": "/ˈpæsəndʒɚ ʃɪp/",
+        "audio": "media/words/ep17/passenger-ship.mp3",
+        "ex_audio": "media/words/ep17/passenger-ship_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "zh": "（会议、培训的）一场；一节",
+        "ex": "We will take a break after the second session.",
+        "exzh": "我们第二场结束后休息。",
+        "ipa": "/ˈsɛʃən/",
+        "audio": "media/words/ep17/session.mp3",
+        "ex_audio": "media/words/ep17/session_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "decisive",
+        "pos": "adj.",
+        "zh": "果断的；决定性的",
+        "ex": "She is a decisive team leader.",
+        "exzh": "她是一位果断的组长。",
+        "ipa": "/dɪˈsaɪsɪv/",
+        "audio": "media/words/ep17/decisive.mp3",
+        "ex_audio": "media/words/ep17/decisive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be limited to",
+        "pos": "v.",
+        "zh": "仅限于；限于",
+        "ex": "Use of the garage is limited to employees.",
+        "exzh": "这个车库仅限员工使用。",
+        "ipa": "/bi ˈlɪmətəd tu/",
+        "audio": "media/words/ep17/be-limited-to.mp3",
+        "ex_audio": "media/words/ep17/be-limited-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "parking garage",
+        "pos": "n.",
+        "zh": "室内停车场；停车楼",
+        "ex": "The parking garage is under the building.",
+        "exzh": "停车楼在大楼下面。",
+        "ipa": "/ˈpɑrkɪŋ ɡɚˈɑʒ/",
+        "audio": "media/words/ep17/parking-garage.mp3",
+        "ex_audio": "media/words/ep17/parking-garage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appreciate",
+        "pos": "v.",
+        "zh": "欣赏；感激；重视",
+        "ex": "The team members appreciate his strong leadership skills.",
+        "exzh": "团队成员赞赏他强大的领导能力。",
+        "ipa": "/əˈpriʃiˌeɪt/",
+        "audio": "media/words/ep17/appreciate.mp3",
+        "ex_audio": "media/words/ep17/appreciate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "polisher",
+        "pos": "n.",
+        "zh": "抛光机；打蜡机",
+        "ex": "Please put the floor polisher back in the closet.",
+        "exzh": "请把地板抛光机放回储物间。",
+        "ipa": "",
+        "audio": "media/words/ep17/polisher.mp3",
+        "ex_audio": "media/words/ep17/polisher_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "policy",
+        "pos": "n.",
+        "zh": "政策；规定；方针",
+        "ex": "Many companies are updating their policies.",
+        "exzh": "很多公司正在更新它们的规定。",
+        "ipa": "/ˈpɑləsi/",
+        "audio": "media/words/ep17/policy.mp3",
+        "ex_audio": "media/words/ep17/policy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "silverware",
+        "pos": "n.",
+        "zh": "银器；金属餐具",
+        "ex": "All silverware orders will be shipped free of charge.",
+        "exzh": "所有银餐具订单都免运费。",
+        "ipa": "/ˈsɪlvɚˌwɛr/",
+        "audio": "media/words/ep17/silverware.mp3",
+        "ex_audio": "media/words/ep17/silverware_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "free of charge",
+        "pos": "adj./adv.",
+        "zh": "免费的；免费地",
+        "ex": "Brantmerr will replace the unit free of charge.",
+        "exzh": "Brantmerr 会免费更换这台机器。",
+        "ipa": "/fri əv tʃɑrdʒ/",
+        "audio": "media/words/ep17/free-of-charge.mp3",
+        "ex_audio": "media/words/ep17/free-of-charge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "respectfully",
+        "pos": "adv.",
+        "zh": "恭敬地；礼貌地",
+        "ex": "Residents are respectfully asked to keep noise levels low.",
+        "exzh": "敬请住户保持安静。",
+        "ipa": "/rɪˈspɛktfəli/",
+        "audio": "media/words/ep17/respectfully.mp3",
+        "ex_audio": "media/words/ep17/respectfully_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "common area",
+        "pos": "n.",
+        "zh": "公共区域",
+        "ex": "Please keep the common areas clean.",
+        "exzh": "请保持公共区域整洁。",
+        "ipa": "/ˈkɑmən ˈɛriə/",
+        "audio": "media/words/ep17/common-area.mp3",
+        "ex_audio": "media/words/ep17/common-area_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "establish",
+        "pos": "v.",
+        "zh": "建立；设立；确立",
+        "ex": "Many companies establish their headquarters in Reno.",
+        "exzh": "很多公司把总部设在 Reno。",
+        "ipa": "/ɪˈstæblɪʃ/",
+        "audio": "media/words/ep17/establish.mp3",
+        "ex_audio": "media/words/ep17/establish_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be intended for",
+        "pos": "v.",
+        "zh": "专为…设计；供…使用",
+        "ex": "This appliance is intended for indoor use only.",
+        "exzh": "这台电器仅供室内使用。",
+        "ipa": "/bi ˌɪnˈtɛndɪd fɔr/",
+        "audio": "media/words/ep17/be-intended-for.mp3",
+        "ex_audio": "media/words/ep17/be-intended-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "back",
+        "pos": "v.",
+        "zh": "支持；为…作保障",
+        "ex": "The B10 model is backed by a one-year warranty.",
+        "exzh": "B10 型有一年保修作保障。",
+        "ipa": "/bæk/",
+        "audio": "media/words/ep17/back.mp3",
+        "ex_audio": "media/words/ep17/back_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rigorous",
+        "pos": "adj.",
+        "zh": "严格的；严谨的",
+        "ex": "Every toaster undergoes rigorous inspection.",
+        "exzh": "每台烤箱都要经过严格检查。",
+        "ipa": "/ˈrɪɡɚəs/",
+        "audio": "media/words/ep17/rigorous.mp3",
+        "ex_audio": "media/words/ep17/rigorous_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "undergo",
+        "pos": "v.",
+        "zh": "经历；接受（检查、治疗）",
+        "ex": "The building will undergo renovations next year.",
+        "exzh": "这栋楼明年要进行翻修。",
+        "ipa": "/ˌʌndɚˈɡoʊ/",
+        "audio": "media/words/ep17/undergo.mp3",
+        "ex_audio": "media/words/ep17/undergo_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "defect",
+        "pos": "n.",
+        "zh": "缺陷；瑕疵",
+        "ex": "We will replace the unit if there are any manufacturing defects.",
+        "exzh": "如有任何制造缺陷，我们会更换。",
+        "ipa": "/ˈdifɛkt/",
+        "audio": "media/words/ep17/defect.mp3",
+        "ex_audio": "media/words/ep17/defect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "void",
+        "pos": "v./adj.",
+        "zh": "使无效；无效的",
+        "ex": "Improper usage will void this guarantee.",
+        "exzh": "不当使用会使保修失效。",
+        "ipa": "/vɔɪd/",
+        "audio": "media/words/ep17/void.mp3",
+        "ex_audio": "media/words/ep17/void_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "alteration",
+        "pos": "n.",
+        "zh": "改动；修改",
+        "ex": "Minor alterations to the design are made yearly.",
+        "exzh": "每年都会对设计做些小改动。",
+        "ipa": "/ˌɔltɚˈeɪʃən/",
+        "audio": "media/words/ep17/alteration.mp3",
+        "ex_audio": "media/words/ep17/alteration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "iron",
+        "pos": "v./n.",
+        "zh": "熨烫；熨斗",
+        "ex": "We will deliver your washed and ironed clothing.",
+        "exzh": "我们会把您洗好熨好的衣服送来。",
+        "ipa": "/ˈaɪɚn/",
+        "audio": "media/words/ep17/iron.mp3",
+        "ex_audio": "media/words/ep17/iron_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "toiletries",
+        "pos": "n.",
+        "zh": "洗漱用品；化妆品",
+        "ex": "Please call if you need additional toiletries.",
+        "exzh": "如需更多洗漱用品，请打电话。",
+        "ipa": "/ˈtɔɪlətriz/",
+        "audio": "media/words/ep17/toiletries.mp3",
+        "ex_audio": "media/words/ep17/toiletries_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "address",
+        "pos": "v.",
+        "zh": "处理；解决；对…讲话",
+        "ex": "We will address the reported maintenance issue.",
+        "exzh": "我们会处理报修的问题。",
+        "ipa": "/ˈæˌdrɛs/",
+        "audio": "media/words/ep17/address.mp3",
+        "ex_audio": "media/words/ep17/address_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 16,
     "theme": "真题精讲 · Test 1 完结篇",
     "date": "2026-10-14",
