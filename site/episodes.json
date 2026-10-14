@@ -1,5 +1,2495 @@
 [
   {
+    "number": 25,
+    "theme": "真题精讲 · Test 2 第九篇（最终回）",
+    "date": "2026-10-14",
+    "duration_sec": 2353.5,
+    "segments": [
+      {
+        "title": "1. Part 7 三篇阅读 3 组",
+        "start": 0.0,
+        "length": 1835.84
+      },
+      {
+        "title": "2. 本期 29 词总复习 · 拼读",
+        "start": 1835.84,
+        "length": 517.65
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "sneak peek",
+        "zh": "抢先一看；预览"
+      },
+      {
+        "word": "finishing touches",
+        "zh": "最后的润色；收尾工作"
+      },
+      {
+        "word": "wrap up",
+        "zh": "结束；收尾"
+      },
+      {
+        "word": "pay in advance",
+        "zh": "预先付款"
+      },
+      {
+        "word": "state-of-the-art",
+        "zh": "最先进的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "convention centre",
+        "zh": "会展中心；英式拼写"
+      },
+      {
+        "word": "boon",
+        "zh": "好处；恩惠；福音"
+      },
+      {
+        "word": "sneak peek",
+        "zh": "抢先一看；预览"
+      },
+      {
+        "word": "spectacular",
+        "zh": "壮观的；精彩的"
+      },
+      {
+        "word": "finishing touches",
+        "zh": "最后的润色；收尾工作"
+      },
+      {
+        "word": "anchored",
+        "zh": "以为核心的；固定的"
+      },
+      {
+        "word": "sun-drenched",
+        "zh": "阳光充足的"
+      },
+      {
+        "word": "auditorium",
+        "zh": "礼堂；观众席"
+      },
+      {
+        "word": "state-of-the-art",
+        "zh": "最先进的"
+      },
+      {
+        "word": "audiovisual",
+        "zh": "视听的"
+      },
+      {
+        "word": "advance registration",
+        "zh": "提前报名；预先登记"
+      },
+      {
+        "word": "master of ceremonies",
+        "zh": "司仪；主持人"
+      },
+      {
+        "word": "numerous",
+        "zh": "许多的；众多的"
+      },
+      {
+        "word": "delightful",
+        "zh": "令人愉快的；可爱的"
+      },
+      {
+        "word": "biography",
+        "zh": "传记；个人简介"
+      },
+      {
+        "word": "stroll",
+        "zh": "散步；漫步"
+      },
+      {
+        "word": "iconic",
+        "zh": "标志性的；偶像的"
+      },
+      {
+        "word": "surviving",
+        "zh": "现存的；幸存的"
+      },
+      {
+        "word": "wrap up",
+        "zh": "结束；收尾"
+      },
+      {
+        "word": "souvenir",
+        "zh": "纪念品；特产"
+      },
+      {
+        "word": "memorabilia",
+        "zh": "纪念品；收藏品"
+      },
+      {
+        "word": "curbside",
+        "zh": "路边的；上门的"
+      },
+      {
+        "word": "recyclables",
+        "zh": "可回收物"
+      },
+      {
+        "word": "disposable",
+        "zh": "一次性的；可丢弃的"
+      },
+      {
+        "word": "periodic",
+        "zh": "定期的；周期性的"
+      },
+      {
+        "word": "latex",
+        "zh": "乳胶"
+      },
+      {
+        "word": "wheelie bin",
+        "zh": "带轮子的大垃圾桶；英式"
+      },
+      {
+        "word": "pay in advance",
+        "zh": "预先付款"
+      },
+      {
+        "word": "fully paid up",
+        "zh": "已全部付清的"
+      }
+    ],
+    "video": "media/ep25.mp4",
+    "script_pdf": "media/ep25_script.pdf",
+    "source_video": "ep25.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep25.html",
+        "video": "media/ep25.mp4",
+        "script_pdf": "media/ep25_script.pdf",
+        "duration_sec": 2353.5,
+        "theme": "真题精讲 · Test 2 第九篇（最终回）",
+        "segments": [
+          {
+            "title": "1. Part 7 三篇阅读 3 组",
+            "start": 0.0,
+            "length": 1835.84
+          },
+          {
+            "title": "2. 本期 29 词总复习 · 拼读",
+            "start": 1835.84,
+            "length": 517.65
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep25ja.html",
+        "video": "media/ep25ja.mp4",
+        "script_pdf": "media/ep25ja_script.pdf",
+        "duration_sec": 2638.2,
+        "theme": "本番問題精講 · Test 2 第9回（最終回）",
+        "segments": [
+          {
+            "title": "1. Part 7 トリプルパッセージ 3組",
+            "start": 0.0,
+            "length": 2090.14
+          },
+          {
+            "title": "2. 今回の 29 語総復習 · スペル",
+            "start": 2090.14,
+            "length": 548.06
+          }
+        ],
+        "poster": "media/ep25ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "sneak peek",
+            "zh": "ひと足先にのぞくこと；内覧"
+          },
+          {
+            "word": "finishing touches",
+            "zh": "最後の仕上げ"
+          },
+          {
+            "word": "wrap up",
+            "zh": "締めくくる；終える"
+          },
+          {
+            "word": "pay in advance",
+            "zh": "前払いする"
+          },
+          {
+            "word": "state-of-the-art",
+            "zh": "最新式の；最先端の"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "convention centre",
+          "boon",
+          "sneak peek",
+          "spectacular",
+          "finishing touches",
+          "anchored",
+          "sun-drenched",
+          "auditorium",
+          "state-of-the-art",
+          "audiovisual",
+          "advance registration",
+          "master of ceremonies",
+          "numerous",
+          "delightful",
+          "biography",
+          "stroll",
+          "iconic",
+          "surviving",
+          "wrap up",
+          "souvenir",
+          "memorabilia",
+          "curbside",
+          "recyclables",
+          "disposable",
+          "periodic",
+          "latex",
+          "wheelie bin",
+          "pay in advance",
+          "fully paid up"
+        ],
+        "words": [
+          {
+            "word": "convention centre",
+            "pos": "n.",
+            "zh": "コンベンションセンター（イギリス式つづり）",
+            "ex": "The city's new convention centre opens in two weeks.",
+            "exzh": "市の新しいコンベンションセンターは2週間後に開業する。",
+            "ipa": "/kənˈvɛnʃən ˈsɛntɚ/",
+            "audio": "media/words/ep25/convention-centre.mp3",
+            "ex_audio": "media/words/ep25/convention-centre_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "boon",
+            "pos": "n.",
+            "zh": "恩恵；ありがたいもの",
+            "ex": "The centre is expected to be a boon to local hotels.",
+            "exzh": "センターは地元のホテルにとって恩恵になると見込まれている。",
+            "ipa": "/bun/",
+            "audio": "media/words/ep25/boon.mp3",
+            "ex_audio": "media/words/ep25/boon_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sneak peek",
+            "pos": "n.",
+            "zh": "ひと足先にのぞくこと；内覧",
+            "ex": "I was given a sneak peek last week.",
+            "exzh": "先週ひと足先に見せてもらった。",
+            "ipa": "/snik pik/",
+            "audio": "media/words/ep25/sneak-peek.mp3",
+            "ex_audio": "media/words/ep25/sneak-peek_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "spectacular",
+            "pos": "adj.",
+            "zh": "壮観な；見事な",
+            "ex": "The roses are spectacular at this time of year.",
+            "exzh": "毎年この時期のバラは見事だ。",
+            "ipa": "/spɛkˈtækjəlɚ/",
+            "audio": "media/words/ep25/spectacular.mp3",
+            "ex_audio": "media/words/ep25/spectacular_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "finishing touches",
+            "pos": "n.",
+            "zh": "最後の仕上げ",
+            "ex": "Workers were putting the finishing touches on the hall.",
+            "exzh": "作業員がホールに最後の仕上げをしていた。",
+            "ipa": "/ˈfɪnɪʃɪŋ ˈtʌtʃəz/",
+            "audio": "media/words/ep25/finishing-touches.mp3",
+            "ex_audio": "media/words/ep25/finishing-touches_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "anchored",
+            "pos": "adj.",
+            "zh": "…を中心に据えた；固定された",
+            "ex": "The building is anchored by a grand hall.",
+            "exzh": "その建物は大ホールを中心にしている。",
+            "ipa": "/ˈæŋkɚd/",
+            "audio": "media/words/ep25/anchored.mp3",
+            "ex_audio": "media/words/ep25/anchored_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sun-drenched",
+            "pos": "adj.",
+            "zh": "日当たりのいい；陽光あふれる",
+            "ex": "The hall is an airy, sun-drenched space.",
+            "exzh": "ホールは風通しがよく、日当たりのいい空間だ。",
+            "ipa": "/sʌn-drɛntʃt/",
+            "audio": "media/words/ep25/sun-drenched.mp3",
+            "ex_audio": "media/words/ep25/sun-drenched_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "auditorium",
+            "pos": "n.",
+            "zh": "講堂；客席",
+            "ex": "It has a 900-seat auditorium.",
+            "exzh": "900席の講堂がある。",
+            "ipa": "/ˌɔdəˈtɔriəm/",
+            "audio": "media/words/ep25/auditorium.mp3",
+            "ex_audio": "media/words/ep25/auditorium_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "state-of-the-art",
+            "pos": "adj.",
+            "zh": "最新式の；最先端の",
+            "ex": "All rooms feature state-of-the-art equipment.",
+            "exzh": "すべての部屋に最新式の設備がある。",
+            "ipa": "/ˌsteɪtəvðɪˈɑrt/",
+            "audio": "media/words/ep25/state-of-the-art.mp3",
+            "ex_audio": "media/words/ep25/state-of-the-art_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "audiovisual",
+            "pos": "adj.",
+            "zh": "視聴覚の",
+            "ex": "The rooms have audiovisual technologies.",
+            "exzh": "部屋には視聴覚設備がある。",
+            "ipa": "/ˌɔdioʊˈvɪʒuəl/",
+            "audio": "media/words/ep25/audiovisual.mp3",
+            "ex_audio": "media/words/ep25/audiovisual_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "advance registration",
+            "pos": "n.",
+            "zh": "事前登録",
+            "ex": "Advance registration is required.",
+            "exzh": "事前登録が必要だ。",
+            "ipa": "/ədˈvæns ˌrɛdʒɪˈstreɪʃən/",
+            "audio": "media/words/ep25/advance-registration.mp3",
+            "ex_audio": "media/words/ep25/advance-registration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "master of ceremonies",
+            "pos": "n.",
+            "zh": "司会者",
+            "ex": "He will serve as our master of ceremonies.",
+            "exzh": "彼が司会を務める。",
+            "ipa": "/ˈmæstɚ əv ˈsɛrəˌmoʊniz/",
+            "audio": "media/words/ep25/master-of-ceremonies.mp3",
+            "ex_audio": "media/words/ep25/master-of-ceremonies_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "numerous",
+            "pos": "adj.",
+            "zh": "多数の；数多くの",
+            "ex": "He is the author of numerous books.",
+            "exzh": "彼は多くの本の著者だ。",
+            "ipa": "/ˈnumɚəs/",
+            "audio": "media/words/ep25/numerous.mp3",
+            "ex_audio": "media/words/ep25/numerous_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "delightful",
+            "pos": "adj.",
+            "zh": "楽しい；とても感じのよい",
+            "ex": "It was delightful meeting you.",
+            "exzh": "お会いできてとても楽しかったです。",
+            "ipa": "/dɪˈlaɪtfəl/",
+            "audio": "media/words/ep25/delightful.mp3",
+            "ex_audio": "media/words/ep25/delightful_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "biography",
+            "pos": "n.",
+            "zh": "伝記；経歴",
+            "ex": "Please send me your biography.",
+            "exzh": "あなたの経歴を送ってください。",
+            "ipa": "/baɪˈɑɡrəfi/",
+            "audio": "media/words/ep25/biography.mp3",
+            "ex_audio": "media/words/ep25/biography_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stroll",
+            "pos": "n./v.",
+            "zh": "散歩；ぶらぶら歩く",
+            "ex": "Enjoy a stroll through the gardens.",
+            "exzh": "庭園の散策を楽しんでください。",
+            "ipa": "/stroʊl/",
+            "audio": "media/words/ep25/stroll.mp3",
+            "ex_audio": "media/words/ep25/stroll_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "iconic",
+            "pos": "adj.",
+            "zh": "象徴的な；代表的な",
+            "ex": "The company introduced an iconic armchair.",
+            "exzh": "その会社は象徴的なひじ掛けいすを生み出した。",
+            "ipa": "/ˌaɪˈkɑnɪk/",
+            "audio": "media/words/ep25/iconic.mp3",
+            "ex_audio": "media/words/ep25/iconic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "surviving",
+            "pos": "adj.",
+            "zh": "現存する；生き残った",
+            "ex": "It is the oldest surviving building in town.",
+            "exzh": "町に現存する最古の建物だ。",
+            "ipa": "/sɚˈvaɪvɪŋ/",
+            "audio": "media/words/ep25/surviving.mp3",
+            "ex_audio": "media/words/ep25/surviving_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "wrap up",
+            "pos": "v.",
+            "zh": "締めくくる；終える",
+            "ex": "We will wrap up the tour at a gift shop.",
+            "exzh": "ツアーは土産物店で締めくくる。",
+            "ipa": "/ræp ʌp/",
+            "audio": "media/words/ep25/wrap-up.mp3",
+            "ex_audio": "media/words/ep25/wrap-up_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "souvenir",
+            "pos": "n.",
+            "zh": "お土産；記念品",
+            "ex": "You can shop for souvenirs there.",
+            "exzh": "そこでお土産が買える。",
+            "ipa": "/ˌsuvəˈnɪr/",
+            "audio": "media/words/ep25/souvenir.mp3",
+            "ex_audio": "media/words/ep25/souvenir_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "memorabilia",
+            "pos": "n.",
+            "zh": "記念品；記念グッズ",
+            "ex": "The shop sells T-shirts and other memorabilia.",
+            "exzh": "その店はTシャツなどの記念品を売っている。",
+            "ipa": "/ˌmɛmɚəˈbiljə/",
+            "audio": "media/words/ep25/memorabilia.mp3",
+            "ex_audio": "media/words/ep25/memorabilia_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "curbside",
+            "pos": "adj.",
+            "zh": "戸別の；道路脇の",
+            "ex": "Friday is the last day of curbside pickup.",
+            "exzh": "金曜日が戸別回収の最終日だ。",
+            "ipa": "/ˈkɝbˌsaɪd/",
+            "audio": "media/words/ep25/curbside.mp3",
+            "ex_audio": "media/words/ep25/curbside_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recyclables",
+            "pos": "n.",
+            "zh": "リサイクル可能なもの；資源ごみ",
+            "ex": "Sort your recyclables into the right bins.",
+            "exzh": "資源ごみを正しい箱に分別してください。",
+            "ipa": "/riˈsaɪkləbəlz/",
+            "audio": "media/words/ep25/recyclables.mp3",
+            "ex_audio": "media/words/ep25/recyclables_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "disposable",
+            "pos": "adj.",
+            "zh": "使い捨ての",
+            "ex": "Try to reduce your use of disposable containers.",
+            "exzh": "使い捨て容器の使用を減らしましょう。",
+            "ipa": "/dɪˈspoʊzəbəl/",
+            "audio": "media/words/ep25/disposable.mp3",
+            "ex_audio": "media/words/ep25/disposable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "periodic",
+            "pos": "adj.",
+            "zh": "定期的な",
+            "ex": "The facility holds periodic collections of batteries.",
+            "exzh": "その施設は電池の定期回収を行っている。",
+            "ipa": "/ˌpɪriˈɑdɪk/",
+            "audio": "media/words/ep25/periodic.mp3",
+            "ex_audio": "media/words/ep25/periodic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "latex",
+            "pos": "n.",
+            "zh": "ラテックス",
+            "ex": "They also collect latex paint.",
+            "exzh": "ラテックス塗料も回収している。",
+            "ipa": "/ˈleɪˌtɛks/",
+            "audio": "media/words/ep25/latex.mp3",
+            "ex_audio": "media/words/ep25/latex_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "wheelie bin",
+            "pos": "n.",
+            "zh": "キャスター付き大型ごみ箱（イギリス英語）",
+            "ex": "The fee includes two large wheelie bins.",
+            "exzh": "料金には大型のキャスター付きごみ箱2個が含まれる。",
+            "ipa": "",
+            "audio": "media/words/ep25/wheelie-bin.mp3",
+            "ex_audio": "media/words/ep25/wheelie-bin_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pay in advance",
+            "pos": "v.",
+            "zh": "前払いする",
+            "ex": "Pay in advance and receive a reduced price.",
+            "exzh": "前払いすると割引価格になる。",
+            "ipa": "/peɪ ɪn ədˈvæns/",
+            "audio": "media/words/ep25/pay-in-advance.mp3",
+            "ex_audio": "media/words/ep25/pay-in-advance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "fully paid up",
+            "pos": "adj.",
+            "zh": "全額支払い済みの",
+            "ex": "All customers are fully paid up for the year.",
+            "exzh": "全員1年分を全額支払い済みだ。",
+            "ipa": "/ˈfʊli peɪd ʌp/",
+            "audio": "media/words/ep25/fully-paid-up.mp3",
+            "ex_audio": "media/words/ep25/fully-paid-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep25_cover.png",
+    "theme_ja": "本番問題精講 · Test 2 第9回（最終回）",
+    "words": [
+      {
+        "word": "convention centre",
+        "pos": "n.",
+        "zh": "会展中心（英式拼写）",
+        "ex": "The city's new convention centre opens in two weeks.",
+        "exzh": "城市新的会展中心两周后开业。",
+        "ipa": "/kənˈvɛnʃən ˈsɛntɚ/",
+        "audio": "media/words/ep25/convention-centre.mp3",
+        "ex_audio": "media/words/ep25/convention-centre_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "boon",
+        "pos": "n.",
+        "zh": "好处；恩惠；福音",
+        "ex": "The centre is expected to be a boon to local hotels.",
+        "exzh": "会展中心预计会给当地酒店带来好处。",
+        "ipa": "/bun/",
+        "audio": "media/words/ep25/boon.mp3",
+        "ex_audio": "media/words/ep25/boon_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sneak peek",
+        "pos": "n.",
+        "zh": "抢先一看；预览",
+        "ex": "I was given a sneak peek last week.",
+        "exzh": "上周我得到机会抢先看了一下。",
+        "ipa": "/snik pik/",
+        "audio": "media/words/ep25/sneak-peek.mp3",
+        "ex_audio": "media/words/ep25/sneak-peek_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "spectacular",
+        "pos": "adj.",
+        "zh": "壮观的；精彩的",
+        "ex": "The roses are spectacular at this time of year.",
+        "exzh": "每年这个时候的玫瑰非常壮观。",
+        "ipa": "/spɛkˈtækjəlɚ/",
+        "audio": "media/words/ep25/spectacular.mp3",
+        "ex_audio": "media/words/ep25/spectacular_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "finishing touches",
+        "pos": "n.",
+        "zh": "最后的润色；收尾工作",
+        "ex": "Workers were putting the finishing touches on the hall.",
+        "exzh": "工人们正在给大厅做最后的收尾。",
+        "ipa": "/ˈfɪnɪʃɪŋ ˈtʌtʃəz/",
+        "audio": "media/words/ep25/finishing-touches.mp3",
+        "ex_audio": "media/words/ep25/finishing-touches_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "anchored",
+        "pos": "adj.",
+        "zh": "以……为核心的；固定的",
+        "ex": "The building is anchored by a grand hall.",
+        "exzh": "这座建筑以一个大厅为核心。",
+        "ipa": "/ˈæŋkɚd/",
+        "audio": "media/words/ep25/anchored.mp3",
+        "ex_audio": "media/words/ep25/anchored_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sun-drenched",
+        "pos": "adj.",
+        "zh": "阳光充足的",
+        "ex": "The hall is an airy, sun-drenched space.",
+        "exzh": "大厅宽敞通风、阳光充足。",
+        "ipa": "/sʌn-drɛntʃt/",
+        "audio": "media/words/ep25/sun-drenched.mp3",
+        "ex_audio": "media/words/ep25/sun-drenched_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "auditorium",
+        "pos": "n.",
+        "zh": "礼堂；观众席",
+        "ex": "It has a 900-seat auditorium.",
+        "exzh": "那里有一个九百座的礼堂。",
+        "ipa": "/ˌɔdəˈtɔriəm/",
+        "audio": "media/words/ep25/auditorium.mp3",
+        "ex_audio": "media/words/ep25/auditorium_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "state-of-the-art",
+        "pos": "adj.",
+        "zh": "最先进的",
+        "ex": "All rooms feature state-of-the-art equipment.",
+        "exzh": "所有房间都配有最先进的设备。",
+        "ipa": "/ˌsteɪtəvðɪˈɑrt/",
+        "audio": "media/words/ep25/state-of-the-art.mp3",
+        "ex_audio": "media/words/ep25/state-of-the-art_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "audiovisual",
+        "pos": "adj.",
+        "zh": "视听的",
+        "ex": "The rooms have audiovisual technologies.",
+        "exzh": "房间配有视听设备。",
+        "ipa": "/ˌɔdioʊˈvɪʒuəl/",
+        "audio": "media/words/ep25/audiovisual.mp3",
+        "ex_audio": "media/words/ep25/audiovisual_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "advance registration",
+        "pos": "n.",
+        "zh": "提前报名；预先登记",
+        "ex": "Advance registration is required.",
+        "exzh": "必须提前报名。",
+        "ipa": "/ədˈvæns ˌrɛdʒɪˈstreɪʃən/",
+        "audio": "media/words/ep25/advance-registration.mp3",
+        "ex_audio": "media/words/ep25/advance-registration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "master of ceremonies",
+        "pos": "n.",
+        "zh": "司仪；主持人",
+        "ex": "He will serve as our master of ceremonies.",
+        "exzh": "他将担任我们的主持人。",
+        "ipa": "/ˈmæstɚ əv ˈsɛrəˌmoʊniz/",
+        "audio": "media/words/ep25/master-of-ceremonies.mp3",
+        "ex_audio": "media/words/ep25/master-of-ceremonies_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "numerous",
+        "pos": "adj.",
+        "zh": "许多的；众多的",
+        "ex": "He is the author of numerous books.",
+        "exzh": "他写了许多本书。",
+        "ipa": "/ˈnumɚəs/",
+        "audio": "media/words/ep25/numerous.mp3",
+        "ex_audio": "media/words/ep25/numerous_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "delightful",
+        "pos": "adj.",
+        "zh": "令人愉快的；可爱的",
+        "ex": "It was delightful meeting you.",
+        "exzh": "见到您非常愉快。",
+        "ipa": "/dɪˈlaɪtfəl/",
+        "audio": "media/words/ep25/delightful.mp3",
+        "ex_audio": "media/words/ep25/delightful_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "biography",
+        "pos": "n.",
+        "zh": "传记；个人简介",
+        "ex": "Please send me your biography.",
+        "exzh": "请把您的个人简介发给我。",
+        "ipa": "/baɪˈɑɡrəfi/",
+        "audio": "media/words/ep25/biography.mp3",
+        "ex_audio": "media/words/ep25/biography_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stroll",
+        "pos": "n./v.",
+        "zh": "散步；漫步",
+        "ex": "Enjoy a stroll through the gardens.",
+        "exzh": "在花园里悠闲地散散步吧。",
+        "ipa": "/stroʊl/",
+        "audio": "media/words/ep25/stroll.mp3",
+        "ex_audio": "media/words/ep25/stroll_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "iconic",
+        "pos": "adj.",
+        "zh": "标志性的；偶像的",
+        "ex": "The company introduced an iconic armchair.",
+        "exzh": "这家公司推出了一款标志性的扶手椅。",
+        "ipa": "/ˌaɪˈkɑnɪk/",
+        "audio": "media/words/ep25/iconic.mp3",
+        "ex_audio": "media/words/ep25/iconic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "surviving",
+        "pos": "adj.",
+        "zh": "现存的；幸存的",
+        "ex": "It is the oldest surviving building in town.",
+        "exzh": "这是镇上现存最古老的建筑。",
+        "ipa": "/sɚˈvaɪvɪŋ/",
+        "audio": "media/words/ep25/surviving.mp3",
+        "ex_audio": "media/words/ep25/surviving_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wrap up",
+        "pos": "v.",
+        "zh": "结束；收尾",
+        "ex": "We will wrap up the tour at a gift shop.",
+        "exzh": "我们会在一家礼品店结束这次游览。",
+        "ipa": "/ræp ʌp/",
+        "audio": "media/words/ep25/wrap-up.mp3",
+        "ex_audio": "media/words/ep25/wrap-up_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "souvenir",
+        "pos": "n.",
+        "zh": "纪念品；特产",
+        "ex": "You can shop for souvenirs there.",
+        "exzh": "你可以在那里买纪念品。",
+        "ipa": "/ˌsuvəˈnɪr/",
+        "audio": "media/words/ep25/souvenir.mp3",
+        "ex_audio": "media/words/ep25/souvenir_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "memorabilia",
+        "pos": "n.",
+        "zh": "纪念品；收藏品",
+        "ex": "The shop sells T-shirts and other memorabilia.",
+        "exzh": "这家店卖T恤和其他纪念品。",
+        "ipa": "/ˌmɛmɚəˈbiljə/",
+        "audio": "media/words/ep25/memorabilia.mp3",
+        "ex_audio": "media/words/ep25/memorabilia_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "curbside",
+        "pos": "adj.",
+        "zh": "路边的；上门的",
+        "ex": "Friday is the last day of curbside pickup.",
+        "exzh": "周五是路边收取的最后一天。",
+        "ipa": "/ˈkɝbˌsaɪd/",
+        "audio": "media/words/ep25/curbside.mp3",
+        "ex_audio": "media/words/ep25/curbside_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recyclables",
+        "pos": "n.",
+        "zh": "可回收物",
+        "ex": "Sort your recyclables into the right bins.",
+        "exzh": "请把可回收物分类放进相应的桶里。",
+        "ipa": "/riˈsaɪkləbəlz/",
+        "audio": "media/words/ep25/recyclables.mp3",
+        "ex_audio": "media/words/ep25/recyclables_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "disposable",
+        "pos": "adj.",
+        "zh": "一次性的；可丢弃的",
+        "ex": "Try to reduce your use of disposable containers.",
+        "exzh": "尽量少用一次性容器。",
+        "ipa": "/dɪˈspoʊzəbəl/",
+        "audio": "media/words/ep25/disposable.mp3",
+        "ex_audio": "media/words/ep25/disposable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "periodic",
+        "pos": "adj.",
+        "zh": "定期的；周期性的",
+        "ex": "The facility holds periodic collections of batteries.",
+        "exzh": "这个设施会定期回收电池。",
+        "ipa": "/ˌpɪriˈɑdɪk/",
+        "audio": "media/words/ep25/periodic.mp3",
+        "ex_audio": "media/words/ep25/periodic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "latex",
+        "pos": "n.",
+        "zh": "乳胶",
+        "ex": "They also collect latex paint.",
+        "exzh": "他们也回收乳胶漆。",
+        "ipa": "/ˈleɪˌtɛks/",
+        "audio": "media/words/ep25/latex.mp3",
+        "ex_audio": "media/words/ep25/latex_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wheelie bin",
+        "pos": "n.",
+        "zh": "带轮子的大垃圾桶（英式）",
+        "ex": "The fee includes two large wheelie bins.",
+        "exzh": "费用包括两个带轮子的大垃圾桶。",
+        "ipa": "",
+        "audio": "media/words/ep25/wheelie-bin.mp3",
+        "ex_audio": "media/words/ep25/wheelie-bin_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pay in advance",
+        "pos": "v.",
+        "zh": "预先付款",
+        "ex": "Pay in advance and receive a reduced price.",
+        "exzh": "提前付款就能享受折扣价。",
+        "ipa": "/peɪ ɪn ədˈvæns/",
+        "audio": "media/words/ep25/pay-in-advance.mp3",
+        "ex_audio": "media/words/ep25/pay-in-advance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "fully paid up",
+        "pos": "adj.",
+        "zh": "已全部付清的",
+        "ex": "All customers are fully paid up for the year.",
+        "exzh": "所有客户全年的费用都已付清。",
+        "ipa": "/ˈfʊli peɪd ʌp/",
+        "audio": "media/words/ep25/fully-paid-up.mp3",
+        "ex_audio": "media/words/ep25/fully-paid-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "theme": "真题精讲 · Test 2 第七篇",
+    "date": "2026-10-14",
+    "duration_sec": 2774.6,
+    "segments": [
+      {
+        "title": "1. Part 4 逐句精听",
+        "start": 0.0,
+        "length": 703.02
+      },
+      {
+        "title": "2. Part 7 阅读真题 3 篇",
+        "start": 703.02,
+        "length": 1310.02
+      },
+      {
+        "title": "3. 本期 48 词总复习 · 拼读",
+        "start": 2013.04,
+        "length": 761.6
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "keep track of",
+        "zh": "记录；追踪；掌握"
+      },
+      {
+        "word": "go missing",
+        "zh": "丢失；不见"
+      },
+      {
+        "word": "take advantage of",
+        "zh": "利用；趁…之机"
+      },
+      {
+        "word": "facilitate",
+        "zh": "促进；使便利"
+      },
+      {
+        "word": "persuade",
+        "zh": "说服；劝说"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "archaeological",
+        "zh": "考古的；考古学的"
+      },
+      {
+        "word": "dig",
+        "zh": "发掘；挖掘"
+      },
+      {
+        "word": "preliminary",
+        "zh": "准备事项；初步的"
+      },
+      {
+        "word": "read through",
+        "zh": "从头读到尾；通读"
+      },
+      {
+        "word": "go missing",
+        "zh": "丢失；不见"
+      },
+      {
+        "word": "keep track of",
+        "zh": "记录；追踪；掌握"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；清单；盘点"
+      },
+      {
+        "word": "reimburse",
+        "zh": "报销；偿还"
+      },
+      {
+        "word": "couch",
+        "zh": "沙发"
+      },
+      {
+        "word": "used",
+        "zh": "二手的；用过的"
+      },
+      {
+        "word": "cushion",
+        "zh": "坐垫；靠垫"
+      },
+      {
+        "word": "thankful",
+        "zh": "感激的；感谢的"
+      },
+      {
+        "word": "publicity",
+        "zh": "宣传；曝光；知名度"
+      },
+      {
+        "word": "recital",
+        "zh": "独奏会；独唱会"
+      },
+      {
+        "word": "talented",
+        "zh": "有才华的；有天赋的"
+      },
+      {
+        "word": "reconnect",
+        "zh": "重新联系；重新连接"
+      },
+      {
+        "word": "lagging",
+        "zh": "下滑的；落后的"
+      },
+      {
+        "word": "heavy-duty",
+        "zh": "结实耐用的；重型的"
+      },
+      {
+        "word": "briefcase",
+        "zh": "公文包"
+      },
+      {
+        "word": "dramatic",
+        "zh": "巨大的；戏剧性的"
+      },
+      {
+        "word": "boast",
+        "zh": "吹嘘；自夸；拥有"
+      },
+      {
+        "word": "oversized",
+        "zh": "超大的；特大号的"
+      },
+      {
+        "word": "evolving",
+        "zh": "不断变化的；发展中的"
+      },
+      {
+        "word": "simply put",
+        "zh": "简单来说"
+      },
+      {
+        "word": "take advantage of",
+        "zh": "利用；趁…之机"
+      },
+      {
+        "word": "rare",
+        "zh": "少见的；稀有的"
+      },
+      {
+        "word": "depress",
+        "zh": "压低；使减少；使沮丧"
+      },
+      {
+        "word": "accessory",
+        "zh": "配件；附件；饰品"
+      },
+      {
+        "word": "convenience",
+        "zh": "方便；便利"
+      },
+      {
+        "word": "sleek",
+        "zh": "时尚流线型的；光滑的"
+      },
+      {
+        "word": "compartment",
+        "zh": "隔层；隔间"
+      },
+      {
+        "word": "lightweight",
+        "zh": "轻便的；重量轻的"
+      },
+      {
+        "word": "ergonomic",
+        "zh": "符合人体工学的"
+      },
+      {
+        "word": "founding",
+        "zh": "创立；成立"
+      },
+      {
+        "word": "press release",
+        "zh": "新闻稿"
+      },
+      {
+        "word": "publication",
+        "zh": "刊物；出版物；出版"
+      },
+      {
+        "word": "extension",
+        "zh": "分机号；延期；扩展"
+      },
+      {
+        "word": "facilitate",
+        "zh": "促进；使便利"
+      },
+      {
+        "word": "undertaking",
+        "zh": "任务；工程；事业"
+      },
+      {
+        "word": "confidential",
+        "zh": "机密的；保密的"
+      },
+      {
+        "word": "late notice",
+        "zh": "临时通知"
+      },
+      {
+        "word": "land",
+        "zh": "成功拿下；着陆；土地"
+      },
+      {
+        "word": "formally",
+        "zh": "正式地"
+      },
+      {
+        "word": "persuade",
+        "zh": "说服；劝说"
+      },
+      {
+        "word": "recruitment",
+        "zh": "招募；争取；招聘"
+      },
+      {
+        "word": "streamer",
+        "zh": "彩带；横幅"
+      },
+      {
+        "word": "left over",
+        "zh": "剩下的；剩余的"
+      },
+      {
+        "word": "grab",
+        "zh": "拿；抓；匆匆拿走"
+      }
+    ],
+    "video": "media/ep23.mp4",
+    "script_pdf": "media/ep23_script.pdf",
+    "source_video": "ep23.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep23.html",
+        "video": "media/ep23.mp4",
+        "script_pdf": "media/ep23_script.pdf",
+        "duration_sec": 2774.6,
+        "theme": "真题精讲 · Test 2 第七篇",
+        "segments": [
+          {
+            "title": "1. Part 4 逐句精听",
+            "start": 0.0,
+            "length": 703.02
+          },
+          {
+            "title": "2. Part 7 阅读真题 3 篇",
+            "start": 703.02,
+            "length": 1310.02
+          },
+          {
+            "title": "3. 本期 48 词总复习 · 拼读",
+            "start": 2013.04,
+            "length": 761.6
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep23ja.html",
+        "video": "media/ep23ja.mp4",
+        "script_pdf": "media/ep23ja_script.pdf",
+        "duration_sec": 3144.7,
+        "theme": "本番問題精講 · Test 2 第7回",
+        "segments": [
+          {
+            "title": "1. Part 4 1文ずつ精聴",
+            "start": 0.0,
+            "length": 843.06
+          },
+          {
+            "title": "2. Part 7 読解の本番問題 3本",
+            "start": 843.06,
+            "length": 1503.68
+          },
+          {
+            "title": "3. 今回の 48 語総復習 · スペル",
+            "start": 2346.74,
+            "length": 797.96
+          }
+        ],
+        "poster": "media/ep23ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "keep track of",
+            "zh": "記録する；把握する"
+          },
+          {
+            "word": "go missing",
+            "zh": "なくなる；行方不明になる"
+          },
+          {
+            "word": "take advantage of",
+            "zh": "…を利用する；活用する"
+          },
+          {
+            "word": "facilitate",
+            "zh": "円滑にする；促進する"
+          },
+          {
+            "word": "persuade",
+            "zh": "説得する"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "archaeological",
+          "dig",
+          "preliminary",
+          "read through",
+          "go missing",
+          "keep track of",
+          "inventory",
+          "reimburse",
+          "couch",
+          "used",
+          "cushion",
+          "thankful",
+          "publicity",
+          "recital",
+          "talented",
+          "reconnect",
+          "lagging",
+          "heavy-duty",
+          "briefcase",
+          "dramatic",
+          "boast",
+          "oversized",
+          "evolving",
+          "simply put",
+          "take advantage of",
+          "rare",
+          "depress",
+          "accessory",
+          "convenience",
+          "sleek",
+          "compartment",
+          "lightweight",
+          "ergonomic",
+          "founding",
+          "press release",
+          "publication",
+          "extension",
+          "facilitate",
+          "undertaking",
+          "confidential",
+          "late notice",
+          "land",
+          "formally",
+          "persuade",
+          "recruitment",
+          "streamer",
+          "left over",
+          "grab"
+        ],
+        "words": [
+          {
+            "word": "archaeological",
+            "pos": "adj.",
+            "zh": "考古学の",
+            "ex": "Welcome to our archaeological dig.",
+            "exzh": "遺跡の発掘現場へようこそ。",
+            "ipa": "/ˌɑrkiəˈlɑdʒɪkəl/",
+            "audio": "media/words/ep23/archaeological.mp3",
+            "ex_audio": "media/words/ep23/archaeological_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dig",
+            "pos": "n./v.",
+            "zh": "発掘；掘る",
+            "ex": "A lot of tools went missing at our last dig.",
+            "exzh": "前回の発掘では多くの道具がなくなった。",
+            "ipa": "/dɪɡ/",
+            "audio": "media/words/ep23/dig.mp3",
+            "ex_audio": "media/words/ep23/dig_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "preliminary",
+            "pos": "n./adj.",
+            "zh": "前置き；予備的な",
+            "ex": "A few preliminaries before we get started.",
+            "exzh": "始める前にいくつか前置きを。",
+            "ipa": "/prɪˈlɪməˌnɛri/",
+            "audio": "media/words/ep23/preliminary.mp3",
+            "ex_audio": "media/words/ep23/preliminary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "read through",
+            "pos": "v.",
+            "zh": "最後まで読む；目を通す",
+            "ex": "Please read through the safety guide tonight.",
+            "exzh": "今夜、安全ガイドに目を通してください。",
+            "ipa": "/rɛd θru/",
+            "audio": "media/words/ep23/read-through.mp3",
+            "ex_audio": "media/words/ep23/read-through_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go missing",
+            "pos": "v.",
+            "zh": "なくなる；行方不明になる",
+            "ex": "Several tools went missing last year.",
+            "exzh": "去年いくつかの道具がなくなった。",
+            "ipa": "/ɡoʊ ˈmɪsɪŋ/",
+            "audio": "media/words/ep23/go-missing.mp3",
+            "ex_audio": "media/words/ep23/go-missing_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "keep track of",
+            "pos": "v.",
+            "zh": "記録する；把握する",
+            "ex": "We use checklists to keep track of the tools.",
+            "exzh": "チェックリストで道具を把握する。",
+            "ipa": "/kip træk əv/",
+            "audio": "media/words/ep23/keep-track-of.mp3",
+            "ex_audio": "media/words/ep23/keep-track-of_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "inventory",
+            "pos": "n.",
+            "zh": "在庫；目録；棚卸し",
+            "ex": "Please check the inventory list.",
+            "exzh": "在庫リストを確認してください。",
+            "ipa": "/ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep23/inventory.mp3",
+            "ex_audio": "media/words/ep23/inventory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reimburse",
+            "pos": "v.",
+            "zh": "払い戻す；精算する",
+            "ex": "The company will reimburse your meal expenses.",
+            "exzh": "会社が食事代を精算してくれる。",
+            "ipa": "/ˌriɪmˈbɝs/",
+            "audio": "media/words/ep23/reimburse.mp3",
+            "ex_audio": "media/words/ep23/reimburse_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "couch",
+            "pos": "n.",
+            "zh": "ソファ；長いす",
+            "ex": "She needed a couch for her apartment.",
+            "exzh": "彼女は部屋にソファが必要だった。",
+            "ipa": "/kaʊtʃ/",
+            "audio": "media/words/ep23/couch.mp3",
+            "ex_audio": "media/words/ep23/couch_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "used",
+            "pos": "adj.",
+            "zh": "中古の；使用済みの",
+            "ex": "She bought a used couch online.",
+            "exzh": "彼女はオンラインで中古のソファを買った。",
+            "ipa": "/juzd/",
+            "audio": "media/words/ep23/used.mp3",
+            "ex_audio": "media/words/ep23/used_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cushion",
+            "pos": "n.",
+            "zh": "クッション；座布団",
+            "ex": "She found money inside the cushions.",
+            "exzh": "彼女はクッションの中からお金を見つけた。",
+            "ipa": "/ˈkʊʃən/",
+            "audio": "media/words/ep23/cushion.mp3",
+            "ex_audio": "media/words/ep23/cushion_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "thankful",
+            "pos": "adj.",
+            "zh": "感謝している；ありがたく思う",
+            "ex": "The thankful sellers called the radio station.",
+            "exzh": "感謝した売り手がラジオ局に電話した。",
+            "ipa": "/ˈθæŋkfəl/",
+            "audio": "media/words/ep23/thankful.mp3",
+            "ex_audio": "media/words/ep23/thankful_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "publicity",
+            "pos": "n.",
+            "zh": "宣伝；知名度",
+            "ex": "The story generated free publicity for her concert.",
+            "exzh": "その話は彼女のコンサートの無料の宣伝になった。",
+            "ipa": "/pəˈblɪsəti/",
+            "audio": "media/words/ep23/publicity.mp3",
+            "ex_audio": "media/words/ep23/publicity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recital",
+            "pos": "n.",
+            "zh": "リサイタル；独奏会",
+            "ex": "Her piano recital is on Friday.",
+            "exzh": "彼女のピアノリサイタルは金曜日だ。",
+            "ipa": "/rəˈsaɪtəl/",
+            "audio": "media/words/ep23/recital.mp3",
+            "ex_audio": "media/words/ep23/recital_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "talented",
+            "pos": "adj.",
+            "zh": "才能のある",
+            "ex": "She is a talented pianist.",
+            "exzh": "彼女は才能あるピアニストだ。",
+            "ipa": "/ˈtæləntɪd/",
+            "audio": "media/words/ep23/talented.mp3",
+            "ex_audio": "media/words/ep23/talented_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reconnect",
+            "pos": "v.",
+            "zh": "再びつながる；旧交を温める",
+            "ex": "She reconnected with an old friend.",
+            "exzh": "彼女は旧友と再会した。",
+            "ipa": "/rikəˈnɛkt/",
+            "audio": "media/words/ep23/reconnect.mp3",
+            "ex_audio": "media/words/ep23/reconnect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lagging",
+            "pos": "adj.",
+            "zh": "伸び悩む；遅れている",
+            "ex": "The company is responding to lagging sales.",
+            "exzh": "その会社は売上不振に対応している。",
+            "ipa": "/ˈlæɡɪŋ/",
+            "audio": "media/words/ep23/lagging.mp3",
+            "ex_audio": "media/words/ep23/lagging_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "heavy-duty",
+            "pos": "adj.",
+            "zh": "頑丈な；耐久性のある",
+            "ex": "The brand is known for heavy-duty suitcases.",
+            "exzh": "そのブランドは頑丈なスーツケースで知られている。",
+            "ipa": "/ˈhɛvi-ˈduti/",
+            "audio": "media/words/ep23/heavy-duty.mp3",
+            "ex_audio": "media/words/ep23/heavy-duty_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "briefcase",
+            "pos": "n.",
+            "zh": "ブリーフケース；書類かばん",
+            "ex": "The catalog features briefcases and shoulder bags.",
+            "exzh": "カタログにはブリーフケースやショルダーバッグが載っている。",
+            "ipa": "/ˈbrifˌkeɪs/",
+            "audio": "media/words/ep23/briefcase.mp3",
+            "ex_audio": "media/words/ep23/briefcase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dramatic",
+            "pos": "adj.",
+            "zh": "劇的な；大きな",
+            "ex": "This marks a dramatic shift for the company.",
+            "exzh": "これはその会社にとって劇的な転換だ。",
+            "ipa": "/drəˈmætɪk/",
+            "audio": "media/words/ep23/dramatic.mp3",
+            "ex_audio": "media/words/ep23/dramatic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "boast",
+            "pos": "v.",
+            "zh": "自慢する；誇る",
+            "ex": "The ads boasted that one suitcase could hold everything.",
+            "exzh": "広告はスーツケース1つで何でも入ると自慢していた。",
+            "ipa": "/boʊst/",
+            "audio": "media/words/ep23/boast.mp3",
+            "ex_audio": "media/words/ep23/boast_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "oversized",
+            "pos": "adj.",
+            "zh": "特大の；大きすぎる",
+            "ex": "It no longer specializes in oversized luggage.",
+            "exzh": "その会社はもう大型の旅行かばん専門ではない。",
+            "ipa": "/ˈoʊvɚˌsaɪzd/",
+            "audio": "media/words/ep23/oversized.mp3",
+            "ex_audio": "media/words/ep23/oversized_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "evolving",
+            "pos": "adj.",
+            "zh": "変化していく；進化する",
+            "ex": "The change is due to evolving travel patterns.",
+            "exzh": "その転換は旅行の仕方の変化によるものだ。",
+            "ipa": "/ɪˈvɑlvɪŋ/",
+            "audio": "media/words/ep23/evolving.mp3",
+            "ex_audio": "media/words/ep23/evolving_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "simply put",
+            "pos": "adv.",
+            "zh": "簡単に言えば",
+            "ex": "Simply put, people are taking more short trips.",
+            "exzh": "簡単に言えば、短い旅行が増えている。",
+            "ipa": "/ˈsɪmpli pʊt/",
+            "audio": "media/words/ep23/simply-put.mp3",
+            "ex_audio": "media/words/ep23/simply-put_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take advantage of",
+            "pos": "v.",
+            "zh": "…を利用する；活用する",
+            "ex": "They take advantage of cheaper flights.",
+            "exzh": "彼らは安い航空券を利用する。",
+            "ipa": "/teɪk ædˈvæntɪdʒ əv/",
+            "audio": "media/words/ep23/take-advantage-of.mp3",
+            "ex_audio": "media/words/ep23/take-advantage-of_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "rare",
+            "pos": "adj.",
+            "zh": "まれな；珍しい",
+            "ex": "The two-week trip is becoming rarer.",
+            "exzh": "2週間の旅行はまれになってきている。",
+            "ipa": "/rɛr/",
+            "audio": "media/words/ep23/rare.mp3",
+            "ex_audio": "media/words/ep23/rare_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "depress",
+            "pos": "v.",
+            "zh": "押し下げる；落ち込ませる",
+            "ex": "High fees could depress sales.",
+            "exzh": "高い料金は売上を落ち込ませかねない。",
+            "ipa": "/dɪˈprɛs/",
+            "audio": "media/words/ep23/depress.mp3",
+            "ex_audio": "media/words/ep23/depress_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "accessory",
+            "pos": "n.",
+            "zh": "付属品；小物；アクセサリー",
+            "ex": "The store sells travel accessories.",
+            "exzh": "その店は旅行用の小物を売っている。",
+            "ipa": "/ækˈsɛsɚi/",
+            "audio": "media/words/ep23/accessory.mp3",
+            "ex_audio": "media/words/ep23/accessory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "convenience",
+            "pos": "n.",
+            "zh": "便利さ；利便性",
+            "ex": "Customers are motivated by convenience.",
+            "exzh": "お客様は便利さを重視している。",
+            "ipa": "/kənˈvinjəns/",
+            "audio": "media/words/ep23/convenience.mp3",
+            "ex_audio": "media/words/ep23/convenience_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sleek",
+            "pos": "adj.",
+            "zh": "洗練された；なめらかな",
+            "ex": "The bag has a sleek, modern design.",
+            "exzh": "そのバッグは洗練された現代的なデザインだ。",
+            "ipa": "/slik/",
+            "audio": "media/words/ep23/sleek.mp3",
+            "ex_audio": "media/words/ep23/sleek_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "compartment",
+            "pos": "n.",
+            "zh": "仕切り；区画",
+            "ex": "The bag has many small compartments.",
+            "exzh": "そのバッグには小さな仕切りがたくさんある。",
+            "ipa": "/kəmˈpɑrtmənt/",
+            "audio": "media/words/ep23/compartment.mp3",
+            "ex_audio": "media/words/ep23/compartment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lightweight",
+            "pos": "adj.",
+            "zh": "軽量の；軽い",
+            "ex": "People love that it is lightweight.",
+            "exzh": "軽いところが人気だ。",
+            "ipa": "/ˈlaɪˈtweɪt/",
+            "audio": "media/words/ep23/lightweight.mp3",
+            "ex_audio": "media/words/ep23/lightweight_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ergonomic",
+            "pos": "adj.",
+            "zh": "人間工学に基づいた",
+            "ex": "It has an ergonomic shoulder strap.",
+            "exzh": "それには人間工学に基づいた肩ひもがある。",
+            "ipa": "/ˌɝɡəˈnɑmɪk/",
+            "audio": "media/words/ep23/ergonomic.mp3",
+            "ex_audio": "media/words/ep23/ergonomic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "founding",
+            "pos": "n.",
+            "zh": "創業；設立",
+            "ex": "The company has grown since its founding.",
+            "exzh": "その会社は創業以来大きくなった。",
+            "ipa": "/ˈfaʊndɪŋ/",
+            "audio": "media/words/ep23/founding.mp3",
+            "ex_audio": "media/words/ep23/founding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "press release",
+            "pos": "n.",
+            "zh": "プレスリリース；報道発表",
+            "ex": "The department will issue a press release.",
+            "exzh": "その部署はプレスリリースを出す。",
+            "ipa": "/prɛs riˈlis/",
+            "audio": "media/words/ep23/press-release.mp3",
+            "ex_audio": "media/words/ep23/press-release_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "publication",
+            "pos": "n.",
+            "zh": "出版物；刊行物；出版",
+            "ex": "We sent the news to industry publications.",
+            "exzh": "そのニュースを業界誌に送った。",
+            "ipa": "/ˌpʌblɪˈkeɪʃən/",
+            "audio": "media/words/ep23/publication.mp3",
+            "ex_audio": "media/words/ep23/publication_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "extension",
+            "pos": "n.",
+            "zh": "内線番号；延長；拡張",
+            "ex": "Your telephone extension will remain the same.",
+            "exzh": "内線番号は変わらない。",
+            "ipa": "/ɪkˈstɛnʃən/",
+            "audio": "media/words/ep23/extension.mp3",
+            "ex_audio": "media/words/ep23/extension_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "facilitate",
+            "pos": "v.",
+            "zh": "円滑にする；促進する",
+            "ex": "Weekly meetings will facilitate the move.",
+            "exzh": "毎週の会議が移転を円滑にする。",
+            "ipa": "/fəˈsɪləˌteɪt/",
+            "audio": "media/words/ep23/facilitate.mp3",
+            "ex_audio": "media/words/ep23/facilitate_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "undertaking",
+            "pos": "n.",
+            "zh": "事業；取り組み；仕事",
+            "ex": "Moving the office is a big undertaking.",
+            "exzh": "オフィスの移転は大仕事だ。",
+            "ipa": "/ˈʌndɚˌteɪkɪŋ/",
+            "audio": "media/words/ep23/undertaking.mp3",
+            "ex_audio": "media/words/ep23/undertaking_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "confidential",
+            "pos": "adj.",
+            "zh": "機密の；内密の",
+            "ex": "Take your confidential materials with you.",
+            "exzh": "機密資料は各自で持っていってください。",
+            "ipa": "/ˌkɑnfəˈdɛnʃəl/",
+            "audio": "media/words/ep23/confidential.mp3",
+            "ex_audio": "media/words/ep23/confidential_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "late notice",
+            "pos": "n.",
+            "zh": "急な知らせ",
+            "ex": "Sorry for the late notice.",
+            "exzh": "急なお知らせですみません。",
+            "ipa": "/leɪt ˈnoʊtəs/",
+            "audio": "media/words/ep23/late-notice.mp3",
+            "ex_audio": "media/words/ep23/late-notice_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "land",
+            "pos": "v./n.",
+            "zh": "獲得する；着陸する；土地",
+            "ex": "He landed a big new account.",
+            "exzh": "彼は大きな新規顧客を獲得した。",
+            "ipa": "/lænd/",
+            "audio": "media/words/ep23/land.mp3",
+            "ex_audio": "media/words/ep23/land_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "formally",
+            "pos": "adv.",
+            "zh": "正式に",
+            "ex": "It will be formally announced this afternoon.",
+            "exzh": "今日の午後に正式に発表される。",
+            "ipa": "/ˈfɔrməli/",
+            "audio": "media/words/ep23/formally.mp3",
+            "ex_audio": "media/words/ep23/formally_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "persuade",
+            "pos": "v.",
+            "zh": "説得する",
+            "ex": "We tried for years to persuade them.",
+            "exzh": "何年も彼らを説得しようとしてきた。",
+            "ipa": "/pɚˈsweɪd/",
+            "audio": "media/words/ep23/persuade.mp3",
+            "ex_audio": "media/words/ep23/persuade_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "recruitment",
+            "pos": "n.",
+            "zh": "獲得；採用；勧誘",
+            "ex": "The party celebrates his recruitment of a new client.",
+            "exzh": "そのパーティーは彼の新規顧客の獲得を祝うものだ。",
+            "ipa": "/rəˈkrutmənt/",
+            "audio": "media/words/ep23/recruitment.mp3",
+            "ex_audio": "media/words/ep23/recruitment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "streamer",
+            "pos": "n.",
+            "zh": "紙テープ；吹き流し",
+            "ex": "We have balloons and streamers for the party.",
+            "exzh": "パーティー用の風船と紙テープがある。",
+            "ipa": "/ˈstrimɚ/",
+            "audio": "media/words/ep23/streamer.mp3",
+            "ex_audio": "media/words/ep23/streamer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "left over",
+            "pos": "adj.",
+            "zh": "残った；余った",
+            "ex": "There are some decorations left over from last month.",
+            "exzh": "先月の飾りが少し残っている。",
+            "ipa": "/lɛft ˈoʊvɚ/",
+            "audio": "media/words/ep23/left-over.mp3",
+            "ex_audio": "media/words/ep23/left-over_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "grab",
+            "pos": "v.",
+            "zh": "さっと取る；つかむ",
+            "ex": "I'll grab them from the closet.",
+            "exzh": "戸棚から取ってきます。",
+            "ipa": "/ɡræb/",
+            "audio": "media/words/ep23/grab.mp3",
+            "ex_audio": "media/words/ep23/grab_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep23_cover.png",
+    "theme_ja": "本番問題精講 · Test 2 第7回",
+    "words": [
+      {
+        "word": "archaeological",
+        "pos": "adj.",
+        "zh": "考古的；考古学的",
+        "ex": "Welcome to our archaeological dig.",
+        "exzh": "欢迎来到我们的考古发掘现场。",
+        "ipa": "/ˌɑrkiəˈlɑdʒɪkəl/",
+        "audio": "media/words/ep23/archaeological.mp3",
+        "ex_audio": "media/words/ep23/archaeological_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dig",
+        "pos": "n./v.",
+        "zh": "发掘；挖掘",
+        "ex": "A lot of tools went missing at our last dig.",
+        "exzh": "上次发掘时丢了很多工具。",
+        "ipa": "/dɪɡ/",
+        "audio": "media/words/ep23/dig.mp3",
+        "ex_audio": "media/words/ep23/dig_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "preliminary",
+        "pos": "n./adj.",
+        "zh": "准备事项；初步的",
+        "ex": "A few preliminaries before we get started.",
+        "exzh": "开始前先讲几件事。",
+        "ipa": "/prɪˈlɪməˌnɛri/",
+        "audio": "media/words/ep23/preliminary.mp3",
+        "ex_audio": "media/words/ep23/preliminary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "read through",
+        "pos": "v.",
+        "zh": "从头读到尾；通读",
+        "ex": "Please read through the safety guide tonight.",
+        "exzh": "请今晚把安全指南读完。",
+        "ipa": "/rɛd θru/",
+        "audio": "media/words/ep23/read-through.mp3",
+        "ex_audio": "media/words/ep23/read-through_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go missing",
+        "pos": "v.",
+        "zh": "丢失；不见",
+        "ex": "Several tools went missing last year.",
+        "exzh": "去年丢了好几件工具。",
+        "ipa": "/ɡoʊ ˈmɪsɪŋ/",
+        "audio": "media/words/ep23/go-missing.mp3",
+        "ex_audio": "media/words/ep23/go-missing_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "keep track of",
+        "pos": "v.",
+        "zh": "记录；追踪；掌握",
+        "ex": "We use checklists to keep track of the tools.",
+        "exzh": "我们用核对表记录工具。",
+        "ipa": "/kip træk əv/",
+        "audio": "media/words/ep23/keep-track-of.mp3",
+        "ex_audio": "media/words/ep23/keep-track-of_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "zh": "库存；清单；盘点",
+        "ex": "Please check the inventory list.",
+        "exzh": "请核对库存清单。",
+        "ipa": "/ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep23/inventory.mp3",
+        "ex_audio": "media/words/ep23/inventory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reimburse",
+        "pos": "v.",
+        "zh": "报销；偿还",
+        "ex": "The company will reimburse your meal expenses.",
+        "exzh": "公司会给你报销餐费。",
+        "ipa": "/ˌriɪmˈbɝs/",
+        "audio": "media/words/ep23/reimburse.mp3",
+        "ex_audio": "media/words/ep23/reimburse_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "couch",
+        "pos": "n.",
+        "zh": "沙发",
+        "ex": "She needed a couch for her apartment.",
+        "exzh": "她的公寓需要一张沙发。",
+        "ipa": "/kaʊtʃ/",
+        "audio": "media/words/ep23/couch.mp3",
+        "ex_audio": "media/words/ep23/couch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "used",
+        "pos": "adj.",
+        "zh": "二手的；用过的",
+        "ex": "She bought a used couch online.",
+        "exzh": "她在网上买了一张二手沙发。",
+        "ipa": "/juzd/",
+        "audio": "media/words/ep23/used.mp3",
+        "ex_audio": "media/words/ep23/used_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cushion",
+        "pos": "n.",
+        "zh": "坐垫；靠垫",
+        "ex": "She found money inside the cushions.",
+        "exzh": "她在坐垫里发现了钱。",
+        "ipa": "/ˈkʊʃən/",
+        "audio": "media/words/ep23/cushion.mp3",
+        "ex_audio": "media/words/ep23/cushion_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "thankful",
+        "pos": "adj.",
+        "zh": "感激的；感谢的",
+        "ex": "The thankful sellers called the radio station.",
+        "exzh": "心怀感激的卖家给电台打了电话。",
+        "ipa": "/ˈθæŋkfəl/",
+        "audio": "media/words/ep23/thankful.mp3",
+        "ex_audio": "media/words/ep23/thankful_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "publicity",
+        "pos": "n.",
+        "zh": "宣传；曝光；知名度",
+        "ex": "The story generated free publicity for her concert.",
+        "exzh": "这个故事给她的音乐会带来了免费宣传。",
+        "ipa": "/pəˈblɪsəti/",
+        "audio": "media/words/ep23/publicity.mp3",
+        "ex_audio": "media/words/ep23/publicity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recital",
+        "pos": "n.",
+        "zh": "独奏会；独唱会",
+        "ex": "Her piano recital is on Friday.",
+        "exzh": "她的钢琴独奏会在周五。",
+        "ipa": "/rəˈsaɪtəl/",
+        "audio": "media/words/ep23/recital.mp3",
+        "ex_audio": "media/words/ep23/recital_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "talented",
+        "pos": "adj.",
+        "zh": "有才华的；有天赋的",
+        "ex": "She is a talented pianist.",
+        "exzh": "她是一位很有才华的钢琴家。",
+        "ipa": "/ˈtæləntɪd/",
+        "audio": "media/words/ep23/talented.mp3",
+        "ex_audio": "media/words/ep23/talented_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reconnect",
+        "pos": "v.",
+        "zh": "重新联系；重新连接",
+        "ex": "She reconnected with an old friend.",
+        "exzh": "她和一位老朋友重新联系上了。",
+        "ipa": "/rikəˈnɛkt/",
+        "audio": "media/words/ep23/reconnect.mp3",
+        "ex_audio": "media/words/ep23/reconnect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lagging",
+        "pos": "adj.",
+        "zh": "下滑的；落后的",
+        "ex": "The company is responding to lagging sales.",
+        "exzh": "公司正在应对销量下滑。",
+        "ipa": "/ˈlæɡɪŋ/",
+        "audio": "media/words/ep23/lagging.mp3",
+        "ex_audio": "media/words/ep23/lagging_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "heavy-duty",
+        "pos": "adj.",
+        "zh": "结实耐用的；重型的",
+        "ex": "The brand is known for heavy-duty suitcases.",
+        "exzh": "这个品牌以结实的行李箱出名。",
+        "ipa": "/ˈhɛvi-ˈduti/",
+        "audio": "media/words/ep23/heavy-duty.mp3",
+        "ex_audio": "media/words/ep23/heavy-duty_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "briefcase",
+        "pos": "n.",
+        "zh": "公文包",
+        "ex": "The catalog features briefcases and shoulder bags.",
+        "exzh": "目录里主打公文包和单肩包。",
+        "ipa": "/ˈbrifˌkeɪs/",
+        "audio": "media/words/ep23/briefcase.mp3",
+        "ex_audio": "media/words/ep23/briefcase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dramatic",
+        "pos": "adj.",
+        "zh": "巨大的；戏剧性的",
+        "ex": "This marks a dramatic shift for the company.",
+        "exzh": "这对公司来说是一个巨大的转变。",
+        "ipa": "/drəˈmætɪk/",
+        "audio": "media/words/ep23/dramatic.mp3",
+        "ex_audio": "media/words/ep23/dramatic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "boast",
+        "pos": "v.",
+        "zh": "吹嘘；自夸；拥有",
+        "ex": "The ads boasted that one suitcase could hold everything.",
+        "exzh": "广告吹嘘一个箱子就能装下所有东西。",
+        "ipa": "/boʊst/",
+        "audio": "media/words/ep23/boast.mp3",
+        "ex_audio": "media/words/ep23/boast_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "oversized",
+        "pos": "adj.",
+        "zh": "超大的；特大号的",
+        "ex": "It no longer specializes in oversized luggage.",
+        "exzh": "它不再专做超大行李箱了。",
+        "ipa": "/ˈoʊvɚˌsaɪzd/",
+        "audio": "media/words/ep23/oversized.mp3",
+        "ex_audio": "media/words/ep23/oversized_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "evolving",
+        "pos": "adj.",
+        "zh": "不断变化的；发展中的",
+        "ex": "The change is due to evolving travel patterns.",
+        "exzh": "这个转变是因为旅行方式在变化。",
+        "ipa": "/ɪˈvɑlvɪŋ/",
+        "audio": "media/words/ep23/evolving.mp3",
+        "ex_audio": "media/words/ep23/evolving_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "simply put",
+        "pos": "adv.",
+        "zh": "简单来说",
+        "ex": "Simply put, people are taking more short trips.",
+        "exzh": "简单来说，人们的短途旅行变多了。",
+        "ipa": "/ˈsɪmpli pʊt/",
+        "audio": "media/words/ep23/simply-put.mp3",
+        "ex_audio": "media/words/ep23/simply-put_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take advantage of",
+        "pos": "v.",
+        "zh": "利用；趁…之机",
+        "ex": "They take advantage of cheaper flights.",
+        "exzh": "他们会利用更便宜的航班。",
+        "ipa": "/teɪk ædˈvæntɪdʒ əv/",
+        "audio": "media/words/ep23/take-advantage-of.mp3",
+        "ex_audio": "media/words/ep23/take-advantage-of_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "rare",
+        "pos": "adj.",
+        "zh": "少见的；稀有的",
+        "ex": "The two-week trip is becoming rarer.",
+        "exzh": "两周的旅行越来越少见了。",
+        "ipa": "/rɛr/",
+        "audio": "media/words/ep23/rare.mp3",
+        "ex_audio": "media/words/ep23/rare_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "depress",
+        "pos": "v.",
+        "zh": "压低；使减少；使沮丧",
+        "ex": "High fees could depress sales.",
+        "exzh": "高昂的费用可能会压低销量。",
+        "ipa": "/dɪˈprɛs/",
+        "audio": "media/words/ep23/depress.mp3",
+        "ex_audio": "media/words/ep23/depress_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "accessory",
+        "pos": "n.",
+        "zh": "配件；附件；饰品",
+        "ex": "The store sells travel accessories.",
+        "exzh": "这家店卖旅行配件。",
+        "ipa": "/ækˈsɛsɚi/",
+        "audio": "media/words/ep23/accessory.mp3",
+        "ex_audio": "media/words/ep23/accessory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "convenience",
+        "pos": "n.",
+        "zh": "方便；便利",
+        "ex": "Customers are motivated by convenience.",
+        "exzh": "顾客更看重方便。",
+        "ipa": "/kənˈvinjəns/",
+        "audio": "media/words/ep23/convenience.mp3",
+        "ex_audio": "media/words/ep23/convenience_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sleek",
+        "pos": "adj.",
+        "zh": "时尚流线型的；光滑的",
+        "ex": "The bag has a sleek, modern design.",
+        "exzh": "这款包设计时尚、现代。",
+        "ipa": "/slik/",
+        "audio": "media/words/ep23/sleek.mp3",
+        "ex_audio": "media/words/ep23/sleek_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "compartment",
+        "pos": "n.",
+        "zh": "隔层；隔间",
+        "ex": "The bag has many small compartments.",
+        "exzh": "这个包有很多小隔层。",
+        "ipa": "/kəmˈpɑrtmənt/",
+        "audio": "media/words/ep23/compartment.mp3",
+        "ex_audio": "media/words/ep23/compartment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lightweight",
+        "pos": "adj.",
+        "zh": "轻便的；重量轻的",
+        "ex": "People love that it is lightweight.",
+        "exzh": "人们喜欢它很轻。",
+        "ipa": "/ˈlaɪˈtweɪt/",
+        "audio": "media/words/ep23/lightweight.mp3",
+        "ex_audio": "media/words/ep23/lightweight_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ergonomic",
+        "pos": "adj.",
+        "zh": "符合人体工学的",
+        "ex": "It has an ergonomic shoulder strap.",
+        "exzh": "它有一条符合人体工学的肩带。",
+        "ipa": "/ˌɝɡəˈnɑmɪk/",
+        "audio": "media/words/ep23/ergonomic.mp3",
+        "ex_audio": "media/words/ep23/ergonomic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "founding",
+        "pos": "n.",
+        "zh": "创立；成立",
+        "ex": "The company has grown since its founding.",
+        "exzh": "公司自创立以来发展了很多。",
+        "ipa": "/ˈfaʊndɪŋ/",
+        "audio": "media/words/ep23/founding.mp3",
+        "ex_audio": "media/words/ep23/founding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "press release",
+        "pos": "n.",
+        "zh": "新闻稿",
+        "ex": "The department will issue a press release.",
+        "exzh": "该部门会发布新闻稿。",
+        "ipa": "/prɛs riˈlis/",
+        "audio": "media/words/ep23/press-release.mp3",
+        "ex_audio": "media/words/ep23/press-release_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "publication",
+        "pos": "n.",
+        "zh": "刊物；出版物；出版",
+        "ex": "We sent the news to industry publications.",
+        "exzh": "我们把消息发给了行业刊物。",
+        "ipa": "/ˌpʌblɪˈkeɪʃən/",
+        "audio": "media/words/ep23/publication.mp3",
+        "ex_audio": "media/words/ep23/publication_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "extension",
+        "pos": "n.",
+        "zh": "分机号；延期；扩展",
+        "ex": "Your telephone extension will remain the same.",
+        "exzh": "你的电话分机号保持不变。",
+        "ipa": "/ɪkˈstɛnʃən/",
+        "audio": "media/words/ep23/extension.mp3",
+        "ex_audio": "media/words/ep23/extension_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "facilitate",
+        "pos": "v.",
+        "zh": "促进；使便利",
+        "ex": "Weekly meetings will facilitate the move.",
+        "exzh": "每周的会议会让搬迁更顺利。",
+        "ipa": "/fəˈsɪləˌteɪt/",
+        "audio": "media/words/ep23/facilitate.mp3",
+        "ex_audio": "media/words/ep23/facilitate_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "undertaking",
+        "pos": "n.",
+        "zh": "任务；工程；事业",
+        "ex": "Moving the office is a big undertaking.",
+        "exzh": "搬办公室是一项大工程。",
+        "ipa": "/ˈʌndɚˌteɪkɪŋ/",
+        "audio": "media/words/ep23/undertaking.mp3",
+        "ex_audio": "media/words/ep23/undertaking_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "confidential",
+        "pos": "adj.",
+        "zh": "机密的；保密的",
+        "ex": "Take your confidential materials with you.",
+        "exzh": "请随身带走你的机密资料。",
+        "ipa": "/ˌkɑnfəˈdɛnʃəl/",
+        "audio": "media/words/ep23/confidential.mp3",
+        "ex_audio": "media/words/ep23/confidential_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "late notice",
+        "pos": "n.",
+        "zh": "临时通知",
+        "ex": "Sorry for the late notice.",
+        "exzh": "抱歉这么晚才通知。",
+        "ipa": "/leɪt ˈnoʊtəs/",
+        "audio": "media/words/ep23/late-notice.mp3",
+        "ex_audio": "media/words/ep23/late-notice_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "land",
+        "pos": "v./n.",
+        "zh": "成功拿下；着陆；土地",
+        "ex": "He landed a big new account.",
+        "exzh": "他拿下了一个大客户。",
+        "ipa": "/lænd/",
+        "audio": "media/words/ep23/land.mp3",
+        "ex_audio": "media/words/ep23/land_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "formally",
+        "pos": "adv.",
+        "zh": "正式地",
+        "ex": "It will be formally announced this afternoon.",
+        "exzh": "今天下午会正式宣布。",
+        "ipa": "/ˈfɔrməli/",
+        "audio": "media/words/ep23/formally.mp3",
+        "ex_audio": "media/words/ep23/formally_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "persuade",
+        "pos": "v.",
+        "zh": "说服；劝说",
+        "ex": "We tried for years to persuade them.",
+        "exzh": "我们多年来一直在努力说服他们。",
+        "ipa": "/pɚˈsweɪd/",
+        "audio": "media/words/ep23/persuade.mp3",
+        "ex_audio": "media/words/ep23/persuade_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "recruitment",
+        "pos": "n.",
+        "zh": "招募；争取；招聘",
+        "ex": "The party celebrates his recruitment of a new client.",
+        "exzh": "这个派对是庆祝他争取到了新客户。",
+        "ipa": "/rəˈkrutmənt/",
+        "audio": "media/words/ep23/recruitment.mp3",
+        "ex_audio": "media/words/ep23/recruitment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "streamer",
+        "pos": "n.",
+        "zh": "彩带；横幅",
+        "ex": "We have balloons and streamers for the party.",
+        "exzh": "我们有派对用的气球和彩带。",
+        "ipa": "/ˈstrimɚ/",
+        "audio": "media/words/ep23/streamer.mp3",
+        "ex_audio": "media/words/ep23/streamer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "left over",
+        "pos": "adj.",
+        "zh": "剩下的；剩余的",
+        "ex": "There are some decorations left over from last month.",
+        "exzh": "上个月还剩了一些装饰品。",
+        "ipa": "/lɛft ˈoʊvɚ/",
+        "audio": "media/words/ep23/left-over.mp3",
+        "ex_audio": "media/words/ep23/left-over_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "grab",
+        "pos": "v.",
+        "zh": "拿；抓；匆匆拿走",
+        "ex": "I'll grab them from the closet.",
+        "exzh": "我去柜子里把它们拿来。",
+        "ipa": "/ɡræb/",
+        "audio": "media/words/ep23/grab.mp3",
+        "ex_audio": "media/words/ep23/grab_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 22,
     "theme": "真题精讲 · Test 2 第六篇",
     "date": "2026-10-14",
