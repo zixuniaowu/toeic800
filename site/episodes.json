@@ -1,5 +1,410 @@
 [
   {
+    "number": 18,
+    "theme": "真题精讲 · Test 2 第二篇",
+    "date": "2026-10-14",
+    "duration_sec": 3222.1,
+    "segments": [
+      {
+        "title": "1. Part 2 应答题 11 道",
+        "start": 0.0,
+        "length": 639.71
+      },
+      {
+        "title": "2. Part 3 逐句精听",
+        "start": 639.71,
+        "length": 1022.96
+      },
+      {
+        "title": "3. Part 5 语法真题 8 题",
+        "start": 1662.67,
+        "length": 484.74
+      },
+      {
+        "title": "4. Part 7 阅读真题 1 篇",
+        "start": 2147.4,
+        "length": 256.44
+      },
+      {
+        "title": "5. 本期 48 词总复习 · 拼读",
+        "start": 2403.84,
+        "length": 818.24
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "misunderstanding",
+        "zh": "误会；误解"
+      },
+      {
+        "word": "rearrange",
+        "zh": "重新安排；调整"
+      },
+      {
+        "word": "harsh",
+        "zh": "强烈的；严酷的；严厉的"
+      },
+      {
+        "word": "extraordinary",
+        "zh": "非凡的；特别的；非同寻常的"
+      },
+      {
+        "word": "in a row",
+        "zh": "连续地；一连"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "retirement",
+        "zh": "退休"
+      },
+      {
+        "word": "dental",
+        "zh": "牙齿的；牙科的"
+      },
+      {
+        "word": "mobile application",
+        "zh": "手机应用；移动应用程序"
+      },
+      {
+        "word": "seating",
+        "zh": "座位；座席"
+      },
+      {
+        "word": "intersection",
+        "zh": "十字路口；交叉口"
+      },
+      {
+        "word": "executive director",
+        "zh": "执行董事；执行主任"
+      },
+      {
+        "word": "wing",
+        "zh": "；建筑的；侧楼；翼"
+      },
+      {
+        "word": "car service",
+        "zh": "专车服务；包车服务"
+      },
+      {
+        "word": "revise",
+        "zh": "修改；修订"
+      },
+      {
+        "word": "in time for",
+        "zh": "及时赶上；在…之前来得及"
+      },
+      {
+        "word": "product launch",
+        "zh": "产品发布；新品上市"
+      },
+      {
+        "word": "recycling",
+        "zh": "回收物；回收利用"
+      },
+      {
+        "word": "impressive",
+        "zh": "令人印象深刻的；出色的"
+      },
+      {
+        "word": "reception area",
+        "zh": "接待区；前台大厅"
+      },
+      {
+        "word": "rearrange",
+        "zh": "重新安排；调整"
+      },
+      {
+        "word": "misunderstanding",
+        "zh": "误会；误解"
+      },
+      {
+        "word": "work order",
+        "zh": "工作单；维修单"
+      },
+      {
+        "word": "leasing office",
+        "zh": "租赁办公室；物业办公室"
+      },
+      {
+        "word": "access",
+        "zh": "进入；使用；通道"
+      },
+      {
+        "word": "patio",
+        "zh": "露台；院子"
+      },
+      {
+        "word": "sign for",
+        "zh": "签收"
+      },
+      {
+        "word": "property management",
+        "zh": "物业管理；房产管理"
+      },
+      {
+        "word": "exterior",
+        "zh": "外部；外观；外部的"
+      },
+      {
+        "word": "siding",
+        "zh": "；房屋的；护墙板；外墙板"
+      },
+      {
+        "word": "harsh",
+        "zh": "强烈的；严酷的；严厉的"
+      },
+      {
+        "word": "reseal",
+        "zh": "重新密封；重新涂保护层"
+      },
+      {
+        "word": "inexpensive",
+        "zh": "便宜的；不贵的"
+      },
+      {
+        "word": "vinyl",
+        "zh": "乙烯基；塑料"
+      },
+      {
+        "word": "renovate",
+        "zh": "翻新；整修"
+      },
+      {
+        "word": "guidelines",
+        "zh": "指南；须知；准则"
+      },
+      {
+        "word": "cover letter",
+        "zh": "求职信；附信"
+      },
+      {
+        "word": "tight",
+        "zh": "紧张的；紧的"
+      },
+      {
+        "word": "coordinator",
+        "zh": "协调人；统筹者"
+      },
+      {
+        "word": "take steps",
+        "zh": "采取措施"
+      },
+      {
+        "word": "extraordinary",
+        "zh": "非凡的；特别的；非同寻常的"
+      },
+      {
+        "word": "confident",
+        "zh": "确信的；有信心的"
+      },
+      {
+        "word": "brand awareness",
+        "zh": "品牌知名度"
+      },
+      {
+        "word": "evenly",
+        "zh": "平均地；均匀地"
+      },
+      {
+        "word": "meet demand",
+        "zh": "满足需求"
+      },
+      {
+        "word": "track",
+        "zh": "追踪；记录"
+      },
+      {
+        "word": "recharge",
+        "zh": "充电；再充电"
+      },
+      {
+        "word": "ranking",
+        "zh": "排名；名次"
+      },
+      {
+        "word": "cash back",
+        "zh": "现金返还；返现"
+      },
+      {
+        "word": "in a row",
+        "zh": "连续地；一连"
+      },
+      {
+        "word": "cardholder",
+        "zh": "持卡人"
+      },
+      {
+        "word": "annual fee",
+        "zh": "年费"
+      },
+      {
+        "word": "light rail",
+        "zh": "轻轨"
+      },
+      {
+        "word": "up to",
+        "zh": "最多；高达；直到"
+      }
+    ],
+    "video": "media/ep18.mp4",
+    "script_pdf": "media/ep18_script.pdf",
+    "source_video": "ep18.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep18.html",
+        "video": "media/ep18.mp4",
+        "script_pdf": "media/ep18_script.pdf",
+        "duration_sec": 3222.1,
+        "theme": "真题精讲 · Test 2 第二篇",
+        "segments": [
+          {
+            "title": "1. Part 2 应答题 11 道",
+            "start": 0.0,
+            "length": 639.71
+          },
+          {
+            "title": "2. Part 3 逐句精听",
+            "start": 639.71,
+            "length": 1022.96
+          },
+          {
+            "title": "3. Part 5 语法真题 8 题",
+            "start": 1662.67,
+            "length": 484.74
+          },
+          {
+            "title": "4. Part 7 阅读真题 1 篇",
+            "start": 2147.4,
+            "length": 256.44
+          },
+          {
+            "title": "5. 本期 48 词总复习 · 拼读",
+            "start": 2403.84,
+            "length": 818.24
+          }
+        ]
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep18ja.html",
+        "video": "media/ep18ja.mp4",
+        "script_pdf": "media/ep18ja_script.pdf",
+        "duration_sec": 3745.9,
+        "theme": "本番問題精講 · Test 2 第2回",
+        "segments": [
+          {
+            "title": "1. Part 2 応答問題 11問",
+            "start": 0.0,
+            "length": 755.46
+          },
+          {
+            "title": "2. Part 3 1文ずつ精聴",
+            "start": 755.46,
+            "length": 1253.79
+          },
+          {
+            "title": "3. Part 5 文法問題 8問",
+            "start": 2009.25,
+            "length": 582.94
+          },
+          {
+            "title": "4. Part 7 読解の本番問題 1本",
+            "start": 2592.2,
+            "length": 307.03
+          },
+          {
+            "title": "5. 今回の 48 語総復習 · スペル",
+            "start": 2899.22,
+            "length": 846.66
+          }
+        ],
+        "poster": "media/ep18ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "misunderstanding",
+            "ja": "誤解；行き違い",
+            "zh": "誤解；行き違い"
+          },
+          {
+            "word": "rearrange",
+            "ja": "再調整する；並べ替える",
+            "zh": "再調整する；並べ替える"
+          },
+          {
+            "word": "harsh",
+            "ja": "厳しい；強烈な",
+            "zh": "厳しい；強烈な"
+          },
+          {
+            "word": "extraordinary",
+            "ja": "並外れた；特別な",
+            "zh": "並外れた；特別な"
+          },
+          {
+            "word": "in a row",
+            "ja": "連続で",
+            "zh": "連続で"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "retirement",
+          "dental",
+          "mobile application",
+          "seating",
+          "intersection",
+          "executive director",
+          "wing",
+          "car service",
+          "revise",
+          "in time for",
+          "product launch",
+          "recycling",
+          "impressive",
+          "reception area",
+          "rearrange",
+          "misunderstanding",
+          "work order",
+          "leasing office",
+          "access",
+          "patio",
+          "sign for",
+          "property management",
+          "exterior",
+          "siding",
+          "harsh",
+          "reseal",
+          "inexpensive",
+          "vinyl",
+          "renovate",
+          "guidelines",
+          "cover letter",
+          "tight",
+          "coordinator",
+          "take steps",
+          "extraordinary",
+          "confident",
+          "brand awareness",
+          "evenly",
+          "meet demand",
+          "track",
+          "recharge",
+          "ranking",
+          "cash back",
+          "in a row",
+          "cardholder",
+          "annual fee",
+          "light rail",
+          "up to"
+        ]
+      }
+    },
+    "poster": "media/ep18_cover.png",
+    "theme_ja": "本番問題精講 · Test 2 第2回"
+  },
+  {
     "number": 17,
     "theme": "真题精讲 · Test 2 起步",
     "date": "2026-10-14",
