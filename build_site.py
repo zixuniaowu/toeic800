@@ -107,6 +107,8 @@ def find_episodes(src):
         if not m:
             continue
         n = int(m.group(1))
+        if str(n) in os.environ.get("TOEIC_SKIP_EPS", "").split(","):
+            continue
         lang = "ja" if m.group(2) else "zh"
         video = None
         if lang == "zh":
