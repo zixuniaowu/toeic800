@@ -24,3 +24,16 @@ Visitor counter: https://visitor-badge.laobi.icu (no signup), page_id `toeic800-
 
 ## Japanese pages (aligned, ep8+)
 `epNja.html` is rendered from the same rows as `epN.html` (`words.ja_rows`): same word list, IPA, POS, MP3s, examples, tags; only gloss / example translation come from `epNja_content.py`, which is itself derived 1:1 from `epN_content.py` via `/workspace/toeic_podcast/ja_aligned.py`. Highlight words use `word — gloss` on both languages.
+
+## Video hosting (since Test 3)
+
+GitHub Pages has a 1 GB published-site limit, so MP4s are **not** stored in `site/media/`.
+`build_site.py` copies each `epN.mp4` / `epNja.mp4` (faststart) into `.release_media/` (git-ignored)
+and uploads new or changed files with `gh release upload --clobber` to the GitHub Release
+`media-v1` of this repo (`release_assets.json` tracks what is uploaded). Episode pages point their
+`<video src>` and download links at
+`https://github.com/zixuniaowu/toeic800/releases/download/media-v1/epN.mp4`.
+Any `*.mp4` left in `site/media/` is deleted on build. PDFs, covers and word MP3s stay on Pages.
+Requirements: `gh` logged in with push access. Set `TOEIC_NO_UPLOAD=1` to build without uploading.
+Release asset limit is 2 GB per file; if a release ever nears GitHub's limits, start `media-v2`
+via `TOEIC_RELEASE_TAG` (the next build re-uploads every MP4 to the new tag and re-points all pages).

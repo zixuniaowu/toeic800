@@ -27,6 +27,46 @@ import words as W  # noqa: E402
 ROOT = Path(__file__).resolve().parent
 SITE = ROOT / "site"
 MEDIA = SITE / "media"
+# MP4s are NOT published on Pages (1 GB site limit). They are hosted as assets of a
+# GitHub Release (RELEASE_TAG) and the pages link to the release download URLs.
+# Staged (faststart) copies live in RELEASE_STAGE (git-ignored); release_assets.json
+# records the uploaded size of each asset so only new/changed files are uploaded.
+RELEASE_REPO = os.environ.get("TOEIC_RELEASE_REPO", "zixuniaowu/toeic800")
+RELEASE_TAG = os.environ.get("TOEIC_RELEASE_TAG", "media-v1")
+RELEASE_BASE = f"https://github.com/{RELEASE_REPO}/releases/download/{RELEASE_TAG}/"
+RELEASE_STAGE = ROOT / ".release_media"
+RELEASE_MANIFEST = ROOT / "release_assets.json"
+_UPLOADS = []
+
+
+def vurl(name):
+    return RELEASE_BASE + name
+
+
+def stage_video(a, name):
+    """Faststart copy into the release staging dir; queue upload if new/changed."""
+    RELEASE_STAGE.mkdir(exist_ok=True)
+    b = RELEASE_STAGE / name
+    copy_video(a, b)
+    man = json.loads(RELEASE_MANIFEST.read_text()) if RELEASE_MANIFEST.exists() else {}
+    if man.get(name) != b.stat().st_size:
+        _UPLOADS.append(b)
+
+
+def upload_release_assets():
+    """Upload queued MP4s to the release with the gh CLI (creates the release if needed)."""
+    if not _UPLOADS or os.environ.get("TOEIC_NO_UPLOAD"):
+        return
+    r = subprocess.run(["gh", "release", "view", RELEASE_TAG, "-R", RELEASE_REPO], capture_output=True)
+    if r.returncode != 0:
+        subprocess.run(["gh", "release", "create", RELEASE_TAG, "-R", RELEASE_REPO, "--title", "Episode videos",
+                        "--notes", "MP4 files for the TOEIC 800 site (linked from the episode pages)."], check=True)
+    man = json.loads(RELEASE_MANIFEST.read_text()) if RELEASE_MANIFEST.exists() else {}
+    for b in _UPLOADS:
+        subprocess.run(["gh", "release", "upload", RELEASE_TAG, str(b), "--clobber", "-R", RELEASE_REPO], check=True)
+        man[b.name] = b.stat().st_size
+        RELEASE_MANIFEST.write_text(json.dumps(man, indent=1, sort_keys=True))
+        print("uploaded", b.name)
 SITE_TITLE = "TOEIC 800 冲刺 · 边听边学"
 TAGLINE = "每天一期、约 40 分钟的免费 TOEIC 听力课，英文原声 + 中文讲解，单词带逐字母拼读，专为 550→800 分的同学设计。边干活、边通勤就能听。"
 COUNTER_PAGE_ID = "toeic800-listen"
@@ -200,14 +240,14 @@ def build_metadata(src):
             "segments": segs,
             "highlight_words": hl,
             "review_words": info.get("review_words", []),
-            "video": f"media/ep{n}.mp4",
+            "video": vurl(f"ep{n}.mp4"),
             "script_pdf": f"media/ep{n}_script.pdf",
             "source_video": video.name,
             "languages": {},
         }
         # copy primary (zh naming)
         if primary_lang == "zh":
-            copy_video(video, MEDIA / f"ep{n}.mp4")
+            stage_video(video, f"ep{n}.mp4")
             copy_if_changed(pdf, MEDIA / f"ep{n}_script.pdf")
             cover = src / f"ep{n}_cover.png"
             if cover.exists():
@@ -216,7 +256,7 @@ def build_metadata(src):
             ep["languages"]["zh"] = {
                 "label": "中文版",
                 "page": f"ep{n}.html",
-                "video": f"media/ep{n}.mp4",
+                "video": vurl(f"ep{n}.mp4"),
                 "script_pdf": f"media/ep{n}_script.pdf",
                 "duration_sec": round(dur, 1),
                 "theme": ep["theme"],
@@ -234,7 +274,7 @@ def build_metadata(src):
                 jinfo["segments"] = [{"title": t, "start": round(s, 2), "length": round(l, 2)} for t, s, l in jmeta["stamps"]]
             jsegs = jinfo.get("segments") or []
             jdur = (jsegs[-1]["start"] + jsegs[-1]["length"]) if jsegs else (jmeta.get("duration_sec") or ffprobe_duration(jv) or 0)
-            copy_video(jv, MEDIA / f"ep{n}ja.mp4")
+            stage_video(jv, f"ep{n}ja.mp4")
             copy_if_changed(jpdf, MEDIA / f"ep{n}ja_script.pdf")
             jcover = src / f"ep{n}ja_cover.png"
             if jcover.exists():
@@ -242,7 +282,7 @@ def build_metadata(src):
             ep["languages"]["ja"] = {
                 "label": "日本語版",
                 "page": f"ep{n}ja.html",
-                "video": f"media/ep{n}ja.mp4",
+                "video": vurl(f"ep{n}ja.mp4"),
                 "script_pdf": f"media/ep{n}ja_script.pdf",
                 "duration_sec": round(jdur, 1),
                 "theme": jinfo.get("theme") or jmeta.get("theme") or ep["theme"],
@@ -255,7 +295,7 @@ def build_metadata(src):
             ep["theme_ja"] = ep["languages"]["ja"]["theme"]
             if primary_lang == "ja":
                 # no zh — promote ja fields to top-level video paths still use epNja
-                ep["video"] = f"media/ep{n}ja.mp4"
+                ep["video"] = vurl(f"ep{n}ja.mp4")
                 ep["script_pdf"] = f"media/ep{n}ja_script.pdf"
                 ep["duration_sec"] = round(jdur, 1)
                 ep["segments"] = jsegs
@@ -670,6 +710,8 @@ def check_sizes():
             if p.stat().st_size >= MAX_BYTES:
                 big.append(p)
     print(f"site total: {total/1024/1024:.1f} MB")
+    if total > 900 * 1024 * 1024:
+        print("WARNING: site is near the 1 GB GitHub Pages limit")
     for p in big:
         print(f"WARNING: {p} is >= 100 MB (GitHub limit)")
     return not big
@@ -684,6 +726,9 @@ if __name__ == "__main__":
         eps = json.loads((ROOT / "episodes.json").read_text("utf-8"))
     else:
         eps = build_metadata(Path(a.src))
+        upload_release_assets()
+    for old_mp4 in MEDIA.glob("*.mp4"):  # videos live on the release, never on Pages
+        old_mp4.unlink()
     render(eps)
     for e in eps:
         print(f"ep{e['number']}: {e['theme']} | {mmss(e['duration_sec'])} | {e['date']} | "
