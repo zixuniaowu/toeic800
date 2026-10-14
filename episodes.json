@@ -1,5 +1,1359 @@
 [
   {
+    "number": 31,
+    "theme": "真题精讲 · Test 3 第六篇",
+    "date": "2026-10-14",
+    "duration_sec": 3231.9,
+    "segments": [
+      {
+        "title": "1. Part 3 图表题 + Part 4 逐句精听",
+        "start": 0.0,
+        "length": 1492.88
+      },
+      {
+        "title": "2. Part 7 阅读",
+        "start": 1492.88,
+        "length": 999.53
+      },
+      {
+        "title": "3. 本期 42 词总复习 · 拼读",
+        "start": 2492.41,
+        "length": 739.47
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "contribute",
+        "zh": "出钱；贡献；投稿"
+      },
+      {
+        "word": "duration",
+        "zh": "持续时间；期限"
+      },
+      {
+        "word": "on loan",
+        "zh": "借来的；出借中"
+      },
+      {
+        "word": "oversee",
+        "zh": "监管；监督"
+      },
+      {
+        "word": "in a timely manner",
+        "zh": "及时地"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "retirement party",
+        "zh": "退休派对"
+      },
+      {
+        "word": "dessert",
+        "zh": "甜点"
+      },
+      {
+        "word": "contribute",
+        "zh": "出钱；贡献；投稿"
+      },
+      {
+        "word": "return flight",
+        "zh": "回程航班"
+      },
+      {
+        "word": "fee",
+        "zh": "费用；手续费"
+      },
+      {
+        "word": "transportation",
+        "zh": "交通工具；运输"
+      },
+      {
+        "word": "courtesy shuttle",
+        "zh": "免费接驳车"
+      },
+      {
+        "word": "tip",
+        "zh": "提示；建议；小费"
+      },
+      {
+        "word": "rewards program",
+        "zh": "积分奖励计划"
+      },
+      {
+        "word": "impressed",
+        "zh": "印象深刻的；钦佩的"
+      },
+      {
+        "word": "duration",
+        "zh": "持续时间；期限"
+      },
+      {
+        "word": "tenant",
+        "zh": "租户；房客"
+      },
+      {
+        "word": "move-in date",
+        "zh": "入住日期"
+      },
+      {
+        "word": "maintenance request",
+        "zh": "维修申请"
+      },
+      {
+        "word": "windowsill",
+        "zh": "窗台"
+      },
+      {
+        "word": "repaint",
+        "zh": "重新粉刷"
+      },
+      {
+        "word": "parking space",
+        "zh": "车位"
+      },
+      {
+        "word": "carve",
+        "zh": "雕刻；切；肉"
+      },
+      {
+        "word": "carving",
+        "zh": "雕刻品；雕刻"
+      },
+      {
+        "word": "on loan",
+        "zh": "借来的；出借中"
+      },
+      {
+        "word": "woven",
+        "zh": "编织的"
+      },
+      {
+        "word": "infrastructure",
+        "zh": "基础设施"
+      },
+      {
+        "word": "optimise",
+        "zh": "优化；英式拼写"
+      },
+      {
+        "word": "supervise",
+        "zh": "监督；管理"
+      },
+      {
+        "word": "oversee",
+        "zh": "监管；监督"
+      },
+      {
+        "word": "end-user",
+        "zh": "最终用户"
+      },
+      {
+        "word": "in a timely manner",
+        "zh": "及时地"
+      },
+      {
+        "word": "qualification",
+        "zh": "资格；资历"
+      },
+      {
+        "word": "relevant",
+        "zh": "相关的；有关的"
+      },
+      {
+        "word": "security clearance",
+        "zh": "安全许可；保密许可"
+      },
+      {
+        "word": "peer mentor",
+        "zh": "同伴导师"
+      },
+      {
+        "word": "new hire",
+        "zh": "新员工"
+      },
+      {
+        "word": "point of contact",
+        "zh": "联络人；联系窗口"
+      },
+      {
+        "word": "outline",
+        "zh": "概述；提纲；轮廓"
+      },
+      {
+        "word": "firsthand",
+        "zh": "第一手的；亲身的"
+      },
+      {
+        "word": "disconnected",
+        "zh": "停机的；断开的"
+      },
+      {
+        "word": "reliable",
+        "zh": "可靠的"
+      },
+      {
+        "word": "kick up",
+        "zh": "扬起；激起"
+      },
+      {
+        "word": "excessive",
+        "zh": "过度的；过多的"
+      },
+      {
+        "word": "disclose",
+        "zh": "透露；公开"
+      },
+      {
+        "word": "head of maintenance",
+        "zh": "维修主管"
+      },
+      {
+        "word": "get in touch",
+        "zh": "联系；取得联系"
+      }
+    ],
+    "video": "https://github.com/zixuniaowu/toeic800/releases/download/media-v1/ep31.mp4",
+    "script_pdf": "media/ep31_script.pdf",
+    "source_video": "ep31.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep31.html",
+        "video": "https://github.com/zixuniaowu/toeic800/releases/download/media-v1/ep31.mp4",
+        "script_pdf": "media/ep31_script.pdf",
+        "duration_sec": 3231.9,
+        "theme": "真题精讲 · Test 3 第六篇",
+        "segments": [
+          {
+            "title": "1. Part 3 图表题 + Part 4 逐句精听",
+            "start": 0.0,
+            "length": 1492.88
+          },
+          {
+            "title": "2. Part 7 阅读",
+            "start": 1492.88,
+            "length": 999.53
+          },
+          {
+            "title": "3. 本期 42 词总复习 · 拼读",
+            "start": 2492.41,
+            "length": 739.47
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep31ja.html",
+        "video": "https://github.com/zixuniaowu/toeic800/releases/download/media-v1/ep31ja.mp4",
+        "script_pdf": "media/ep31ja_script.pdf",
+        "duration_sec": 3763.1,
+        "theme": "本番問題精講 · Test 3 第6回",
+        "segments": [
+          {
+            "title": "1. Part 3 図表問題 ＋ Part 4 1文ずつ精聴",
+            "start": 0.0,
+            "length": 1807.09
+          },
+          {
+            "title": "2. Part 7 読解",
+            "start": 1807.09,
+            "length": 1169.83
+          },
+          {
+            "title": "3. 今回の 42 語総復習 · スペル",
+            "start": 2976.93,
+            "length": 786.2
+          }
+        ],
+        "poster": "media/ep31ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "contribute",
+            "zh": "お金を出す；貢献する；寄稿する"
+          },
+          {
+            "word": "duration",
+            "zh": "期間；継続時間"
+          },
+          {
+            "word": "on loan",
+            "zh": "貸し出し中で；借りて"
+          },
+          {
+            "word": "oversee",
+            "zh": "監督する；統括する"
+          },
+          {
+            "word": "in a timely manner",
+            "zh": "適時に；速やかに"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "retirement party",
+          "dessert",
+          "contribute",
+          "return flight",
+          "fee",
+          "transportation",
+          "courtesy shuttle",
+          "tip",
+          "rewards program",
+          "impressed",
+          "duration",
+          "tenant",
+          "move-in date",
+          "maintenance request",
+          "windowsill",
+          "repaint",
+          "parking space",
+          "carve",
+          "carving",
+          "on loan",
+          "woven",
+          "infrastructure",
+          "optimise",
+          "supervise",
+          "oversee",
+          "end-user",
+          "in a timely manner",
+          "qualification",
+          "relevant",
+          "security clearance",
+          "peer mentor",
+          "new hire",
+          "point of contact",
+          "outline",
+          "firsthand",
+          "disconnected",
+          "reliable",
+          "kick up",
+          "excessive",
+          "disclose",
+          "head of maintenance",
+          "get in touch"
+        ],
+        "words": [
+          {
+            "word": "retirement party",
+            "pos": "n.",
+            "zh": "退職パーティー",
+            "ex": "I'll bring a dessert to Jin-Ah's retirement party.",
+            "exzh": "Jin-Ah さんの退職パーティーにデザートを持っていく。",
+            "ipa": "/riˈtaɪɚmənt ˈpɑrti/",
+            "audio": "media/words/ep31/retirement-party.mp3",
+            "ex_audio": "media/words/ep31/retirement-party_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dessert",
+            "pos": "n.",
+            "zh": "デザート",
+            "ex": "I was thinking of getting a dessert.",
+            "exzh": "デザートを買おうと思っていた。",
+            "ipa": "/dɪˈzɝt/",
+            "audio": "media/words/ep31/dessert.mp3",
+            "ex_audio": "media/words/ep31/dessert_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contribute",
+            "pos": "v.",
+            "zh": "お金を出す；貢献する；寄稿する",
+            "ex": "She offered to contribute some money.",
+            "exzh": "彼女はお金を少し出すと申し出た。",
+            "ipa": "/kənˈtrɪbjut/",
+            "audio": "media/words/ep31/contribute.mp3",
+            "ex_audio": "media/words/ep31/contribute_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "return flight",
+            "pos": "n.",
+            "zh": "帰りの便；復路便",
+            "ex": "I'd like to change my return flight.",
+            "exzh": "帰りの便を変更したい。",
+            "ipa": "/rɪˈtɝn flaɪt/",
+            "audio": "media/words/ep31/return-flight.mp3",
+            "ex_audio": "media/words/ep31/return-flight_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fee",
+            "pos": "n.",
+            "zh": "料金；手数料",
+            "ex": "There's a fee of 100 dollars for the change.",
+            "exzh": "変更には100ドルの手数料がかかる。",
+            "ipa": "/fi/",
+            "audio": "media/words/ep31/fee.mp3",
+            "ex_audio": "media/words/ep31/fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "transportation",
+            "pos": "n.",
+            "zh": "交通手段；輸送",
+            "ex": "Do you need transportation into the city?",
+            "exzh": "市内への交通手段が必要ですか。",
+            "ipa": "/ˌtrænspɚˈteɪʃən/",
+            "audio": "media/words/ep31/transportation.mp3",
+            "ex_audio": "media/words/ep31/transportation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "courtesy shuttle",
+            "pos": "n.",
+            "zh": "無料送迎シャトル",
+            "ex": "I'll take the hotel's courtesy shuttle.",
+            "exzh": "ホテルの無料シャトルに乗る。",
+            "ipa": "/ˈkɝtəsi ˈʃʌtəl/",
+            "audio": "media/words/ep31/courtesy-shuttle.mp3",
+            "ex_audio": "media/words/ep31/courtesy-shuttle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tip",
+            "pos": "n./v.",
+            "zh": "助言；ヒント；チップ",
+            "ex": "Thanks for the tip!",
+            "exzh": "教えてくれてありがとう！",
+            "ipa": "/tɪp/",
+            "audio": "media/words/ep31/tip.mp3",
+            "ex_audio": "media/words/ep31/tip_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rewards program",
+            "pos": "n.",
+            "zh": "ポイント特典プログラム",
+            "ex": "He enrolled in the airline's rewards program.",
+            "exzh": "彼は航空会社の特典プログラムに登録した。",
+            "ipa": "/rɪˈwɔrdz ˈproʊˌɡræm/",
+            "audio": "media/words/ep31/rewards-program.mp3",
+            "ex_audio": "media/words/ep31/rewards-program_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "impressed",
+            "pos": "adj.",
+            "zh": "感心した；感銘を受けた",
+            "ex": "I was really impressed with the big windows.",
+            "exzh": "大きな窓に本当に感心した。",
+            "ipa": "/ˌɪmˈprɛst/",
+            "audio": "media/words/ep31/impressed.mp3",
+            "ex_audio": "media/words/ep31/impressed_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "duration",
+            "pos": "n.",
+            "zh": "期間；継続時間",
+            "ex": "The rent depends on the duration of the lease.",
+            "exzh": "家賃は契約期間によって変わる。",
+            "ipa": "/ˈdʊˈreɪʃən/",
+            "audio": "media/words/ep31/duration.mp3",
+            "ex_audio": "media/words/ep31/duration_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "tenant",
+            "pos": "n.",
+            "zh": "入居者；借主；テナント",
+            "ex": "Most tenants choose the two-year lease.",
+            "exzh": "ほとんどの入居者は2年契約を選ぶ。",
+            "ipa": "/ˈtɛnənt/",
+            "audio": "media/words/ep31/tenant.mp3",
+            "ex_audio": "media/words/ep31/tenant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "move-in date",
+            "pos": "n.",
+            "zh": "入居日",
+            "ex": "Let me know your move-in date.",
+            "exzh": "入居日を知らせてください。",
+            "ipa": "/muv-ɪn deɪt/",
+            "audio": "media/words/ep31/move-in-date.mp3",
+            "ex_audio": "media/words/ep31/move-in-date_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "maintenance request",
+            "pos": "n.",
+            "zh": "修理依頼；メンテナンス依頼",
+            "ex": "I submitted a maintenance request last week.",
+            "exzh": "先週修理依頼を出した。",
+            "ipa": "/ˈmeɪntənəns rɪˈkwɛst/",
+            "audio": "media/words/ep31/maintenance-request.mp3",
+            "ex_audio": "media/words/ep31/maintenance-request_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "windowsill",
+            "pos": "n.",
+            "zh": "窓枠；窓台",
+            "ex": "The paint around my windowsill is peeling.",
+            "exzh": "窓枠の周りの塗装がはがれている。",
+            "ipa": "",
+            "audio": "media/words/ep31/windowsill.mp3",
+            "ex_audio": "media/words/ep31/windowsill_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "repaint",
+            "pos": "v.",
+            "zh": "塗り直す",
+            "ex": "It needs to be repainted.",
+            "exzh": "塗り直す必要がある。",
+            "ipa": "/riˈpeɪnt/",
+            "audio": "media/words/ep31/repaint.mp3",
+            "ex_audio": "media/words/ep31/repaint_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "parking space",
+            "pos": "n.",
+            "zh": "駐車スペース",
+            "ex": "I'd like to rent a parking space.",
+            "exzh": "駐車スペースを借りたい。",
+            "ipa": "/ˈpɑrkɪŋ speɪs/",
+            "audio": "media/words/ep31/parking-space.mp3",
+            "ex_audio": "media/words/ep31/parking-space_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "carve",
+            "pos": "v.",
+            "zh": "彫る；彫刻する；切り分ける",
+            "ex": "The portraits were carved out of tree trunks.",
+            "exzh": "その肖像は木の幹から彫られた。",
+            "ipa": "/kɑrv/",
+            "audio": "media/words/ep31/carve.mp3",
+            "ex_audio": "media/words/ep31/carve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "carving",
+            "pos": "n.",
+            "zh": "彫刻作品；彫刻",
+            "ex": "These carvings are on loan to us.",
+            "exzh": "これらの彫刻は借りているものだ。",
+            "ipa": "/ˈkɑrvɪŋ/",
+            "audio": "media/words/ep31/carving.mp3",
+            "ex_audio": "media/words/ep31/carving_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on loan",
+            "pos": "phr.",
+            "zh": "貸し出し中で；借りて",
+            "ex": "The works are on loan from another museum.",
+            "exzh": "それらの作品は別の美術館から借りている。",
+            "ipa": "/ɑn loʊn/",
+            "audio": "media/words/ep31/on-loan.mp3",
+            "ex_audio": "media/words/ep31/on-loan_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "woven",
+            "pos": "adj.",
+            "zh": "編んだ；織った",
+            "ex": "The shop sells woven baskets.",
+            "exzh": "その店は編みかごを売っている。",
+            "ipa": "/ˈwoʊvən/",
+            "audio": "media/words/ep31/woven.mp3",
+            "ex_audio": "media/words/ep31/woven_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "infrastructure",
+            "pos": "n.",
+            "zh": "インフラ；基盤",
+            "ex": "He maintains the network infrastructure.",
+            "exzh": "彼はネットワークの基盤を管理している。",
+            "ipa": "/ˌɪnfrəˈstrʌktʃɚ/",
+            "audio": "media/words/ep31/infrastructure.mp3",
+            "ex_audio": "media/words/ep31/infrastructure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "optimise",
+            "pos": "v.",
+            "zh": "最適化する（イギリス式つづり）",
+            "ex": "The manager optimises the server infrastructure.",
+            "exzh": "管理者はサーバーのインフラを最適化する。",
+            "ipa": "",
+            "audio": "media/words/ep31/optimise.mp3",
+            "ex_audio": "media/words/ep31/optimise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "supervise",
+            "pos": "v.",
+            "zh": "監督する；管理する",
+            "ex": "The manager trains and supervises the team.",
+            "exzh": "管理者はチームを育成し監督する。",
+            "ipa": "/ˈsupɚˌvaɪz/",
+            "audio": "media/words/ep31/supervise.mp3",
+            "ex_audio": "media/words/ep31/supervise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "oversee",
+            "pos": "v.",
+            "zh": "監督する；統括する",
+            "ex": "The manager oversees customer service.",
+            "exzh": "管理者は顧客サービスを統括する。",
+            "ipa": "/ˈoʊvɚˌsi/",
+            "audio": "media/words/ep31/oversee.mp3",
+            "ex_audio": "media/words/ep31/oversee_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "end-user",
+            "pos": "n.",
+            "zh": "エンドユーザー；最終利用者",
+            "ex": "The team supports end-user customers.",
+            "exzh": "チームはエンドユーザーを支援する。",
+            "ipa": "/ɛnd-ˈjuzɚ/",
+            "audio": "media/words/ep31/end-user.mp3",
+            "ex_audio": "media/words/ep31/end-user_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in a timely manner",
+            "pos": "phr.",
+            "zh": "適時に；速やかに",
+            "ex": "Issues are resolved in a timely manner.",
+            "exzh": "問題は速やかに解決される。",
+            "ipa": "/ɪn ə ˈtaɪmli ˈmænɚ/",
+            "audio": "media/words/ep31/in-a-timely-manner.mp3",
+            "ex_audio": "media/words/ep31/in-a-timely-manner_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "qualification",
+            "pos": "n.",
+            "zh": "資格；必要条件",
+            "ex": "The qualifications include a university degree.",
+            "exzh": "資格には大学の学位が含まれる。",
+            "ipa": "/ˌkwɑləfəˈkeɪʃən/",
+            "audio": "media/words/ep31/qualification.mp3",
+            "ex_audio": "media/words/ep31/qualification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relevant",
+            "pos": "adj.",
+            "zh": "関連のある；適切な",
+            "ex": "Five years of relevant experience is required.",
+            "exzh": "5年の関連する経験が必要だ。",
+            "ipa": "/ˈrɛləvənt/",
+            "audio": "media/words/ep31/relevant.mp3",
+            "ex_audio": "media/words/ep31/relevant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "security clearance",
+            "pos": "n.",
+            "zh": "機密情報の取扱許可；セキュリティ・クリアランス",
+            "ex": "The job does not require a high security clearance.",
+            "exzh": "その仕事に高度な取扱許可は必要ない。",
+            "ipa": "/sɪˈkjʊrəti ˈklɪrəns/",
+            "audio": "media/words/ep31/security-clearance.mp3",
+            "ex_audio": "media/words/ep31/security-clearance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "peer mentor",
+            "pos": "n.",
+            "zh": "ピアメンター；先輩の相談役",
+            "ex": "I will be your peer mentor.",
+            "exzh": "私があなたのピアメンターになる。",
+            "ipa": "/pɪr ˈmɛnˌtɔr/",
+            "audio": "media/words/ep31/peer-mentor.mp3",
+            "ex_audio": "media/words/ep31/peer-mentor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "new hire",
+            "pos": "n.",
+            "zh": "新入社員；新規採用者",
+            "ex": "All new hires are paired with a mentor.",
+            "exzh": "新入社員全員にメンターがつく。",
+            "ipa": "/nu ˈhaɪɚ/",
+            "audio": "media/words/ep31/new-hire.mp3",
+            "ex_audio": "media/words/ep31/new-hire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "point of contact",
+            "pos": "n.",
+            "zh": "連絡窓口；担当者",
+            "ex": "I will be your point of contact.",
+            "exzh": "私があなたの連絡窓口になる。",
+            "ipa": "/pɔɪnt əv ˈkɑnˌtækt/",
+            "audio": "media/words/ep31/point-of-contact.mp3",
+            "ex_audio": "media/words/ep31/point-of-contact_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "outline",
+            "pos": "v./n.",
+            "zh": "概要を述べる；概要；輪郭",
+            "ex": "The e-mail does not outline her responsibilities.",
+            "exzh": "そのメールは彼女の職務の概要を述べていない。",
+            "ipa": "/ˈaʊtˌlaɪn/",
+            "audio": "media/words/ep31/outline.mp3",
+            "ex_audio": "media/words/ep31/outline_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "firsthand",
+            "pos": "adj./adv.",
+            "zh": "直接の；じかに",
+            "ex": "I have firsthand knowledge of the role.",
+            "exzh": "その役割を直接よく知っている。",
+            "ipa": "/fɚstˈhænd/",
+            "audio": "media/words/ep31/firsthand.mp3",
+            "ex_audio": "media/words/ep31/firsthand_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "disconnected",
+            "pos": "adj.",
+            "zh": "つながらない；切断された",
+            "ex": "The telephone number has been disconnected.",
+            "exzh": "その電話番号は使われていない。",
+            "ipa": "/ˌdɪskəˈnɛktɪd/",
+            "audio": "media/words/ep31/disconnected.mp3",
+            "ex_audio": "media/words/ep31/disconnected_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reliable",
+            "pos": "adj.",
+            "zh": "信頼できる",
+            "ex": "Do you know of any reliable window washers?",
+            "exzh": "信頼できる窓清掃業者を知らない？",
+            "ipa": "/rɪˈlaɪəbəl/",
+            "audio": "media/words/ep31/reliable.mp3",
+            "ex_audio": "media/words/ep31/reliable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "kick up",
+            "pos": "v.",
+            "zh": "舞い上げる；巻き起こす",
+            "ex": "The construction has kicked up a lot of dust.",
+            "exzh": "工事でほこりがたくさん舞っている。",
+            "ipa": "/kɪk ʌp/",
+            "audio": "media/words/ep31/kick-up.mp3",
+            "ex_audio": "media/words/ep31/kick-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "excessive",
+            "pos": "adj.",
+            "zh": "過度の；行き過ぎた",
+            "ex": "She complained about excessive noise.",
+            "exzh": "彼女はひどい騒音に苦情を言った。",
+            "ipa": "/ɪkˈsɛsɪv/",
+            "audio": "media/words/ep31/excessive.mp3",
+            "ex_audio": "media/words/ep31/excessive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "disclose",
+            "pos": "v.",
+            "zh": "明かす；開示する",
+            "ex": "He cannot disclose the source.",
+            "exzh": "彼は情報源を明かせない。",
+            "ipa": "/dɪsˈkloʊz/",
+            "audio": "media/words/ep31/disclose.mp3",
+            "ex_audio": "media/words/ep31/disclose_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "head of maintenance",
+            "pos": "n.",
+            "zh": "保守の責任者；営繕部長",
+            "ex": "He was the head of maintenance at his old company.",
+            "exzh": "彼は前の会社で保守の責任者だった。",
+            "ipa": "/hɛd əv ˈmeɪntənəns/",
+            "audio": "media/words/ep31/head-of-maintenance.mp3",
+            "ex_audio": "media/words/ep31/head-of-maintenance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "get in touch",
+            "pos": "v.",
+            "zh": "連絡を取る",
+            "ex": "I'll get in touch with him right away.",
+            "exzh": "すぐに彼に連絡する。",
+            "ipa": "/ɡɛt ɪn tʌtʃ/",
+            "audio": "media/words/ep31/get-in-touch.mp3",
+            "ex_audio": "media/words/ep31/get-in-touch_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep31_cover.png",
+    "theme_ja": "本番問題精講 · Test 3 第6回",
+    "words": [
+      {
+        "word": "retirement party",
+        "pos": "n.",
+        "zh": "退休派对",
+        "ex": "I'll bring a dessert to Jin-Ah's retirement party.",
+        "exzh": "我会带甜点去 Jin-Ah 的退休派对。",
+        "ipa": "/riˈtaɪɚmənt ˈpɑrti/",
+        "audio": "media/words/ep31/retirement-party.mp3",
+        "ex_audio": "media/words/ep31/retirement-party_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dessert",
+        "pos": "n.",
+        "zh": "甜点",
+        "ex": "I was thinking of getting a dessert.",
+        "exzh": "我在想买一份甜点。",
+        "ipa": "/dɪˈzɝt/",
+        "audio": "media/words/ep31/dessert.mp3",
+        "ex_audio": "media/words/ep31/dessert_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contribute",
+        "pos": "v.",
+        "zh": "出钱；贡献；投稿",
+        "ex": "She offered to contribute some money.",
+        "exzh": "她主动提出出点钱。",
+        "ipa": "/kənˈtrɪbjut/",
+        "audio": "media/words/ep31/contribute.mp3",
+        "ex_audio": "media/words/ep31/contribute_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "return flight",
+        "pos": "n.",
+        "zh": "回程航班",
+        "ex": "I'd like to change my return flight.",
+        "exzh": "我想改回程航班。",
+        "ipa": "/rɪˈtɝn flaɪt/",
+        "audio": "media/words/ep31/return-flight.mp3",
+        "ex_audio": "media/words/ep31/return-flight_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fee",
+        "pos": "n.",
+        "zh": "费用；手续费",
+        "ex": "There's a fee of 100 dollars for the change.",
+        "exzh": "改签要收一百美元手续费。",
+        "ipa": "/fi/",
+        "audio": "media/words/ep31/fee.mp3",
+        "ex_audio": "media/words/ep31/fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "transportation",
+        "pos": "n.",
+        "zh": "交通工具；运输",
+        "ex": "Do you need transportation into the city?",
+        "exzh": "您需要进城的交通工具吗？",
+        "ipa": "/ˌtrænspɚˈteɪʃən/",
+        "audio": "media/words/ep31/transportation.mp3",
+        "ex_audio": "media/words/ep31/transportation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "courtesy shuttle",
+        "pos": "n.",
+        "zh": "免费接驳车",
+        "ex": "I'll take the hotel's courtesy shuttle.",
+        "exzh": "我会坐酒店的免费接驳车。",
+        "ipa": "/ˈkɝtəsi ˈʃʌtəl/",
+        "audio": "media/words/ep31/courtesy-shuttle.mp3",
+        "ex_audio": "media/words/ep31/courtesy-shuttle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tip",
+        "pos": "n./v.",
+        "zh": "提示；建议；小费",
+        "ex": "Thanks for the tip!",
+        "exzh": "谢谢你的提醒！",
+        "ipa": "/tɪp/",
+        "audio": "media/words/ep31/tip.mp3",
+        "ex_audio": "media/words/ep31/tip_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rewards program",
+        "pos": "n.",
+        "zh": "积分奖励计划",
+        "ex": "He enrolled in the airline's rewards program.",
+        "exzh": "他加入了航空公司的积分计划。",
+        "ipa": "/rɪˈwɔrdz ˈproʊˌɡræm/",
+        "audio": "media/words/ep31/rewards-program.mp3",
+        "ex_audio": "media/words/ep31/rewards-program_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "impressed",
+        "pos": "adj.",
+        "zh": "印象深刻的；钦佩的",
+        "ex": "I was really impressed with the big windows.",
+        "exzh": "那些大窗户让我印象深刻。",
+        "ipa": "/ˌɪmˈprɛst/",
+        "audio": "media/words/ep31/impressed.mp3",
+        "ex_audio": "media/words/ep31/impressed_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "duration",
+        "pos": "n.",
+        "zh": "持续时间；期限",
+        "ex": "The rent depends on the duration of the lease.",
+        "exzh": "租金取决于租期长短。",
+        "ipa": "/ˈdʊˈreɪʃən/",
+        "audio": "media/words/ep31/duration.mp3",
+        "ex_audio": "media/words/ep31/duration_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "tenant",
+        "pos": "n.",
+        "zh": "租户；房客",
+        "ex": "Most tenants choose the two-year lease.",
+        "exzh": "大多数租户选两年租约。",
+        "ipa": "/ˈtɛnənt/",
+        "audio": "media/words/ep31/tenant.mp3",
+        "ex_audio": "media/words/ep31/tenant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "move-in date",
+        "pos": "n.",
+        "zh": "入住日期",
+        "ex": "Let me know your move-in date.",
+        "exzh": "请告诉我您的入住日期。",
+        "ipa": "/muv-ɪn deɪt/",
+        "audio": "media/words/ep31/move-in-date.mp3",
+        "ex_audio": "media/words/ep31/move-in-date_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "maintenance request",
+        "pos": "n.",
+        "zh": "维修申请",
+        "ex": "I submitted a maintenance request last week.",
+        "exzh": "我上周提交了维修申请。",
+        "ipa": "/ˈmeɪntənəns rɪˈkwɛst/",
+        "audio": "media/words/ep31/maintenance-request.mp3",
+        "ex_audio": "media/words/ep31/maintenance-request_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "windowsill",
+        "pos": "n.",
+        "zh": "窗台",
+        "ex": "The paint around my windowsill is peeling.",
+        "exzh": "我窗台周围的油漆在剥落。",
+        "ipa": "",
+        "audio": "media/words/ep31/windowsill.mp3",
+        "ex_audio": "media/words/ep31/windowsill_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "repaint",
+        "pos": "v.",
+        "zh": "重新粉刷",
+        "ex": "It needs to be repainted.",
+        "exzh": "它需要重新刷漆。",
+        "ipa": "/riˈpeɪnt/",
+        "audio": "media/words/ep31/repaint.mp3",
+        "ex_audio": "media/words/ep31/repaint_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "parking space",
+        "pos": "n.",
+        "zh": "车位",
+        "ex": "I'd like to rent a parking space.",
+        "exzh": "我想租一个车位。",
+        "ipa": "/ˈpɑrkɪŋ speɪs/",
+        "audio": "media/words/ep31/parking-space.mp3",
+        "ex_audio": "media/words/ep31/parking-space_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "carve",
+        "pos": "v.",
+        "zh": "雕刻；切（肉）",
+        "ex": "The portraits were carved out of tree trunks.",
+        "exzh": "这些肖像是用树干雕刻的。",
+        "ipa": "/kɑrv/",
+        "audio": "media/words/ep31/carve.mp3",
+        "ex_audio": "media/words/ep31/carve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "carving",
+        "pos": "n.",
+        "zh": "雕刻品；雕刻",
+        "ex": "These carvings are on loan to us.",
+        "exzh": "这些雕刻是借来展出的。",
+        "ipa": "/ˈkɑrvɪŋ/",
+        "audio": "media/words/ep31/carving.mp3",
+        "ex_audio": "media/words/ep31/carving_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on loan",
+        "pos": "phr.",
+        "zh": "借来的；出借中",
+        "ex": "The works are on loan from another museum.",
+        "exzh": "这些作品是从别的博物馆借来的。",
+        "ipa": "/ɑn loʊn/",
+        "audio": "media/words/ep31/on-loan.mp3",
+        "ex_audio": "media/words/ep31/on-loan_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "woven",
+        "pos": "adj.",
+        "zh": "编织的",
+        "ex": "The shop sells woven baskets.",
+        "exzh": "这家店卖编织篮子。",
+        "ipa": "/ˈwoʊvən/",
+        "audio": "media/words/ep31/woven.mp3",
+        "ex_audio": "media/words/ep31/woven_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "infrastructure",
+        "pos": "n.",
+        "zh": "基础设施",
+        "ex": "He maintains the network infrastructure.",
+        "exzh": "他维护网络基础设施。",
+        "ipa": "/ˌɪnfrəˈstrʌktʃɚ/",
+        "audio": "media/words/ep31/infrastructure.mp3",
+        "ex_audio": "media/words/ep31/infrastructure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "optimise",
+        "pos": "v.",
+        "zh": "优化（英式拼写）",
+        "ex": "The manager optimises the server infrastructure.",
+        "exzh": "经理负责优化服务器基础设施。",
+        "ipa": "",
+        "audio": "media/words/ep31/optimise.mp3",
+        "ex_audio": "media/words/ep31/optimise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "supervise",
+        "pos": "v.",
+        "zh": "监督；管理",
+        "ex": "The manager trains and supervises the team.",
+        "exzh": "经理培训并管理团队。",
+        "ipa": "/ˈsupɚˌvaɪz/",
+        "audio": "media/words/ep31/supervise.mp3",
+        "ex_audio": "media/words/ep31/supervise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "oversee",
+        "pos": "v.",
+        "zh": "监管；监督",
+        "ex": "The manager oversees customer service.",
+        "exzh": "经理监管客户服务。",
+        "ipa": "/ˈoʊvɚˌsi/",
+        "audio": "media/words/ep31/oversee.mp3",
+        "ex_audio": "media/words/ep31/oversee_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "end-user",
+        "pos": "n.",
+        "zh": "最终用户",
+        "ex": "The team supports end-user customers.",
+        "exzh": "团队为最终用户提供支持。",
+        "ipa": "/ɛnd-ˈjuzɚ/",
+        "audio": "media/words/ep31/end-user.mp3",
+        "ex_audio": "media/words/ep31/end-user_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in a timely manner",
+        "pos": "phr.",
+        "zh": "及时地",
+        "ex": "Issues are resolved in a timely manner.",
+        "exzh": "问题会被及时解决。",
+        "ipa": "/ɪn ə ˈtaɪmli ˈmænɚ/",
+        "audio": "media/words/ep31/in-a-timely-manner.mp3",
+        "ex_audio": "media/words/ep31/in-a-timely-manner_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "qualification",
+        "pos": "n.",
+        "zh": "资格；资历",
+        "ex": "The qualifications include a university degree.",
+        "exzh": "资格包括大学学位。",
+        "ipa": "/ˌkwɑləfəˈkeɪʃən/",
+        "audio": "media/words/ep31/qualification.mp3",
+        "ex_audio": "media/words/ep31/qualification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relevant",
+        "pos": "adj.",
+        "zh": "相关的；有关的",
+        "ex": "Five years of relevant experience is required.",
+        "exzh": "要求五年的相关经验。",
+        "ipa": "/ˈrɛləvənt/",
+        "audio": "media/words/ep31/relevant.mp3",
+        "ex_audio": "media/words/ep31/relevant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "security clearance",
+        "pos": "n.",
+        "zh": "安全许可；保密许可",
+        "ex": "The job does not require a high security clearance.",
+        "exzh": "这份工作不需要高级安全许可。",
+        "ipa": "/sɪˈkjʊrəti ˈklɪrəns/",
+        "audio": "media/words/ep31/security-clearance.mp3",
+        "ex_audio": "media/words/ep31/security-clearance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "peer mentor",
+        "pos": "n.",
+        "zh": "同伴导师",
+        "ex": "I will be your peer mentor.",
+        "exzh": "我会是你的同伴导师。",
+        "ipa": "/pɪr ˈmɛnˌtɔr/",
+        "audio": "media/words/ep31/peer-mentor.mp3",
+        "ex_audio": "media/words/ep31/peer-mentor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "new hire",
+        "pos": "n.",
+        "zh": "新员工",
+        "ex": "All new hires are paired with a mentor.",
+        "exzh": "所有新员工都会配一位导师。",
+        "ipa": "/nu ˈhaɪɚ/",
+        "audio": "media/words/ep31/new-hire.mp3",
+        "ex_audio": "media/words/ep31/new-hire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "point of contact",
+        "pos": "n.",
+        "zh": "联络人；联系窗口",
+        "ex": "I will be your point of contact.",
+        "exzh": "我会是你的联络人。",
+        "ipa": "/pɔɪnt əv ˈkɑnˌtækt/",
+        "audio": "media/words/ep31/point-of-contact.mp3",
+        "ex_audio": "media/words/ep31/point-of-contact_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "outline",
+        "pos": "v./n.",
+        "zh": "概述；提纲；轮廓",
+        "ex": "The e-mail does not outline her responsibilities.",
+        "exzh": "这封邮件没有概述她的职责。",
+        "ipa": "/ˈaʊtˌlaɪn/",
+        "audio": "media/words/ep31/outline.mp3",
+        "ex_audio": "media/words/ep31/outline_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "firsthand",
+        "pos": "adj./adv.",
+        "zh": "第一手的；亲身的",
+        "ex": "I have firsthand knowledge of the role.",
+        "exzh": "我对这个职位有第一手了解。",
+        "ipa": "/fɚstˈhænd/",
+        "audio": "media/words/ep31/firsthand.mp3",
+        "ex_audio": "media/words/ep31/firsthand_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "disconnected",
+        "pos": "adj.",
+        "zh": "停机的；断开的",
+        "ex": "The telephone number has been disconnected.",
+        "exzh": "那个电话号码已经停机了。",
+        "ipa": "/ˌdɪskəˈnɛktɪd/",
+        "audio": "media/words/ep31/disconnected.mp3",
+        "ex_audio": "media/words/ep31/disconnected_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reliable",
+        "pos": "adj.",
+        "zh": "可靠的",
+        "ex": "Do you know of any reliable window washers?",
+        "exzh": "你知道可靠的擦窗工吗？",
+        "ipa": "/rɪˈlaɪəbəl/",
+        "audio": "media/words/ep31/reliable.mp3",
+        "ex_audio": "media/words/ep31/reliable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "kick up",
+        "pos": "v.",
+        "zh": "扬起；激起",
+        "ex": "The construction has kicked up a lot of dust.",
+        "exzh": "工地扬起了很多灰尘。",
+        "ipa": "/kɪk ʌp/",
+        "audio": "media/words/ep31/kick-up.mp3",
+        "ex_audio": "media/words/ep31/kick-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "excessive",
+        "pos": "adj.",
+        "zh": "过度的；过多的",
+        "ex": "She complained about excessive noise.",
+        "exzh": "她抱怨噪音太大。",
+        "ipa": "/ɪkˈsɛsɪv/",
+        "audio": "media/words/ep31/excessive.mp3",
+        "ex_audio": "media/words/ep31/excessive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "disclose",
+        "pos": "v.",
+        "zh": "透露；公开",
+        "ex": "He cannot disclose the source.",
+        "exzh": "他不能透露消息来源。",
+        "ipa": "/dɪsˈkloʊz/",
+        "audio": "media/words/ep31/disclose.mp3",
+        "ex_audio": "media/words/ep31/disclose_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "head of maintenance",
+        "pos": "n.",
+        "zh": "维修主管",
+        "ex": "He was the head of maintenance at his old company.",
+        "exzh": "他以前在老公司是维修主管。",
+        "ipa": "/hɛd əv ˈmeɪntənəns/",
+        "audio": "media/words/ep31/head-of-maintenance.mp3",
+        "ex_audio": "media/words/ep31/head-of-maintenance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "get in touch",
+        "pos": "v.",
+        "zh": "联系；取得联系",
+        "ex": "I'll get in touch with him right away.",
+        "exzh": "我马上联系他。",
+        "ipa": "/ɡɛt ɪn tʌtʃ/",
+        "audio": "media/words/ep31/get-in-touch.mp3",
+        "ex_audio": "media/words/ep31/get-in-touch_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 30,
     "theme": "真题精讲 · Test 3 第五篇",
     "date": "2026-10-14",
