@@ -1,5 +1,1359 @@
 [
   {
+    "number": 34,
+    "theme": "题型精讲 · Part 1 人物照片",
+    "date": "2026-10-15",
+    "duration_sec": 2131.5,
+    "segments": [
+      {
+        "title": "1. Part 1 人物照片真题（三套卷精选）",
+        "start": 0.0,
+        "length": 1112.55
+      },
+      {
+        "title": "2. Part 7 单篇阅读（配套精练）",
+        "start": 1112.55,
+        "length": 309.12
+      },
+      {
+        "title": "3. 本期 42 词总复习 · 拼读",
+        "start": 1421.67,
+        "length": 709.86
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "bend over",
+        "zh": "俯身；弯腰"
+      },
+      {
+        "word": "examine",
+        "zh": "仔细查看；检查"
+      },
+      {
+        "word": "aisle",
+        "zh": "通道；过道"
+      },
+      {
+        "word": "reach for",
+        "zh": "伸手去拿"
+      },
+      {
+        "word": "raise",
+        "zh": "举起；升起；提高"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "serve",
+        "zh": "提供；饭菜；；服务；任职"
+      },
+      {
+        "word": "pitcher",
+        "zh": "水壶；大罐子"
+      },
+      {
+        "word": "assemble",
+        "zh": "组装；集合"
+      },
+      {
+        "word": "bend over",
+        "zh": "俯身；弯腰"
+      },
+      {
+        "word": "stack",
+        "zh": "堆叠；一摞"
+      },
+      {
+        "word": "wipe off",
+        "zh": "擦掉；擦干净"
+      },
+      {
+        "word": "examine",
+        "zh": "仔细查看；检查"
+      },
+      {
+        "word": "rack",
+        "zh": "架子；衣架"
+      },
+      {
+        "word": "register",
+        "zh": "收银机；收银台；登记"
+      },
+      {
+        "word": "aisle",
+        "zh": "通道；过道"
+      },
+      {
+        "word": "briefcase",
+        "zh": "公文包"
+      },
+      {
+        "word": "fold",
+        "zh": "折叠；对折"
+      },
+      {
+        "word": "erase",
+        "zh": "擦掉；抹去"
+      },
+      {
+        "word": "closet",
+        "zh": "壁橱；储藏柜"
+      },
+      {
+        "word": "put together",
+        "zh": "组装；整理；汇编"
+      },
+      {
+        "word": "flat tire",
+        "zh": "瘪了的轮胎；爆胎"
+      },
+      {
+        "word": "reach for",
+        "zh": "伸手去拿"
+      },
+      {
+        "word": "pour",
+        "zh": "倒；灌；涌入"
+      },
+      {
+        "word": "mop",
+        "zh": "用拖把拖；拖把"
+      },
+      {
+        "word": "tow truck",
+        "zh": "拖车；清障车"
+      },
+      {
+        "word": "raise",
+        "zh": "举起；升起；提高"
+      },
+      {
+        "word": "lightbulb",
+        "zh": "灯泡"
+      },
+      {
+        "word": "doorway",
+        "zh": "门口；出入口"
+      },
+      {
+        "word": "take down",
+        "zh": "取下；拆下；记下"
+      },
+      {
+        "word": "vehicle",
+        "zh": "车辆；交通工具"
+      },
+      {
+        "word": "doorknob",
+        "zh": "门把手"
+      },
+      {
+        "word": "sweep",
+        "zh": "扫；清扫"
+      },
+      {
+        "word": "ramp",
+        "zh": "坡道；斜坡"
+      },
+      {
+        "word": "handrail",
+        "zh": "扶手；栏杆"
+      },
+      {
+        "word": "dock",
+        "zh": "码头；船坞"
+      },
+      {
+        "word": "lead a tour",
+        "zh": "带团参观；当导游"
+      },
+      {
+        "word": "hang",
+        "zh": "挂；悬挂"
+      },
+      {
+        "word": "window frame",
+        "zh": "窗框"
+      },
+      {
+        "word": "direct flight",
+        "zh": "直飞航班"
+      },
+      {
+        "word": "overnight",
+        "zh": "夜间的；通宵；一夜之间"
+      },
+      {
+        "word": "indicate",
+        "zh": "表明；指出；显示"
+      },
+      {
+        "word": "flight attendant",
+        "zh": "空乘人员"
+      },
+      {
+        "word": "acquire",
+        "zh": "购得；获得；收购"
+      },
+      {
+        "word": "amenity",
+        "zh": "便利设施；生活设施"
+      },
+      {
+        "word": "reclining",
+        "zh": "可向后倾斜的；可放平的"
+      },
+      {
+        "word": "inflight",
+        "zh": "飞机上的；机上的"
+      },
+      {
+        "word": "chef-prepared",
+        "zh": "厨师烹制的"
+      }
+    ],
+    "video": "https://github.com/zixuniaowu/toeic800/releases/download/media-v1/ep34.mp4",
+    "script_pdf": "media/ep34_script.pdf",
+    "source_video": "ep34.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep34.html",
+        "video": "https://github.com/zixuniaowu/toeic800/releases/download/media-v1/ep34.mp4",
+        "script_pdf": "media/ep34_script.pdf",
+        "duration_sec": 2131.5,
+        "theme": "题型精讲 · Part 1 人物照片",
+        "segments": [
+          {
+            "title": "1. Part 1 人物照片真题（三套卷精选）",
+            "start": 0.0,
+            "length": 1112.55
+          },
+          {
+            "title": "2. Part 7 单篇阅读（配套精练）",
+            "start": 1112.55,
+            "length": 309.12
+          },
+          {
+            "title": "3. 本期 42 词总复习 · 拼读",
+            "start": 1421.67,
+            "length": 709.86
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep34ja.html",
+        "video": "https://github.com/zixuniaowu/toeic800/releases/download/media-v1/ep34ja.mp4",
+        "script_pdf": "media/ep34ja_script.pdf",
+        "duration_sec": 2505.8,
+        "theme": "問題タイプ別精講 · Part 1 人物写真",
+        "segments": [
+          {
+            "title": "1. Part 1 人物写真の本番問題（3セットから厳選）",
+            "start": 0.0,
+            "length": 1387.06
+          },
+          {
+            "title": "2. Part 7 シングルパッセージ（関連演習）",
+            "start": 1387.06,
+            "length": 365.06
+          },
+          {
+            "title": "3. 今回の 42 語総復習 · スペル",
+            "start": 1752.13,
+            "length": 753.68
+          }
+        ],
+        "poster": "media/ep34ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "bend over",
+            "zh": "かがみ込む；前かがみになる"
+          },
+          {
+            "word": "examine",
+            "zh": "よく調べる；確かめる"
+          },
+          {
+            "word": "aisle",
+            "zh": "通路"
+          },
+          {
+            "word": "reach for",
+            "zh": "…に手を伸ばす"
+          },
+          {
+            "word": "raise",
+            "zh": "持ち上げる；上げる"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "serve",
+          "pitcher",
+          "assemble",
+          "bend over",
+          "stack",
+          "wipe off",
+          "examine",
+          "rack",
+          "register",
+          "aisle",
+          "briefcase",
+          "fold",
+          "erase",
+          "closet",
+          "put together",
+          "flat tire",
+          "reach for",
+          "pour",
+          "mop",
+          "tow truck",
+          "raise",
+          "lightbulb",
+          "doorway",
+          "take down",
+          "vehicle",
+          "doorknob",
+          "sweep",
+          "ramp",
+          "handrail",
+          "dock",
+          "lead a tour",
+          "hang",
+          "window frame",
+          "direct flight",
+          "overnight",
+          "indicate",
+          "flight attendant",
+          "acquire",
+          "amenity",
+          "reclining",
+          "inflight",
+          "chef-prepared"
+        ],
+        "words": [
+          {
+            "word": "serve",
+            "pos": "v.",
+            "zh": "（料理を）出す；給仕する；務める",
+            "ex": "The man is serving food.",
+            "exzh": "男性が料理を出している。",
+            "ipa": "/sɝv/",
+            "audio": "media/words/ep34/serve.mp3",
+            "ex_audio": "media/words/ep34/serve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pitcher",
+            "pos": "n.",
+            "zh": "水差し；ピッチャー",
+            "ex": "A pitcher of water is on the counter.",
+            "exzh": "カウンターに水差しがある。",
+            "ipa": "/ˈpɪtʃɚ/",
+            "audio": "media/words/ep34/pitcher.mp3",
+            "ex_audio": "media/words/ep34/pitcher_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assemble",
+            "pos": "v.",
+            "zh": "組み立てる；集まる",
+            "ex": "They're assembling a wooden box.",
+            "exzh": "彼らは木箱を組み立てている。",
+            "ipa": "/əˈsɛmbəl/",
+            "audio": "media/words/ep34/assemble.mp3",
+            "ex_audio": "media/words/ep34/assemble_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bend over",
+            "pos": "v.",
+            "zh": "かがみ込む；前かがみになる",
+            "ex": "They're bending over a work project.",
+            "exzh": "彼らは作業の上にかがみ込んでいる。",
+            "ipa": "/bɛnd ˈoʊvɚ/",
+            "audio": "media/words/ep34/bend-over.mp3",
+            "ex_audio": "media/words/ep34/bend-over_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "stack",
+            "pos": "v./n.",
+            "zh": "積み重ねる；積み重ねたもの",
+            "ex": "Documents are stacked on a desk.",
+            "exzh": "書類が机の上に積み重ねられている。",
+            "ipa": "/stæk/",
+            "audio": "media/words/ep34/stack.mp3",
+            "ex_audio": "media/words/ep34/stack_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "wipe off",
+            "pos": "v.",
+            "zh": "拭き取る；拭いてきれいにする",
+            "ex": "She's wiping off a computer keyboard.",
+            "exzh": "彼女はパソコンのキーボードを拭いている。",
+            "ipa": "/waɪp ɔf/",
+            "audio": "media/words/ep34/wipe-off.mp3",
+            "ex_audio": "media/words/ep34/wipe-off_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "examine",
+            "pos": "v.",
+            "zh": "よく調べる；確かめる",
+            "ex": "The woman is examining clothes on a rack.",
+            "exzh": "女性がラックの服を見ている。",
+            "ipa": "/ɪɡˈzæmɪn/",
+            "audio": "media/words/ep34/examine.mp3",
+            "ex_audio": "media/words/ep34/examine_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "rack",
+            "pos": "n.",
+            "zh": "棚；ラック",
+            "ex": "Clothes are hanging on a rack.",
+            "exzh": "服がラックに掛かっている。",
+            "ipa": "/ræk/",
+            "audio": "media/words/ep34/rack.mp3",
+            "ex_audio": "media/words/ep34/rack_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "register",
+            "pos": "n./v.",
+            "zh": "レジ；登録する",
+            "ex": "The woman is standing in line at the register.",
+            "exzh": "女性がレジに並んでいる。",
+            "ipa": "/ˈrɛdʒɪstɚ/",
+            "audio": "media/words/ep34/register.mp3",
+            "ex_audio": "media/words/ep34/register_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "aisle",
+            "pos": "n.",
+            "zh": "通路",
+            "ex": "The woman is pushing a cart down an aisle.",
+            "exzh": "女性がカートを押して通路を進んでいる。",
+            "ipa": "/aɪl/",
+            "audio": "media/words/ep34/aisle.mp3",
+            "ex_audio": "media/words/ep34/aisle_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "briefcase",
+            "pos": "n.",
+            "zh": "書類かばん；ブリーフケース",
+            "ex": "He's carrying a briefcase.",
+            "exzh": "彼は書類かばんを持っている。",
+            "ipa": "/ˈbrifˌkeɪs/",
+            "audio": "media/words/ep34/briefcase.mp3",
+            "ex_audio": "media/words/ep34/briefcase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fold",
+            "pos": "v.",
+            "zh": "折りたたむ；たたむ",
+            "ex": "He's folding a newspaper.",
+            "exzh": "彼は新聞をたたんでいる。",
+            "ipa": "/foʊld/",
+            "audio": "media/words/ep34/fold.mp3",
+            "ex_audio": "media/words/ep34/fold_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "erase",
+            "pos": "v.",
+            "zh": "消す；消去する",
+            "ex": "One of the people is erasing a whiteboard.",
+            "exzh": "1人がホワイトボードを消している。",
+            "ipa": "/ɪˈreɪs/",
+            "audio": "media/words/ep34/erase.mp3",
+            "ex_audio": "media/words/ep34/erase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "closet",
+            "pos": "n.",
+            "zh": "戸棚；クローゼット",
+            "ex": "Some chairs have been stored in a closet.",
+            "exzh": "椅子が戸棚にしまわれている。",
+            "ipa": "/ˈklɑzət/",
+            "audio": "media/words/ep34/closet.mp3",
+            "ex_audio": "media/words/ep34/closet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "put together",
+            "pos": "v.",
+            "zh": "組み立てる；まとめる",
+            "ex": "Some people are putting together a bookshelf.",
+            "exzh": "何人かが本棚を組み立てている。",
+            "ipa": "/pʊt təˈɡɛðɚ/",
+            "audio": "media/words/ep34/put-together.mp3",
+            "ex_audio": "media/words/ep34/put-together_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "flat tire",
+            "pos": "n.",
+            "zh": "パンクしたタイヤ",
+            "ex": "He's changing a flat tire.",
+            "exzh": "彼はパンクしたタイヤを交換している。",
+            "ipa": "/flæt ˈtaɪɚ/",
+            "audio": "media/words/ep34/flat-tire.mp3",
+            "ex_audio": "media/words/ep34/flat-tire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reach for",
+            "pos": "v.",
+            "zh": "…に手を伸ばす",
+            "ex": "One of the people is reaching for some soap.",
+            "exzh": "1人が石けんに手を伸ばしている。",
+            "ipa": "/ritʃ fɔr/",
+            "audio": "media/words/ep34/reach-for.mp3",
+            "ex_audio": "media/words/ep34/reach-for_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "pour",
+            "pos": "v.",
+            "zh": "注ぐ",
+            "ex": "One of the people is pouring a drink into a glass.",
+            "exzh": "1人がグラスに飲み物を注いでいる。",
+            "ipa": "/pɔr/",
+            "audio": "media/words/ep34/pour.mp3",
+            "ex_audio": "media/words/ep34/pour_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mop",
+            "pos": "v./n.",
+            "zh": "モップでふく；モップ",
+            "ex": "The people are mopping a kitchen floor.",
+            "exzh": "2人がキッチンの床にモップをかけている。",
+            "ipa": "/mɑp/",
+            "audio": "media/words/ep34/mop.mp3",
+            "ex_audio": "media/words/ep34/mop_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tow truck",
+            "pos": "n.",
+            "zh": "レッカー車",
+            "ex": "A tow truck is pulling a bus.",
+            "exzh": "レッカー車がバスを引いている。",
+            "ipa": "/toʊ trʌk/",
+            "audio": "media/words/ep34/tow-truck.mp3",
+            "ex_audio": "media/words/ep34/tow-truck_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "raise",
+            "pos": "v.",
+            "zh": "持ち上げる；上げる",
+            "ex": "A man has been raised above a road.",
+            "exzh": "男性が道路の上に持ち上げられている。",
+            "ipa": "/reɪz/",
+            "audio": "media/words/ep34/raise.mp3",
+            "ex_audio": "media/words/ep34/raise_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "lightbulb",
+            "pos": "n.",
+            "zh": "電球",
+            "ex": "A man is changing a lightbulb in a sign.",
+            "exzh": "男性が看板の電球を交換している。",
+            "ipa": "/ˈlaɪtˌbʌlb/",
+            "audio": "media/words/ep34/lightbulb.mp3",
+            "ex_audio": "media/words/ep34/lightbulb_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "doorway",
+            "pos": "n.",
+            "zh": "出入り口；戸口",
+            "ex": "A sign is being hung above a doorway.",
+            "exzh": "看板が入口の上に取り付けられているところだ。",
+            "ipa": "/ˈdɔrˌweɪ/",
+            "audio": "media/words/ep34/doorway.mp3",
+            "ex_audio": "media/words/ep34/doorway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take down",
+            "pos": "v.",
+            "zh": "取り外す；書き留める",
+            "ex": "A sign has been taken down.",
+            "exzh": "看板が取り外されている。",
+            "ipa": "/teɪk daʊn/",
+            "audio": "media/words/ep34/take-down.mp3",
+            "ex_audio": "media/words/ep34/take-down_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "vehicle",
+            "pos": "n.",
+            "zh": "車両；乗り物",
+            "ex": "The man is moving a vehicle.",
+            "exzh": "男性が車を動かしている。",
+            "ipa": "/ˈvihɪkəl/",
+            "audio": "media/words/ep34/vehicle.mp3",
+            "ex_audio": "media/words/ep34/vehicle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "doorknob",
+            "pos": "n.",
+            "zh": "ドアノブ",
+            "ex": "The man is holding on to a doorknob.",
+            "exzh": "男性がドアノブを握っている。",
+            "ipa": "/ˈdurnɑb/",
+            "audio": "media/words/ep34/doorknob.mp3",
+            "ex_audio": "media/words/ep34/doorknob_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sweep",
+            "pos": "v.",
+            "zh": "掃く；掃除する",
+            "ex": "The man is sweeping the stairs.",
+            "exzh": "男性が階段を掃いている。",
+            "ipa": "/swip/",
+            "audio": "media/words/ep34/sweep.mp3",
+            "ex_audio": "media/words/ep34/sweep_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ramp",
+            "pos": "n.",
+            "zh": "傾斜路；スロープ",
+            "ex": "One of the women is walking down a ramp.",
+            "exzh": "女性の1人がスロープを下りている。",
+            "ipa": "/ræmp/",
+            "audio": "media/words/ep34/ramp.mp3",
+            "ex_audio": "media/words/ep34/ramp_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "handrail",
+            "pos": "n.",
+            "zh": "手すり",
+            "ex": "A bicycle is chained to a handrail.",
+            "exzh": "自転車が手すりにチェーンでつながれている。",
+            "ipa": "/ˈhænˌdreɪl/",
+            "audio": "media/words/ep34/handrail.mp3",
+            "ex_audio": "media/words/ep34/handrail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dock",
+            "pos": "n.",
+            "zh": "桟橋；埠頭",
+            "ex": "Some poles are lying on a dock.",
+            "exzh": "何本かの柱が桟橋に横たわっている。",
+            "ipa": "/dɑk/",
+            "audio": "media/words/ep34/dock.mp3",
+            "ex_audio": "media/words/ep34/dock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lead a tour",
+            "pos": "v.",
+            "zh": "ツアーを案内する",
+            "ex": "The man is leading a tour.",
+            "exzh": "男性がツアーを案内している。",
+            "ipa": "/lɛd ə tʊr/",
+            "audio": "media/words/ep34/lead-a-tour.mp3",
+            "ex_audio": "media/words/ep34/lead-a-tour_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hang",
+            "pos": "v.",
+            "zh": "掛ける；つるす",
+            "ex": "The man is hanging a painting on a wall.",
+            "exzh": "男性が絵を壁に掛けている。",
+            "ipa": "/hæŋ/",
+            "audio": "media/words/ep34/hang.mp3",
+            "ex_audio": "media/words/ep34/hang_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "window frame",
+            "pos": "n.",
+            "zh": "窓枠",
+            "ex": "The man is painting a window frame.",
+            "exzh": "男性が窓枠を塗っている。",
+            "ipa": "/ˈwɪndoʊ freɪm/",
+            "audio": "media/words/ep34/window-frame.mp3",
+            "ex_audio": "media/words/ep34/window-frame_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "direct flight",
+            "pos": "n.",
+            "zh": "直行便",
+            "ex": "They offer direct flights early in the morning.",
+            "exzh": "早朝の直行便がある。",
+            "ipa": "/dɚˈɛkt flaɪt/",
+            "audio": "media/words/ep34/direct-flight.mp3",
+            "ex_audio": "media/words/ep34/direct-flight_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "overnight",
+            "pos": "adj./adv.",
+            "zh": "夜間の；夜通し；一晩で",
+            "ex": "There are direct flights early in the morning and overnight.",
+            "exzh": "早朝と夜間に直行便がある。",
+            "ipa": "/ˈoʊvɚˈnaɪt/",
+            "audio": "media/words/ep34/overnight.mp3",
+            "ex_audio": "media/words/ep34/overnight_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "indicate",
+            "pos": "v.",
+            "zh": "示す；表す",
+            "ex": "What is indicated about Airbest Airlines?",
+            "exzh": "Airbest 航空について何が示されているか。",
+            "ipa": "/ˈɪndəˌkeɪt/",
+            "audio": "media/words/ep34/indicate.mp3",
+            "ex_audio": "media/words/ep34/indicate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "flight attendant",
+            "pos": "n.",
+            "zh": "客室乗務員",
+            "ex": "It is hiring flight attendants.",
+            "exzh": "客室乗務員を募集している。",
+            "ipa": "/flaɪt əˈtɛndənt/",
+            "audio": "media/words/ep34/flight-attendant.mp3",
+            "ex_audio": "media/words/ep34/flight-attendant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "acquire",
+            "pos": "v.",
+            "zh": "取得する；購入する；買収する",
+            "ex": "It recently acquired new airplanes.",
+            "exzh": "最近新しい機体を購入した。",
+            "ipa": "/əˈkwaɪɚ/",
+            "audio": "media/words/ep34/acquire.mp3",
+            "ex_audio": "media/words/ep34/acquire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "amenity",
+            "pos": "n.",
+            "zh": "便利な設備；アメニティ",
+            "ex": "Excellent amenities include fully reclining seats.",
+            "exzh": "すばらしい設備にはフルフラットの座席がある。",
+            "ipa": "/əˈmɛnəti/",
+            "audio": "media/words/ep34/amenity.mp3",
+            "ex_audio": "media/words/ep34/amenity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reclining",
+            "pos": "adj.",
+            "zh": "リクライニングできる",
+            "ex": "The seats are fully reclining.",
+            "exzh": "座席はフルフラットになる。",
+            "ipa": "/rɪˈklaɪnɪŋ/",
+            "audio": "media/words/ep34/reclining.mp3",
+            "ex_audio": "media/words/ep34/reclining_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inflight",
+            "pos": "adj.",
+            "zh": "機内の",
+            "ex": "There is a wide selection of inflight entertainment.",
+            "exzh": "機内エンターテインメントの種類が豊富だ。",
+            "ipa": "/ˈɪnˌflaɪt/",
+            "audio": "media/words/ep34/inflight.mp3",
+            "ex_audio": "media/words/ep34/inflight_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "chef-prepared",
+            "pos": "adj.",
+            "zh": "シェフが調理した",
+            "ex": "Passengers can select chef-prepared cuisine online.",
+            "exzh": "乗客はシェフの料理をオンラインで選べる。",
+            "ipa": "/ʃɛf-priˈpɛrd/",
+            "audio": "media/words/ep34/chef-prepared.mp3",
+            "ex_audio": "media/words/ep34/chef-prepared_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep34_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 1 人物写真",
+    "words": [
+      {
+        "word": "serve",
+        "pos": "v.",
+        "zh": "提供（饭菜）；服务；任职",
+        "ex": "The man is serving food.",
+        "exzh": "男子正在提供食物。",
+        "ipa": "/sɝv/",
+        "audio": "media/words/ep34/serve.mp3",
+        "ex_audio": "media/words/ep34/serve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pitcher",
+        "pos": "n.",
+        "zh": "水壶；大罐子",
+        "ex": "A pitcher of water is on the counter.",
+        "exzh": "台面上有一壶水。",
+        "ipa": "/ˈpɪtʃɚ/",
+        "audio": "media/words/ep34/pitcher.mp3",
+        "ex_audio": "media/words/ep34/pitcher_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assemble",
+        "pos": "v.",
+        "zh": "组装；集合",
+        "ex": "They're assembling a wooden box.",
+        "exzh": "他们在组装一个木箱。",
+        "ipa": "/əˈsɛmbəl/",
+        "audio": "media/words/ep34/assemble.mp3",
+        "ex_audio": "media/words/ep34/assemble_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bend over",
+        "pos": "v.",
+        "zh": "俯身；弯腰",
+        "ex": "They're bending over a work project.",
+        "exzh": "他们正俯身做一项工作。",
+        "ipa": "/bɛnd ˈoʊvɚ/",
+        "audio": "media/words/ep34/bend-over.mp3",
+        "ex_audio": "media/words/ep34/bend-over_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "stack",
+        "pos": "v./n.",
+        "zh": "堆叠；一摞",
+        "ex": "Documents are stacked on a desk.",
+        "exzh": "文件堆放在桌子上。",
+        "ipa": "/stæk/",
+        "audio": "media/words/ep34/stack.mp3",
+        "ex_audio": "media/words/ep34/stack_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wipe off",
+        "pos": "v.",
+        "zh": "擦掉；擦干净",
+        "ex": "She's wiping off a computer keyboard.",
+        "exzh": "她在擦电脑键盘。",
+        "ipa": "/waɪp ɔf/",
+        "audio": "media/words/ep34/wipe-off.mp3",
+        "ex_audio": "media/words/ep34/wipe-off_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "examine",
+        "pos": "v.",
+        "zh": "仔细查看；检查",
+        "ex": "The woman is examining clothes on a rack.",
+        "exzh": "女子正在查看衣架上的衣服。",
+        "ipa": "/ɪɡˈzæmɪn/",
+        "audio": "media/words/ep34/examine.mp3",
+        "ex_audio": "media/words/ep34/examine_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "rack",
+        "pos": "n.",
+        "zh": "架子；衣架",
+        "ex": "Clothes are hanging on a rack.",
+        "exzh": "衣服挂在衣架上。",
+        "ipa": "/ræk/",
+        "audio": "media/words/ep34/rack.mp3",
+        "ex_audio": "media/words/ep34/rack_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "register",
+        "pos": "n./v.",
+        "zh": "收银机；收银台；登记",
+        "ex": "The woman is standing in line at the register.",
+        "exzh": "女子在收银台排队。",
+        "ipa": "/ˈrɛdʒɪstɚ/",
+        "audio": "media/words/ep34/register.mp3",
+        "ex_audio": "media/words/ep34/register_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "aisle",
+        "pos": "n.",
+        "zh": "通道；过道",
+        "ex": "The woman is pushing a cart down an aisle.",
+        "exzh": "女子推着购物车走过通道。",
+        "ipa": "/aɪl/",
+        "audio": "media/words/ep34/aisle.mp3",
+        "ex_audio": "media/words/ep34/aisle_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "briefcase",
+        "pos": "n.",
+        "zh": "公文包",
+        "ex": "He's carrying a briefcase.",
+        "exzh": "他提着一个公文包。",
+        "ipa": "/ˈbrifˌkeɪs/",
+        "audio": "media/words/ep34/briefcase.mp3",
+        "ex_audio": "media/words/ep34/briefcase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fold",
+        "pos": "v.",
+        "zh": "折叠；对折",
+        "ex": "He's folding a newspaper.",
+        "exzh": "他在叠报纸。",
+        "ipa": "/foʊld/",
+        "audio": "media/words/ep34/fold.mp3",
+        "ex_audio": "media/words/ep34/fold_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "erase",
+        "pos": "v.",
+        "zh": "擦掉；抹去",
+        "ex": "One of the people is erasing a whiteboard.",
+        "exzh": "其中一人正在擦白板。",
+        "ipa": "/ɪˈreɪs/",
+        "audio": "media/words/ep34/erase.mp3",
+        "ex_audio": "media/words/ep34/erase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "closet",
+        "pos": "n.",
+        "zh": "壁橱；储藏柜",
+        "ex": "Some chairs have been stored in a closet.",
+        "exzh": "一些椅子被收进了壁橱。",
+        "ipa": "/ˈklɑzət/",
+        "audio": "media/words/ep34/closet.mp3",
+        "ex_audio": "media/words/ep34/closet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "put together",
+        "pos": "v.",
+        "zh": "组装；整理；汇编",
+        "ex": "Some people are putting together a bookshelf.",
+        "exzh": "有人在组装书架。",
+        "ipa": "/pʊt təˈɡɛðɚ/",
+        "audio": "media/words/ep34/put-together.mp3",
+        "ex_audio": "media/words/ep34/put-together_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "flat tire",
+        "pos": "n.",
+        "zh": "瘪了的轮胎；爆胎",
+        "ex": "He's changing a flat tire.",
+        "exzh": "他在换瘪了的轮胎。",
+        "ipa": "/flæt ˈtaɪɚ/",
+        "audio": "media/words/ep34/flat-tire.mp3",
+        "ex_audio": "media/words/ep34/flat-tire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reach for",
+        "pos": "v.",
+        "zh": "伸手去拿",
+        "ex": "One of the people is reaching for some soap.",
+        "exzh": "其中一人伸手去拿肥皂。",
+        "ipa": "/ritʃ fɔr/",
+        "audio": "media/words/ep34/reach-for.mp3",
+        "ex_audio": "media/words/ep34/reach-for_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "pour",
+        "pos": "v.",
+        "zh": "倒；灌；涌入",
+        "ex": "One of the people is pouring a drink into a glass.",
+        "exzh": "其中一人正往玻璃杯里倒饮料。",
+        "ipa": "/pɔr/",
+        "audio": "media/words/ep34/pour.mp3",
+        "ex_audio": "media/words/ep34/pour_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mop",
+        "pos": "v./n.",
+        "zh": "用拖把拖；拖把",
+        "ex": "The people are mopping a kitchen floor.",
+        "exzh": "她们在拖厨房地板。",
+        "ipa": "/mɑp/",
+        "audio": "media/words/ep34/mop.mp3",
+        "ex_audio": "media/words/ep34/mop_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tow truck",
+        "pos": "n.",
+        "zh": "拖车；清障车",
+        "ex": "A tow truck is pulling a bus.",
+        "exzh": "一辆拖车在拖公交车。",
+        "ipa": "/toʊ trʌk/",
+        "audio": "media/words/ep34/tow-truck.mp3",
+        "ex_audio": "media/words/ep34/tow-truck_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "raise",
+        "pos": "v.",
+        "zh": "举起；升起；提高",
+        "ex": "A man has been raised above a road.",
+        "exzh": "一名男子被升到了道路上方。",
+        "ipa": "/reɪz/",
+        "audio": "media/words/ep34/raise.mp3",
+        "ex_audio": "media/words/ep34/raise_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "lightbulb",
+        "pos": "n.",
+        "zh": "灯泡",
+        "ex": "A man is changing a lightbulb in a sign.",
+        "exzh": "一名男子在换招牌里的灯泡。",
+        "ipa": "/ˈlaɪtˌbʌlb/",
+        "audio": "media/words/ep34/lightbulb.mp3",
+        "ex_audio": "media/words/ep34/lightbulb_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "doorway",
+        "pos": "n.",
+        "zh": "门口；出入口",
+        "ex": "A sign is being hung above a doorway.",
+        "exzh": "招牌正在被挂到门口上方。",
+        "ipa": "/ˈdɔrˌweɪ/",
+        "audio": "media/words/ep34/doorway.mp3",
+        "ex_audio": "media/words/ep34/doorway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take down",
+        "pos": "v.",
+        "zh": "取下；拆下；记下",
+        "ex": "A sign has been taken down.",
+        "exzh": "招牌已经被取下来了。",
+        "ipa": "/teɪk daʊn/",
+        "audio": "media/words/ep34/take-down.mp3",
+        "ex_audio": "media/words/ep34/take-down_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "vehicle",
+        "pos": "n.",
+        "zh": "车辆；交通工具",
+        "ex": "The man is moving a vehicle.",
+        "exzh": "男子在挪动一辆车。",
+        "ipa": "/ˈvihɪkəl/",
+        "audio": "media/words/ep34/vehicle.mp3",
+        "ex_audio": "media/words/ep34/vehicle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "doorknob",
+        "pos": "n.",
+        "zh": "门把手",
+        "ex": "The man is holding on to a doorknob.",
+        "exzh": "男子握着门把手。",
+        "ipa": "/ˈdurnɑb/",
+        "audio": "media/words/ep34/doorknob.mp3",
+        "ex_audio": "media/words/ep34/doorknob_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sweep",
+        "pos": "v.",
+        "zh": "扫；清扫",
+        "ex": "The man is sweeping the stairs.",
+        "exzh": "男子在扫楼梯。",
+        "ipa": "/swip/",
+        "audio": "media/words/ep34/sweep.mp3",
+        "ex_audio": "media/words/ep34/sweep_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ramp",
+        "pos": "n.",
+        "zh": "坡道；斜坡",
+        "ex": "One of the women is walking down a ramp.",
+        "exzh": "其中一名女子正沿着坡道往下走。",
+        "ipa": "/ræmp/",
+        "audio": "media/words/ep34/ramp.mp3",
+        "ex_audio": "media/words/ep34/ramp_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "handrail",
+        "pos": "n.",
+        "zh": "扶手；栏杆",
+        "ex": "A bicycle is chained to a handrail.",
+        "exzh": "一辆自行车被锁在扶手上。",
+        "ipa": "/ˈhænˌdreɪl/",
+        "audio": "media/words/ep34/handrail.mp3",
+        "ex_audio": "media/words/ep34/handrail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dock",
+        "pos": "n.",
+        "zh": "码头；船坞",
+        "ex": "Some poles are lying on a dock.",
+        "exzh": "一些杆子平放在码头上。",
+        "ipa": "/dɑk/",
+        "audio": "media/words/ep34/dock.mp3",
+        "ex_audio": "media/words/ep34/dock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lead a tour",
+        "pos": "v.",
+        "zh": "带团参观；当导游",
+        "ex": "The man is leading a tour.",
+        "exzh": "男子在带团参观。",
+        "ipa": "/lɛd ə tʊr/",
+        "audio": "media/words/ep34/lead-a-tour.mp3",
+        "ex_audio": "media/words/ep34/lead-a-tour_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hang",
+        "pos": "v.",
+        "zh": "挂；悬挂",
+        "ex": "The man is hanging a painting on a wall.",
+        "exzh": "男子在把画挂到墙上。",
+        "ipa": "/hæŋ/",
+        "audio": "media/words/ep34/hang.mp3",
+        "ex_audio": "media/words/ep34/hang_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "window frame",
+        "pos": "n.",
+        "zh": "窗框",
+        "ex": "The man is painting a window frame.",
+        "exzh": "男子在给窗框刷漆。",
+        "ipa": "/ˈwɪndoʊ freɪm/",
+        "audio": "media/words/ep34/window-frame.mp3",
+        "ex_audio": "media/words/ep34/window-frame_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "direct flight",
+        "pos": "n.",
+        "zh": "直飞航班",
+        "ex": "They offer direct flights early in the morning.",
+        "exzh": "他们提供清晨的直飞航班。",
+        "ipa": "/dɚˈɛkt flaɪt/",
+        "audio": "media/words/ep34/direct-flight.mp3",
+        "ex_audio": "media/words/ep34/direct-flight_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "overnight",
+        "pos": "adj./adv.",
+        "zh": "夜间的；通宵；一夜之间",
+        "ex": "There are direct flights early in the morning and overnight.",
+        "exzh": "有清晨和夜间的直飞航班。",
+        "ipa": "/ˈoʊvɚˈnaɪt/",
+        "audio": "media/words/ep34/overnight.mp3",
+        "ex_audio": "media/words/ep34/overnight_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "indicate",
+        "pos": "v.",
+        "zh": "表明；指出；显示",
+        "ex": "What is indicated about Airbest Airlines?",
+        "exzh": "关于 Airbest 航空表明了什么？",
+        "ipa": "/ˈɪndəˌkeɪt/",
+        "audio": "media/words/ep34/indicate.mp3",
+        "ex_audio": "media/words/ep34/indicate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "flight attendant",
+        "pos": "n.",
+        "zh": "空乘人员",
+        "ex": "It is hiring flight attendants.",
+        "exzh": "它在招聘空乘人员。",
+        "ipa": "/flaɪt əˈtɛndənt/",
+        "audio": "media/words/ep34/flight-attendant.mp3",
+        "ex_audio": "media/words/ep34/flight-attendant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "acquire",
+        "pos": "v.",
+        "zh": "购得；获得；收购",
+        "ex": "It recently acquired new airplanes.",
+        "exzh": "它最近购入了新飞机。",
+        "ipa": "/əˈkwaɪɚ/",
+        "audio": "media/words/ep34/acquire.mp3",
+        "ex_audio": "media/words/ep34/acquire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "amenity",
+        "pos": "n.",
+        "zh": "便利设施；生活设施",
+        "ex": "Excellent amenities include fully reclining seats.",
+        "exzh": "优质设施包括可以完全放平的座椅。",
+        "ipa": "/əˈmɛnəti/",
+        "audio": "media/words/ep34/amenity.mp3",
+        "ex_audio": "media/words/ep34/amenity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reclining",
+        "pos": "adj.",
+        "zh": "可向后倾斜的；可放平的",
+        "ex": "The seats are fully reclining.",
+        "exzh": "座椅可以完全放平。",
+        "ipa": "/rɪˈklaɪnɪŋ/",
+        "audio": "media/words/ep34/reclining.mp3",
+        "ex_audio": "media/words/ep34/reclining_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inflight",
+        "pos": "adj.",
+        "zh": "飞机上的；机上的",
+        "ex": "There is a wide selection of inflight entertainment.",
+        "exzh": "机上娱乐的选择很多。",
+        "ipa": "/ˈɪnˌflaɪt/",
+        "audio": "media/words/ep34/inflight.mp3",
+        "ex_audio": "media/words/ep34/inflight_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "chef-prepared",
+        "pos": "adj.",
+        "zh": "厨师烹制的",
+        "ex": "Passengers can select chef-prepared cuisine online.",
+        "exzh": "乘客可以在网上选择厨师烹制的餐食。",
+        "ipa": "/ʃɛf-priˈpɛrd/",
+        "audio": "media/words/ep34/chef-prepared.mp3",
+        "ex_audio": "media/words/ep34/chef-prepared_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 33,
     "theme": "真题精讲 · Test 3 第八篇（完结）",
     "date": "2026-10-14",
