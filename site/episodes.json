@@ -1,5 +1,1446 @@
 [
   {
+    "number": 22,
+    "theme": "真题精讲 · Test 2 第六篇",
+    "date": "2026-10-14",
+    "duration_sec": 3108.0,
+    "segments": [
+      {
+        "title": "1. Part 3/4 逐句精听",
+        "start": 0.0,
+        "length": 1674.62
+      },
+      {
+        "title": "2. Part 7 阅读真题 2 篇",
+        "start": 1674.62,
+        "length": 666.8
+      },
+      {
+        "title": "3. 本期 45 词总复习 · 拼读",
+        "start": 2341.42,
+        "length": 766.57
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "get settled",
+        "zh": "安顿下来"
+      },
+      {
+        "word": "pass around",
+        "zh": "传阅；传递"
+      },
+      {
+        "word": "refer to",
+        "zh": "参看；查阅；提到"
+      },
+      {
+        "word": "within walking distance",
+        "zh": "步行可到"
+      },
+      {
+        "word": "verify",
+        "zh": "核实；验证"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "get settled",
+        "zh": "安顿下来"
+      },
+      {
+        "word": "scratch",
+        "zh": "刮伤；划痕"
+      },
+      {
+        "word": "antique",
+        "zh": "古董的；古董"
+      },
+      {
+        "word": "hallway",
+        "zh": "走廊；门厅"
+      },
+      {
+        "word": "help yourself",
+        "zh": "请自便；随便吃"
+      },
+      {
+        "word": "mover",
+        "zh": "搬家工人；搬家公司"
+      },
+      {
+        "word": "graduation",
+        "zh": "毕业；毕业典礼"
+      },
+      {
+        "word": "pickup location",
+        "zh": "取货地点；接送地点"
+      },
+      {
+        "word": "drop-down menu",
+        "zh": "下拉菜单"
+      },
+      {
+        "word": "look up",
+        "zh": "查找；查阅"
+      },
+      {
+        "word": "be in luck",
+        "zh": "运气好；正好赶上"
+      },
+      {
+        "word": "team up with",
+        "zh": "和…合作；和…联手"
+      },
+      {
+        "word": "package deal",
+        "zh": "套餐；一揽子优惠"
+      },
+      {
+        "word": "admission",
+        "zh": "入场；门票；入场费"
+      },
+      {
+        "word": "inspiration",
+        "zh": "灵感；鼓舞"
+      },
+      {
+        "word": "grounds",
+        "zh": "庭院；场地；理由"
+      },
+      {
+        "word": "secure",
+        "zh": "获得；确保；安全的"
+      },
+      {
+        "word": "hand out",
+        "zh": "分发；发放"
+      },
+      {
+        "word": "appropriate",
+        "zh": "合适的；恰当的"
+      },
+      {
+        "word": "pass around",
+        "zh": "传阅；传递"
+      },
+      {
+        "word": "bracket",
+        "zh": "档次；等级；括号"
+      },
+      {
+        "word": "board",
+        "zh": "上；车、船、飞机；；董事会"
+      },
+      {
+        "word": "retired",
+        "zh": "退休的"
+      },
+      {
+        "word": "identification",
+        "zh": "身份证明；识别"
+      },
+      {
+        "word": "closure",
+        "zh": "关闭；封闭"
+      },
+      {
+        "word": "district",
+        "zh": "区域；地区"
+      },
+      {
+        "word": "high-ranking",
+        "zh": "高级别的；地位高的"
+      },
+      {
+        "word": "official",
+        "zh": "官员；正式的"
+      },
+      {
+        "word": "refer to",
+        "zh": "参看；查阅；提到"
+      },
+      {
+        "word": "rendering",
+        "zh": "效果图；表现；翻译"
+      },
+      {
+        "word": "charming",
+        "zh": "迷人的；漂亮的"
+      },
+      {
+        "word": "unit",
+        "zh": "；公寓的；一户；单位；装置"
+      },
+      {
+        "word": "within walking distance",
+        "zh": "步行可到"
+      },
+      {
+        "word": "security deposit",
+        "zh": "押金；保证金"
+      },
+      {
+        "word": "showing",
+        "zh": "看房；放映；展示"
+      },
+      {
+        "word": "transit",
+        "zh": "公共交通；运输"
+      },
+      {
+        "word": "top-rated",
+        "zh": "评价最高的；最受好评的"
+      },
+      {
+        "word": "funds",
+        "zh": "资金；款项"
+      },
+      {
+        "word": "securely",
+        "zh": "安全地；牢固地"
+      },
+      {
+        "word": "hidden fee",
+        "zh": "隐藏费用"
+      },
+      {
+        "word": "exchange rate",
+        "zh": "汇率"
+      },
+      {
+        "word": "recipient",
+        "zh": "收款人；接受者"
+      },
+      {
+        "word": "verify",
+        "zh": "核实；验证"
+      },
+      {
+        "word": "solely",
+        "zh": "仅仅；只"
+      },
+      {
+        "word": "wire transfer",
+        "zh": "电汇"
+      }
+    ],
+    "video": "media/ep22.mp4",
+    "script_pdf": "media/ep22_script.pdf",
+    "source_video": "ep22.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep22.html",
+        "video": "media/ep22.mp4",
+        "script_pdf": "media/ep22_script.pdf",
+        "duration_sec": 3108.0,
+        "theme": "真题精讲 · Test 2 第六篇",
+        "segments": [
+          {
+            "title": "1. Part 3/4 逐句精听",
+            "start": 0.0,
+            "length": 1674.62
+          },
+          {
+            "title": "2. Part 7 阅读真题 2 篇",
+            "start": 1674.62,
+            "length": 666.8
+          },
+          {
+            "title": "3. 本期 45 词总复习 · 拼读",
+            "start": 2341.42,
+            "length": 766.57
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep22ja.html",
+        "video": "media/ep22ja.mp4",
+        "script_pdf": "media/ep22ja_script.pdf",
+        "duration_sec": 3620.5,
+        "theme": "本番問題精講 · Test 2 第6回",
+        "segments": [
+          {
+            "title": "1. Part 3/4 1文ずつ精聴",
+            "start": 0.0,
+            "length": 2033.06
+          },
+          {
+            "title": "2. Part 7 読解の本番問題 2本",
+            "start": 2033.06,
+            "length": 783.97
+          },
+          {
+            "title": "3. 今回の 45 語総復習 · スペル",
+            "start": 2817.02,
+            "length": 803.46
+          }
+        ],
+        "poster": "media/ep22ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "get settled",
+            "zh": "落ち着く；生活が整う"
+          },
+          {
+            "word": "pass around",
+            "zh": "回す；回覧する"
+          },
+          {
+            "word": "refer to",
+            "zh": "参照する；言及する"
+          },
+          {
+            "word": "within walking distance",
+            "zh": "歩いて行ける距離に"
+          },
+          {
+            "word": "verify",
+            "zh": "確認する；検証する"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "get settled",
+          "scratch",
+          "antique",
+          "hallway",
+          "help yourself",
+          "mover",
+          "graduation",
+          "pickup location",
+          "drop-down menu",
+          "look up",
+          "be in luck",
+          "team up with",
+          "package deal",
+          "admission",
+          "inspiration",
+          "grounds",
+          "secure",
+          "hand out",
+          "appropriate",
+          "pass around",
+          "bracket",
+          "board",
+          "retired",
+          "identification",
+          "closure",
+          "district",
+          "high-ranking",
+          "official",
+          "refer to",
+          "rendering",
+          "charming",
+          "unit",
+          "within walking distance",
+          "security deposit",
+          "showing",
+          "transit",
+          "top-rated",
+          "funds",
+          "securely",
+          "hidden fee",
+          "exchange rate",
+          "recipient",
+          "verify",
+          "solely",
+          "wire transfer"
+        ],
+        "words": [
+          {
+            "word": "get settled",
+            "pos": "v.",
+            "zh": "落ち着く；生活が整う",
+            "ex": "I can't wait to get settled in my new apartment.",
+            "exzh": "新しい部屋に早く落ち着きたい。",
+            "ipa": "/ɡɛt ˈsɛtəld/",
+            "audio": "media/words/ep22/get-settled.mp3",
+            "ex_audio": "media/words/ep22/get-settled_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "scratch",
+            "pos": "v./n.",
+            "zh": "引っかき傷をつける；傷",
+            "ex": "We'll be careful not to scratch anything.",
+            "exzh": "何にも傷をつけないよう気をつけます。",
+            "ipa": "/skrætʃ/",
+            "audio": "media/words/ep22/scratch.mp3",
+            "ex_audio": "media/words/ep22/scratch_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "antique",
+            "pos": "adj./n.",
+            "zh": "アンティークの；骨董品",
+            "ex": "Please start with the antique table.",
+            "exzh": "アンティークのテーブルからお願いします。",
+            "ipa": "/ænˈtik/",
+            "audio": "media/words/ep22/antique.mp3",
+            "ex_audio": "media/words/ep22/antique_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hallway",
+            "pos": "n.",
+            "zh": "廊下；玄関",
+            "ex": "Go straight down to the end of this hallway.",
+            "exzh": "この廊下を突き当たりまで進んでください。",
+            "ipa": "/ˈhɔlˌweɪ/",
+            "audio": "media/words/ep22/hallway.mp3",
+            "ex_audio": "media/words/ep22/hallway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "help yourself",
+            "pos": "v.",
+            "zh": "自由に取って食べる；ご自由にどうぞ",
+            "ex": "Please help yourselves while you're working.",
+            "exzh": "作業中にご自由にどうぞ。",
+            "ipa": "/hɛlp jɚˈsɛlf/",
+            "audio": "media/words/ep22/help-yourself.mp3",
+            "ex_audio": "media/words/ep22/help-yourself_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mover",
+            "pos": "n.",
+            "zh": "引っ越し業者",
+            "ex": "The movers loaded the furniture onto the truck.",
+            "exzh": "引っ越し業者が家具をトラックに積んだ。",
+            "ipa": "/ˈmuvɚ/",
+            "audio": "media/words/ep22/mover.mp3",
+            "ex_audio": "media/words/ep22/mover_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "graduation",
+            "pos": "n.",
+            "zh": "卒業；卒業式",
+            "ex": "The cake is for a graduation party.",
+            "exzh": "そのケーキは卒業パーティー用だ。",
+            "ipa": "/ˌɡrædʒuˈeɪʃən/",
+            "audio": "media/words/ep22/graduation.mp3",
+            "ex_audio": "media/words/ep22/graduation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pickup location",
+            "pos": "n.",
+            "zh": "受け取り場所",
+            "ex": "You chose your pickup location online.",
+            "exzh": "オンラインで受け取り場所を選びました。",
+            "ipa": "/ˈpɪˌkʌp loʊˈkeɪʃən/",
+            "audio": "media/words/ep22/pickup-location.mp3",
+            "ex_audio": "media/words/ep22/pickup-location_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "drop-down menu",
+            "pos": "n.",
+            "zh": "ドロップダウンメニュー",
+            "ex": "Choose a store from the drop-down menu.",
+            "exzh": "ドロップダウンメニューから店舗を選んでください。",
+            "ipa": "/drɑp-daʊn ˈmɛnju/",
+            "audio": "media/words/ep22/drop-down-menu.mp3",
+            "ex_audio": "media/words/ep22/drop-down-menu_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "look up",
+            "pos": "v.",
+            "zh": "調べる；検索する",
+            "ex": "Let me look up your invoice.",
+            "exzh": "請求書をお調べします。",
+            "ipa": "/lʊk ʌp/",
+            "audio": "media/words/ep22/look-up.mp3",
+            "ex_audio": "media/words/ep22/look-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be in luck",
+            "pos": "v.",
+            "zh": "運がいい；ついている",
+            "ex": "You're in luck: we have one room left.",
+            "exzh": "運がいいですね、1部屋だけ空いています。",
+            "ipa": "/bi ɪn lʌk/",
+            "audio": "media/words/ep22/be-in-luck.mp3",
+            "ex_audio": "media/words/ep22/be-in-luck_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "team up with",
+            "pos": "v.",
+            "zh": "…と組む；…と提携する",
+            "ex": "The hotel has teamed up with a local garden.",
+            "exzh": "ホテルは地元の庭園と提携した。",
+            "ipa": "/tim ʌp wɪð/",
+            "audio": "media/words/ep22/team-up-with.mp3",
+            "ex_audio": "media/words/ep22/team-up-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "package deal",
+            "pos": "n.",
+            "zh": "パッケージプラン；セット料金",
+            "ex": "We offer package deals this weekend.",
+            "exzh": "今週末はパッケージプランを提供している。",
+            "ipa": "/ˈpækədʒ dil/",
+            "audio": "media/words/ep22/package-deal.mp3",
+            "ex_audio": "media/words/ep22/package-deal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "admission",
+            "pos": "n.",
+            "zh": "入場；入場料",
+            "ex": "The package includes admission to the gardens.",
+            "exzh": "パッケージには庭園の入場料が含まれる。",
+            "ipa": "/ædˈmɪʃən/",
+            "audio": "media/words/ep22/admission.mp3",
+            "ex_audio": "media/words/ep22/admission_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inspiration",
+            "pos": "n.",
+            "zh": "ひらめき；インスピレーション",
+            "ex": "I'd love to get some inspiration for my shop.",
+            "exzh": "店のためにヒントを得たい。",
+            "ipa": "/ˌɪnspɚˈeɪʃən/",
+            "audio": "media/words/ep22/inspiration.mp3",
+            "ex_audio": "media/words/ep22/inspiration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "grounds",
+            "pos": "n.",
+            "zh": "敷地；庭；根拠",
+            "ex": "The hotel is renovating its grounds.",
+            "exzh": "ホテルは敷地を改装している。",
+            "ipa": "/ɡraʊndz/",
+            "audio": "media/words/ep22/grounds.mp3",
+            "ex_audio": "media/words/ep22/grounds_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "secure",
+            "pos": "v./adj.",
+            "zh": "確保する；獲得する；安全な",
+            "ex": "They want to secure a bus driver position.",
+            "exzh": "彼らはバス運転手の職を得たいと思っている。",
+            "ipa": "/sɪˈkjʊr/",
+            "audio": "media/words/ep22/secure.mp3",
+            "ex_audio": "media/words/ep22/secure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hand out",
+            "pos": "v.",
+            "zh": "配る；配布する",
+            "ex": "We'll be handing out the uniforms next week.",
+            "exzh": "来週制服を配ります。",
+            "ipa": "/hænd aʊt/",
+            "audio": "media/words/ep22/hand-out.mp3",
+            "ex_audio": "media/words/ep22/hand-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appropriate",
+            "pos": "adj.",
+            "zh": "適切な；ふさわしい",
+            "ex": "Please select the appropriate size.",
+            "exzh": "適切なサイズを選んでください。",
+            "ipa": "/əˈproʊpriət/",
+            "audio": "media/words/ep22/appropriate.mp3",
+            "ex_audio": "media/words/ep22/appropriate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pass around",
+            "pos": "v.",
+            "zh": "回す；回覧する",
+            "ex": "Sign the list that I'm passing around.",
+            "exzh": "回しているリストに署名してください。",
+            "ipa": "/pæs ɚˈaʊnd/",
+            "audio": "media/words/ep22/pass-around.mp3",
+            "ex_audio": "media/words/ep22/pass-around_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "bracket",
+            "pos": "n.",
+            "zh": "区分；層；かっこ",
+            "ex": "There are different fare brackets for passengers.",
+            "exzh": "乗客にはさまざまな運賃区分がある。",
+            "ipa": "/ˈbrækɪt/",
+            "audio": "media/words/ep22/bracket.mp3",
+            "ex_audio": "media/words/ep22/bracket_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "board",
+            "pos": "v./n.",
+            "zh": "乗車する；搭乗する；取締役会",
+            "ex": "Passengers pay when boarding the bus.",
+            "exzh": "乗客は乗車時に運賃を払う。",
+            "ipa": "/bɔrd/",
+            "audio": "media/words/ep22/board.mp3",
+            "ex_audio": "media/words/ep22/board_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retired",
+            "pos": "adj.",
+            "zh": "退職した；引退した",
+            "ex": "Retired people can get a discounted fare.",
+            "exzh": "退職した人は割引運賃が使える。",
+            "ipa": "/rɪˈtaɪrd/",
+            "audio": "media/words/ep22/retired.mp3",
+            "ex_audio": "media/words/ep22/retired_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "identification",
+            "pos": "n.",
+            "zh": "身分証明書；識別",
+            "ex": "Please carry special identification.",
+            "exzh": "特別な身分証を持参してください。",
+            "ipa": "/aɪˌdɛntəfəˈkeɪʃən/",
+            "audio": "media/words/ep22/identification.mp3",
+            "ex_audio": "media/words/ep22/identification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "closure",
+            "pos": "n.",
+            "zh": "閉鎖；休業",
+            "ex": "We discussed the proposed closure of Main Street.",
+            "exzh": "Main Street の閉鎖案を話し合った。",
+            "ipa": "/ˈkloʊʒɚ/",
+            "audio": "media/words/ep22/closure.mp3",
+            "ex_audio": "media/words/ep22/closure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "district",
+            "pos": "n.",
+            "zh": "地区；地域",
+            "ex": "The walkway will attract visitors to the shopping district.",
+            "exzh": "その通路は商業地区に人を呼ぶだろう。",
+            "ipa": "/ˈdɪstrɪkt/",
+            "audio": "media/words/ep22/district.mp3",
+            "ex_audio": "media/words/ep22/district_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "high-ranking",
+            "pos": "adj.",
+            "zh": "地位の高い；高官の",
+            "ex": "We need input from all high-ranking officials.",
+            "exzh": "すべての幹部の意見が必要だ。",
+            "ipa": "/haɪ-ˈræŋkɪŋ/",
+            "audio": "media/words/ep22/high-ranking.mp3",
+            "ex_audio": "media/words/ep22/high-ranking_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "official",
+            "pos": "n./adj.",
+            "zh": "当局者；役人；公式の",
+            "ex": "Several city officials attended the meeting.",
+            "exzh": "何人かの市の当局者が会議に出席した。",
+            "ipa": "/əˈfɪʃəl/",
+            "audio": "media/words/ep22/official.mp3",
+            "ex_audio": "media/words/ep22/official_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "refer to",
+            "pos": "v.",
+            "zh": "参照する；言及する",
+            "ex": "Please refer to page ten in your handouts.",
+            "exzh": "資料の10ページをご覧ください。",
+            "ipa": "/rəˈfɝ tu/",
+            "audio": "media/words/ep22/refer-to.mp3",
+            "ex_audio": "media/words/ep22/refer-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "rendering",
+            "pos": "n.",
+            "zh": "完成予想図；描写；翻訳",
+            "ex": "The architect showed us a rendering of the building.",
+            "exzh": "建築家が建物の完成予想図を見せてくれた。",
+            "ipa": "/ˈrɛndɚɪŋ/",
+            "audio": "media/words/ep22/rendering.mp3",
+            "ex_audio": "media/words/ep22/rendering_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "charming",
+            "pos": "adj.",
+            "zh": "すてきな；魅力的な",
+            "ex": "This charming apartment is on the third floor.",
+            "exzh": "このすてきな部屋は3階にある。",
+            "ipa": "/ˈtʃɑrmɪŋ/",
+            "audio": "media/words/ep22/charming.mp3",
+            "ex_audio": "media/words/ep22/charming_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "unit",
+            "pos": "n.",
+            "zh": "（集合住宅の）1戸；単位",
+            "ex": "The building has twelve units.",
+            "exzh": "その建物には12戸ある。",
+            "ipa": "/ˈjunət/",
+            "audio": "media/words/ep22/unit.mp3",
+            "ex_audio": "media/words/ep22/unit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "within walking distance",
+            "pos": "adv.",
+            "zh": "歩いて行ける距離に",
+            "ex": "The building is within walking distance of the college.",
+            "exzh": "その建物から大学まで歩いて行ける。",
+            "ipa": "/wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns/",
+            "audio": "media/words/ep22/within-walking-distance.mp3",
+            "ex_audio": "media/words/ep22/within-walking-distance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "security deposit",
+            "pos": "n.",
+            "zh": "敷金；保証金",
+            "ex": "A security deposit is required.",
+            "exzh": "敷金が必要だ。",
+            "ipa": "/sɪˈkjʊrəti dəˈpɑzɪt/",
+            "audio": "media/words/ep22/security-deposit.mp3",
+            "ex_audio": "media/words/ep22/security-deposit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "showing",
+            "pos": "n.",
+            "zh": "内見；上映；展示",
+            "ex": "Call to schedule an in-person showing.",
+            "exzh": "内見の予約はお電話で。",
+            "ipa": "/ˈʃoʊɪŋ/",
+            "audio": "media/words/ep22/showing.mp3",
+            "ex_audio": "media/words/ep22/showing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "transit",
+            "pos": "n.",
+            "zh": "公共交通機関；輸送",
+            "ex": "Public transit is available via bus lines 8 and 15.",
+            "exzh": "8番と15番のバスで公共交通が利用できる。",
+            "ipa": "/ˈtrænzɪt/",
+            "audio": "media/words/ep22/transit.mp3",
+            "ex_audio": "media/words/ep22/transit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "top-rated",
+            "pos": "adj.",
+            "zh": "最高評価の；評価の高い",
+            "ex": "It is the world's top-rated transfer service.",
+            "exzh": "それは世界で最も評価の高い送金サービスだ。",
+            "ipa": "/tɑp-ˈreɪtɪd/",
+            "audio": "media/words/ep22/top-rated.mp3",
+            "ex_audio": "media/words/ep22/top-rated_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "funds",
+            "pos": "n.",
+            "zh": "資金；お金",
+            "ex": "You can transfer funds internationally.",
+            "exzh": "海外に資金を送ることができる。",
+            "ipa": "/fʌndz/",
+            "audio": "media/words/ep22/funds.mp3",
+            "ex_audio": "media/words/ep22/funds_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "securely",
+            "pos": "adv.",
+            "zh": "安全に；しっかりと",
+            "ex": "We will move your money securely.",
+            "exzh": "お金を安全に送ります。",
+            "ipa": "/sɪˈkjʊrli/",
+            "audio": "media/words/ep22/securely.mp3",
+            "ex_audio": "media/words/ep22/securely_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hidden fee",
+            "pos": "n.",
+            "zh": "隠れた手数料",
+            "ex": "There are no hidden fees.",
+            "exzh": "隠れた手数料は一切ない。",
+            "ipa": "/ˈhɪdən fi/",
+            "audio": "media/words/ep22/hidden-fee.mp3",
+            "ex_audio": "media/words/ep22/hidden-fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "exchange rate",
+            "pos": "n.",
+            "zh": "為替レート",
+            "ex": "We offer the best exchange rate available.",
+            "exzh": "最も有利な為替レートを提供します。",
+            "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+            "audio": "media/words/ep22/exchange-rate.mp3",
+            "ex_audio": "media/words/ep22/exchange-rate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recipient",
+            "pos": "n.",
+            "zh": "受取人；受け手",
+            "ex": "Provide the details of your recipient's bank account.",
+            "exzh": "受取人の銀行口座の情報を入力してください。",
+            "ipa": "/rəˈsɪpiənt/",
+            "audio": "media/words/ep22/recipient.mp3",
+            "ex_audio": "media/words/ep22/recipient_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "verify",
+            "pos": "v.",
+            "zh": "確認する；検証する",
+            "ex": "Verify your identity with a PIN.",
+            "exzh": "暗証番号で本人確認をしてください。",
+            "ipa": "/ˈvɛrəˌfaɪ/",
+            "audio": "media/words/ep22/verify.mp3",
+            "ex_audio": "media/words/ep22/verify_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "solely",
+            "pos": "adv.",
+            "zh": "…だけ；もっぱら",
+            "ex": "The service is not intended solely for businesses.",
+            "exzh": "そのサービスは企業だけのものではない。",
+            "ipa": "/ˈsoʊəli/",
+            "audio": "media/words/ep22/solely.mp3",
+            "ex_audio": "media/words/ep22/solely_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "wire transfer",
+            "pos": "n.",
+            "zh": "電信送金",
+            "ex": "You can pay by wire transfer.",
+            "exzh": "電信送金で支払うことができる。",
+            "ipa": "/ˈwaɪɚ trænsˈfɝ/",
+            "audio": "media/words/ep22/wire-transfer.mp3",
+            "ex_audio": "media/words/ep22/wire-transfer_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep22_cover.png",
+    "theme_ja": "本番問題精講 · Test 2 第6回",
+    "words": [
+      {
+        "word": "get settled",
+        "pos": "v.",
+        "zh": "安顿下来",
+        "ex": "I can't wait to get settled in my new apartment.",
+        "exzh": "我迫不及待想在新公寓里安顿下来。",
+        "ipa": "/ɡɛt ˈsɛtəld/",
+        "audio": "media/words/ep22/get-settled.mp3",
+        "ex_audio": "media/words/ep22/get-settled_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "scratch",
+        "pos": "v./n.",
+        "zh": "刮伤；划痕",
+        "ex": "We'll be careful not to scratch anything.",
+        "exzh": "我们会小心，不刮伤任何东西。",
+        "ipa": "/skrætʃ/",
+        "audio": "media/words/ep22/scratch.mp3",
+        "ex_audio": "media/words/ep22/scratch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "antique",
+        "pos": "adj./n.",
+        "zh": "古董的；古董",
+        "ex": "Please start with the antique table.",
+        "exzh": "请先搬那张古董桌。",
+        "ipa": "/ænˈtik/",
+        "audio": "media/words/ep22/antique.mp3",
+        "ex_audio": "media/words/ep22/antique_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hallway",
+        "pos": "n.",
+        "zh": "走廊；门厅",
+        "ex": "Go straight down to the end of this hallway.",
+        "exzh": "沿着这条走廊一直走到头。",
+        "ipa": "/ˈhɔlˌweɪ/",
+        "audio": "media/words/ep22/hallway.mp3",
+        "ex_audio": "media/words/ep22/hallway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "help yourself",
+        "pos": "v.",
+        "zh": "请自便；随便吃",
+        "ex": "Please help yourselves while you're working.",
+        "exzh": "干活的时候请随便吃。",
+        "ipa": "/hɛlp jɚˈsɛlf/",
+        "audio": "media/words/ep22/help-yourself.mp3",
+        "ex_audio": "media/words/ep22/help-yourself_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mover",
+        "pos": "n.",
+        "zh": "搬家工人；搬家公司",
+        "ex": "The movers loaded the furniture onto the truck.",
+        "exzh": "搬家工人把家具装上了卡车。",
+        "ipa": "/ˈmuvɚ/",
+        "audio": "media/words/ep22/mover.mp3",
+        "ex_audio": "media/words/ep22/mover_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "graduation",
+        "pos": "n.",
+        "zh": "毕业；毕业典礼",
+        "ex": "The cake is for a graduation party.",
+        "exzh": "这个蛋糕是毕业派对用的。",
+        "ipa": "/ˌɡrædʒuˈeɪʃən/",
+        "audio": "media/words/ep22/graduation.mp3",
+        "ex_audio": "media/words/ep22/graduation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pickup location",
+        "pos": "n.",
+        "zh": "取货地点；接送地点",
+        "ex": "You chose your pickup location online.",
+        "exzh": "您在网上选择了取货地点。",
+        "ipa": "/ˈpɪˌkʌp loʊˈkeɪʃən/",
+        "audio": "media/words/ep22/pickup-location.mp3",
+        "ex_audio": "media/words/ep22/pickup-location_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "drop-down menu",
+        "pos": "n.",
+        "zh": "下拉菜单",
+        "ex": "Choose a store from the drop-down menu.",
+        "exzh": "从下拉菜单里选一家门店。",
+        "ipa": "/drɑp-daʊn ˈmɛnju/",
+        "audio": "media/words/ep22/drop-down-menu.mp3",
+        "ex_audio": "media/words/ep22/drop-down-menu_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "look up",
+        "pos": "v.",
+        "zh": "查找；查阅",
+        "ex": "Let me look up your invoice.",
+        "exzh": "我查一下您的发票。",
+        "ipa": "/lʊk ʌp/",
+        "audio": "media/words/ep22/look-up.mp3",
+        "ex_audio": "media/words/ep22/look-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be in luck",
+        "pos": "v.",
+        "zh": "运气好；正好赶上",
+        "ex": "You're in luck: we have one room left.",
+        "exzh": "您运气好，我们还剩一间房。",
+        "ipa": "/bi ɪn lʌk/",
+        "audio": "media/words/ep22/be-in-luck.mp3",
+        "ex_audio": "media/words/ep22/be-in-luck_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "team up with",
+        "pos": "v.",
+        "zh": "和…合作；和…联手",
+        "ex": "The hotel has teamed up with a local garden.",
+        "exzh": "酒店和本地一家花园合作了。",
+        "ipa": "/tim ʌp wɪð/",
+        "audio": "media/words/ep22/team-up-with.mp3",
+        "ex_audio": "media/words/ep22/team-up-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "package deal",
+        "pos": "n.",
+        "zh": "套餐；一揽子优惠",
+        "ex": "We offer package deals this weekend.",
+        "exzh": "这个周末我们推出套餐。",
+        "ipa": "/ˈpækədʒ dil/",
+        "audio": "media/words/ep22/package-deal.mp3",
+        "ex_audio": "media/words/ep22/package-deal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "admission",
+        "pos": "n.",
+        "zh": "入场；门票；入场费",
+        "ex": "The package includes admission to the gardens.",
+        "exzh": "套餐包含花园门票。",
+        "ipa": "/ædˈmɪʃən/",
+        "audio": "media/words/ep22/admission.mp3",
+        "ex_audio": "media/words/ep22/admission_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inspiration",
+        "pos": "n.",
+        "zh": "灵感；鼓舞",
+        "ex": "I'd love to get some inspiration for my shop.",
+        "exzh": "我很想为我的店找些灵感。",
+        "ipa": "/ˌɪnspɚˈeɪʃən/",
+        "audio": "media/words/ep22/inspiration.mp3",
+        "ex_audio": "media/words/ep22/inspiration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "grounds",
+        "pos": "n.",
+        "zh": "庭院；场地；理由",
+        "ex": "The hotel is renovating its grounds.",
+        "exzh": "酒店正在翻修场地。",
+        "ipa": "/ɡraʊndz/",
+        "audio": "media/words/ep22/grounds.mp3",
+        "ex_audio": "media/words/ep22/grounds_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "secure",
+        "pos": "v./adj.",
+        "zh": "获得；确保；安全的",
+        "ex": "They want to secure a bus driver position.",
+        "exzh": "他们想获得一个公交司机的职位。",
+        "ipa": "/sɪˈkjʊr/",
+        "audio": "media/words/ep22/secure.mp3",
+        "ex_audio": "media/words/ep22/secure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hand out",
+        "pos": "v.",
+        "zh": "分发；发放",
+        "ex": "We'll be handing out the uniforms next week.",
+        "exzh": "我们下周会发制服。",
+        "ipa": "/hænd aʊt/",
+        "audio": "media/words/ep22/hand-out.mp3",
+        "ex_audio": "media/words/ep22/hand-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appropriate",
+        "pos": "adj.",
+        "zh": "合适的；恰当的",
+        "ex": "Please select the appropriate size.",
+        "exzh": "请选好合适的尺码。",
+        "ipa": "/əˈproʊpriət/",
+        "audio": "media/words/ep22/appropriate.mp3",
+        "ex_audio": "media/words/ep22/appropriate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pass around",
+        "pos": "v.",
+        "zh": "传阅；传递",
+        "ex": "Sign the list that I'm passing around.",
+        "exzh": "请在我传下去的名单上签名。",
+        "ipa": "/pæs ɚˈaʊnd/",
+        "audio": "media/words/ep22/pass-around.mp3",
+        "ex_audio": "media/words/ep22/pass-around_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "bracket",
+        "pos": "n.",
+        "zh": "档次；等级；括号",
+        "ex": "There are different fare brackets for passengers.",
+        "exzh": "乘客有不同的票价档次。",
+        "ipa": "/ˈbrækɪt/",
+        "audio": "media/words/ep22/bracket.mp3",
+        "ex_audio": "media/words/ep22/bracket_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "board",
+        "pos": "v./n.",
+        "zh": "上（车、船、飞机）；董事会",
+        "ex": "Passengers pay when boarding the bus.",
+        "exzh": "乘客上车时付钱。",
+        "ipa": "/bɔrd/",
+        "audio": "media/words/ep22/board.mp3",
+        "ex_audio": "media/words/ep22/board_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retired",
+        "pos": "adj.",
+        "zh": "退休的",
+        "ex": "Retired people can get a discounted fare.",
+        "exzh": "退休人士可以享受优惠票价。",
+        "ipa": "/rɪˈtaɪrd/",
+        "audio": "media/words/ep22/retired.mp3",
+        "ex_audio": "media/words/ep22/retired_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "identification",
+        "pos": "n.",
+        "zh": "身份证明；识别",
+        "ex": "Please carry special identification.",
+        "exzh": "请携带特别证件。",
+        "ipa": "/aɪˌdɛntəfəˈkeɪʃən/",
+        "audio": "media/words/ep22/identification.mp3",
+        "ex_audio": "media/words/ep22/identification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "closure",
+        "pos": "n.",
+        "zh": "关闭；封闭",
+        "ex": "We discussed the proposed closure of Main Street.",
+        "exzh": "我们讨论了关闭 Main Street 的提案。",
+        "ipa": "/ˈkloʊʒɚ/",
+        "audio": "media/words/ep22/closure.mp3",
+        "ex_audio": "media/words/ep22/closure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "district",
+        "pos": "n.",
+        "zh": "区域；地区",
+        "ex": "The walkway will attract visitors to the shopping district.",
+        "exzh": "这条步行道会吸引游客到购物区。",
+        "ipa": "/ˈdɪstrɪkt/",
+        "audio": "media/words/ep22/district.mp3",
+        "ex_audio": "media/words/ep22/district_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "high-ranking",
+        "pos": "adj.",
+        "zh": "高级别的；地位高的",
+        "ex": "We need input from all high-ranking officials.",
+        "exzh": "我们需要所有高级官员的意见。",
+        "ipa": "/haɪ-ˈræŋkɪŋ/",
+        "audio": "media/words/ep22/high-ranking.mp3",
+        "ex_audio": "media/words/ep22/high-ranking_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "official",
+        "pos": "n./adj.",
+        "zh": "官员；正式的",
+        "ex": "Several city officials attended the meeting.",
+        "exzh": "几位市政官员参加了会议。",
+        "ipa": "/əˈfɪʃəl/",
+        "audio": "media/words/ep22/official.mp3",
+        "ex_audio": "media/words/ep22/official_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "refer to",
+        "pos": "v.",
+        "zh": "参看；查阅；提到",
+        "ex": "Please refer to page ten in your handouts.",
+        "exzh": "请看讲义第十页。",
+        "ipa": "/rəˈfɝ tu/",
+        "audio": "media/words/ep22/refer-to.mp3",
+        "ex_audio": "media/words/ep22/refer-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "rendering",
+        "pos": "n.",
+        "zh": "效果图；表现；翻译",
+        "ex": "The architect showed us a rendering of the building.",
+        "exzh": "建筑师给我们看了这栋楼的效果图。",
+        "ipa": "/ˈrɛndɚɪŋ/",
+        "audio": "media/words/ep22/rendering.mp3",
+        "ex_audio": "media/words/ep22/rendering_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "charming",
+        "pos": "adj.",
+        "zh": "迷人的；漂亮的",
+        "ex": "This charming apartment is on the third floor.",
+        "exzh": "这套漂亮的公寓在三楼。",
+        "ipa": "/ˈtʃɑrmɪŋ/",
+        "audio": "media/words/ep22/charming.mp3",
+        "ex_audio": "media/words/ep22/charming_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "unit",
+        "pos": "n.",
+        "zh": "（公寓的）一户；单位；装置",
+        "ex": "The building has twelve units.",
+        "exzh": "这栋楼有十二户。",
+        "ipa": "/ˈjunət/",
+        "audio": "media/words/ep22/unit.mp3",
+        "ex_audio": "media/words/ep22/unit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "within walking distance",
+        "pos": "adv.",
+        "zh": "步行可到",
+        "ex": "The building is within walking distance of the college.",
+        "exzh": "这栋楼步行就能到学院。",
+        "ipa": "/wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns/",
+        "audio": "media/words/ep22/within-walking-distance.mp3",
+        "ex_audio": "media/words/ep22/within-walking-distance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "security deposit",
+        "pos": "n.",
+        "zh": "押金；保证金",
+        "ex": "A security deposit is required.",
+        "exzh": "需要交押金。",
+        "ipa": "/sɪˈkjʊrəti dəˈpɑzɪt/",
+        "audio": "media/words/ep22/security-deposit.mp3",
+        "ex_audio": "media/words/ep22/security-deposit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "showing",
+        "pos": "n.",
+        "zh": "看房；放映；展示",
+        "ex": "Call to schedule an in-person showing.",
+        "exzh": "请打电话预约实地看房。",
+        "ipa": "/ˈʃoʊɪŋ/",
+        "audio": "media/words/ep22/showing.mp3",
+        "ex_audio": "media/words/ep22/showing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "transit",
+        "pos": "n.",
+        "zh": "公共交通；运输",
+        "ex": "Public transit is available via bus lines 8 and 15.",
+        "exzh": "可以坐 8 路和 15 路公交车。",
+        "ipa": "/ˈtrænzɪt/",
+        "audio": "media/words/ep22/transit.mp3",
+        "ex_audio": "media/words/ep22/transit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "top-rated",
+        "pos": "adj.",
+        "zh": "评价最高的；最受好评的",
+        "ex": "It is the world's top-rated transfer service.",
+        "exzh": "它是全球评价最高的汇款服务。",
+        "ipa": "/tɑp-ˈreɪtɪd/",
+        "audio": "media/words/ep22/top-rated.mp3",
+        "ex_audio": "media/words/ep22/top-rated_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "funds",
+        "pos": "n.",
+        "zh": "资金；款项",
+        "ex": "You can transfer funds internationally.",
+        "exzh": "你可以进行国际资金转账。",
+        "ipa": "/fʌndz/",
+        "audio": "media/words/ep22/funds.mp3",
+        "ex_audio": "media/words/ep22/funds_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "securely",
+        "pos": "adv.",
+        "zh": "安全地；牢固地",
+        "ex": "We will move your money securely.",
+        "exzh": "我们会安全地转移您的资金。",
+        "ipa": "/sɪˈkjʊrli/",
+        "audio": "media/words/ep22/securely.mp3",
+        "ex_audio": "media/words/ep22/securely_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hidden fee",
+        "pos": "n.",
+        "zh": "隐藏费用",
+        "ex": "There are no hidden fees.",
+        "exzh": "没有任何隐藏费用。",
+        "ipa": "/ˈhɪdən fi/",
+        "audio": "media/words/ep22/hidden-fee.mp3",
+        "ex_audio": "media/words/ep22/hidden-fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "exchange rate",
+        "pos": "n.",
+        "zh": "汇率",
+        "ex": "We offer the best exchange rate available.",
+        "exzh": "我们提供最优惠的汇率。",
+        "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+        "audio": "media/words/ep22/exchange-rate.mp3",
+        "ex_audio": "media/words/ep22/exchange-rate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recipient",
+        "pos": "n.",
+        "zh": "收款人；接受者",
+        "ex": "Provide the details of your recipient's bank account.",
+        "exzh": "请提供收款人的银行账户信息。",
+        "ipa": "/rəˈsɪpiənt/",
+        "audio": "media/words/ep22/recipient.mp3",
+        "ex_audio": "media/words/ep22/recipient_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "verify",
+        "pos": "v.",
+        "zh": "核实；验证",
+        "ex": "Verify your identity with a PIN.",
+        "exzh": "用个人识别码验证身份。",
+        "ipa": "/ˈvɛrəˌfaɪ/",
+        "audio": "media/words/ep22/verify.mp3",
+        "ex_audio": "media/words/ep22/verify_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "solely",
+        "pos": "adv.",
+        "zh": "仅仅；只",
+        "ex": "The service is not intended solely for businesses.",
+        "exzh": "这项服务不只是面向企业。",
+        "ipa": "/ˈsoʊəli/",
+        "audio": "media/words/ep22/solely.mp3",
+        "ex_audio": "media/words/ep22/solely_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wire transfer",
+        "pos": "n.",
+        "zh": "电汇",
+        "ex": "You can pay by wire transfer.",
+        "exzh": "你可以用电汇付款。",
+        "ipa": "/ˈwaɪɚ trænsˈfɝ/",
+        "audio": "media/words/ep22/wire-transfer.mp3",
+        "ex_audio": "media/words/ep22/wire-transfer_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 21,
     "theme": "真题精讲 · Test 2 第五篇",
     "date": "2026-10-14",
