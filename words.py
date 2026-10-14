@@ -22,6 +22,8 @@ def _load_py(p):
     import sys
     if str(p.parent) not in sys.path:
         sys.path.insert(0, str(p.parent))
+    if "ep_helpers" in sys.modules:  # each content module has its own zh->ja table
+        sys.modules["ep_helpers"].TR.clear()
     spec = importlib.util.spec_from_file_location(f"m_{p.stem}", p)
     m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m); return m
 
