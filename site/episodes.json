@@ -962,6 +962,1302 @@
     ]
   },
   {
+    "number": 24,
+    "theme": "真题精讲 · Test 2 第八篇",
+    "date": "2026-10-14",
+    "duration_sec": 2440.0,
+    "segments": [
+      {
+        "title": "1. Part 4 逐句精听",
+        "start": 0.0,
+        "length": 695.61
+      },
+      {
+        "title": "2. Part 7 双篇阅读 2 组",
+        "start": 695.61,
+        "length": 1076.35
+      },
+      {
+        "title": "3. 本期 40 词总复习 · 拼读",
+        "start": 1771.96,
+        "length": 668.02
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "spread the word",
+        "zh": "宣传；传播消息"
+      },
+      {
+        "word": "go hand in hand",
+        "zh": "密切相关；相辅相成"
+      },
+      {
+        "word": "take charge of",
+        "zh": "负责；接管"
+      },
+      {
+        "word": "prerequisite",
+        "zh": "先决条件；先修课"
+      },
+      {
+        "word": "relatively",
+        "zh": "相对地；比较"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "board meeting",
+        "zh": "董事会会议"
+      },
+      {
+        "word": "pilot",
+        "zh": "试点；试验；飞行员"
+      },
+      {
+        "word": "tryout",
+        "zh": "试用；试销；选拔"
+      },
+      {
+        "word": "yield",
+        "zh": "产生；带来；产量"
+      },
+      {
+        "word": "worst-performing",
+        "zh": "表现最差的"
+      },
+      {
+        "word": "spread the word",
+        "zh": "宣传；传播消息"
+      },
+      {
+        "word": "discontinue",
+        "zh": "停产；停止；中断"
+      },
+      {
+        "word": "executive",
+        "zh": "高管；主管；行政的"
+      },
+      {
+        "word": "janitorial",
+        "zh": "清洁工的；保洁的"
+      },
+      {
+        "word": "relatively",
+        "zh": "相对地；比较"
+      },
+      {
+        "word": "air freshener",
+        "zh": "空气清新剂"
+      },
+      {
+        "word": "expense report",
+        "zh": "费用报告；报销单"
+      },
+      {
+        "word": "refuel",
+        "zh": "加油；补充燃料"
+      },
+      {
+        "word": "scented",
+        "zh": "有香味的；加香料的"
+      },
+      {
+        "word": "timesheet",
+        "zh": "工时表；考勤表"
+      },
+      {
+        "word": "much-anticipated",
+        "zh": "备受期待的"
+      },
+      {
+        "word": "sensation",
+        "zh": "轰动；轰动一时的人或事；感觉"
+      },
+      {
+        "word": "profession",
+        "zh": "职业；行业"
+      },
+      {
+        "word": "critic",
+        "zh": "评论家；批评者"
+      },
+      {
+        "word": "owner-chef",
+        "zh": "老板兼主厨"
+      },
+      {
+        "word": "regional",
+        "zh": "地方的；地区的"
+      },
+      {
+        "word": "cozy",
+        "zh": "温馨的；舒适的"
+      },
+      {
+        "word": "eatery",
+        "zh": "小餐馆；饭馆"
+      },
+      {
+        "word": "contemporary",
+        "zh": "现代的；当代的"
+      },
+      {
+        "word": "thrilled",
+        "zh": "非常兴奋的；高兴极了"
+      },
+      {
+        "word": "crowded",
+        "zh": "拥挤的"
+      },
+      {
+        "word": "take away",
+        "zh": "减少；带走；拿走"
+      },
+      {
+        "word": "go hand in hand",
+        "zh": "密切相关；相辅相成"
+      },
+      {
+        "word": "deserve",
+        "zh": "值得；应得"
+      },
+      {
+        "word": "worthy",
+        "zh": "值得的；有价值的"
+      },
+      {
+        "word": "minimum",
+        "zh": "最低限度；最小的"
+      },
+      {
+        "word": "analytics",
+        "zh": "数据分析；分析学"
+      },
+      {
+        "word": "fundamental",
+        "zh": "基础的；根本的"
+      },
+      {
+        "word": "prerequisite",
+        "zh": "先决条件；先修课"
+      },
+      {
+        "word": "take charge of",
+        "zh": "负责；接管"
+      },
+      {
+        "word": "corporate",
+        "zh": "公司的；企业的"
+      },
+      {
+        "word": "confidentiality",
+        "zh": "保密性；机密性"
+      },
+      {
+        "word": "negotiate",
+        "zh": "谈判；协商"
+      },
+      {
+        "word": "adopt",
+        "zh": "采用；采纳；收养"
+      },
+      {
+        "word": "maximize",
+        "zh": "使最大化"
+      }
+    ],
+    "video": "media/ep24.mp4",
+    "script_pdf": "media/ep24_script.pdf",
+    "source_video": "ep24.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep24.html",
+        "video": "media/ep24.mp4",
+        "script_pdf": "media/ep24_script.pdf",
+        "duration_sec": 2440.0,
+        "theme": "真题精讲 · Test 2 第八篇",
+        "segments": [
+          {
+            "title": "1. Part 4 逐句精听",
+            "start": 0.0,
+            "length": 695.61
+          },
+          {
+            "title": "2. Part 7 双篇阅读 2 组",
+            "start": 695.61,
+            "length": 1076.35
+          },
+          {
+            "title": "3. 本期 40 词总复习 · 拼读",
+            "start": 1771.96,
+            "length": 668.02
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep24ja.html",
+        "video": "media/ep24ja.mp4",
+        "script_pdf": "media/ep24ja_script.pdf",
+        "duration_sec": 2789.0,
+        "theme": "本番問題精講 · Test 2 第8回",
+        "segments": [
+          {
+            "title": "1. Part 4 1文ずつ精聴",
+            "start": 0.0,
+            "length": 846.11
+          },
+          {
+            "title": "2. Part 7 ダブルパッセージ 2組",
+            "start": 846.11,
+            "length": 1236.48
+          },
+          {
+            "title": "3. 今回の 40 語総復習 · スペル",
+            "start": 2082.6,
+            "length": 706.42
+          }
+        ],
+        "poster": "media/ep24ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "spread the word",
+            "zh": "情報を広める；口コミで伝える"
+          },
+          {
+            "word": "go hand in hand",
+            "zh": "密接に結びついている；切り離せない"
+          },
+          {
+            "word": "take charge of",
+            "zh": "…を担当する；引き受ける"
+          },
+          {
+            "word": "prerequisite",
+            "zh": "前提条件；必須の先行科目"
+          },
+          {
+            "word": "relatively",
+            "zh": "比較的；わりあい"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "board meeting",
+          "pilot",
+          "tryout",
+          "yield",
+          "worst-performing",
+          "spread the word",
+          "discontinue",
+          "executive",
+          "janitorial",
+          "relatively",
+          "air freshener",
+          "expense report",
+          "refuel",
+          "scented",
+          "timesheet",
+          "much-anticipated",
+          "sensation",
+          "profession",
+          "critic",
+          "owner-chef",
+          "regional",
+          "cozy",
+          "eatery",
+          "contemporary",
+          "thrilled",
+          "crowded",
+          "take away",
+          "go hand in hand",
+          "deserve",
+          "worthy",
+          "minimum",
+          "analytics",
+          "fundamental",
+          "prerequisite",
+          "take charge of",
+          "corporate",
+          "confidentiality",
+          "negotiate",
+          "adopt",
+          "maximize"
+        ],
+        "words": [
+          {
+            "word": "board meeting",
+            "pos": "n.",
+            "zh": "取締役会",
+            "ex": "I talked about the plan at our last board meeting.",
+            "exzh": "前回の取締役会でその計画について話した。",
+            "ipa": "/bɔrd ˈmitɪŋ/",
+            "audio": "media/words/ep24/board-meeting.mp3",
+            "ex_audio": "media/words/ep24/board-meeting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pilot",
+            "pos": "n./adj.",
+            "zh": "試験的な実施；パイロット",
+            "ex": "We conducted a pilot last month.",
+            "exzh": "先月試験的に実施した。",
+            "ipa": "/ˈpaɪlət/",
+            "audio": "media/words/ep24/pilot.mp3",
+            "ex_audio": "media/words/ep24/pilot_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tryout",
+            "pos": "n.",
+            "zh": "試し；試験販売；選考会",
+            "ex": "The cereal selected for the tryout sold poorly.",
+            "exzh": "試験販売に選んだシリアルは売れ行きが悪かった。",
+            "ipa": "/ˈtraɪˌaʊt/",
+            "audio": "media/words/ep24/tryout.mp3",
+            "ex_audio": "media/words/ep24/tryout_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "yield",
+            "pos": "v./n.",
+            "zh": "生み出す；もたらす；収穫量",
+            "ex": "The test yielded disappointing results.",
+            "exzh": "その試験は期待はずれの結果となった。",
+            "ipa": "/jild/",
+            "audio": "media/words/ep24/yield.mp3",
+            "ex_audio": "media/words/ep24/yield_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "worst-performing",
+            "pos": "adj.",
+            "zh": "成績が最も悪い",
+            "ex": "It was our worst-performing product.",
+            "exzh": "それは当社で最も売れ行きの悪い製品だった。",
+            "ipa": "/wɝst-pɚˈfɔrmɪŋ/",
+            "audio": "media/words/ep24/worst-performing.mp3",
+            "ex_audio": "media/words/ep24/worst-performing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "spread the word",
+            "pos": "v.",
+            "zh": "情報を広める；口コミで伝える",
+            "ex": "We need to spread the word about the new size.",
+            "exzh": "新しいサイズについて広める必要がある。",
+            "ipa": "/sprɛd ðə wɝd/",
+            "audio": "media/words/ep24/spread-the-word.mp3",
+            "ex_audio": "media/words/ep24/spread-the-word_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "discontinue",
+            "pos": "v.",
+            "zh": "製造を中止する；打ち切る",
+            "ex": "The product line will be discontinued.",
+            "exzh": "その製品シリーズは製造中止になる。",
+            "ipa": "/dɪskənˈtɪnju/",
+            "audio": "media/words/ep24/discontinue.mp3",
+            "ex_audio": "media/words/ep24/discontinue_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "executive",
+            "pos": "n./adj.",
+            "zh": "重役；幹部；経営の",
+            "ex": "An executive will retire next year.",
+            "exzh": "ある重役が来年退職する。",
+            "ipa": "/ɪɡˈzɛkjətɪv/",
+            "audio": "media/words/ep24/executive.mp3",
+            "ex_audio": "media/words/ep24/executive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "janitorial",
+            "pos": "adj.",
+            "zh": "清掃の；用務の",
+            "ex": "My janitorial team cleaned the filters.",
+            "exzh": "清掃チームがフィルターを掃除した。",
+            "ipa": "/ˌdʒænɪˈtɔriəl/",
+            "audio": "media/words/ep24/janitorial.mp3",
+            "ex_audio": "media/words/ep24/janitorial_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relatively",
+            "pos": "adv.",
+            "zh": "比較的；わりあい",
+            "ex": "The job was relatively easy.",
+            "exzh": "その作業は比較的簡単だった。",
+            "ipa": "/ˈrɛlətɪvli/",
+            "audio": "media/words/ep24/relatively.mp3",
+            "ex_audio": "media/words/ep24/relatively_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "air freshener",
+            "pos": "n.",
+            "zh": "芳香剤；消臭剤",
+            "ex": "Spray an air freshener on the filter.",
+            "exzh": "フィルターに芳香剤を吹きかけてください。",
+            "ipa": "/ɛr ˈfrɛʃənɚ/",
+            "audio": "media/words/ep24/air-freshener.mp3",
+            "ex_audio": "media/words/ep24/air-freshener_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expense report",
+            "pos": "n.",
+            "zh": "経費報告書",
+            "ex": "I'll be submitting an extra expense report this week.",
+            "exzh": "今週は追加の経費報告書を提出する。",
+            "ipa": "/ɪkˈspɛns riˈpɔrt/",
+            "audio": "media/words/ep24/expense-report.mp3",
+            "ex_audio": "media/words/ep24/expense-report_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "refuel",
+            "pos": "v.",
+            "zh": "給油する；燃料を補給する",
+            "ex": "We had to refuel the company van.",
+            "exzh": "会社のバンに給油しなければならなかった。",
+            "ipa": "/riˈfjuəl/",
+            "audio": "media/words/ep24/refuel.mp3",
+            "ex_audio": "media/words/ep24/refuel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "scented",
+            "pos": "adj.",
+            "zh": "香りのついた",
+            "ex": "She prefers scented candles.",
+            "exzh": "彼女は香りつきのろうそくが好きだ。",
+            "ipa": "/ˈsɛntɪd/",
+            "audio": "media/words/ep24/scented.mp3",
+            "ex_audio": "media/words/ep24/scented_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "timesheet",
+            "pos": "n.",
+            "zh": "タイムシート；勤務時間記録表",
+            "ex": "Please submit your timesheet by Friday.",
+            "exzh": "金曜日までにタイムシートを提出してください。",
+            "ipa": "",
+            "audio": "media/words/ep24/timesheet.mp3",
+            "ex_audio": "media/words/ep24/timesheet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "much-anticipated",
+            "pos": "adj.",
+            "zh": "待望の；期待の大きい",
+            "ex": "The much-anticipated opening is set for July 1.",
+            "exzh": "待望の開店は7月1日に決まった。",
+            "ipa": "/mʌtʃ-ænˈtɪsəˌpeɪtɪd/",
+            "audio": "media/words/ep24/much-anticipated.mp3",
+            "ex_audio": "media/words/ep24/much-anticipated_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sensation",
+            "pos": "n.",
+            "zh": "大評判；センセーション；感覚",
+            "ex": "The food truck was an instant sensation.",
+            "exzh": "そのフードトラックはたちまち大評判になった。",
+            "ipa": "/sɛnˈseɪʃən/",
+            "audio": "media/words/ep24/sensation.mp3",
+            "ex_audio": "media/words/ep24/sensation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "profession",
+            "pos": "n.",
+            "zh": "職業；専門職",
+            "ex": "What is his profession?",
+            "exzh": "彼の職業は何ですか。",
+            "ipa": "/prəˈfɛʃən/",
+            "audio": "media/words/ep24/profession.mp3",
+            "ex_audio": "media/words/ep24/profession_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "critic",
+            "pos": "n.",
+            "zh": "評論家；批評家",
+            "ex": "The art critic praised the exhibit.",
+            "exzh": "その美術評論家は展示を絶賛した。",
+            "ipa": "/ˈkrɪtɪk/",
+            "audio": "media/words/ep24/critic.mp3",
+            "ex_audio": "media/words/ep24/critic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "owner-chef",
+            "pos": "n.",
+            "zh": "オーナーシェフ",
+            "ex": "The owner-chef started with a food truck.",
+            "exzh": "そのオーナーシェフはフードトラックから始めた。",
+            "ipa": "/ˈoʊnɚ-ʃɛf/",
+            "audio": "media/words/ep24/owner-chef.mp3",
+            "ex_audio": "media/words/ep24/owner-chef_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regional",
+            "pos": "adj.",
+            "zh": "地方の；地域の",
+            "ex": "She cooks regional Italian food.",
+            "exzh": "彼女はイタリアの郷土料理を作る。",
+            "ipa": "/ˈridʒənəl/",
+            "audio": "media/words/ep24/regional.mp3",
+            "ex_audio": "media/words/ep24/regional_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cozy",
+            "pos": "adj.",
+            "zh": "居心地のいい；こぢんまりした",
+            "ex": "She created a cozy eatery.",
+            "exzh": "彼女は居心地のいい食堂を作った。",
+            "ipa": "/ˈkoʊzi/",
+            "audio": "media/words/ep24/cozy.mp3",
+            "ex_audio": "media/words/ep24/cozy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "eatery",
+            "pos": "n.",
+            "zh": "食堂；飲食店",
+            "ex": "The eatery serves classic Italian dishes.",
+            "exzh": "その食堂は定番のイタリア料理を出している。",
+            "ipa": "/ˈitɚi/",
+            "audio": "media/words/ep24/eatery.mp3",
+            "ex_audio": "media/words/ep24/eatery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contemporary",
+            "pos": "adj.",
+            "zh": "現代的な；現代の",
+            "ex": "They serve contemporary versions of classic dishes.",
+            "exzh": "定番料理を現代風にアレンジして出している。",
+            "ipa": "/kənˈtɛmpɚˌɛri/",
+            "audio": "media/words/ep24/contemporary.mp3",
+            "ex_audio": "media/words/ep24/contemporary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "thrilled",
+            "pos": "adj.",
+            "zh": "大喜びの；わくわくした",
+            "ex": "We were thrilled to get a reservation.",
+            "exzh": "予約が取れて大喜びした。",
+            "ipa": "/θrɪld/",
+            "audio": "media/words/ep24/thrilled.mp3",
+            "ex_audio": "media/words/ep24/thrilled_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "crowded",
+            "pos": "adj.",
+            "zh": "混雑した",
+            "ex": "The restaurant was crowded and loud.",
+            "exzh": "その店は混雑していてうるさかった。",
+            "ipa": "/ˈkraʊdəd/",
+            "audio": "media/words/ep24/crowded.mp3",
+            "ex_audio": "media/words/ep24/crowded_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take away",
+            "pos": "v.",
+            "zh": "減らす；奪う；持ち去る",
+            "ex": "The noise took away some of our enjoyment.",
+            "exzh": "騒音で楽しさが少し減った。",
+            "ipa": "/teɪk əˈweɪ/",
+            "audio": "media/words/ep24/take-away.mp3",
+            "ex_audio": "media/words/ep24/take-away_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go hand in hand",
+            "pos": "v.",
+            "zh": "密接に結びついている；切り離せない",
+            "ex": "At our restaurant, food and art go hand in hand.",
+            "exzh": "当店では料理と芸術が切り離せない。",
+            "ipa": "/ɡoʊ hænd ɪn hænd/",
+            "audio": "media/words/ep24/go-hand-in-hand.mp3",
+            "ex_audio": "media/words/ep24/go-hand-in-hand_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "deserve",
+            "pos": "v.",
+            "zh": "…に値する；…を受けるべきだ",
+            "ex": "These artists deserve a wider audience.",
+            "exzh": "その芸術家たちはもっと多くの人に知られるべきだ。",
+            "ipa": "/dɪˈzɝv/",
+            "audio": "media/words/ep24/deserve.mp3",
+            "ex_audio": "media/words/ep24/deserve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "worthy",
+            "pos": "adj.",
+            "zh": "価値のある；立派な",
+            "ex": "It is a worthy mission.",
+            "exzh": "それは価値のある使命だ。",
+            "ipa": "/ˈwɝði/",
+            "audio": "media/words/ep24/worthy.mp3",
+            "ex_audio": "media/words/ep24/worthy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "minimum",
+            "pos": "n./adj.",
+            "zh": "最低限；最小の",
+            "ex": "Employees take a minimum of two courses a year.",
+            "exzh": "社員は年に最低2つのコースを受ける。",
+            "ipa": "/ˈmɪnəməm/",
+            "audio": "media/words/ep24/minimum.mp3",
+            "ex_audio": "media/words/ep24/minimum_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "analytics",
+            "pos": "n.",
+            "zh": "データ分析；アナリティクス",
+            "ex": "The course is an introduction to business analytics.",
+            "exzh": "そのコースはビジネス分析の入門だ。",
+            "ipa": "/ˌænəˈlɪtɪks/",
+            "audio": "media/words/ep24/analytics.mp3",
+            "ex_audio": "media/words/ep24/analytics_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "基礎的な；根本的な",
+            "ex": "Learn fundamental data analysis.",
+            "exzh": "基礎的なデータ分析を学ぶ。",
+            "ipa": "/ˌfʌndəˈmɛntəl/",
+            "audio": "media/words/ep24/fundamental.mp3",
+            "ex_audio": "media/words/ep24/fundamental_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prerequisite",
+            "pos": "n.",
+            "zh": "前提条件；必須の先行科目",
+            "ex": "The introductory course is a prerequisite.",
+            "exzh": "入門コースが前提条件だ。",
+            "ipa": "/priˈrɛkwəzət/",
+            "audio": "media/words/ep24/prerequisite.mp3",
+            "ex_audio": "media/words/ep24/prerequisite_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "take charge of",
+            "pos": "v.",
+            "zh": "…を担当する；引き受ける",
+            "ex": "He was asked to take charge of computer training.",
+            "exzh": "彼はコンピューター研修の担当を頼まれた。",
+            "ipa": "/teɪk tʃɑrdʒ əv/",
+            "audio": "media/words/ep24/take-charge-of.mp3",
+            "ex_audio": "media/words/ep24/take-charge-of_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "corporate",
+            "pos": "adj.",
+            "zh": "会社の；企業の",
+            "ex": "The new system is a corporate priority.",
+            "exzh": "新しいシステムは会社の最優先事項だ。",
+            "ipa": "/ˈkɔrpɚət/",
+            "audio": "media/words/ep24/corporate.mp3",
+            "ex_audio": "media/words/ep24/corporate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "confidentiality",
+            "pos": "n.",
+            "zh": "機密性；守秘",
+            "ex": "The course covers client confidentiality.",
+            "exzh": "そのコースは顧客の守秘を扱う。",
+            "ipa": "/ˌkɑnfəˌdɛnʃiˈæləti/",
+            "audio": "media/words/ep24/confidentiality.mp3",
+            "ex_audio": "media/words/ep24/confidentiality_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "negotiate",
+            "pos": "v.",
+            "zh": "交渉する",
+            "ex": "Learn how to negotiate with confidence.",
+            "exzh": "自信を持って交渉する方法を学ぶ。",
+            "ipa": "/nəˈɡoʊʃiˌeɪt/",
+            "audio": "media/words/ep24/negotiate.mp3",
+            "ex_audio": "media/words/ep24/negotiate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "adopt",
+            "pos": "v.",
+            "zh": "採用する；取り入れる",
+            "ex": "Adopt strategies to maximize results.",
+            "exzh": "成果を最大にする戦略を取り入れる。",
+            "ipa": "/əˈdɑpt/",
+            "audio": "media/words/ep24/adopt.mp3",
+            "ex_audio": "media/words/ep24/adopt_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "maximize",
+            "pos": "v.",
+            "zh": "最大にする",
+            "ex": "We want to maximize our results.",
+            "exzh": "成果を最大にしたい。",
+            "ipa": "/ˈmæksəˌmaɪz/",
+            "audio": "media/words/ep24/maximize.mp3",
+            "ex_audio": "media/words/ep24/maximize_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep24_cover.png",
+    "theme_ja": "本番問題精講 · Test 2 第8回",
+    "words": [
+      {
+        "word": "board meeting",
+        "pos": "n.",
+        "zh": "董事会会议",
+        "ex": "I talked about the plan at our last board meeting.",
+        "exzh": "我在上次董事会上谈到了这个计划。",
+        "ipa": "/bɔrd ˈmitɪŋ/",
+        "audio": "media/words/ep24/board-meeting.mp3",
+        "ex_audio": "media/words/ep24/board-meeting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pilot",
+        "pos": "n./adj.",
+        "zh": "试点；试验；飞行员",
+        "ex": "We conducted a pilot last month.",
+        "exzh": "我们上个月做了一次试点。",
+        "ipa": "/ˈpaɪlət/",
+        "audio": "media/words/ep24/pilot.mp3",
+        "ex_audio": "media/words/ep24/pilot_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tryout",
+        "pos": "n.",
+        "zh": "试用；试销；选拔",
+        "ex": "The cereal selected for the tryout sold poorly.",
+        "exzh": "被选来试销的麦片卖得不好。",
+        "ipa": "/ˈtraɪˌaʊt/",
+        "audio": "media/words/ep24/tryout.mp3",
+        "ex_audio": "media/words/ep24/tryout_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "yield",
+        "pos": "v./n.",
+        "zh": "产生；带来；产量",
+        "ex": "The test yielded disappointing results.",
+        "exzh": "这次测试带来了令人失望的结果。",
+        "ipa": "/jild/",
+        "audio": "media/words/ep24/yield.mp3",
+        "ex_audio": "media/words/ep24/yield_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "worst-performing",
+        "pos": "adj.",
+        "zh": "表现最差的",
+        "ex": "It was our worst-performing product.",
+        "exzh": "那是我们表现最差的产品。",
+        "ipa": "/wɝst-pɚˈfɔrmɪŋ/",
+        "audio": "media/words/ep24/worst-performing.mp3",
+        "ex_audio": "media/words/ep24/worst-performing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "spread the word",
+        "pos": "v.",
+        "zh": "宣传；传播消息",
+        "ex": "We need to spread the word about the new size.",
+        "exzh": "我们需要宣传新的尺寸。",
+        "ipa": "/sprɛd ðə wɝd/",
+        "audio": "media/words/ep24/spread-the-word.mp3",
+        "ex_audio": "media/words/ep24/spread-the-word_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "discontinue",
+        "pos": "v.",
+        "zh": "停产；停止；中断",
+        "ex": "The product line will be discontinued.",
+        "exzh": "这个产品线将停产。",
+        "ipa": "/dɪskənˈtɪnju/",
+        "audio": "media/words/ep24/discontinue.mp3",
+        "ex_audio": "media/words/ep24/discontinue_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "executive",
+        "pos": "n./adj.",
+        "zh": "高管；主管；行政的",
+        "ex": "An executive will retire next year.",
+        "exzh": "一位高管明年退休。",
+        "ipa": "/ɪɡˈzɛkjətɪv/",
+        "audio": "media/words/ep24/executive.mp3",
+        "ex_audio": "media/words/ep24/executive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "janitorial",
+        "pos": "adj.",
+        "zh": "清洁工的；保洁的",
+        "ex": "My janitorial team cleaned the filters.",
+        "exzh": "我的清洁团队清洗了过滤网。",
+        "ipa": "/ˌdʒænɪˈtɔriəl/",
+        "audio": "media/words/ep24/janitorial.mp3",
+        "ex_audio": "media/words/ep24/janitorial_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relatively",
+        "pos": "adv.",
+        "zh": "相对地；比较",
+        "ex": "The job was relatively easy.",
+        "exzh": "这项工作比较简单。",
+        "ipa": "/ˈrɛlətɪvli/",
+        "audio": "media/words/ep24/relatively.mp3",
+        "ex_audio": "media/words/ep24/relatively_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "air freshener",
+        "pos": "n.",
+        "zh": "空气清新剂",
+        "ex": "Spray an air freshener on the filter.",
+        "exzh": "在过滤网上喷点空气清新剂。",
+        "ipa": "/ɛr ˈfrɛʃənɚ/",
+        "audio": "media/words/ep24/air-freshener.mp3",
+        "ex_audio": "media/words/ep24/air-freshener_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expense report",
+        "pos": "n.",
+        "zh": "费用报告；报销单",
+        "ex": "I'll be submitting an extra expense report this week.",
+        "exzh": "这周我会多交一份报销单。",
+        "ipa": "/ɪkˈspɛns riˈpɔrt/",
+        "audio": "media/words/ep24/expense-report.mp3",
+        "ex_audio": "media/words/ep24/expense-report_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "refuel",
+        "pos": "v.",
+        "zh": "加油；补充燃料",
+        "ex": "We had to refuel the company van.",
+        "exzh": "我们得给公司的面包车加油。",
+        "ipa": "/riˈfjuəl/",
+        "audio": "media/words/ep24/refuel.mp3",
+        "ex_audio": "media/words/ep24/refuel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "scented",
+        "pos": "adj.",
+        "zh": "有香味的；加香料的",
+        "ex": "She prefers scented candles.",
+        "exzh": "她更喜欢有香味的蜡烛。",
+        "ipa": "/ˈsɛntɪd/",
+        "audio": "media/words/ep24/scented.mp3",
+        "ex_audio": "media/words/ep24/scented_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "timesheet",
+        "pos": "n.",
+        "zh": "工时表；考勤表",
+        "ex": "Please submit your timesheet by Friday.",
+        "exzh": "请在周五前交工时表。",
+        "ipa": "",
+        "audio": "media/words/ep24/timesheet.mp3",
+        "ex_audio": "media/words/ep24/timesheet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "much-anticipated",
+        "pos": "adj.",
+        "zh": "备受期待的",
+        "ex": "The much-anticipated opening is set for July 1.",
+        "exzh": "备受期待的开业定在七月一日。",
+        "ipa": "/mʌtʃ-ænˈtɪsəˌpeɪtɪd/",
+        "audio": "media/words/ep24/much-anticipated.mp3",
+        "ex_audio": "media/words/ep24/much-anticipated_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sensation",
+        "pos": "n.",
+        "zh": "轰动；轰动一时的人或事；感觉",
+        "ex": "The food truck was an instant sensation.",
+        "exzh": "这辆餐车一下子就火了。",
+        "ipa": "/sɛnˈseɪʃən/",
+        "audio": "media/words/ep24/sensation.mp3",
+        "ex_audio": "media/words/ep24/sensation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "profession",
+        "pos": "n.",
+        "zh": "职业；行业",
+        "ex": "What is his profession?",
+        "exzh": "他是做什么职业的？",
+        "ipa": "/prəˈfɛʃən/",
+        "audio": "media/words/ep24/profession.mp3",
+        "ex_audio": "media/words/ep24/profession_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "critic",
+        "pos": "n.",
+        "zh": "评论家；批评者",
+        "ex": "The art critic praised the exhibit.",
+        "exzh": "这位艺术评论家称赞了这个展览。",
+        "ipa": "/ˈkrɪtɪk/",
+        "audio": "media/words/ep24/critic.mp3",
+        "ex_audio": "media/words/ep24/critic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "owner-chef",
+        "pos": "n.",
+        "zh": "老板兼主厨",
+        "ex": "The owner-chef started with a food truck.",
+        "exzh": "这位老板兼主厨是从一辆餐车起家的。",
+        "ipa": "/ˈoʊnɚ-ʃɛf/",
+        "audio": "media/words/ep24/owner-chef.mp3",
+        "ex_audio": "media/words/ep24/owner-chef_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regional",
+        "pos": "adj.",
+        "zh": "地方的；地区的",
+        "ex": "She cooks regional Italian food.",
+        "exzh": "她做意大利地方菜。",
+        "ipa": "/ˈridʒənəl/",
+        "audio": "media/words/ep24/regional.mp3",
+        "ex_audio": "media/words/ep24/regional_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cozy",
+        "pos": "adj.",
+        "zh": "温馨的；舒适的",
+        "ex": "She created a cozy eatery.",
+        "exzh": "她开了一家温馨的小餐馆。",
+        "ipa": "/ˈkoʊzi/",
+        "audio": "media/words/ep24/cozy.mp3",
+        "ex_audio": "media/words/ep24/cozy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "eatery",
+        "pos": "n.",
+        "zh": "小餐馆；饭馆",
+        "ex": "The eatery serves classic Italian dishes.",
+        "exzh": "这家小餐馆供应经典意大利菜。",
+        "ipa": "/ˈitɚi/",
+        "audio": "media/words/ep24/eatery.mp3",
+        "ex_audio": "media/words/ep24/eatery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contemporary",
+        "pos": "adj.",
+        "zh": "现代的；当代的",
+        "ex": "They serve contemporary versions of classic dishes.",
+        "exzh": "他们供应经典菜的现代版本。",
+        "ipa": "/kənˈtɛmpɚˌɛri/",
+        "audio": "media/words/ep24/contemporary.mp3",
+        "ex_audio": "media/words/ep24/contemporary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "thrilled",
+        "pos": "adj.",
+        "zh": "非常兴奋的；高兴极了",
+        "ex": "We were thrilled to get a reservation.",
+        "exzh": "我们订到位子时高兴极了。",
+        "ipa": "/θrɪld/",
+        "audio": "media/words/ep24/thrilled.mp3",
+        "ex_audio": "media/words/ep24/thrilled_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "crowded",
+        "pos": "adj.",
+        "zh": "拥挤的",
+        "ex": "The restaurant was crowded and loud.",
+        "exzh": "餐厅又挤又吵。",
+        "ipa": "/ˈkraʊdəd/",
+        "audio": "media/words/ep24/crowded.mp3",
+        "ex_audio": "media/words/ep24/crowded_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take away",
+        "pos": "v.",
+        "zh": "减少；带走；拿走",
+        "ex": "The noise took away some of our enjoyment.",
+        "exzh": "噪音让我们少了些乐趣。",
+        "ipa": "/teɪk əˈweɪ/",
+        "audio": "media/words/ep24/take-away.mp3",
+        "ex_audio": "media/words/ep24/take-away_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go hand in hand",
+        "pos": "v.",
+        "zh": "密切相关；相辅相成",
+        "ex": "At our restaurant, food and art go hand in hand.",
+        "exzh": "在我们餐厅，美食和艺术相辅相成。",
+        "ipa": "/ɡoʊ hænd ɪn hænd/",
+        "audio": "media/words/ep24/go-hand-in-hand.mp3",
+        "ex_audio": "media/words/ep24/go-hand-in-hand_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "deserve",
+        "pos": "v.",
+        "zh": "值得；应得",
+        "ex": "These artists deserve a wider audience.",
+        "exzh": "这些艺术家值得被更多人看到。",
+        "ipa": "/dɪˈzɝv/",
+        "audio": "media/words/ep24/deserve.mp3",
+        "ex_audio": "media/words/ep24/deserve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "worthy",
+        "pos": "adj.",
+        "zh": "值得的；有价值的",
+        "ex": "It is a worthy mission.",
+        "exzh": "这是一项有意义的使命。",
+        "ipa": "/ˈwɝði/",
+        "audio": "media/words/ep24/worthy.mp3",
+        "ex_audio": "media/words/ep24/worthy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "minimum",
+        "pos": "n./adj.",
+        "zh": "最低限度；最小的",
+        "ex": "Employees take a minimum of two courses a year.",
+        "exzh": "员工每年至少上两门课。",
+        "ipa": "/ˈmɪnəməm/",
+        "audio": "media/words/ep24/minimum.mp3",
+        "ex_audio": "media/words/ep24/minimum_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "analytics",
+        "pos": "n.",
+        "zh": "数据分析；分析学",
+        "ex": "The course is an introduction to business analytics.",
+        "exzh": "这门课是商业数据分析入门。",
+        "ipa": "/ˌænəˈlɪtɪks/",
+        "audio": "media/words/ep24/analytics.mp3",
+        "ex_audio": "media/words/ep24/analytics_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fundamental",
+        "pos": "adj.",
+        "zh": "基础的；根本的",
+        "ex": "Learn fundamental data analysis.",
+        "exzh": "学习基础的数据分析。",
+        "ipa": "/ˌfʌndəˈmɛntəl/",
+        "audio": "media/words/ep24/fundamental.mp3",
+        "ex_audio": "media/words/ep24/fundamental_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prerequisite",
+        "pos": "n.",
+        "zh": "先决条件；先修课",
+        "ex": "The introductory course is a prerequisite.",
+        "exzh": "入门课程是先修课。",
+        "ipa": "/priˈrɛkwəzət/",
+        "audio": "media/words/ep24/prerequisite.mp3",
+        "ex_audio": "media/words/ep24/prerequisite_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "take charge of",
+        "pos": "v.",
+        "zh": "负责；接管",
+        "ex": "He was asked to take charge of computer training.",
+        "exzh": "他被要求负责电脑培训。",
+        "ipa": "/teɪk tʃɑrdʒ əv/",
+        "audio": "media/words/ep24/take-charge-of.mp3",
+        "ex_audio": "media/words/ep24/take-charge-of_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "corporate",
+        "pos": "adj.",
+        "zh": "公司的；企业的",
+        "ex": "The new system is a corporate priority.",
+        "exzh": "新系统是公司的头等大事。",
+        "ipa": "/ˈkɔrpɚət/",
+        "audio": "media/words/ep24/corporate.mp3",
+        "ex_audio": "media/words/ep24/corporate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "confidentiality",
+        "pos": "n.",
+        "zh": "保密性；机密性",
+        "ex": "The course covers client confidentiality.",
+        "exzh": "这门课讲客户信息保密。",
+        "ipa": "/ˌkɑnfəˌdɛnʃiˈæləti/",
+        "audio": "media/words/ep24/confidentiality.mp3",
+        "ex_audio": "media/words/ep24/confidentiality_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "negotiate",
+        "pos": "v.",
+        "zh": "谈判；协商",
+        "ex": "Learn how to negotiate with confidence.",
+        "exzh": "学习如何自信地谈判。",
+        "ipa": "/nəˈɡoʊʃiˌeɪt/",
+        "audio": "media/words/ep24/negotiate.mp3",
+        "ex_audio": "media/words/ep24/negotiate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "adopt",
+        "pos": "v.",
+        "zh": "采用；采纳；收养",
+        "ex": "Adopt strategies to maximize results.",
+        "exzh": "采用能让成果最大化的策略。",
+        "ipa": "/əˈdɑpt/",
+        "audio": "media/words/ep24/adopt.mp3",
+        "ex_audio": "media/words/ep24/adopt_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "maximize",
+        "pos": "v.",
+        "zh": "使最大化",
+        "ex": "We want to maximize our results.",
+        "exzh": "我们想让成果最大化。",
+        "ipa": "/ˈmæksəˌmaɪz/",
+        "audio": "media/words/ep24/maximize.mp3",
+        "ex_audio": "media/words/ep24/maximize_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 23,
     "theme": "真题精讲 · Test 2 第七篇",
     "date": "2026-10-14",
