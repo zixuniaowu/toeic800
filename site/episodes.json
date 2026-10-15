@@ -1,5 +1,1069 @@
 [
   {
+    "number": 35,
+    "theme": "题型精讲 · Part 2 WH 疑问句",
+    "date": "2026-10-16",
+    "duration_sec": 2414.5,
+    "segments": [
+      {
+        "title": "1. Part 2 WH 疑问句真题（三套卷精选 13 道）",
+        "start": 0.0,
+        "length": 1352.83
+      },
+      {
+        "title": "2. Part 7 双篇阅读（配套精练）",
+        "start": 1352.83,
+        "length": 490.87
+      },
+      {
+        "title": "3. 本期 32 词总复习 · 拼读",
+        "start": 1843.69,
+        "length": 570.83
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "available",
+        "zh": "有空的；可用的"
+      },
+      {
+        "word": "keynote speaker",
+        "zh": "主旨演讲人"
+      },
+      {
+        "word": "appliance",
+        "zh": "家用电器；电器设备"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期；最后期限"
+      },
+      {
+        "word": "obstruction",
+        "zh": "障碍物；阻碍"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "proposal",
+        "zh": "提案；方案；建议书"
+      },
+      {
+        "word": "due",
+        "zh": "到期的；截止的；预定的"
+      },
+      {
+        "word": "initials",
+        "zh": "姓名首字母"
+      },
+      {
+        "word": "registration fee",
+        "zh": "注册费；报名费"
+      },
+      {
+        "word": "overseas",
+        "zh": "在海外；海外的"
+      },
+      {
+        "word": "luggage",
+        "zh": "行李"
+      },
+      {
+        "word": "pick up",
+        "zh": "领取；取走；接；人"
+      },
+      {
+        "word": "place",
+        "zh": "下；订单；；放置"
+      },
+      {
+        "word": "available",
+        "zh": "有空的；可用的"
+      },
+      {
+        "word": "repair shop",
+        "zh": "修理店"
+      },
+      {
+        "word": "keynote speaker",
+        "zh": "主旨演讲人"
+      },
+      {
+        "word": "agenda",
+        "zh": "议程；日程表"
+      },
+      {
+        "word": "impressive",
+        "zh": "令人印象深刻的；了不起的"
+      },
+      {
+        "word": "pastry chef",
+        "zh": "糕点师"
+      },
+      {
+        "word": "reserve",
+        "zh": "预订；保留"
+      },
+      {
+        "word": "appliance",
+        "zh": "家用电器；电器设备"
+      },
+      {
+        "word": "application",
+        "zh": "申请；应用程序"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期；最后期限"
+      },
+      {
+        "word": "copier",
+        "zh": "复印机"
+      },
+      {
+        "word": "replace",
+        "zh": "更换；替换；取代"
+      },
+      {
+        "word": "position",
+        "zh": "职位；岗位；位置"
+      },
+      {
+        "word": "serving dish",
+        "zh": "上菜用的盘子；大餐盘"
+      },
+      {
+        "word": "advertise",
+        "zh": "做广告；登广告"
+      },
+      {
+        "word": "reception",
+        "zh": "招待会；欢迎会；前台"
+      },
+      {
+        "word": "restock",
+        "zh": "重新补货；补充"
+      },
+      {
+        "word": "expired",
+        "zh": "过期的；到期的"
+      },
+      {
+        "word": "inspection",
+        "zh": "检查；视察"
+      },
+      {
+        "word": "noncompliance",
+        "zh": "不合规；违规；不遵守"
+      },
+      {
+        "word": "obstruction",
+        "zh": "障碍物；阻碍"
+      },
+      {
+        "word": "tripping hazard",
+        "zh": "绊倒的隐患"
+      },
+      {
+        "word": "occupant",
+        "zh": "使用者；居住者；占用者"
+      },
+      {
+        "word": "unannounced",
+        "zh": "不事先通知的；突击的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media2/ep35.mp4",
+    "script_pdf": "media/ep35_script.pdf",
+    "source_video": "ep35.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep35.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media2/ep35.mp4",
+        "script_pdf": "media/ep35_script.pdf",
+        "duration_sec": 2414.5,
+        "theme": "题型精讲 · Part 2 WH 疑问句",
+        "segments": [
+          {
+            "title": "1. Part 2 WH 疑问句真题（三套卷精选 13 道）",
+            "start": 0.0,
+            "length": 1352.83
+          },
+          {
+            "title": "2. Part 7 双篇阅读（配套精练）",
+            "start": 1352.83,
+            "length": 490.87
+          },
+          {
+            "title": "3. 本期 32 词总复习 · 拼读",
+            "start": 1843.69,
+            "length": 570.83
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep35ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media2/ep35ja.mp4",
+        "script_pdf": "media/ep35ja_script.pdf",
+        "duration_sec": 2893.6,
+        "theme": "問題タイプ別精講 · Part 2 WH 疑問文",
+        "segments": [
+          {
+            "title": "1. Part 2 WH 疑問文の本番問題（3セットから厳選 13問）",
+            "start": 0.0,
+            "length": 1704.24
+          },
+          {
+            "title": "2. Part 7 ダブルパッセージ（関連演習）",
+            "start": 1704.24,
+            "length": 574.46
+          },
+          {
+            "title": "3. 今回の 32 語総復習 · スペル",
+            "start": 2278.69,
+            "length": 614.92
+          }
+        ],
+        "poster": "media/ep35ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "available",
+            "zh": "手が空いている；利用できる"
+          },
+          {
+            "word": "keynote speaker",
+            "zh": "基調講演者"
+          },
+          {
+            "word": "appliance",
+            "zh": "家電製品；電化製品"
+          },
+          {
+            "word": "deadline",
+            "zh": "締め切り；期限"
+          },
+          {
+            "word": "obstruction",
+            "zh": "障害物；妨害"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "proposal",
+          "due",
+          "initials",
+          "registration fee",
+          "overseas",
+          "luggage",
+          "pick up",
+          "place",
+          "available",
+          "repair shop",
+          "keynote speaker",
+          "agenda",
+          "impressive",
+          "pastry chef",
+          "reserve",
+          "appliance",
+          "application",
+          "deadline",
+          "copier",
+          "replace",
+          "position",
+          "serving dish",
+          "advertise",
+          "reception",
+          "restock",
+          "expired",
+          "inspection",
+          "noncompliance",
+          "obstruction",
+          "tripping hazard",
+          "occupant",
+          "unannounced"
+        ],
+        "words": [
+          {
+            "word": "proposal",
+            "pos": "n.",
+            "zh": "提案；提案書",
+            "ex": "When is the final proposal due?",
+            "exzh": "最終的な提案書の締め切りはいつですか。",
+            "ipa": "/prəˈpoʊzəl/",
+            "audio": "media/words/ep35/proposal.mp3",
+            "ex_audio": "media/words/ep35/proposal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "due",
+            "pos": "adj.",
+            "zh": "期限が来た；…する予定の",
+            "ex": "The report is due on Friday.",
+            "exzh": "報告書は金曜日が締め切りだ。",
+            "ipa": "/du/",
+            "audio": "media/words/ep35/due.mp3",
+            "ex_audio": "media/words/ep35/due_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "initials",
+            "pos": "n.",
+            "zh": "イニシャル；名前の頭文字",
+            "ex": "Just my initials.",
+            "exzh": "私のイニシャルだけです。",
+            "ipa": "/ˌɪˈnɪʃəlz/",
+            "audio": "media/words/ep35/initials.mp3",
+            "ex_audio": "media/words/ep35/initials_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "registration fee",
+            "pos": "n.",
+            "zh": "登録料；参加費",
+            "ex": "Registration fees increased this year.",
+            "exzh": "今年は登録料が上がった。",
+            "ipa": "/ˌrɛdʒɪˈstreɪʃən fi/",
+            "audio": "media/words/ep35/registration-fee.mp3",
+            "ex_audio": "media/words/ep35/registration-fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "overseas",
+            "pos": "adv./adj.",
+            "zh": "海外で；海外の",
+            "ex": "He worked for a company overseas.",
+            "exzh": "彼は海外の会社で働いていた。",
+            "ipa": "/ˈoʊvɚˈsiz/",
+            "audio": "media/words/ep35/overseas.mp3",
+            "ex_audio": "media/words/ep35/overseas_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "luggage",
+            "pos": "n.",
+            "zh": "手荷物；旅行かばん",
+            "ex": "Yes, I'll be checking luggage.",
+            "exzh": "はい、荷物を預けます。",
+            "ipa": "/ˈlʌɡədʒ/",
+            "audio": "media/words/ep35/luggage.mp3",
+            "ex_audio": "media/words/ep35/luggage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pick up",
+            "pos": "v.",
+            "zh": "受け取る；（人を）迎えに行く",
+            "ex": "Where can I pick up the order?",
+            "exzh": "注文品はどこで受け取れますか。",
+            "ipa": "/pɪk ʌp/",
+            "audio": "media/words/ep35/pick-up.mp3",
+            "ex_audio": "media/words/ep35/pick-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "place",
+            "pos": "v.",
+            "zh": "（注文を）出す；置く",
+            "ex": "My company placed an order.",
+            "exzh": "私の会社が注文を出した。",
+            "ipa": "/pleɪs/",
+            "audio": "media/words/ep35/place.mp3",
+            "ex_audio": "media/words/ep35/place_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "available",
+            "pos": "adj.",
+            "zh": "手が空いている；利用できる",
+            "ex": "I'm available now to help you.",
+            "exzh": "今なら手が空いているので手伝えます。",
+            "ipa": "/əˈveɪləbəl/",
+            "audio": "media/words/ep35/available.mp3",
+            "ex_audio": "media/words/ep35/available_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "repair shop",
+            "pos": "n.",
+            "zh": "修理店；修理工場",
+            "ex": "It's at the car repair shop.",
+            "exzh": "それは自動車修理工場にある。",
+            "ipa": "/rɪˈpɛr ʃɑp/",
+            "audio": "media/words/ep35/repair-shop.mp3",
+            "ex_audio": "media/words/ep35/repair-shop_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "keynote speaker",
+            "pos": "n.",
+            "zh": "基調講演者",
+            "ex": "Who will be the keynote speaker at the conference?",
+            "exzh": "会議の基調講演者は誰になりますか。",
+            "ipa": "/ˈkiˌnoʊt ˈspikɚ/",
+            "audio": "media/words/ep35/keynote-speaker.mp3",
+            "ex_audio": "media/words/ep35/keynote-speaker_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "agenda",
+            "pos": "n.",
+            "zh": "議題；予定表",
+            "ex": "The agenda hasn't been posted yet.",
+            "exzh": "議題はまだ掲示されていない。",
+            "ipa": "/əˈdʒɛndə/",
+            "audio": "media/words/ep35/agenda.mp3",
+            "ex_audio": "media/words/ep35/agenda_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "impressive",
+            "pos": "adj.",
+            "zh": "印象的な；見事な",
+            "ex": "What an impressive speech!",
+            "exzh": "なんてすばらしいスピーチだろう。",
+            "ipa": "/ˌɪmˈprɛsɪv/",
+            "audio": "media/words/ep35/impressive.mp3",
+            "ex_audio": "media/words/ep35/impressive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pastry chef",
+            "pos": "n.",
+            "zh": "菓子職人；パティシエ",
+            "ex": "A pastry chef made the cake.",
+            "exzh": "パティシエがそのケーキを作った。",
+            "ipa": "/ˈpeɪstri ʃɛf/",
+            "audio": "media/words/ep35/pastry-chef.mp3",
+            "ex_audio": "media/words/ep35/pastry-chef_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reserve",
+            "pos": "v.",
+            "zh": "予約する；確保する",
+            "ex": "I'll reserve the large conference room.",
+            "exzh": "大会議室を予約しておきます。",
+            "ipa": "/rɪˈzɝv/",
+            "audio": "media/words/ep35/reserve.mp3",
+            "ex_audio": "media/words/ep35/reserve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appliance",
+            "pos": "n.",
+            "zh": "家電製品；電化製品",
+            "ex": "What kind of appliance should we buy for the office?",
+            "exzh": "オフィスにはどんな家電を買いましょうか。",
+            "ipa": "/əˈplaɪəns/",
+            "audio": "media/words/ep35/appliance.mp3",
+            "ex_audio": "media/words/ep35/appliance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "application",
+            "pos": "n.",
+            "zh": "申し込み；申請；アプリ",
+            "ex": "An application process.",
+            "exzh": "申請の手続き。",
+            "ipa": "/ˌæpləˈkeɪʃən/",
+            "audio": "media/words/ep35/application.mp3",
+            "ex_audio": "media/words/ep35/application_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deadline",
+            "pos": "n.",
+            "zh": "締め切り；期限",
+            "ex": "Because I have a project deadline.",
+            "exzh": "プロジェクトの締め切りがあるから。",
+            "ipa": "/ˈdɛdˌlaɪn/",
+            "audio": "media/words/ep35/deadline.mp3",
+            "ex_audio": "media/words/ep35/deadline_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "copier",
+            "pos": "n.",
+            "zh": "コピー機",
+            "ex": "Why isn't the copier working?",
+            "exzh": "コピー機はなぜ動かないのですか。",
+            "ipa": "/ˈkɑpiɚ/",
+            "audio": "media/words/ep35/copier.mp3",
+            "ex_audio": "media/words/ep35/copier_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "replace",
+            "pos": "v.",
+            "zh": "取り替える；交換する",
+            "ex": "A part needs to be replaced.",
+            "exzh": "部品を交換する必要がある。",
+            "ipa": "/ˌriˈpleɪs/",
+            "audio": "media/words/ep35/replace.mp3",
+            "ex_audio": "media/words/ep35/replace_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "position",
+            "pos": "n.",
+            "zh": "職；ポスト；位置",
+            "ex": "How soon can you start your new position?",
+            "exzh": "新しい職にはどのくらい早く就けますか。",
+            "ipa": "/pəˈzɪʃən/",
+            "audio": "media/words/ep35/position.mp3",
+            "ex_audio": "media/words/ep35/position_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "serving dish",
+            "pos": "n.",
+            "zh": "盛り皿；料理用の大皿",
+            "ex": "The restaurant replaces its serving dishes twice a year.",
+            "exzh": "そのレストランは年に2回、盛り皿を交換する。",
+            "ipa": "/ˈsɝvɪŋ dɪʃ/",
+            "audio": "media/words/ep35/serving-dish.mp3",
+            "ex_audio": "media/words/ep35/serving-dish_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "advertise",
+            "pos": "v.",
+            "zh": "広告を出す；宣伝する",
+            "ex": "Which magazine did you advertise in?",
+            "exzh": "どの雑誌に広告を出したのですか。",
+            "ipa": "/ˈædvɚˌtaɪz/",
+            "audio": "media/words/ep35/advertise.mp3",
+            "ex_audio": "media/words/ep35/advertise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reception",
+            "pos": "n.",
+            "zh": "歓迎会；レセプション；受付",
+            "ex": "The reception is outdoors.",
+            "exzh": "歓迎会は屋外で行われる。",
+            "ipa": "/rɪˈsɛpʃən/",
+            "audio": "media/words/ep35/reception.mp3",
+            "ex_audio": "media/words/ep35/reception_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "restock",
+            "pos": "v.",
+            "zh": "補充する；再入荷する",
+            "ex": "When was the first aid kit restocked?",
+            "exzh": "救急箱はいつ補充されたか。",
+            "ipa": "/riˈstɑk/",
+            "audio": "media/words/ep35/restock.mp3",
+            "ex_audio": "media/words/ep35/restock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expired",
+            "pos": "adj.",
+            "zh": "期限切れの",
+            "ex": "Replace any used and expired supplies.",
+            "exzh": "使用済みや期限切れの備品を交換する。",
+            "ipa": "/ɪkˈspaɪrd/",
+            "audio": "media/words/ep35/expired.mp3",
+            "ex_audio": "media/words/ep35/expired_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inspection",
+            "pos": "n.",
+            "zh": "点検；検査",
+            "ex": "I performed the safety inspection for this month.",
+            "exzh": "今月の安全点検を行った。",
+            "ipa": "/ˌɪnˈspɛkʃən/",
+            "audio": "media/words/ep35/inspection.mp3",
+            "ex_audio": "media/words/ep35/inspection_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "noncompliance",
+            "pos": "n.",
+            "zh": "規則違反；不適合；不遵守",
+            "ex": "I observed several instances of noncompliance.",
+            "exzh": "いくつかの不適合を確認した。",
+            "ipa": "/ˌnɑnkəmˈplaɪəns/",
+            "audio": "media/words/ep35/noncompliance.mp3",
+            "ex_audio": "media/words/ep35/noncompliance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "obstruction",
+            "pos": "n.",
+            "zh": "障害物；妨害",
+            "ex": "Make sure aisles are clear of hazardous obstructions.",
+            "exzh": "通路に危険な障害物がないことを確認する。",
+            "ipa": "/əbˈstrʌkʃən/",
+            "audio": "media/words/ep35/obstruction.mp3",
+            "ex_audio": "media/words/ep35/obstruction_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "tripping hazard",
+            "pos": "n.",
+            "zh": "つまずきの危険",
+            "ex": "The boxes were a tripping hazard.",
+            "exzh": "その箱はつまずく危険があった。",
+            "ipa": "/ˈtrɪpɪŋ ˈhæzɚd/",
+            "audio": "media/words/ep35/tripping-hazard.mp3",
+            "ex_audio": "media/words/ep35/tripping-hazard_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "occupant",
+            "pos": "n.",
+            "zh": "使用者；入居者",
+            "ex": "I advised the occupant to unplug the item.",
+            "exzh": "使用者にプラグを抜くよう助言した。",
+            "ipa": "/ˈɑkjəpənt/",
+            "audio": "media/words/ep35/occupant.mp3",
+            "ex_audio": "media/words/ep35/occupant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "unannounced",
+            "pos": "adj.",
+            "zh": "予告なしの；抜き打ちの",
+            "ex": "I will make an unannounced follow-up inspection.",
+            "exzh": "予告なしの再点検を行う。",
+            "ipa": "/ˌʌnəˈnaʊnst/",
+            "audio": "media/words/ep35/unannounced.mp3",
+            "ex_audio": "media/words/ep35/unannounced_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep35_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 2 WH 疑問文",
+    "words": [
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案；方案；建议书",
+        "ex": "When is the final proposal due?",
+        "exzh": "最终提案什么时候截止？",
+        "ipa": "/prəˈpoʊzəl/",
+        "audio": "media/words/ep35/proposal.mp3",
+        "ex_audio": "media/words/ep35/proposal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "due",
+        "pos": "adj.",
+        "zh": "到期的；截止的；预定的",
+        "ex": "The report is due on Friday.",
+        "exzh": "报告周五截止。",
+        "ipa": "/du/",
+        "audio": "media/words/ep35/due.mp3",
+        "ex_audio": "media/words/ep35/due_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "initials",
+        "pos": "n.",
+        "zh": "姓名首字母",
+        "ex": "Just my initials.",
+        "exzh": "只要我名字的首字母。",
+        "ipa": "/ˌɪˈnɪʃəlz/",
+        "audio": "media/words/ep35/initials.mp3",
+        "ex_audio": "media/words/ep35/initials_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "registration fee",
+        "pos": "n.",
+        "zh": "注册费；报名费",
+        "ex": "Registration fees increased this year.",
+        "exzh": "今年注册费涨了。",
+        "ipa": "/ˌrɛdʒɪˈstreɪʃən fi/",
+        "audio": "media/words/ep35/registration-fee.mp3",
+        "ex_audio": "media/words/ep35/registration-fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "overseas",
+        "pos": "adv./adj.",
+        "zh": "在海外；海外的",
+        "ex": "He worked for a company overseas.",
+        "exzh": "他曾在海外一家公司工作。",
+        "ipa": "/ˈoʊvɚˈsiz/",
+        "audio": "media/words/ep35/overseas.mp3",
+        "ex_audio": "media/words/ep35/overseas_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "luggage",
+        "pos": "n.",
+        "zh": "行李",
+        "ex": "Yes, I'll be checking luggage.",
+        "exzh": "是的，我要托运行李。",
+        "ipa": "/ˈlʌɡədʒ/",
+        "audio": "media/words/ep35/luggage.mp3",
+        "ex_audio": "media/words/ep35/luggage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pick up",
+        "pos": "v.",
+        "zh": "领取；取走；接（人）",
+        "ex": "Where can I pick up the order?",
+        "exzh": "我在哪里取订单？",
+        "ipa": "/pɪk ʌp/",
+        "audio": "media/words/ep35/pick-up.mp3",
+        "ex_audio": "media/words/ep35/pick-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "place",
+        "pos": "v.",
+        "zh": "下（订单）；放置",
+        "ex": "My company placed an order.",
+        "exzh": "我公司下了一份订单。",
+        "ipa": "/pleɪs/",
+        "audio": "media/words/ep35/place.mp3",
+        "ex_audio": "media/words/ep35/place_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "available",
+        "pos": "adj.",
+        "zh": "有空的；可用的",
+        "ex": "I'm available now to help you.",
+        "exzh": "我现在有空，可以帮你。",
+        "ipa": "/əˈveɪləbəl/",
+        "audio": "media/words/ep35/available.mp3",
+        "ex_audio": "media/words/ep35/available_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "repair shop",
+        "pos": "n.",
+        "zh": "修理店",
+        "ex": "It's at the car repair shop.",
+        "exzh": "它在汽车修理店。",
+        "ipa": "/rɪˈpɛr ʃɑp/",
+        "audio": "media/words/ep35/repair-shop.mp3",
+        "ex_audio": "media/words/ep35/repair-shop_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "keynote speaker",
+        "pos": "n.",
+        "zh": "主旨演讲人",
+        "ex": "Who will be the keynote speaker at the conference?",
+        "exzh": "谁会是会议的主旨演讲人？",
+        "ipa": "/ˈkiˌnoʊt ˈspikɚ/",
+        "audio": "media/words/ep35/keynote-speaker.mp3",
+        "ex_audio": "media/words/ep35/keynote-speaker_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "agenda",
+        "pos": "n.",
+        "zh": "议程；日程表",
+        "ex": "The agenda hasn't been posted yet.",
+        "exzh": "议程还没有公布。",
+        "ipa": "/əˈdʒɛndə/",
+        "audio": "media/words/ep35/agenda.mp3",
+        "ex_audio": "media/words/ep35/agenda_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "impressive",
+        "pos": "adj.",
+        "zh": "令人印象深刻的；了不起的",
+        "ex": "What an impressive speech!",
+        "exzh": "多么精彩的演讲啊！",
+        "ipa": "/ˌɪmˈprɛsɪv/",
+        "audio": "media/words/ep35/impressive.mp3",
+        "ex_audio": "media/words/ep35/impressive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pastry chef",
+        "pos": "n.",
+        "zh": "糕点师",
+        "ex": "A pastry chef made the cake.",
+        "exzh": "一位糕点师做了这个蛋糕。",
+        "ipa": "/ˈpeɪstri ʃɛf/",
+        "audio": "media/words/ep35/pastry-chef.mp3",
+        "ex_audio": "media/words/ep35/pastry-chef_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reserve",
+        "pos": "v.",
+        "zh": "预订；保留",
+        "ex": "I'll reserve the large conference room.",
+        "exzh": "我来预订大会议室。",
+        "ipa": "/rɪˈzɝv/",
+        "audio": "media/words/ep35/reserve.mp3",
+        "ex_audio": "media/words/ep35/reserve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appliance",
+        "pos": "n.",
+        "zh": "家用电器；电器设备",
+        "ex": "What kind of appliance should we buy for the office?",
+        "exzh": "我们该给办公室买哪种电器？",
+        "ipa": "/əˈplaɪəns/",
+        "audio": "media/words/ep35/appliance.mp3",
+        "ex_audio": "media/words/ep35/appliance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "application",
+        "pos": "n.",
+        "zh": "申请；应用程序",
+        "ex": "An application process.",
+        "exzh": "一个申请流程。",
+        "ipa": "/ˌæpləˈkeɪʃən/",
+        "audio": "media/words/ep35/application.mp3",
+        "ex_audio": "media/words/ep35/application_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "zh": "截止日期；最后期限",
+        "ex": "Because I have a project deadline.",
+        "exzh": "因为我有一个项目截止日期。",
+        "ipa": "/ˈdɛdˌlaɪn/",
+        "audio": "media/words/ep35/deadline.mp3",
+        "ex_audio": "media/words/ep35/deadline_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "copier",
+        "pos": "n.",
+        "zh": "复印机",
+        "ex": "Why isn't the copier working?",
+        "exzh": "复印机怎么不能用了？",
+        "ipa": "/ˈkɑpiɚ/",
+        "audio": "media/words/ep35/copier.mp3",
+        "ex_audio": "media/words/ep35/copier_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "replace",
+        "pos": "v.",
+        "zh": "更换；替换；取代",
+        "ex": "A part needs to be replaced.",
+        "exzh": "有个零件需要更换。",
+        "ipa": "/ˌriˈpleɪs/",
+        "audio": "media/words/ep35/replace.mp3",
+        "ex_audio": "media/words/ep35/replace_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "position",
+        "pos": "n.",
+        "zh": "职位；岗位；位置",
+        "ex": "How soon can you start your new position?",
+        "exzh": "你多快能开始新职位的工作？",
+        "ipa": "/pəˈzɪʃən/",
+        "audio": "media/words/ep35/position.mp3",
+        "ex_audio": "media/words/ep35/position_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "serving dish",
+        "pos": "n.",
+        "zh": "上菜用的盘子；大餐盘",
+        "ex": "The restaurant replaces its serving dishes twice a year.",
+        "exzh": "这家餐厅一年更换两次餐盘。",
+        "ipa": "/ˈsɝvɪŋ dɪʃ/",
+        "audio": "media/words/ep35/serving-dish.mp3",
+        "ex_audio": "media/words/ep35/serving-dish_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "advertise",
+        "pos": "v.",
+        "zh": "做广告；登广告",
+        "ex": "Which magazine did you advertise in?",
+        "exzh": "你在哪本杂志登了广告？",
+        "ipa": "/ˈædvɚˌtaɪz/",
+        "audio": "media/words/ep35/advertise.mp3",
+        "ex_audio": "media/words/ep35/advertise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reception",
+        "pos": "n.",
+        "zh": "招待会；欢迎会；前台",
+        "ex": "The reception is outdoors.",
+        "exzh": "招待会在户外举行。",
+        "ipa": "/rɪˈsɛpʃən/",
+        "audio": "media/words/ep35/reception.mp3",
+        "ex_audio": "media/words/ep35/reception_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "restock",
+        "pos": "v.",
+        "zh": "重新补货；补充",
+        "ex": "When was the first aid kit restocked?",
+        "exzh": "急救箱是什么时候补充的？",
+        "ipa": "/riˈstɑk/",
+        "audio": "media/words/ep35/restock.mp3",
+        "ex_audio": "media/words/ep35/restock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expired",
+        "pos": "adj.",
+        "zh": "过期的；到期的",
+        "ex": "Replace any used and expired supplies.",
+        "exzh": "更换用过的和过期的用品。",
+        "ipa": "/ɪkˈspaɪrd/",
+        "audio": "media/words/ep35/expired.mp3",
+        "ex_audio": "media/words/ep35/expired_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inspection",
+        "pos": "n.",
+        "zh": "检查；视察",
+        "ex": "I performed the safety inspection for this month.",
+        "exzh": "我进行了本月的安全检查。",
+        "ipa": "/ˌɪnˈspɛkʃən/",
+        "audio": "media/words/ep35/inspection.mp3",
+        "ex_audio": "media/words/ep35/inspection_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "noncompliance",
+        "pos": "n.",
+        "zh": "不合规；违规；不遵守",
+        "ex": "I observed several instances of noncompliance.",
+        "exzh": "我发现了几处不合规的情况。",
+        "ipa": "/ˌnɑnkəmˈplaɪəns/",
+        "audio": "media/words/ep35/noncompliance.mp3",
+        "ex_audio": "media/words/ep35/noncompliance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "obstruction",
+        "pos": "n.",
+        "zh": "障碍物；阻碍",
+        "ex": "Make sure aisles are clear of hazardous obstructions.",
+        "exzh": "确保过道没有危险的障碍物。",
+        "ipa": "/əbˈstrʌkʃən/",
+        "audio": "media/words/ep35/obstruction.mp3",
+        "ex_audio": "media/words/ep35/obstruction_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "tripping hazard",
+        "pos": "n.",
+        "zh": "绊倒的隐患",
+        "ex": "The boxes were a tripping hazard.",
+        "exzh": "这些箱子有绊倒人的危险。",
+        "ipa": "/ˈtrɪpɪŋ ˈhæzɚd/",
+        "audio": "media/words/ep35/tripping-hazard.mp3",
+        "ex_audio": "media/words/ep35/tripping-hazard_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "occupant",
+        "pos": "n.",
+        "zh": "使用者；居住者；占用者",
+        "ex": "I advised the occupant to unplug the item.",
+        "exzh": "我建议使用者拔掉电源。",
+        "ipa": "/ˈɑkjəpənt/",
+        "audio": "media/words/ep35/occupant.mp3",
+        "ex_audio": "media/words/ep35/occupant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "unannounced",
+        "pos": "adj.",
+        "zh": "不事先通知的；突击的",
+        "ex": "I will make an unannounced follow-up inspection.",
+        "exzh": "我会进行一次不事先通知的复查。",
+        "ipa": "/ˌʌnəˈnaʊnst/",
+        "audio": "media/words/ep35/unannounced.mp3",
+        "ex_audio": "media/words/ep35/unannounced_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 34,
     "theme": "题型精讲 · Part 1 人物照片",
     "date": "2026-10-15",
