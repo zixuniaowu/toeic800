@@ -1,3 +1,4 @@
 *.part
 .release_media/
 __pycache__/
+.pages_media/

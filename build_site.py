@@ -27,46 +27,149 @@ import words as W  # noqa: E402
 ROOT = Path(__file__).resolve().parent
 SITE = ROOT / "site"
 MEDIA = SITE / "media"
-# MP4s are NOT published on Pages (1 GB site limit). They are hosted as assets of a
-# GitHub Release (RELEASE_TAG) and the pages link to the release download URLs.
-# Staged (faststart) copies live in RELEASE_STAGE (git-ignored); release_assets.json
-# records the uploaded size of each asset so only new/changed files are uploaded.
-RELEASE_REPO = os.environ.get("TOEIC_RELEASE_REPO", "zixuniaowu/toeic800")
-RELEASE_TAG = os.environ.get("TOEIC_RELEASE_TAG", "media-v1")
-RELEASE_BASE = f"https://github.com/{RELEASE_REPO}/releases/download/{RELEASE_TAG}/"
-RELEASE_STAGE = ROOT / ".release_media"
-RELEASE_MANIFEST = ROOT / "release_assets.json"
-_UPLOADS = []
+# MP4s are served by GitHub Pages, but NOT from this repo (1 GB site limit) and NOT from
+# GitHub Releases (release assets are application/octet-stream + Content-Disposition:
+# attachment, which iPhone Safari refuses to play). Each episode MP4 is re-encoded into a
+# compact web copy (static cards: 2 fps, CRF 32, AAC 48k mono, +faststart) in WEB_STAGE
+# (git-ignored), then committed to one of the public "media repos"
+# zixuniaowu/toeic800-media1, -media2, ... (Pages from main /, served as video/mp4 with
+# Range support). media_repos.json records which repo holds each file; a new file goes to
+# the first repo with room under MEDIA_REPO_CAP, and a new repo is created (public, Pages
+# enabled) automatically when all are full. Originals stay in /workspace/toeic_podcast.
+MEDIA_OWNER = os.environ.get("TOEIC_MEDIA_OWNER", "zixuniaowu")
+MEDIA_PREFIX = os.environ.get("TOEIC_MEDIA_PREFIX", "toeic800-media")
+MEDIA_REPO_CAP = int(os.environ.get("TOEIC_MEDIA_REPO_CAP", 850 * 1000 * 1000))
+MEDIA_CLONES = Path(os.environ.get("TOEIC_MEDIA_CLONES", "/workspace/toeic800_media"))
+WEB_STAGE = ROOT / ".pages_media"
+MEDIA_MANIFEST = ROOT / "media_repos.json"
+ENC_ARGS = ["-map", "0:v:0", "-map", "0:a:0", "-vf", "fps=2,format=yuv420p",
+            "-c:v", "libx264", "-profile:v", "high", "-preset", "slow", "-tune", "stillimage",
+            "-crf", "32", "-g", "60", "-c:a", "aac", "-b:a", "48k", "-ar", "24000", "-ac", "1",
+            "-movflags", "+faststart"]
+_DIRTY = set()
+
+
+def _manifest():
+    return json.loads(MEDIA_MANIFEST.read_text()) if MEDIA_MANIFEST.exists() else {"files": {}}
+
+
+def media_url(repo, name):
+    return f"https://{MEDIA_OWNER}.github.io/{repo}/{name}"
 
 
 def vurl(name):
-    return RELEASE_BASE + name
+    f = _manifest()["files"].get(name)
+    return media_url(f["repo"], name) if f else "pending:" + name  # fixed by fix_video_urls()
+
+
+def _repo_usage(man):
+    use = {}
+    for f in man["files"].values():
+        use[f["repo"]] = use.get(f["repo"], 0) + f["size"]
+    return use
+
+
+def ensure_media_repo(repo):
+    """Local clone of a media repo; creates the public GitHub repo + Pages if missing."""
+    d = MEDIA_CLONES / repo
+    if (d / ".git").exists():
+        return d
+    MEDIA_CLONES.mkdir(parents=True, exist_ok=True)
+    full = f"{MEDIA_OWNER}/{repo}"
+    if subprocess.run(["gh", "repo", "view", full], capture_output=True).returncode != 0:
+        subprocess.run(["gh", "repo", "create", full, "--public",
+                        "--description", "Episode videos for https://zixuniaowu.github.io/toeic800/ (GitHub Pages media host)"],
+                       check=True)
+    r = subprocess.run(["gh", "repo", "clone", full, str(d)], capture_output=True)
+    if r.returncode != 0 or not (d / ".git").exists():
+        d.mkdir(parents=True, exist_ok=True)
+        subprocess.run(["git", "init", "-b", "main"], cwd=d, check=True)
+        subprocess.run(["git", "remote", "add", "origin", f"https://github.com/{full}.git"], cwd=d, check=True)
+    (d / ".nojekyll").touch()
+    if not (d / "index.html").exists():
+        (d / "index.html").write_text('<!doctype html><meta charset="utf-8"><title>toeic800 media</title>'
+                                      '<p>Video files for <a href="https://zixuniaowu.github.io/toeic800/">TOEIC 800</a>.</p>\n')
+    _DIRTY.add(repo)
+    return d
 
 
 def stage_video(a, name):
-    """Faststart copy into the release staging dir; queue upload if new/changed."""
-    RELEASE_STAGE.mkdir(exist_ok=True)
-    b = RELEASE_STAGE / name
-    copy_video(a, b)
-    man = json.loads(RELEASE_MANIFEST.read_text()) if RELEASE_MANIFEST.exists() else {}
-    if man.get(name) != b.stat().st_size:
-        _UPLOADS.append(b)
+    """Compact web encode into WEB_STAGE, assign it to a media repo, copy into its clone."""
+    WEB_STAGE.mkdir(exist_ok=True)
+    b = WEB_STAGE / name
+    if not b.exists() or b.stat().st_mtime < a.stat().st_mtime:
+        tmp = b.with_suffix(".tmp.mp4")
+        subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", str(a)] + ENC_ARGS + [str(tmp)], check=True)
+        tmp.replace(b)
+        print(f"encoded {name}: {a.stat().st_size/1e6:.1f} MB -> {b.stat().st_size/1e6:.1f} MB")
+    size = b.stat().st_size
+    man = _manifest()
+    use = _repo_usage(man)
+    cur = man["files"].get(name)
+    repo = None
+    if cur and use.get(cur["repo"], 0) - cur["size"] + size <= MEDIA_REPO_CAP:
+        repo = cur["repo"]
+    else:
+        if cur:
+            use[cur["repo"]] -= cur["size"]
+        i = 1
+        while use.get(f"{MEDIA_PREFIX}{i}", 0) + size > MEDIA_REPO_CAP:
+            i += 1
+        repo = f"{MEDIA_PREFIX}{i}"
+    d = ensure_media_repo(repo)
+    dst = d / name
+    if not dst.exists() or dst.stat().st_size != size:
+        shutil.copy2(b, dst)
+        _DIRTY.add(repo)
+    if cur and cur["repo"] != repo:
+        old = MEDIA_CLONES / cur["repo"] / name
+        if old.exists():
+            old.unlink(); _DIRTY.add(cur["repo"])
+    man["files"][name] = {"repo": repo, "size": size}
+    MEDIA_MANIFEST.write_text(json.dumps(man, indent=1, sort_keys=True) + "\n")
 
 
-def upload_release_assets():
-    """Upload queued MP4s to the release with the gh CLI (creates the release if needed)."""
-    if not _UPLOADS or os.environ.get("TOEIC_NO_UPLOAD"):
+def publish_media():
+    """Commit + push changed media repos and make sure Pages is enabled on each."""
+    if os.environ.get("TOEIC_NO_UPLOAD"):
         return
-    r = subprocess.run(["gh", "release", "view", RELEASE_TAG, "-R", RELEASE_REPO], capture_output=True)
-    if r.returncode != 0:
-        subprocess.run(["gh", "release", "create", RELEASE_TAG, "-R", RELEASE_REPO, "--title", "Episode videos",
-                        "--notes", "MP4 files for the TOEIC 800 site (linked from the episode pages)."], check=True)
-    man = json.loads(RELEASE_MANIFEST.read_text()) if RELEASE_MANIFEST.exists() else {}
-    for b in _UPLOADS:
-        subprocess.run(["gh", "release", "upload", RELEASE_TAG, str(b), "--clobber", "-R", RELEASE_REPO], check=True)
-        man[b.name] = b.stat().st_size
-        RELEASE_MANIFEST.write_text(json.dumps(man, indent=1, sort_keys=True))
-        print("uploaded", b.name)
+    repos = _DIRTY | {f["repo"] for f in _manifest()["files"].values()}
+    for repo in sorted(repos):  # also retries repos left unpushed by an earlier failed run
+        d = MEDIA_CLONES / repo
+        if not (d / ".git").exists():
+            continue
+        subprocess.run(["git", "add", "-A"], cwd=d, check=True)
+        subprocess.run(["git", "branch", "-M", "main"], cwd=d, capture_output=True)
+        for k in ("user.name", "user.email"):  # reuse this repo's commit identity
+            v = subprocess.run(["git", "config", k], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+            if v:
+                subprocess.run(["git", "config", k, v], cwd=d, check=True)
+        if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=d).returncode != 0:
+            subprocess.run(["git", "commit", "-qm", "Update episode videos"], cwd=d, check=True)
+        subprocess.run(["git", "push", "-q", "-u", "origin", "main"], cwd=d, check=True)
+        full = f"{MEDIA_OWNER}/{repo}"
+        if subprocess.run(["gh", "api", f"repos/{full}/pages"], capture_output=True).returncode != 0:
+            subprocess.run(["gh", "api", "-X", "POST", f"repos/{full}/pages",
+                            "-f", "source[branch]=main", "-f", "source[path]=/"], check=True, capture_output=True)
+        print("published", repo)
+
+
+def fix_video_urls(obj):
+    """Point every 'video' field at its media-repo Pages URL (by file name)."""
+    files = _manifest()["files"]
+    if isinstance(obj, list):
+        for x in obj:
+            fix_video_urls(x)
+    elif isinstance(obj, dict):
+        for k, v in obj.items():
+            if k == "video" and isinstance(v, str):
+                name = v.rsplit("/", 1)[-1].rsplit(":", 1)[-1]
+                if name in files:
+                    obj[k] = media_url(files[name]["repo"], name)
+            else:
+                fix_video_urls(v)
+
+
 SITE_TITLE = "TOEIC 800 冲刺 · 边听边学"
 TAGLINE = "每天一期、约 40 分钟的免费 TOEIC 听力课，英文原声 + 中文讲解，单词带逐字母拼读，专为 550→800 分的同学设计。边干活、边通勤就能听。"
 COUNTER_PAGE_ID = "toeic800-listen"
@@ -342,6 +445,8 @@ def build_metadata(src):
                 if r.get(k) and not (SITE / r[k]).exists():
                     r.pop(k)
     out.sort(key=lambda e: e["number"], reverse=True)
+    publish_media()
+    fix_video_urls(out)
     (ROOT / "episodes.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", "utf-8")
     return out
 
@@ -726,8 +831,8 @@ if __name__ == "__main__":
         eps = json.loads((ROOT / "episodes.json").read_text("utf-8"))
     else:
         eps = build_metadata(Path(a.src))
-        upload_release_assets()
-    for old_mp4 in MEDIA.glob("*.mp4"):  # videos live on the release, never on Pages
+    fix_video_urls(eps)
+    for old_mp4 in MEDIA.glob("*.mp4"):  # videos live in the toeic800-mediaN repos, never here
         old_mp4.unlink()
     render(eps)
     for e in eps:

@@ -25,15 +25,26 @@ Visitor counter: https://visitor-badge.laobi.icu (no signup), page_id `toeic800-
 ## Japanese pages (aligned, ep8+)
 `epNja.html` is rendered from the same rows as `epN.html` (`words.ja_rows`): same word list, IPA, POS, MP3s, examples, tags; only gloss / example translation come from `epNja_content.py`, which is itself derived 1:1 from `epN_content.py` via `/workspace/toeic_podcast/ja_aligned.py`. Highlight words use `word — gloss` on both languages.
 
-## Video hosting (since Test 3)
+## Video hosting (GitHub Pages media repos)
 
-GitHub Pages has a 1 GB published-site limit, so MP4s are **not** stored in `site/media/`.
-`build_site.py` copies each `epN.mp4` / `epNja.mp4` (faststart) into `.release_media/` (git-ignored)
-and uploads new or changed files with `gh release upload --clobber` to the GitHub Release
-`media-v1` of this repo (`release_assets.json` tracks what is uploaded). Episode pages point their
-`<video src>` and download links at
-`https://github.com/zixuniaowu/toeic800/releases/download/media-v1/epN.mp4`.
-Any `*.mp4` left in `site/media/` is deleted on build. PDFs, covers and word MP3s stay on Pages.
-Requirements: `gh` logged in with push access. Set `TOEIC_NO_UPLOAD=1` to build without uploading.
-Release asset limit is 2 GB per file; if a release ever nears GitHub's limits, start `media-v2`
-via `TOEIC_RELEASE_TAG` (the next build re-uploads every MP4 to the new tag and re-points all pages).
+MP4s are **not** in `site/media/` (Pages 1 GB limit) and **not** on GitHub Releases any more:
+release assets redirect to `release-assets.githubusercontent.com` with `application/octet-stream`
++ `Content-Disposition: attachment`, which iPhone Safari refuses to play (crossed-out play icon).
+The old release `media-v1` is no longer linked (kept only as a backup).
+
+`build_site.py` now, for every `epN.mp4` / `epNja.mp4`:
+1. re-encodes a compact web copy into `.pages_media/` (git-ignored): 2 fps, x264 CRF 32
+   `-tune stillimage`, GOP 60, AAC 48 kbps 24 kHz mono, `+faststart` (~9 MB per ~55 min vs ~50 MB).
+   Re-encodes only when the source in `/workspace/toeic_podcast` is newer. Originals stay there (chat delivery).
+2. assigns it to a public media repo `zixuniaowu/toeic800-media1`, `-media2`, … (first one with room
+   under 850 MB, `TOEIC_MEDIA_REPO_CAP`); if all are full it **creates the next repo automatically**
+   (`gh repo create --public`, Pages from `main` /). Local clones live in `/workspace/toeic800_media/<repo>`
+   (re-cloned with `gh repo clone` if missing). `media_repos.json` (committed) maps file → repo + size.
+3. commits + pushes the changed media repos, then writes the URLs into episodes.json / pages:
+   `https://zixuniaowu.github.io/toeic800-mediaN/epN.mp4` (served as `video/mp4`, Range → 206).
+
+Daily routine (6:29): put files in `/workspace/toeic_podcast/` → `python3 build_site.py` → commit + push this
+repo (include `media_repos.json`) → wait for both the media repo's Pages build and the site workflow →
+check `curl -sI <video url>` is 200 + `video/mp4`. A brand-new media repo's first Pages build can take a few minutes.
+Requirements: `gh` logged in with repo-create/push rights. `TOEIC_NO_UPLOAD=1` builds without pushing media repos.
+Any `*.mp4` left in `site/media/` is deleted on build. PDFs, covers and word MP3s stay on this repo's Pages.
