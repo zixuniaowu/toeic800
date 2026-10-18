@@ -48,6 +48,14 @@ ENC_ARGS = ["-map", "0:v:0", "-map", "0:a:0", "-vf", "fps=2,format=yuv420p",
             "-crf", "32", "-g", "60", "-c:a", "aac", "-b:a", "48k", "-ar", "24000", "-ac", "1",
             "-movflags", "+faststart"]
 _DIRTY = set()
+# Original (full-quality) episode MP4s are backed up as assets of the GitHub Release
+# RELEASE_TAG (byte-identical to /workspace/toeic_podcast/epN[ja].mp4); release_assets.json
+# records each uploaded asset's size so only new/changed originals are uploaded. This lets
+# /workspace/tools/cleanup_old.sh verify the backup before deleting old local originals.
+RELEASE_REPO = os.environ.get("TOEIC_RELEASE_REPO", "zixuniaowu/toeic800")
+RELEASE_TAG = os.environ.get("TOEIC_RELEASE_TAG", "media-v1")
+RELEASE_MANIFEST = ROOT / "release_assets.json"
+_ORIGINALS = []
 
 
 def _manifest():
@@ -96,6 +104,7 @@ def ensure_media_repo(repo):
 
 def stage_video(a, name):
     """Compact web encode into WEB_STAGE, assign it to a media repo, copy into its clone."""
+    _ORIGINALS.append((a, name))
     WEB_STAGE.mkdir(exist_ok=True)
     b = WEB_STAGE / name
     if not b.exists() or b.stat().st_mtime < a.stat().st_mtime:
@@ -153,6 +162,30 @@ def publish_media():
             subprocess.run(["gh", "api", "-X", "POST", f"repos/{full}/pages",
                             "-f", "source[branch]=main", "-f", "source[path]=/"], check=True, capture_output=True)
         print("published", repo)
+
+
+def backup_originals():
+    """Upload new/changed original MP4s (staged this run) to the backup release RELEASE_TAG."""
+    if not _ORIGINALS or os.environ.get("TOEIC_NO_UPLOAD"):
+        return
+    man = json.loads(RELEASE_MANIFEST.read_text()) if RELEASE_MANIFEST.exists() else {}
+    todo = [(a, name) for a, name in _ORIGINALS if man.get(name) != a.stat().st_size]
+    if not todo:
+        return
+    if subprocess.run(["gh", "release", "view", RELEASE_TAG, "-R", RELEASE_REPO], capture_output=True).returncode != 0:
+        subprocess.run(["gh", "release", "create", RELEASE_TAG, "-R", RELEASE_REPO, "--title", "Episode videos",
+                        "--notes", "Original MP4 files of the TOEIC 800 episodes (backup)."], check=True)
+    import tempfile
+    for a, name in todo:
+        with tempfile.TemporaryDirectory(dir=ROOT) as td:
+            up = a
+            if a.name != name:  # asset name = file name; hard-link under the canonical name
+                up = Path(td) / name
+                os.link(a, up)
+            subprocess.run(["gh", "release", "upload", RELEASE_TAG, str(up), "--clobber", "-R", RELEASE_REPO], check=True)
+        man[name] = a.stat().st_size
+        RELEASE_MANIFEST.write_text(json.dumps(man, indent=1, sort_keys=True) + "\n")
+        print("backed up original", name, "to release", RELEASE_TAG)
 
 
 def fix_video_urls(obj):
@@ -318,6 +351,21 @@ def build_metadata(src):
     ipa_cache = W.load_cache()
     audio_jobs = []
     found = find_episodes(src)
+    # PRESERVE_MISSING_EPISODES: an episode already in episodes.json whose local sources
+    # (video / _script.pdf in SRC) are gone - e.g. deleted by cleanup_old.sh after verifying the
+    # release backup - is kept as-is from episodes.json instead of being dropped from the site.
+    # Its web video stays in the media repo (media_repos.json) and its PDF/words in site/media.
+    for n in sorted(old):
+        if str(n) in os.environ.get("TOEIC_SKIP_EPS", "").split(","):
+            continue  # explicitly skipped episodes are still dropped, as before
+        have = set(found.get(n, {}))
+        need = set((old[n].get("languages") or {}).keys()) or {"zh"}
+        if not need <= have:
+            found.pop(n, None)
+            print(f"ep{n}: local source missing ({', '.join(sorted(need - have))}); keeping entry from episodes.json")
+            ep = dict(old[n])
+            ep.update(overrides.get(str(n), {}))
+            out.append(ep)
     for n, langs in found.items():
         # Prefer Chinese meta as primary; Japanese becomes languages.ja
         primary_lang = "zh" if "zh" in langs else "ja"
@@ -447,6 +495,7 @@ def build_metadata(src):
                     r.pop(k)
     out.sort(key=lambda e: e["number"], reverse=True)
     publish_media()
+    backup_originals()
     fix_video_urls(out)
     (ROOT / "episodes.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", "utf-8")
     return out
