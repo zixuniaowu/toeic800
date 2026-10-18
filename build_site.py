@@ -9,6 +9,7 @@ Usage:  python3 build_site.py [--src /workspace/toeic_podcast]
    overrides.json (per-episode) wins over everything.
 3. Writes episodes.json, copies media into site/media/, regenerates HTML.
 """
+import hashlib
 import argparse, datetime as dt, html, json, os, re, shutil, subprocess, sys
 from pathlib import Path
 
@@ -530,6 +531,42 @@ video{width:100%;border-radius:12px;background:#000;display:block;aspect-ratio:1
 footer{color:var(--muted);font-size:13px;text-align:center;padding:20px 0 36px}
 footer .counter{display:inline-flex;align-items:center;gap:8px;margin-bottom:6px}
 footer img{height:20px;vertical-align:middle}
+
+/* ---- layout helpers (mobile: single column, unchanged order) ---- */
+.side,.sidein{display:contents}
+.sidenav,.sideact{display:none}
+/* ---- desktop >=1024px ---- */
+@media (min-width:1024px){
+.wrap{max-width:1280px;padding:0 28px}
+header.hero{padding:36px 0 32px}
+header.hero h1{font-size:30px}
+main{padding:28px 0 12px}
+.home .list{grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:16px;margin-top:8px}
+.home .ep-wrap{display:flex;flex-direction:column;transition:box-shadow .15s,transform .15s}
+.home .ep-wrap:hover{box-shadow:0 6px 18px rgba(15,23,42,.10);transform:translateY(-1px)}
+.home .ep-wrap .ep{flex:1;align-items:flex-start}
+main.epgrid{display:grid;grid-template-columns:minmax(0,1fr) 360px;column-gap:28px;align-items:start}
+main.epgrid>*{grid-column:1}
+main.epgrid>.side{display:block;grid-column:2;grid-row:1/span 40;align-self:start;position:sticky;top:14px}
+.sidein{display:flex;flex-direction:column;gap:12px;max-height:calc(100vh - 28px);overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}
+.sidein>.card{margin-bottom:0}
+.sidenav{display:block;padding:10px 14px}
+.sidenav .nav{margin:6px 0 0}
+.sidehome{font-weight:600;font-size:14px}
+.sideact{display:block}
+.mainact{display:none}
+.side .segs button{padding:9px 2px;font-size:14px}
+.side .words li{padding:4px 8px}
+.side .words b{font-size:14px}
+main.epgrid video{max-height:min(64vh,600px)}
+h1.title{font-size:24px}
+.wlist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;align-items:start}
+.wd,.wd:first-child{border:1px solid var(--line);border-radius:12px;padding:12px}
+}
+@media (min-width:1600px){
+.wrap{max-width:1560px}
+.wlist{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
 """
 
 JS = """
@@ -574,6 +611,7 @@ def fmt_date(iso):
 
 
 def page(title, body, head_extra=""):
+    CSS_VER = hashlib.sha1(CSS.encode("utf-8")).hexdigest()[:10]
     return f"""<!doctype html>
 <html lang="zh-CN">
 <head>
@@ -582,7 +620,7 @@ def page(title, body, head_extra=""):
 <title>{E(title)}</title>
 <meta name="description" content="{E(TAGLINE)}">
 <meta name="theme-color" content="#4f7cf0">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v={CSS_VER}">
 {head_extra}</head>
 <body>
 {body}
@@ -633,7 +671,7 @@ def render_index(eps):
   <p>{E(TAGLINE)}</p>
   <p style="margin-top:8px;opacity:.9;font-size:14px">第 8 期起提供 <b>中文版</b> / <b>日本語版</b> 双解说（真题精讲）。</p>
 </div></header>
-<main class="wrap">
+<main class="wrap home">
 <ul class="list">
 {chr(10).join(items)}
 </ul>
@@ -745,11 +783,12 @@ def render_episode(e, prev_e, next_e, lang="zh"):
         nav += f'<a href="ep{prev_e["number"]}.html">← 第 {prev_e["number"]} 期</a>' if prev_e else "<span></span>"
         nav += f'<a href="ep{next_e["number"]}.html">第 {next_e["number"]} 期 →</a>' if next_e else "<span></span>"
     nav += "</div>"
+    all_eps = "📚 全エピソード一覧" if is_ja else "📚 全部节目"
     more = ""
     if wrows:
         more = (' <a class="more" href="#words">全 %d 語 ↓</a>' if is_ja else ' <a class="more" href="#words">全部 %d 词 ↓</a>') % len(wrows)
     body = f"""<header class="bar"><div class="wrap"><a href="index.html">← {E(SITE_TITLE)}</a></div></header>
-<main class="wrap">
+<main class="wrap epgrid">
 <h1 class="title">{title_h1}</h1>
 <div class="meta" style="margin-bottom:8px">{meta_line}</div>
 {switch}
@@ -759,14 +798,21 @@ def render_episode(e, prev_e, next_e, lang="zh"):
   </video>
   <p class="tip">{tip_seek} {tip_save}</p>
 </section>
+<aside class="side"><div class="sidein">
+<div class="card sidenav"><a class="sidehome" href="index.html">{all_eps}</a>{nav}</div>
 <section class="card"><h2>{dir_title}</h2><ul class="segs">
 {segs}
 </ul></section>
 <section class="card"><h2>{hl_title}{more}</h2><ul class="words">
 {words}
 </ul></section>
+<section class="card sideact">
+  <a class="btn" href="{E(pdf)}" target="_blank" rel="noopener">{pdf_label}</a>
+  <a class="btn ghost" href="{E(video)}" download>{dl_label}</a>
+</section>
+</div></aside>
 {review}
-<section class="card">
+<section class="card mainact">
   <a class="btn" href="{E(pdf)}" target="_blank" rel="noopener">{pdf_label}</a>
   <a class="btn ghost" href="{E(video)}" download>{dl_label}</a>
 </section>
