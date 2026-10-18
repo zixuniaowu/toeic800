@@ -1,5 +1,1185 @@
 [
   {
+    "number": 36,
+    "theme": "题型精讲 · Part 2 一般疑问句（Yes/No）",
+    "date": "2026-10-18",
+    "duration_sec": 2355.7,
+    "segments": [
+      {
+        "title": "1. Part 2 Yes/No 疑问句真题（三套卷精选 12 道）",
+        "start": 0.0,
+        "length": 1395.92
+      },
+      {
+        "title": "2. Part 7 短信对话（配套精练）",
+        "start": 1395.92,
+        "length": 273.13
+      },
+      {
+        "title": "3. 本期 36 词总复习 · 拼读",
+        "start": 1669.05,
+        "length": 686.6
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "revise",
+        "zh": "修改；修订"
+      },
+      {
+        "word": "procedure",
+        "zh": "程序；流程；手续"
+      },
+      {
+        "word": "shipment",
+        "zh": "货物；发货；装运"
+      },
+      {
+        "word": "assembly line",
+        "zh": "装配线；生产线"
+      },
+      {
+        "word": "client",
+        "zh": "客户；委托人"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "gallery",
+        "zh": "画廊；美术馆"
+      },
+      {
+        "word": "ride",
+        "zh": "搭车；乘坐"
+      },
+      {
+        "word": "light switch",
+        "zh": "电灯开关"
+      },
+      {
+        "word": "file cabinet",
+        "zh": "文件柜"
+      },
+      {
+        "word": "extra",
+        "zh": "额外费用；额外的"
+      },
+      {
+        "word": "have trouble with",
+        "zh": "在方面有困难；出问题"
+      },
+      {
+        "word": "revise",
+        "zh": "修改；修订"
+      },
+      {
+        "word": "in time for",
+        "zh": "及时赶上"
+      },
+      {
+        "word": "conference call",
+        "zh": "电话会议"
+      },
+      {
+        "word": "product launch",
+        "zh": "产品发布；新品上市"
+      },
+      {
+        "word": "complaint",
+        "zh": "投诉；抱怨"
+      },
+      {
+        "word": "be aware of",
+        "zh": "知道；意识到"
+      },
+      {
+        "word": "procedure",
+        "zh": "程序；流程；手续"
+      },
+      {
+        "word": "supplies",
+        "zh": "用品；物资；备品"
+      },
+      {
+        "word": "branch",
+        "zh": "分店；分公司；分行"
+      },
+      {
+        "word": "come with",
+        "zh": "附带；配有"
+      },
+      {
+        "word": "shipment",
+        "zh": "货物；发货；装运"
+      },
+      {
+        "word": "be supposed to",
+        "zh": "应该；按计划要"
+      },
+      {
+        "word": "manual",
+        "zh": "说明书；手册"
+      },
+      {
+        "word": "passenger",
+        "zh": "乘客"
+      },
+      {
+        "word": "assembly line",
+        "zh": "装配线；生产线"
+      },
+      {
+        "word": "production",
+        "zh": "生产；产量"
+      },
+      {
+        "word": "set up",
+        "zh": "安装；设置；布置"
+      },
+      {
+        "word": "assemble",
+        "zh": "组建；召集；组装"
+      },
+      {
+        "word": "qualified",
+        "zh": "合格的；有资格的；称职的"
+      },
+      {
+        "word": "prefer",
+        "zh": "更喜欢；宁愿"
+      },
+      {
+        "word": "sample",
+        "zh": "样品；样本"
+      },
+      {
+        "word": "client",
+        "zh": "客户；委托人"
+      },
+      {
+        "word": "degree",
+        "zh": "学位；程度；度"
+      },
+      {
+        "word": "down the hall",
+        "zh": "在走廊那头；沿走廊过去"
+      },
+      {
+        "word": "manufacturing",
+        "zh": "制造业；制造"
+      },
+      {
+        "word": "hardware store",
+        "zh": "五金店"
+      },
+      {
+        "word": "insulation",
+        "zh": "隔热材料；绝缘材料"
+      },
+      {
+        "word": "vendor",
+        "zh": "供应商；卖主"
+      },
+      {
+        "word": "purchase order",
+        "zh": "采购单；订购单"
+      },
+      {
+        "word": "in the meantime",
+        "zh": "在此期间；与此同时"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep36.mp4",
+    "script_pdf": "media/ep36_script.pdf",
+    "source_video": "ep36.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep36.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep36.mp4",
+        "script_pdf": "media/ep36_script.pdf",
+        "duration_sec": 2355.7,
+        "theme": "题型精讲 · Part 2 一般疑问句（Yes/No）",
+        "segments": [
+          {
+            "title": "1. Part 2 Yes/No 疑问句真题（三套卷精选 12 道）",
+            "start": 0.0,
+            "length": 1395.92
+          },
+          {
+            "title": "2. Part 7 短信对话（配套精练）",
+            "start": 1395.92,
+            "length": 273.13
+          },
+          {
+            "title": "3. 本期 36 词总复习 · 拼读",
+            "start": 1669.05,
+            "length": 686.6
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep36ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep36ja.mp4",
+        "script_pdf": "media/ep36ja_script.pdf",
+        "duration_sec": 2826.7,
+        "theme": "問題タイプ別精講 · Part 2 一般疑問文（Yes/No）",
+        "segments": [
+          {
+            "title": "1. Part 2 Yes/No 疑問文の本番問題（3セットから厳選 12問）",
+            "start": 0.0,
+            "length": 1767.34
+          },
+          {
+            "title": "2. Part 7 テキストメッセージ（関連演習）",
+            "start": 1767.34,
+            "length": 322.11
+          },
+          {
+            "title": "3. 今回の 36 語総復習 · スペル",
+            "start": 2089.46,
+            "length": 737.26
+          }
+        ],
+        "poster": "media/ep36ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "revise",
+            "zh": "修正する；改訂する"
+          },
+          {
+            "word": "procedure",
+            "zh": "手順；手続き"
+          },
+          {
+            "word": "shipment",
+            "zh": "出荷品；出荷；発送"
+          },
+          {
+            "word": "assembly line",
+            "zh": "組み立てライン；生産ライン"
+          },
+          {
+            "word": "client",
+            "zh": "顧客；取引先；依頼人"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "gallery",
+          "ride",
+          "light switch",
+          "file cabinet",
+          "extra",
+          "have trouble with",
+          "revise",
+          "in time for",
+          "conference call",
+          "product launch",
+          "complaint",
+          "be aware of",
+          "procedure",
+          "supplies",
+          "branch",
+          "come with",
+          "shipment",
+          "be supposed to",
+          "manual",
+          "passenger",
+          "assembly line",
+          "production",
+          "set up",
+          "assemble",
+          "qualified",
+          "prefer",
+          "sample",
+          "client",
+          "degree",
+          "down the hall",
+          "manufacturing",
+          "hardware store",
+          "insulation",
+          "vendor",
+          "purchase order",
+          "in the meantime"
+        ],
+        "words": [
+          {
+            "word": "gallery",
+            "pos": "n.",
+            "zh": "画廊；美術館；ギャラリー",
+            "ex": "Are you going to the gallery?",
+            "exzh": "ギャラリーに行くんですか。",
+            "ipa": "/ˈɡælɚi/",
+            "audio": "media/words/ep36/gallery.mp3",
+            "ex_audio": "media/words/ep36/gallery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ride",
+            "pos": "n./v.",
+            "zh": "車に乗せてもらうこと；乗る",
+            "ex": "I need a ride to the airport.",
+            "exzh": "空港まで車に乗せてもらう必要がある。",
+            "ipa": "/raɪd/",
+            "audio": "media/words/ep36/ride.mp3",
+            "ex_audio": "media/words/ep36/ride_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "light switch",
+            "pos": "n.",
+            "zh": "照明のスイッチ",
+            "ex": "The light switch is next to the door.",
+            "exzh": "照明のスイッチはドアの横にある。",
+            "ipa": "/laɪt swɪtʃ/",
+            "audio": "media/words/ep36/light-switch.mp3",
+            "ex_audio": "media/words/ep36/light-switch_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "file cabinet",
+            "pos": "n.",
+            "zh": "書類キャビネット；書類棚",
+            "ex": "The contracts are in the file cabinet.",
+            "exzh": "契約書は書類キャビネットの中にある。",
+            "ipa": "/faɪl ˈkæbənət/",
+            "audio": "media/words/ep36/file-cabinet.mp3",
+            "ex_audio": "media/words/ep36/file-cabinet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "extra",
+            "pos": "n./adj.",
+            "zh": "追加料金；余分の",
+            "ex": "I don't want to pay any extra.",
+            "exzh": "追加料金は払いたくない。",
+            "ipa": "/ˈɛkstrə/",
+            "audio": "media/words/ep36/extra.mp3",
+            "ex_audio": "media/words/ep36/extra_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "have trouble with",
+            "pos": "phr.",
+            "zh": "…で困っている；…に問題がある",
+            "ex": "Are you having trouble with the new software?",
+            "exzh": "新しいソフトウェアで困っていますか。",
+            "ipa": "/hæv ˈtrʌbəl wɪð/",
+            "audio": "media/words/ep36/have-trouble-with.mp3",
+            "ex_audio": "media/words/ep36/have-trouble-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "revise",
+            "pos": "v.",
+            "zh": "修正する；改訂する",
+            "ex": "The budget will be revised by four o'clock.",
+            "exzh": "予算は4時までに修正される。",
+            "ipa": "/rɪˈvaɪz/",
+            "audio": "media/words/ep36/revise.mp3",
+            "ex_audio": "media/words/ep36/revise_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "in time for",
+            "pos": "phr.",
+            "zh": "…に間に合うように",
+            "ex": "The report will be ready in time for the meeting.",
+            "exzh": "報告書は会議に間に合うように準備される。",
+            "ipa": "/ɪn taɪm fɔr/",
+            "audio": "media/words/ep36/in-time-for.mp3",
+            "ex_audio": "media/words/ep36/in-time-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "conference call",
+            "pos": "n.",
+            "zh": "電話会議",
+            "ex": "We have a conference call at four o'clock.",
+            "exzh": "4時に電話会議がある。",
+            "ipa": "/ˈkɑnfɚəns kɔl/",
+            "audio": "media/words/ep36/conference-call.mp3",
+            "ex_audio": "media/words/ep36/conference-call_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "product launch",
+            "pos": "n.",
+            "zh": "製品の発売；新製品発表",
+            "ex": "The product launch is planned for December.",
+            "exzh": "製品の発売は12月に予定されている。",
+            "ipa": "/ˈprɑdəkt lɔntʃ/",
+            "audio": "media/words/ep36/product-launch.mp3",
+            "ex_audio": "media/words/ep36/product-launch_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "complaint",
+            "pos": "n.",
+            "zh": "苦情；クレーム",
+            "ex": "Did you let the chef know about the customer's complaint?",
+            "exzh": "お客様の苦情のことをシェフに伝えましたか。",
+            "ipa": "/kəmˈpleɪnt/",
+            "audio": "media/words/ep36/complaint.mp3",
+            "ex_audio": "media/words/ep36/complaint_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be aware of",
+            "pos": "phr.",
+            "zh": "…を知っている；…に気づいている",
+            "ex": "Are you aware of the new procedure?",
+            "exzh": "新しい手順を知っていますか。",
+            "ipa": "/bi əˈwɛr əv/",
+            "audio": "media/words/ep36/be-aware-of.mp3",
+            "ex_audio": "media/words/ep36/be-aware-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "procedure",
+            "pos": "n.",
+            "zh": "手順；手続き",
+            "ex": "Please follow the new procedure for ordering supplies.",
+            "exzh": "備品注文の新しい手順に従ってください。",
+            "ipa": "/prəˈsidʒɚ/",
+            "audio": "media/words/ep36/procedure.mp3",
+            "ex_audio": "media/words/ep36/procedure_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "supplies",
+            "pos": "n.",
+            "zh": "備品；用品",
+            "ex": "We need to order more office supplies.",
+            "exzh": "事務用品をもっと注文する必要がある。",
+            "ipa": "/səˈplaɪz/",
+            "audio": "media/words/ep36/supplies.mp3",
+            "ex_audio": "media/words/ep36/supplies_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "branch",
+            "pos": "n.",
+            "zh": "支店；支社",
+            "ex": "The bank opened a new branch downtown.",
+            "exzh": "その銀行は中心街に新しい支店を開いた。",
+            "ipa": "/bræntʃ/",
+            "audio": "media/words/ep36/branch.mp3",
+            "ex_audio": "media/words/ep36/branch_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "come with",
+            "pos": "phr.",
+            "zh": "…がついてくる；…が付属する",
+            "ex": "Doesn't this meal usually come with a salad?",
+            "exzh": "この料理にはいつもサラダがつくのではありませんか。",
+            "ipa": "/kʌm wɪð/",
+            "audio": "media/words/ep36/come-with.mp3",
+            "ex_audio": "media/words/ep36/come-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shipment",
+            "pos": "n.",
+            "zh": "出荷品；出荷；発送",
+            "ex": "The shipment is planned for Thursday.",
+            "exzh": "その荷物は木曜日に出荷される予定だ。",
+            "ipa": "/ˈʃɪpmənt/",
+            "audio": "media/words/ep36/shipment.mp3",
+            "ex_audio": "media/words/ep36/shipment_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "be supposed to",
+            "pos": "phr.",
+            "zh": "…することになっている；…のはずだ",
+            "ex": "The shipment was supposed to be ready yesterday.",
+            "exzh": "その荷物は昨日用意できているはずだった。",
+            "ipa": "/bi səˈpoʊzd tu/",
+            "audio": "media/words/ep36/be-supposed-to.mp3",
+            "ex_audio": "media/words/ep36/be-supposed-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "manual",
+            "pos": "n.",
+            "zh": "説明書；マニュアル",
+            "ex": "We've already read the manual.",
+            "exzh": "説明書はもう読んだ。",
+            "ipa": "/ˈmænjuəl/",
+            "audio": "media/words/ep36/manual.mp3",
+            "ex_audio": "media/words/ep36/manual_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "passenger",
+            "pos": "n.",
+            "zh": "乗客",
+            "ex": "It's a passenger ship.",
+            "exzh": "それは客船だ。",
+            "ipa": "/ˈpæsəndʒɚ/",
+            "audio": "media/words/ep36/passenger.mp3",
+            "ex_audio": "media/words/ep36/passenger_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assembly line",
+            "pos": "n.",
+            "zh": "組み立てライン；生産ライン",
+            "ex": "The machines for the new assembly line are being delivered.",
+            "exzh": "新しい組み立てラインの機械が届けられるところだ。",
+            "ipa": "/əˈsɛmbli laɪn/",
+            "audio": "media/words/ep36/assembly-line.mp3",
+            "ex_audio": "media/words/ep36/assembly-line_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "production",
+            "pos": "n.",
+            "zh": "生産；製造",
+            "ex": "It was a much faster production method.",
+            "exzh": "それはずっと速い生産方法だった。",
+            "ipa": "/prəˈdʌkʃən/",
+            "audio": "media/words/ep36/production.mp3",
+            "ex_audio": "media/words/ep36/production_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set up",
+            "pos": "v.",
+            "zh": "設置する；準備する；組み立てる",
+            "ex": "We just started setting up the machines.",
+            "exzh": "ちょうど機械の設置を始めたところだ。",
+            "ipa": "/sɛt ʌp/",
+            "audio": "media/words/ep36/set-up.mp3",
+            "ex_audio": "media/words/ep36/set-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assemble",
+            "pos": "v.",
+            "zh": "集める；組み立てる",
+            "ex": "The team we've assembled is highly qualified.",
+            "exzh": "私たちが集めたチームはとても優秀だ。",
+            "ipa": "/əˈsɛmbəl/",
+            "audio": "media/words/ep36/assemble.mp3",
+            "ex_audio": "media/words/ep36/assemble_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "qualified",
+            "pos": "adj.",
+            "zh": "資格のある；適任の",
+            "ex": "All of our technicians are highly qualified.",
+            "exzh": "当社の技術者は全員とても優秀だ。",
+            "ipa": "/ˈkwɑləˌfaɪd/",
+            "audio": "media/words/ep36/qualified.mp3",
+            "ex_audio": "media/words/ep36/qualified_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prefer",
+            "pos": "v.",
+            "zh": "…のほうを好む",
+            "ex": "I prefer the other sample.",
+            "exzh": "もう1つのサンプルのほうがいい。",
+            "ipa": "/prəˈfɝ/",
+            "audio": "media/words/ep36/prefer.mp3",
+            "ex_audio": "media/words/ep36/prefer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sample",
+            "pos": "n.",
+            "zh": "見本；サンプル",
+            "ex": "Could you send us a sample of the fabric?",
+            "exzh": "生地のサンプルを送っていただけますか。",
+            "ipa": "/ˈsæmpəl/",
+            "audio": "media/words/ep36/sample.mp3",
+            "ex_audio": "media/words/ep36/sample_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "client",
+            "pos": "n.",
+            "zh": "顧客；取引先；依頼人",
+            "ex": "No, I'm visiting a client.",
+            "exzh": "いいえ、取引先を訪問します。",
+            "ipa": "/ˈklaɪənt/",
+            "audio": "media/words/ep36/client.mp3",
+            "ex_audio": "media/words/ep36/client_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "degree",
+            "pos": "n.",
+            "zh": "学位；程度；度",
+            "ex": "Rajeev has an art degree.",
+            "exzh": "Rajeev は美術の学位を持っている。",
+            "ipa": "/dɪˈɡri/",
+            "audio": "media/words/ep36/degree.mp3",
+            "ex_audio": "media/words/ep36/degree_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "down the hall",
+            "pos": "phr.",
+            "zh": "廊下の先に",
+            "ex": "The meeting room is just down the hall.",
+            "exzh": "会議室は廊下のすぐ先にある。",
+            "ipa": "/daʊn ðə hɔl/",
+            "audio": "media/words/ep36/down-the-hall.mp3",
+            "ex_audio": "media/words/ep36/down-the-hall_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "manufacturing",
+            "pos": "n.",
+            "zh": "製造業；製造",
+            "ex": "He works in the plastics manufacturing industry.",
+            "exzh": "彼はプラスチック製造業で働いている。",
+            "ipa": "/ˌmænjəˈfæktʃɚɪŋ/",
+            "audio": "media/words/ep36/manufacturing.mp3",
+            "ex_audio": "media/words/ep36/manufacturing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hardware store",
+            "pos": "n.",
+            "zh": "金物店；ホームセンター",
+            "ex": "I bought them at the hardware store.",
+            "exzh": "金物店で買った。",
+            "ipa": "/ˈhɑrˌdwɛr stɔr/",
+            "audio": "media/words/ep36/hardware-store.mp3",
+            "ex_audio": "media/words/ep36/hardware-store_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "insulation",
+            "pos": "n.",
+            "zh": "断熱材；絶縁材",
+            "ex": "I need insulation to cover the pipes.",
+            "exzh": "配管を覆う断熱材が必要だ。",
+            "ipa": "/ˌɪnsəˈleɪʃən/",
+            "audio": "media/words/ep36/insulation.mp3",
+            "ex_audio": "media/words/ep36/insulation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "vendor",
+            "pos": "n.",
+            "zh": "業者；納入業者；販売業者",
+            "ex": "Tullyville is the vendor we used for the project.",
+            "exzh": "Tullyville はそのプロジェクトで使った業者だ。",
+            "ipa": "/ˈvɛndɚ/",
+            "audio": "media/words/ep36/vendor.mp3",
+            "ex_audio": "media/words/ep36/vendor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "purchase order",
+            "pos": "n.",
+            "zh": "発注書；注文書",
+            "ex": "The number is on the purchase order.",
+            "exzh": "番号は発注書に載っている。",
+            "ipa": "/ˈpɝtʃəs ˈɔrdɚ/",
+            "audio": "media/words/ep36/purchase-order.mp3",
+            "ex_audio": "media/words/ep36/purchase-order_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in the meantime",
+            "pos": "phr.",
+            "zh": "その間に；それまでの間",
+            "ex": "In the meantime, I'll remeasure the piping.",
+            "exzh": "その間に、配管を測り直しておく。",
+            "ipa": "/ɪn ðə ˈminˌtaɪm/",
+            "audio": "media/words/ep36/in-the-meantime.mp3",
+            "ex_audio": "media/words/ep36/in-the-meantime_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep36_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 2 一般疑問文（Yes/No）",
+    "words": [
+      {
+        "word": "gallery",
+        "pos": "n.",
+        "zh": "画廊；美术馆",
+        "ex": "Are you going to the gallery?",
+        "exzh": "你要去画廊吗？",
+        "ipa": "/ˈɡælɚi/",
+        "audio": "media/words/ep36/gallery.mp3",
+        "ex_audio": "media/words/ep36/gallery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ride",
+        "pos": "n./v.",
+        "zh": "搭车；乘坐",
+        "ex": "I need a ride to the airport.",
+        "exzh": "我需要有人送我去机场。",
+        "ipa": "/raɪd/",
+        "audio": "media/words/ep36/ride.mp3",
+        "ex_audio": "media/words/ep36/ride_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "light switch",
+        "pos": "n.",
+        "zh": "电灯开关",
+        "ex": "The light switch is next to the door.",
+        "exzh": "电灯开关在门旁边。",
+        "ipa": "/laɪt swɪtʃ/",
+        "audio": "media/words/ep36/light-switch.mp3",
+        "ex_audio": "media/words/ep36/light-switch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "file cabinet",
+        "pos": "n.",
+        "zh": "文件柜",
+        "ex": "The contracts are in the file cabinet.",
+        "exzh": "合同在文件柜里。",
+        "ipa": "/faɪl ˈkæbənət/",
+        "audio": "media/words/ep36/file-cabinet.mp3",
+        "ex_audio": "media/words/ep36/file-cabinet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "extra",
+        "pos": "n./adj.",
+        "zh": "额外费用；额外的",
+        "ex": "I don't want to pay any extra.",
+        "exzh": "我不想付额外的钱。",
+        "ipa": "/ˈɛkstrə/",
+        "audio": "media/words/ep36/extra.mp3",
+        "ex_audio": "media/words/ep36/extra_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "have trouble with",
+        "pos": "phr.",
+        "zh": "在……方面有困难；……出问题",
+        "ex": "Are you having trouble with the new software?",
+        "exzh": "你用新软件遇到麻烦了吗？",
+        "ipa": "/hæv ˈtrʌbəl wɪð/",
+        "audio": "media/words/ep36/have-trouble-with.mp3",
+        "ex_audio": "media/words/ep36/have-trouble-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "revise",
+        "pos": "v.",
+        "zh": "修改；修订",
+        "ex": "The budget will be revised by four o'clock.",
+        "exzh": "预算会在四点前修改好。",
+        "ipa": "/rɪˈvaɪz/",
+        "audio": "media/words/ep36/revise.mp3",
+        "ex_audio": "media/words/ep36/revise_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "in time for",
+        "pos": "phr.",
+        "zh": "及时赶上",
+        "ex": "The report will be ready in time for the meeting.",
+        "exzh": "报告会在会议前准备好。",
+        "ipa": "/ɪn taɪm fɔr/",
+        "audio": "media/words/ep36/in-time-for.mp3",
+        "ex_audio": "media/words/ep36/in-time-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "conference call",
+        "pos": "n.",
+        "zh": "电话会议",
+        "ex": "We have a conference call at four o'clock.",
+        "exzh": "我们四点有个电话会议。",
+        "ipa": "/ˈkɑnfɚəns kɔl/",
+        "audio": "media/words/ep36/conference-call.mp3",
+        "ex_audio": "media/words/ep36/conference-call_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "product launch",
+        "pos": "n.",
+        "zh": "产品发布；新品上市",
+        "ex": "The product launch is planned for December.",
+        "exzh": "产品发布定在十二月。",
+        "ipa": "/ˈprɑdəkt lɔntʃ/",
+        "audio": "media/words/ep36/product-launch.mp3",
+        "ex_audio": "media/words/ep36/product-launch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "complaint",
+        "pos": "n.",
+        "zh": "投诉；抱怨",
+        "ex": "Did you let the chef know about the customer's complaint?",
+        "exzh": "你把顾客的投诉告诉厨师了吗？",
+        "ipa": "/kəmˈpleɪnt/",
+        "audio": "media/words/ep36/complaint.mp3",
+        "ex_audio": "media/words/ep36/complaint_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be aware of",
+        "pos": "phr.",
+        "zh": "知道；意识到",
+        "ex": "Are you aware of the new procedure?",
+        "exzh": "你知道新流程吗？",
+        "ipa": "/bi əˈwɛr əv/",
+        "audio": "media/words/ep36/be-aware-of.mp3",
+        "ex_audio": "media/words/ep36/be-aware-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "procedure",
+        "pos": "n.",
+        "zh": "程序；流程；手续",
+        "ex": "Please follow the new procedure for ordering supplies.",
+        "exzh": "请按照订购用品的新流程办理。",
+        "ipa": "/prəˈsidʒɚ/",
+        "audio": "media/words/ep36/procedure.mp3",
+        "ex_audio": "media/words/ep36/procedure_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "supplies",
+        "pos": "n.",
+        "zh": "用品；物资；备品",
+        "ex": "We need to order more office supplies.",
+        "exzh": "我们需要再订一些办公用品。",
+        "ipa": "/səˈplaɪz/",
+        "audio": "media/words/ep36/supplies.mp3",
+        "ex_audio": "media/words/ep36/supplies_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "branch",
+        "pos": "n.",
+        "zh": "分店；分公司；分行",
+        "ex": "The bank opened a new branch downtown.",
+        "exzh": "这家银行在市中心开了一家新分行。",
+        "ipa": "/bræntʃ/",
+        "audio": "media/words/ep36/branch.mp3",
+        "ex_audio": "media/words/ep36/branch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "come with",
+        "pos": "phr.",
+        "zh": "附带；配有",
+        "ex": "Doesn't this meal usually come with a salad?",
+        "exzh": "这份餐通常不是配沙拉的吗？",
+        "ipa": "/kʌm wɪð/",
+        "audio": "media/words/ep36/come-with.mp3",
+        "ex_audio": "media/words/ep36/come-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "zh": "货物；发货；装运",
+        "ex": "The shipment is planned for Thursday.",
+        "exzh": "这批货计划周四发出。",
+        "ipa": "/ˈʃɪpmənt/",
+        "audio": "media/words/ep36/shipment.mp3",
+        "ex_audio": "media/words/ep36/shipment_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "be supposed to",
+        "pos": "phr.",
+        "zh": "应该；按计划要",
+        "ex": "The shipment was supposed to be ready yesterday.",
+        "exzh": "这批货本应昨天准备好。",
+        "ipa": "/bi səˈpoʊzd tu/",
+        "audio": "media/words/ep36/be-supposed-to.mp3",
+        "ex_audio": "media/words/ep36/be-supposed-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "manual",
+        "pos": "n.",
+        "zh": "说明书；手册",
+        "ex": "We've already read the manual.",
+        "exzh": "我们已经读过说明书了。",
+        "ipa": "/ˈmænjuəl/",
+        "audio": "media/words/ep36/manual.mp3",
+        "ex_audio": "media/words/ep36/manual_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "passenger",
+        "pos": "n.",
+        "zh": "乘客",
+        "ex": "It's a passenger ship.",
+        "exzh": "那是一艘客船。",
+        "ipa": "/ˈpæsəndʒɚ/",
+        "audio": "media/words/ep36/passenger.mp3",
+        "ex_audio": "media/words/ep36/passenger_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assembly line",
+        "pos": "n.",
+        "zh": "装配线；生产线",
+        "ex": "The machines for the new assembly line are being delivered.",
+        "exzh": "新装配线的机器正在送来。",
+        "ipa": "/əˈsɛmbli laɪn/",
+        "audio": "media/words/ep36/assembly-line.mp3",
+        "ex_audio": "media/words/ep36/assembly-line_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "production",
+        "pos": "n.",
+        "zh": "生产；产量",
+        "ex": "It was a much faster production method.",
+        "exzh": "那是一种快得多的生产方法。",
+        "ipa": "/prəˈdʌkʃən/",
+        "audio": "media/words/ep36/production.mp3",
+        "ex_audio": "media/words/ep36/production_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set up",
+        "pos": "v.",
+        "zh": "安装；设置；布置",
+        "ex": "We just started setting up the machines.",
+        "exzh": "我们刚开始安装机器。",
+        "ipa": "/sɛt ʌp/",
+        "audio": "media/words/ep36/set-up.mp3",
+        "ex_audio": "media/words/ep36/set-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assemble",
+        "pos": "v.",
+        "zh": "组建；召集；组装",
+        "ex": "The team we've assembled is highly qualified.",
+        "exzh": "我们组建的团队非常称职。",
+        "ipa": "/əˈsɛmbəl/",
+        "audio": "media/words/ep36/assemble.mp3",
+        "ex_audio": "media/words/ep36/assemble_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "qualified",
+        "pos": "adj.",
+        "zh": "合格的；有资格的；称职的",
+        "ex": "All of our technicians are highly qualified.",
+        "exzh": "我们所有技术人员都非常称职。",
+        "ipa": "/ˈkwɑləˌfaɪd/",
+        "audio": "media/words/ep36/qualified.mp3",
+        "ex_audio": "media/words/ep36/qualified_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prefer",
+        "pos": "v.",
+        "zh": "更喜欢；宁愿",
+        "ex": "I prefer the other sample.",
+        "exzh": "我更喜欢另一个样品。",
+        "ipa": "/prəˈfɝ/",
+        "audio": "media/words/ep36/prefer.mp3",
+        "ex_audio": "media/words/ep36/prefer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sample",
+        "pos": "n.",
+        "zh": "样品；样本",
+        "ex": "Could you send us a sample of the fabric?",
+        "exzh": "能寄给我们一份布料样品吗？",
+        "ipa": "/ˈsæmpəl/",
+        "audio": "media/words/ep36/sample.mp3",
+        "ex_audio": "media/words/ep36/sample_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "client",
+        "pos": "n.",
+        "zh": "客户；委托人",
+        "ex": "No, I'm visiting a client.",
+        "exzh": "不，我要去拜访一位客户。",
+        "ipa": "/ˈklaɪənt/",
+        "audio": "media/words/ep36/client.mp3",
+        "ex_audio": "media/words/ep36/client_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "degree",
+        "pos": "n.",
+        "zh": "学位；程度；度",
+        "ex": "Rajeev has an art degree.",
+        "exzh": "Rajeev 有艺术学位。",
+        "ipa": "/dɪˈɡri/",
+        "audio": "media/words/ep36/degree.mp3",
+        "ex_audio": "media/words/ep36/degree_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "down the hall",
+        "pos": "phr.",
+        "zh": "在走廊那头；沿走廊过去",
+        "ex": "The meeting room is just down the hall.",
+        "exzh": "会议室就在走廊那头。",
+        "ipa": "/daʊn ðə hɔl/",
+        "audio": "media/words/ep36/down-the-hall.mp3",
+        "ex_audio": "media/words/ep36/down-the-hall_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "manufacturing",
+        "pos": "n.",
+        "zh": "制造业；制造",
+        "ex": "He works in the plastics manufacturing industry.",
+        "exzh": "他在塑料制造业工作。",
+        "ipa": "/ˌmænjəˈfæktʃɚɪŋ/",
+        "audio": "media/words/ep36/manufacturing.mp3",
+        "ex_audio": "media/words/ep36/manufacturing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hardware store",
+        "pos": "n.",
+        "zh": "五金店",
+        "ex": "I bought them at the hardware store.",
+        "exzh": "我在五金店买的。",
+        "ipa": "/ˈhɑrˌdwɛr stɔr/",
+        "audio": "media/words/ep36/hardware-store.mp3",
+        "ex_audio": "media/words/ep36/hardware-store_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "insulation",
+        "pos": "n.",
+        "zh": "隔热材料；绝缘材料",
+        "ex": "I need insulation to cover the pipes.",
+        "exzh": "我需要隔热材料把管道包起来。",
+        "ipa": "/ˌɪnsəˈleɪʃən/",
+        "audio": "media/words/ep36/insulation.mp3",
+        "ex_audio": "media/words/ep36/insulation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "vendor",
+        "pos": "n.",
+        "zh": "供应商；卖主",
+        "ex": "Tullyville is the vendor we used for the project.",
+        "exzh": "Tullyville 是我们那个项目用过的供应商。",
+        "ipa": "/ˈvɛndɚ/",
+        "audio": "media/words/ep36/vendor.mp3",
+        "ex_audio": "media/words/ep36/vendor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "purchase order",
+        "pos": "n.",
+        "zh": "采购单；订购单",
+        "ex": "The number is on the purchase order.",
+        "exzh": "号码在采购单上。",
+        "ipa": "/ˈpɝtʃəs ˈɔrdɚ/",
+        "audio": "media/words/ep36/purchase-order.mp3",
+        "ex_audio": "media/words/ep36/purchase-order_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in the meantime",
+        "pos": "phr.",
+        "zh": "在此期间；与此同时",
+        "ex": "In the meantime, I'll remeasure the piping.",
+        "exzh": "在此期间，我先重新量一下管道。",
+        "ipa": "/ɪn ðə ˈminˌtaɪm/",
+        "audio": "media/words/ep36/in-the-meantime.mp3",
+        "ex_audio": "media/words/ep36/in-the-meantime_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 35,
     "theme": "题型精讲 · Part 2 WH 疑问句",
     "date": "2026-10-16",
@@ -6767,7 +7947,7 @@
             "zh": "窓枠；窓台",
             "ex": "The paint around my windowsill is peeling.",
             "exzh": "窓枠の周りの塗装がはがれている。",
-            "ipa": "",
+            "ipa": "/ˈwɪndoʊˌsɪl/",
             "audio": "media/words/ep31/windowsill.mp3",
             "ex_audio": "media/words/ep31/windowsill_ex.mp3",
             "highlight": false,
@@ -7278,7 +8458,7 @@
         "zh": "窗台",
         "ex": "The paint around my windowsill is peeling.",
         "exzh": "我窗台周围的油漆在剥落。",
-        "ipa": "",
+        "ipa": "/ˈwɪndoʊˌsɪl/",
         "audio": "media/words/ep31/windowsill.mp3",
         "ex_audio": "media/words/ep31/windowsill_ex.mp3",
         "highlight": false,
@@ -8434,7 +9614,7 @@
             "zh": "好都合な；好意的な（イギリス式つづり）",
             "ex": "Everything is favourable.",
             "exzh": "すべてが好都合だ。",
-            "ipa": "",
+            "ipa": "/ˈfeɪv(ə)ɹəbəl/",
             "audio": "media/words/ep30/favourable.mp3",
             "ex_audio": "media/words/ep30/favourable_ex.mp3",
             "highlight": false,
@@ -9005,7 +10185,7 @@
         "zh": "有利的；赞成的（英式拼写）",
         "ex": "Everything is favourable.",
         "exzh": "一切都很有利。",
-        "ipa": "",
+        "ipa": "/ˈfeɪv(ə)ɹəbəl/",
         "audio": "media/words/ep30/favourable.mp3",
         "ex_audio": "media/words/ep30/favourable_ex.mp3",
         "highlight": false,
