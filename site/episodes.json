@@ -1,5 +1,1388 @@
 [
   {
+    "number": 38,
+    "theme": "题型精讲 · Part 2 选择疑问句与请求、建议句",
+    "date": "2026-10-20",
+    "duration_sec": 2718.9,
+    "segments": [
+      {
+        "title": "1. Part 2 选择疑问句与请求、建议句真题（三套卷精选 11 道）",
+        "start": 0.0,
+        "length": 1484.85
+      },
+      {
+        "title": "2. Part 7 邮件（配套精练）",
+        "start": 1484.85,
+        "length": 389.76
+      },
+      {
+        "title": "3. 本期 43 词总复习 · 拼读",
+        "start": 1874.61,
+        "length": 844.34
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "trade show",
+        "zh": "贸易展；商品展销会"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期；期限"
+      },
+      {
+        "word": "appointment",
+        "zh": "预约；约会；任命"
+      },
+      {
+        "word": "why don't we",
+        "zh": "我们……吧；……怎么样"
+      },
+      {
+        "word": "so as to",
+        "zh": "为了；以便"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "auditorium",
+        "zh": "礼堂；大会堂"
+      },
+      {
+        "word": "committee chair",
+        "zh": "委员会主席"
+      },
+      {
+        "word": "have a break",
+        "zh": "休息一下"
+      },
+      {
+        "word": "session",
+        "zh": "一场；一节；；会议、培训的；一段时间"
+      },
+      {
+        "word": "prize",
+        "zh": "奖；奖品"
+      },
+      {
+        "word": "shipment",
+        "zh": "一批货物；装运"
+      },
+      {
+        "word": "transport",
+        "zh": "运输；运送"
+      },
+      {
+        "word": "invoice",
+        "zh": "发票；账单"
+      },
+      {
+        "word": "take inventory",
+        "zh": "盘点库存"
+      },
+      {
+        "word": "receptionist",
+        "zh": "接待员；前台"
+      },
+      {
+        "word": "trade show",
+        "zh": "贸易展；商品展销会"
+      },
+      {
+        "word": "car service",
+        "zh": "专车服务；叫车服务"
+      },
+      {
+        "word": "ticket counter",
+        "zh": "售票处；售票柜台"
+      },
+      {
+        "word": "register for",
+        "zh": "报名；注册"
+      },
+      {
+        "word": "certification",
+        "zh": "认证；资格证书"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期；期限"
+      },
+      {
+        "word": "damaged",
+        "zh": "损坏的；受损的"
+      },
+      {
+        "word": "medical records",
+        "zh": "病历；医疗记录"
+      },
+      {
+        "word": "pharmacy",
+        "zh": "药店；药房"
+      },
+      {
+        "word": "shuttle bus",
+        "zh": "接驳车；班车"
+      },
+      {
+        "word": "review",
+        "zh": "审阅；检查；评论"
+      },
+      {
+        "word": "slide",
+        "zh": "幻灯片；滑梯"
+      },
+      {
+        "word": "view",
+        "zh": "景色；视野；观点"
+      },
+      {
+        "word": "retirement party",
+        "zh": "退休欢送会"
+      },
+      {
+        "word": "I'd be happy to",
+        "zh": "我很乐意"
+      },
+      {
+        "word": "appointment",
+        "zh": "预约；约会；任命"
+      },
+      {
+        "word": "vitamin",
+        "zh": "维生素"
+      },
+      {
+        "word": "why don't we",
+        "zh": "我们吧；怎么样"
+      },
+      {
+        "word": "take someone out",
+        "zh": "带某人出去；吃饭等；；请客"
+      },
+      {
+        "word": "recycling",
+        "zh": "回收；可回收物"
+      },
+      {
+        "word": "hire",
+        "zh": "雇用；聘用"
+      },
+      {
+        "word": "projector",
+        "zh": "投影仪"
+      },
+      {
+        "word": "equipped with",
+        "zh": "配备有"
+      },
+      {
+        "word": "navigation system",
+        "zh": "导航系统"
+      },
+      {
+        "word": "cleaning staff",
+        "zh": "保洁人员；清洁工"
+      },
+      {
+        "word": "trail",
+        "zh": "小路；步道"
+      },
+      {
+        "word": "be pleased with",
+        "zh": "对满意"
+      },
+      {
+        "word": "in business",
+        "zh": "在营业；在经营"
+      },
+      {
+        "word": "take seriously",
+        "zh": "认真对待"
+      },
+      {
+        "word": "so as to",
+        "zh": "为了；以便"
+      },
+      {
+        "word": "invite",
+        "zh": "邀请；诚邀"
+      },
+      {
+        "word": "apply toward",
+        "zh": "用于抵付；用于"
+      },
+      {
+        "word": "be good for",
+        "zh": "有效期为；对有好处"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep38.mp4",
+    "script_pdf": "media/ep38_script.pdf",
+    "source_video": "ep38.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep38.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep38.mp4",
+        "script_pdf": "media/ep38_script.pdf",
+        "duration_sec": 2718.9,
+        "theme": "题型精讲 · Part 2 选择疑问句与请求、建议句",
+        "segments": [
+          {
+            "title": "1. Part 2 选择疑问句与请求、建议句真题（三套卷精选 11 道）",
+            "start": 0.0,
+            "length": 1484.85
+          },
+          {
+            "title": "2. Part 7 邮件（配套精练）",
+            "start": 1484.85,
+            "length": 389.76
+          },
+          {
+            "title": "3. 本期 43 词总复习 · 拼读",
+            "start": 1874.61,
+            "length": 844.34
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep38ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep38ja.mp4",
+        "script_pdf": "media/ep38ja_script.pdf",
+        "duration_sec": 3216.8,
+        "theme": "問題タイプ別精講 · Part 2 選択疑問文と依頼・提案の文",
+        "segments": [
+          {
+            "title": "1. Part 2 選択疑問文と依頼・提案（3セットから厳選 11問）",
+            "start": 0.0,
+            "length": 1849.02
+          },
+          {
+            "title": "2. Part 7 メール（関連演習）",
+            "start": 1849.02,
+            "length": 475.78
+          },
+          {
+            "title": "3. 今回の 43 語総復習 · スペル",
+            "start": 2324.8,
+            "length": 891.98
+          }
+        ],
+        "poster": "media/ep38ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "trade show",
+            "zh": "見本市；展示会"
+          },
+          {
+            "word": "deadline",
+            "zh": "締め切り；期限"
+          },
+          {
+            "word": "appointment",
+            "zh": "予約；約束；任命"
+          },
+          {
+            "word": "why don't we",
+            "zh": "…しませんか；…しましょう"
+          },
+          {
+            "word": "so as to",
+            "zh": "…するために"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "auditorium",
+          "committee chair",
+          "have a break",
+          "session",
+          "prize",
+          "shipment",
+          "transport",
+          "invoice",
+          "take inventory",
+          "receptionist",
+          "trade show",
+          "car service",
+          "ticket counter",
+          "register for",
+          "certification",
+          "deadline",
+          "damaged",
+          "medical records",
+          "pharmacy",
+          "shuttle bus",
+          "review",
+          "slide",
+          "view",
+          "retirement party",
+          "I'd be happy to",
+          "appointment",
+          "vitamin",
+          "why don't we",
+          "take someone out",
+          "recycling",
+          "hire",
+          "projector",
+          "equipped with",
+          "navigation system",
+          "cleaning staff",
+          "trail",
+          "be pleased with",
+          "in business",
+          "take seriously",
+          "so as to",
+          "invite",
+          "apply toward",
+          "be good for"
+        ],
+        "words": [
+          {
+            "word": "auditorium",
+            "pos": "n.",
+            "zh": "講堂；ホール",
+            "ex": "The auditorium is on the third floor.",
+            "exzh": "講堂は3階にある。",
+            "ipa": "/ˌɔdəˈtɔriəm/",
+            "audio": "media/words/ep38/auditorium.mp3",
+            "ex_audio": "media/words/ep38/auditorium_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "committee chair",
+            "pos": "n.",
+            "zh": "委員長",
+            "ex": "He's the committee chair.",
+            "exzh": "彼は委員長だ。",
+            "ipa": "/kəˈmɪti tʃɛr/",
+            "audio": "media/words/ep38/committee-chair.mp3",
+            "ex_audio": "media/words/ep38/committee-chair_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "have a break",
+            "pos": "phr.",
+            "zh": "ひと休みする；休憩する",
+            "ex": "Would you like to have a break now?",
+            "exzh": "今ひと休みしますか。",
+            "ipa": "/hæv ə breɪk/",
+            "audio": "media/words/ep38/have-a-break.mp3",
+            "ex_audio": "media/words/ep38/have-a-break_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "session",
+            "pos": "n.",
+            "zh": "（会議・研修などの）1回；セッション",
+            "ex": "Let's have a break after the second session.",
+            "exzh": "2回目のセッションのあとで休憩しよう。",
+            "ipa": "/ˈsɛʃən/",
+            "audio": "media/words/ep38/session.mp3",
+            "ex_audio": "media/words/ep38/session_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prize",
+            "pos": "n.",
+            "zh": "賞；賞品",
+            "ex": "She won second prize.",
+            "exzh": "彼女は2等賞を取った。",
+            "ipa": "/praɪz/",
+            "audio": "media/words/ep38/prize.mp3",
+            "ex_audio": "media/words/ep38/prize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shipment",
+            "pos": "n.",
+            "zh": "積み荷；発送",
+            "ex": "The shipment will arrive on Friday.",
+            "exzh": "荷物は金曜日に届く。",
+            "ipa": "/ˈʃɪpmənt/",
+            "audio": "media/words/ep38/shipment.mp3",
+            "ex_audio": "media/words/ep38/shipment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "transport",
+            "pos": "v./n.",
+            "zh": "輸送する；輸送",
+            "ex": "The shipment is going to be transported by truck.",
+            "exzh": "荷物はトラックで輸送される。",
+            "ipa": "/trænˈspɔrt/",
+            "audio": "media/words/ep38/transport.mp3",
+            "ex_audio": "media/words/ep38/transport_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "invoice",
+            "pos": "n.",
+            "zh": "請求書；送り状",
+            "ex": "I can sign the invoice.",
+            "exzh": "請求書に署名できる。",
+            "ipa": "/ˈɪnvɔɪs/",
+            "audio": "media/words/ep38/invoice.mp3",
+            "ex_audio": "media/words/ep38/invoice_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take inventory",
+            "pos": "phr.",
+            "zh": "棚卸しをする",
+            "ex": "We need to finish taking inventory first.",
+            "exzh": "まず棚卸しを終えなければならない。",
+            "ipa": "/teɪk ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep38/take-inventory.mp3",
+            "ex_audio": "media/words/ep38/take-inventory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "receptionist",
+            "pos": "n.",
+            "zh": "受付係",
+            "ex": "The new receptionist starts on Monday.",
+            "exzh": "新しい受付係は月曜日から働く。",
+            "ipa": "/rɪˈsɛpʃənɪst/",
+            "audio": "media/words/ep38/receptionist.mp3",
+            "ex_audio": "media/words/ep38/receptionist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "trade show",
+            "pos": "n.",
+            "zh": "見本市；展示会",
+            "ex": "Should we take the train to the trade show?",
+            "exzh": "見本市には電車で行きましょうか。",
+            "ipa": "/treɪd ʃoʊ/",
+            "audio": "media/words/ep38/trade-show.mp3",
+            "ex_audio": "media/words/ep38/trade-show_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "car service",
+            "pos": "n.",
+            "zh": "ハイヤー；配車サービス",
+            "ex": "I just called a car service.",
+            "exzh": "今ハイヤーを呼んだところだ。",
+            "ipa": "/kɑr ˈsɝvəs/",
+            "audio": "media/words/ep38/car-service.mp3",
+            "ex_audio": "media/words/ep38/car-service_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ticket counter",
+            "pos": "n.",
+            "zh": "切符売り場；チケットカウンター",
+            "ex": "You can buy tickets at the ticket counter.",
+            "exzh": "切符売り場でチケットが買える。",
+            "ipa": "/ˈtɪkət ˈkaʊntɚ/",
+            "audio": "media/words/ep38/ticket-counter.mp3",
+            "ex_audio": "media/words/ep38/ticket-counter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "register for",
+            "pos": "phr.",
+            "zh": "…に申し込む；登録する",
+            "ex": "Should we register for the course today?",
+            "exzh": "今日その講座に申し込みましょうか。",
+            "ipa": "/ˈrɛdʒɪstɚ fɔr/",
+            "audio": "media/words/ep38/register-for.mp3",
+            "ex_audio": "media/words/ep38/register-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "certification",
+            "pos": "n.",
+            "zh": "認定；資格証明",
+            "ex": "She completed a certification course.",
+            "exzh": "彼女は資格認定講座を修了した。",
+            "ipa": "/ˌsɝtəfəˈkeɪʃən/",
+            "audio": "media/words/ep38/certification.mp3",
+            "ex_audio": "media/words/ep38/certification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deadline",
+            "pos": "n.",
+            "zh": "締め切り；期限",
+            "ex": "The deadline has already passed.",
+            "exzh": "締め切りはもう過ぎた。",
+            "ipa": "/ˈdɛdˌlaɪn/",
+            "audio": "media/words/ep38/deadline.mp3",
+            "ex_audio": "media/words/ep38/deadline_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "damaged",
+            "pos": "adj.",
+            "zh": "破損した；傷んだ",
+            "ex": "The package wasn't damaged.",
+            "exzh": "荷物は破損していなかった。",
+            "ipa": "/ˈdæmədʒd/",
+            "audio": "media/words/ep38/damaged.mp3",
+            "ex_audio": "media/words/ep38/damaged_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "medical records",
+            "pos": "n.",
+            "zh": "カルテ；診療記録",
+            "ex": "Can you bring me Ms. Campbell's medical records?",
+            "exzh": "Campbell さんのカルテを持ってきてもらえますか。",
+            "ipa": "/ˈmɛdəkəl rəˈkɔrdz/",
+            "audio": "media/words/ep38/medical-records.mp3",
+            "ex_audio": "media/words/ep38/medical-records_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pharmacy",
+            "pos": "n.",
+            "zh": "薬局",
+            "ex": "The pharmacy is next to the hospital.",
+            "exzh": "薬局は病院の隣にある。",
+            "ipa": "/ˈfɑrməsi/",
+            "audio": "media/words/ep38/pharmacy.mp3",
+            "ex_audio": "media/words/ep38/pharmacy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shuttle bus",
+            "pos": "n.",
+            "zh": "シャトルバス；送迎バス",
+            "ex": "Two shuttle buses run to the airport.",
+            "exzh": "空港へはシャトルバスが2台運行している。",
+            "ipa": "/ˈʃʌtəl bʌs/",
+            "audio": "media/words/ep38/shuttle-bus.mp3",
+            "ex_audio": "media/words/ep38/shuttle-bus_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "review",
+            "pos": "v./n.",
+            "zh": "見直す；確認する；レビュー",
+            "ex": "Could you review my presentation slides today?",
+            "exzh": "今日、プレゼンのスライドを確認してもらえますか。",
+            "ipa": "/ˌriˈvju/",
+            "audio": "media/words/ep38/review.mp3",
+            "ex_audio": "media/words/ep38/review_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "slide",
+            "pos": "n.",
+            "zh": "スライド；滑り台",
+            "ex": "I added three slides to the presentation.",
+            "exzh": "プレゼンにスライドを3枚追加した。",
+            "ipa": "/slaɪd/",
+            "audio": "media/words/ep38/slide.mp3",
+            "ex_audio": "media/words/ep38/slide_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "view",
+            "pos": "n.",
+            "zh": "眺め；景色；見解",
+            "ex": "Your office has a nice view.",
+            "exzh": "あなたのオフィスは眺めがいい。",
+            "ipa": "/vju/",
+            "audio": "media/words/ep38/view.mp3",
+            "ex_audio": "media/words/ep38/view_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retirement party",
+            "pos": "n.",
+            "zh": "退職祝いのパーティー",
+            "ex": "We bought a present for the retirement party.",
+            "exzh": "退職祝いのパーティー用にプレゼントを買った。",
+            "ipa": "/riˈtaɪɚmənt ˈpɑrti/",
+            "audio": "media/words/ep38/retirement-party.mp3",
+            "ex_audio": "media/words/ep38/retirement-party_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "I'd be happy to",
+            "pos": "phr.",
+            "zh": "喜んで（…します）",
+            "ex": "Of course, I'd be happy to.",
+            "exzh": "もちろん、喜んで。",
+            "ipa": "/aɪd bi ˈhæpi tu/",
+            "audio": "media/words/ep38/i-d-be-happy-to.mp3",
+            "ex_audio": "media/words/ep38/i-d-be-happy-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appointment",
+            "pos": "n.",
+            "zh": "予約；約束；任命",
+            "ex": "Could I schedule an appointment with Dr. Taylor?",
+            "exzh": "Taylor 先生の予約を取れますか。",
+            "ipa": "/əˈpɔɪntmənt/",
+            "audio": "media/words/ep38/appointment.mp3",
+            "ex_audio": "media/words/ep38/appointment_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "vitamin",
+            "pos": "n.",
+            "zh": "ビタミン；ビタミン剤",
+            "ex": "They sell vitamins.",
+            "exzh": "そこはビタミン剤を売っている。",
+            "ipa": "/ˈvaɪtəmən/",
+            "audio": "media/words/ep38/vitamin.mp3",
+            "ex_audio": "media/words/ep38/vitamin_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "why don't we",
+            "pos": "phr.",
+            "zh": "…しませんか；…しましょう",
+            "ex": "Why don't we take our clients out to lunch?",
+            "exzh": "お客様をランチに連れて行きませんか。",
+            "ipa": "/waɪ doʊnt wi/",
+            "audio": "media/words/ep38/why-don-t-we.mp3",
+            "ex_audio": "media/words/ep38/why-don-t-we_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "take someone out",
+            "pos": "phr.",
+            "zh": "（食事などに）人を連れて行く",
+            "ex": "Let's take our clients out to lunch.",
+            "exzh": "お客様をランチに連れて行こう。",
+            "ipa": "/teɪk ˈsʌmˌwʌn aʊt/",
+            "audio": "media/words/ep38/take-someone-out.mp3",
+            "ex_audio": "media/words/ep38/take-someone-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recycling",
+            "pos": "n.",
+            "zh": "リサイクル；資源ごみ",
+            "ex": "The recycling's been taken out.",
+            "exzh": "資源ごみはもう出した。",
+            "ipa": "/riˈsaɪkəlɪŋ/",
+            "audio": "media/words/ep38/recycling.mp3",
+            "ex_audio": "media/words/ep38/recycling_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hire",
+            "pos": "v.",
+            "zh": "雇う；採用する",
+            "ex": "We hired at least two new staff members.",
+            "exzh": "新しいスタッフを少なくとも2人採用した。",
+            "ipa": "/ˈhaɪɚ/",
+            "audio": "media/words/ep38/hire.mp3",
+            "ex_audio": "media/words/ep38/hire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "projector",
+            "pos": "n.",
+            "zh": "プロジェクター",
+            "ex": "Should I test the projector in the meeting room now?",
+            "exzh": "今、会議室のプロジェクターをテストしましょうか。",
+            "ipa": "/prəˈdʒɛktɚ/",
+            "audio": "media/words/ep38/projector.mp3",
+            "ex_audio": "media/words/ep38/projector_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "equipped with",
+            "pos": "phr.",
+            "zh": "…を備えた；…が付いた",
+            "ex": "It came equipped with a navigation system.",
+            "exzh": "ナビゲーションシステムが付いていた。",
+            "ipa": "/ɪˈkwɪpt wɪð/",
+            "audio": "media/words/ep38/equipped-with.mp3",
+            "ex_audio": "media/words/ep38/equipped-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "navigation system",
+            "pos": "n.",
+            "zh": "ナビゲーションシステム；カーナビ",
+            "ex": "The rental car has a navigation system.",
+            "exzh": "そのレンタカーにはカーナビが付いている。",
+            "ipa": "/ˈnævəˈɡeɪʃən ˈsɪstəm/",
+            "audio": "media/words/ep38/navigation-system.mp3",
+            "ex_audio": "media/words/ep38/navigation-system_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cleaning staff",
+            "pos": "n.",
+            "zh": "清掃スタッフ",
+            "ex": "The cleaning staff is still in there.",
+            "exzh": "清掃スタッフがまだ中にいる。",
+            "ipa": "/ˈklinɪŋ stæf/",
+            "audio": "media/words/ep38/cleaning-staff.mp3",
+            "ex_audio": "media/words/ep38/cleaning-staff_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "trail",
+            "pos": "n.",
+            "zh": "小道；遊歩道",
+            "ex": "The island has scenic biking and hiking trails.",
+            "exzh": "島には景色の良いサイクリングコースやハイキングコースがある。",
+            "ipa": "/treɪl/",
+            "audio": "media/words/ep38/trail.mp3",
+            "ex_audio": "media/words/ep38/trail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be pleased with",
+            "pos": "phr.",
+            "zh": "…に満足している",
+            "ex": "We hope you were pleased with our service.",
+            "exzh": "当社のサービスにご満足いただけたなら幸いです。",
+            "ipa": "/bi plizd wɪð/",
+            "audio": "media/words/ep38/be-pleased-with.mp3",
+            "ex_audio": "media/words/ep38/be-pleased-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in business",
+            "pos": "phr.",
+            "zh": "営業して；事業を営んで",
+            "ex": "It has been in business for fifty years.",
+            "exzh": "その会社は50年間営業している。",
+            "ipa": "/ɪn ˈbɪznəs/",
+            "audio": "media/words/ep38/in-business.mp3",
+            "ex_audio": "media/words/ep38/in-business_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take seriously",
+            "pos": "phr.",
+            "zh": "真剣に受け止める",
+            "ex": "We take our role very seriously.",
+            "exzh": "私たちは自分たちの役割をとても真剣に受け止めている。",
+            "ipa": "/teɪk ˈsɪriəsli/",
+            "audio": "media/words/ep38/take-seriously.mp3",
+            "ex_audio": "media/words/ep38/take-seriously_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "so as to",
+            "pos": "phr.",
+            "zh": "…するために",
+            "ex": "We ask for feedback so as to improve our service.",
+            "exzh": "サービスを改善するために意見を募っている。",
+            "ipa": "/soʊ æz tu/",
+            "audio": "media/words/ep38/so-as-to.mp3",
+            "ex_audio": "media/words/ep38/so-as-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "invite",
+            "pos": "v.",
+            "zh": "招待する；（丁寧に）求める",
+            "ex": "We invite you to answer a few questions.",
+            "exzh": "いくつかの質問にお答えいただくようお願いいたします。",
+            "ipa": "/ˌɪnˈvaɪt/",
+            "audio": "media/words/ep38/invite.mp3",
+            "ex_audio": "media/words/ep38/invite_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "apply toward",
+            "pos": "phr.",
+            "zh": "（費用などに）充てる",
+            "ex": "You can apply the voucher toward your next trip.",
+            "exzh": "クーポンは次回の旅行代金に充てられる。",
+            "ipa": "/əˈplaɪ təˈwɔrd/",
+            "audio": "media/words/ep38/apply-toward.mp3",
+            "ex_audio": "media/words/ep38/apply-toward_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be good for",
+            "pos": "phr.",
+            "zh": "（期間）有効である；…に良い",
+            "ex": "The voucher is good for up to six months.",
+            "exzh": "クーポンは最長6か月有効だ。",
+            "ipa": "/bi ɡʊd fɔr/",
+            "audio": "media/words/ep38/be-good-for.mp3",
+            "ex_audio": "media/words/ep38/be-good-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep38_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 2 選択疑問文と依頼・提案の文",
+    "words": [
+      {
+        "word": "auditorium",
+        "pos": "n.",
+        "zh": "礼堂；大会堂",
+        "ex": "The auditorium is on the third floor.",
+        "exzh": "礼堂在三楼。",
+        "ipa": "/ˌɔdəˈtɔriəm/",
+        "audio": "media/words/ep38/auditorium.mp3",
+        "ex_audio": "media/words/ep38/auditorium_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "committee chair",
+        "pos": "n.",
+        "zh": "委员会主席",
+        "ex": "He's the committee chair.",
+        "exzh": "他是委员会主席。",
+        "ipa": "/kəˈmɪti tʃɛr/",
+        "audio": "media/words/ep38/committee-chair.mp3",
+        "ex_audio": "media/words/ep38/committee-chair_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "have a break",
+        "pos": "phr.",
+        "zh": "休息一下",
+        "ex": "Would you like to have a break now?",
+        "exzh": "你想现在休息一下吗？",
+        "ipa": "/hæv ə breɪk/",
+        "audio": "media/words/ep38/have-a-break.mp3",
+        "ex_audio": "media/words/ep38/have-a-break_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "session",
+        "pos": "n.",
+        "zh": "一场；一节；（会议、培训的）一段时间",
+        "ex": "Let's have a break after the second session.",
+        "exzh": "第二场之后我们休息一下吧。",
+        "ipa": "/ˈsɛʃən/",
+        "audio": "media/words/ep38/session.mp3",
+        "ex_audio": "media/words/ep38/session_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prize",
+        "pos": "n.",
+        "zh": "奖；奖品",
+        "ex": "She won second prize.",
+        "exzh": "她得了二等奖。",
+        "ipa": "/praɪz/",
+        "audio": "media/words/ep38/prize.mp3",
+        "ex_audio": "media/words/ep38/prize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "zh": "一批货物；装运",
+        "ex": "The shipment will arrive on Friday.",
+        "exzh": "这批货周五到。",
+        "ipa": "/ˈʃɪpmənt/",
+        "audio": "media/words/ep38/shipment.mp3",
+        "ex_audio": "media/words/ep38/shipment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "transport",
+        "pos": "v./n.",
+        "zh": "运输；运送",
+        "ex": "The shipment is going to be transported by truck.",
+        "exzh": "这批货将用卡车运输。",
+        "ipa": "/trænˈspɔrt/",
+        "audio": "media/words/ep38/transport.mp3",
+        "ex_audio": "media/words/ep38/transport_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "zh": "发票；账单",
+        "ex": "I can sign the invoice.",
+        "exzh": "我可以在发票上签字。",
+        "ipa": "/ˈɪnvɔɪs/",
+        "audio": "media/words/ep38/invoice.mp3",
+        "ex_audio": "media/words/ep38/invoice_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take inventory",
+        "pos": "phr.",
+        "zh": "盘点库存",
+        "ex": "We need to finish taking inventory first.",
+        "exzh": "我们得先把库存盘点完。",
+        "ipa": "/teɪk ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep38/take-inventory.mp3",
+        "ex_audio": "media/words/ep38/take-inventory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "receptionist",
+        "pos": "n.",
+        "zh": "接待员；前台",
+        "ex": "The new receptionist starts on Monday.",
+        "exzh": "新来的接待员周一开始上班。",
+        "ipa": "/rɪˈsɛpʃənɪst/",
+        "audio": "media/words/ep38/receptionist.mp3",
+        "ex_audio": "media/words/ep38/receptionist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "trade show",
+        "pos": "n.",
+        "zh": "贸易展；商品展销会",
+        "ex": "Should we take the train to the trade show?",
+        "exzh": "我们坐火车去贸易展吗？",
+        "ipa": "/treɪd ʃoʊ/",
+        "audio": "media/words/ep38/trade-show.mp3",
+        "ex_audio": "media/words/ep38/trade-show_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "car service",
+        "pos": "n.",
+        "zh": "专车服务；叫车服务",
+        "ex": "I just called a car service.",
+        "exzh": "我刚叫了一辆专车。",
+        "ipa": "/kɑr ˈsɝvəs/",
+        "audio": "media/words/ep38/car-service.mp3",
+        "ex_audio": "media/words/ep38/car-service_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ticket counter",
+        "pos": "n.",
+        "zh": "售票处；售票柜台",
+        "ex": "You can buy tickets at the ticket counter.",
+        "exzh": "你可以在售票处买票。",
+        "ipa": "/ˈtɪkət ˈkaʊntɚ/",
+        "audio": "media/words/ep38/ticket-counter.mp3",
+        "ex_audio": "media/words/ep38/ticket-counter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "register for",
+        "pos": "phr.",
+        "zh": "报名；注册",
+        "ex": "Should we register for the course today?",
+        "exzh": "我们今天报名这门课吗？",
+        "ipa": "/ˈrɛdʒɪstɚ fɔr/",
+        "audio": "media/words/ep38/register-for.mp3",
+        "ex_audio": "media/words/ep38/register-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "certification",
+        "pos": "n.",
+        "zh": "认证；资格证书",
+        "ex": "She completed a certification course.",
+        "exzh": "她完成了一门资格认证课程。",
+        "ipa": "/ˌsɝtəfəˈkeɪʃən/",
+        "audio": "media/words/ep38/certification.mp3",
+        "ex_audio": "media/words/ep38/certification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "zh": "截止日期；期限",
+        "ex": "The deadline has already passed.",
+        "exzh": "截止日期已经过了。",
+        "ipa": "/ˈdɛdˌlaɪn/",
+        "audio": "media/words/ep38/deadline.mp3",
+        "ex_audio": "media/words/ep38/deadline_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "damaged",
+        "pos": "adj.",
+        "zh": "损坏的；受损的",
+        "ex": "The package wasn't damaged.",
+        "exzh": "包裹没有损坏。",
+        "ipa": "/ˈdæmədʒd/",
+        "audio": "media/words/ep38/damaged.mp3",
+        "ex_audio": "media/words/ep38/damaged_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "medical records",
+        "pos": "n.",
+        "zh": "病历；医疗记录",
+        "ex": "Can you bring me Ms. Campbell's medical records?",
+        "exzh": "你能把 Campbell 女士的病历拿给我吗？",
+        "ipa": "/ˈmɛdəkəl rəˈkɔrdz/",
+        "audio": "media/words/ep38/medical-records.mp3",
+        "ex_audio": "media/words/ep38/medical-records_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pharmacy",
+        "pos": "n.",
+        "zh": "药店；药房",
+        "ex": "The pharmacy is next to the hospital.",
+        "exzh": "药店在医院旁边。",
+        "ipa": "/ˈfɑrməsi/",
+        "audio": "media/words/ep38/pharmacy.mp3",
+        "ex_audio": "media/words/ep38/pharmacy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shuttle bus",
+        "pos": "n.",
+        "zh": "接驳车；班车",
+        "ex": "Two shuttle buses run to the airport.",
+        "exzh": "有两辆班车开往机场。",
+        "ipa": "/ˈʃʌtəl bʌs/",
+        "audio": "media/words/ep38/shuttle-bus.mp3",
+        "ex_audio": "media/words/ep38/shuttle-bus_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "review",
+        "pos": "v./n.",
+        "zh": "审阅；检查；评论",
+        "ex": "Could you review my presentation slides today?",
+        "exzh": "你今天能帮我看一下演示幻灯片吗？",
+        "ipa": "/ˌriˈvju/",
+        "audio": "media/words/ep38/review.mp3",
+        "ex_audio": "media/words/ep38/review_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "slide",
+        "pos": "n.",
+        "zh": "幻灯片；滑梯",
+        "ex": "I added three slides to the presentation.",
+        "exzh": "我在演示文稿里加了三张幻灯片。",
+        "ipa": "/slaɪd/",
+        "audio": "media/words/ep38/slide.mp3",
+        "ex_audio": "media/words/ep38/slide_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "view",
+        "pos": "n.",
+        "zh": "景色；视野；观点",
+        "ex": "Your office has a nice view.",
+        "exzh": "你的办公室景色很好。",
+        "ipa": "/vju/",
+        "audio": "media/words/ep38/view.mp3",
+        "ex_audio": "media/words/ep38/view_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retirement party",
+        "pos": "n.",
+        "zh": "退休欢送会",
+        "ex": "We bought a present for the retirement party.",
+        "exzh": "我们为退休欢送会买了一份礼物。",
+        "ipa": "/riˈtaɪɚmənt ˈpɑrti/",
+        "audio": "media/words/ep38/retirement-party.mp3",
+        "ex_audio": "media/words/ep38/retirement-party_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "I'd be happy to",
+        "pos": "phr.",
+        "zh": "我很乐意",
+        "ex": "Of course, I'd be happy to.",
+        "exzh": "当然，我很乐意。",
+        "ipa": "/aɪd bi ˈhæpi tu/",
+        "audio": "media/words/ep38/i-d-be-happy-to.mp3",
+        "ex_audio": "media/words/ep38/i-d-be-happy-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appointment",
+        "pos": "n.",
+        "zh": "预约；约会；任命",
+        "ex": "Could I schedule an appointment with Dr. Taylor?",
+        "exzh": "我能预约看 Taylor 医生吗？",
+        "ipa": "/əˈpɔɪntmənt/",
+        "audio": "media/words/ep38/appointment.mp3",
+        "ex_audio": "media/words/ep38/appointment_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "vitamin",
+        "pos": "n.",
+        "zh": "维生素",
+        "ex": "They sell vitamins.",
+        "exzh": "他们卖维生素。",
+        "ipa": "/ˈvaɪtəmən/",
+        "audio": "media/words/ep38/vitamin.mp3",
+        "ex_audio": "media/words/ep38/vitamin_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "why don't we",
+        "pos": "phr.",
+        "zh": "我们……吧；……怎么样",
+        "ex": "Why don't we take our clients out to lunch?",
+        "exzh": "我们带客户出去吃午饭吧？",
+        "ipa": "/waɪ doʊnt wi/",
+        "audio": "media/words/ep38/why-don-t-we.mp3",
+        "ex_audio": "media/words/ep38/why-don-t-we_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "take someone out",
+        "pos": "phr.",
+        "zh": "带某人出去（吃饭等）；请客",
+        "ex": "Let's take our clients out to lunch.",
+        "exzh": "我们请客户出去吃午饭吧。",
+        "ipa": "/teɪk ˈsʌmˌwʌn aʊt/",
+        "audio": "media/words/ep38/take-someone-out.mp3",
+        "ex_audio": "media/words/ep38/take-someone-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recycling",
+        "pos": "n.",
+        "zh": "回收；可回收物",
+        "ex": "The recycling's been taken out.",
+        "exzh": "可回收垃圾已经拿出去了。",
+        "ipa": "/riˈsaɪkəlɪŋ/",
+        "audio": "media/words/ep38/recycling.mp3",
+        "ex_audio": "media/words/ep38/recycling_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hire",
+        "pos": "v.",
+        "zh": "雇用；聘用",
+        "ex": "We hired at least two new staff members.",
+        "exzh": "我们至少雇了两名新员工。",
+        "ipa": "/ˈhaɪɚ/",
+        "audio": "media/words/ep38/hire.mp3",
+        "ex_audio": "media/words/ep38/hire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "projector",
+        "pos": "n.",
+        "zh": "投影仪",
+        "ex": "Should I test the projector in the meeting room now?",
+        "exzh": "我现在去测试会议室的投影仪吗？",
+        "ipa": "/prəˈdʒɛktɚ/",
+        "audio": "media/words/ep38/projector.mp3",
+        "ex_audio": "media/words/ep38/projector_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "equipped with",
+        "pos": "phr.",
+        "zh": "配备有……",
+        "ex": "It came equipped with a navigation system.",
+        "exzh": "它配备了导航系统。",
+        "ipa": "/ɪˈkwɪpt wɪð/",
+        "audio": "media/words/ep38/equipped-with.mp3",
+        "ex_audio": "media/words/ep38/equipped-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "navigation system",
+        "pos": "n.",
+        "zh": "导航系统",
+        "ex": "The rental car has a navigation system.",
+        "exzh": "这辆租来的车有导航系统。",
+        "ipa": "/ˈnævəˈɡeɪʃən ˈsɪstəm/",
+        "audio": "media/words/ep38/navigation-system.mp3",
+        "ex_audio": "media/words/ep38/navigation-system_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cleaning staff",
+        "pos": "n.",
+        "zh": "保洁人员；清洁工",
+        "ex": "The cleaning staff is still in there.",
+        "exzh": "清洁人员还在里面。",
+        "ipa": "/ˈklinɪŋ stæf/",
+        "audio": "media/words/ep38/cleaning-staff.mp3",
+        "ex_audio": "media/words/ep38/cleaning-staff_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "trail",
+        "pos": "n.",
+        "zh": "小路；步道",
+        "ex": "The island has scenic biking and hiking trails.",
+        "exzh": "岛上有风景优美的骑行道和步道。",
+        "ipa": "/treɪl/",
+        "audio": "media/words/ep38/trail.mp3",
+        "ex_audio": "media/words/ep38/trail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be pleased with",
+        "pos": "phr.",
+        "zh": "对……满意",
+        "ex": "We hope you were pleased with our service.",
+        "exzh": "希望您对我们的服务感到满意。",
+        "ipa": "/bi plizd wɪð/",
+        "audio": "media/words/ep38/be-pleased-with.mp3",
+        "ex_audio": "media/words/ep38/be-pleased-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in business",
+        "pos": "phr.",
+        "zh": "在营业；在经营",
+        "ex": "It has been in business for fifty years.",
+        "exzh": "它已经经营了五十年。",
+        "ipa": "/ɪn ˈbɪznəs/",
+        "audio": "media/words/ep38/in-business.mp3",
+        "ex_audio": "media/words/ep38/in-business_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take seriously",
+        "pos": "phr.",
+        "zh": "认真对待",
+        "ex": "We take our role very seriously.",
+        "exzh": "我们非常认真地对待自己的角色。",
+        "ipa": "/teɪk ˈsɪriəsli/",
+        "audio": "media/words/ep38/take-seriously.mp3",
+        "ex_audio": "media/words/ep38/take-seriously_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "so as to",
+        "pos": "phr.",
+        "zh": "为了；以便",
+        "ex": "We ask for feedback so as to improve our service.",
+        "exzh": "为了改进服务，我们征求反馈。",
+        "ipa": "/soʊ æz tu/",
+        "audio": "media/words/ep38/so-as-to.mp3",
+        "ex_audio": "media/words/ep38/so-as-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "invite",
+        "pos": "v.",
+        "zh": "邀请；诚邀",
+        "ex": "We invite you to answer a few questions.",
+        "exzh": "诚邀您回答几个问题。",
+        "ipa": "/ˌɪnˈvaɪt/",
+        "audio": "media/words/ep38/invite.mp3",
+        "ex_audio": "media/words/ep38/invite_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "apply toward",
+        "pos": "phr.",
+        "zh": "用于抵付；用于",
+        "ex": "You can apply the voucher toward your next trip.",
+        "exzh": "您可以把代金券用于下次旅行。",
+        "ipa": "/əˈplaɪ təˈwɔrd/",
+        "audio": "media/words/ep38/apply-toward.mp3",
+        "ex_audio": "media/words/ep38/apply-toward_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be good for",
+        "pos": "phr.",
+        "zh": "有效期为；对……有好处",
+        "ex": "The voucher is good for up to six months.",
+        "exzh": "代金券最长六个月有效。",
+        "ipa": "/bi ɡʊd fɔr/",
+        "audio": "media/words/ep38/be-good-for.mp3",
+        "ex_audio": "media/words/ep38/be-good-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 37,
     "theme": "题型精讲 · Part 2 间接回答",
     "date": "2026-10-19",
