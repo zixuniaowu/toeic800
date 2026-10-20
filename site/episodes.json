@@ -1,5 +1,1504 @@
 [
   {
+    "number": 39,
+    "theme": "题型精讲 · Part 2 陈述句的回应与否定疑问句",
+    "date": "2026-10-21",
+    "duration_sec": 3216.7,
+    "segments": [
+      {
+        "title": "1. Part 2 陈述句的回应与否定疑问句真题（三套卷精选 14 道）",
+        "start": 0.0,
+        "length": 1792.44
+      },
+      {
+        "title": "2. Part 7 在线聊天（配套精练）",
+        "start": 1792.44,
+        "length": 497.47
+      },
+      {
+        "title": "3. 本期 47 词总复习 · 拼读",
+        "start": 2289.91,
+        "length": 926.75
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "process",
+        "zh": "处理；办理；流程"
+      },
+      {
+        "word": "feedback",
+        "zh": "反馈；意见"
+      },
+      {
+        "word": "stand out",
+        "zh": "突出；引人注目"
+      },
+      {
+        "word": "replace",
+        "zh": "更换；替换；取代"
+      },
+      {
+        "word": "proposal",
+        "zh": "提案；方案；建议书"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "process",
+        "zh": "处理；办理；流程"
+      },
+      {
+        "word": "cement",
+        "zh": "水泥"
+      },
+      {
+        "word": "technical support",
+        "zh": "技术支持；部门"
+      },
+      {
+        "word": "beam",
+        "zh": "梁；横梁；光束"
+      },
+      {
+        "word": "appreciate",
+        "zh": "感激；感谢；欣赏"
+      },
+      {
+        "word": "feedback",
+        "zh": "反馈；意见"
+      },
+      {
+        "word": "mobile application",
+        "zh": "手机应用"
+      },
+      {
+        "word": "job opening",
+        "zh": "职位空缺；招聘岗位"
+      },
+      {
+        "word": "stand out",
+        "zh": "突出；引人注目"
+      },
+      {
+        "word": "replace",
+        "zh": "更换；替换；取代"
+      },
+      {
+        "word": "ink cartridge",
+        "zh": "墨盒"
+      },
+      {
+        "word": "print",
+        "zh": "打印；印刷；用印刷体书写"
+      },
+      {
+        "word": "be out of",
+        "zh": "用完；没有了"
+      },
+      {
+        "word": "either way",
+        "zh": "两种都行；无论哪种"
+      },
+      {
+        "word": "office supply",
+        "zh": "办公用品"
+      },
+      {
+        "word": "executive director",
+        "zh": "执行董事；执行总监"
+      },
+      {
+        "word": "call a meeting",
+        "zh": "召开会议"
+      },
+      {
+        "word": "directions",
+        "zh": "说明；指示；路线"
+      },
+      {
+        "word": "factory visit",
+        "zh": "工厂参观"
+      },
+      {
+        "word": "construction project",
+        "zh": "建设工程"
+      },
+      {
+        "word": "set up",
+        "zh": "摆放；布置；安装；设立"
+      },
+      {
+        "word": "seminar",
+        "zh": "研讨会；讲习班"
+      },
+      {
+        "word": "name tag",
+        "zh": "名牌；胸牌"
+      },
+      {
+        "word": "exchange",
+        "zh": "调换；换货；交换"
+      },
+      {
+        "word": "something wrong with",
+        "zh": "出了问题；有毛病"
+      },
+      {
+        "word": "traffic light",
+        "zh": "红绿灯；交通信号灯"
+      },
+      {
+        "word": "seating",
+        "zh": "座位；座席"
+      },
+      {
+        "word": "intersection",
+        "zh": "十字路口；交叉口"
+      },
+      {
+        "word": "proposal",
+        "zh": "提案；方案；建议书"
+      },
+      {
+        "word": "impressive",
+        "zh": "令人印象深刻的；出色的"
+      },
+      {
+        "word": "sink",
+        "zh": "水槽；洗手池；下沉"
+      },
+      {
+        "word": "enter",
+        "zh": "参加；比赛；；进入；输入"
+      },
+      {
+        "word": "contest",
+        "zh": "比赛；竞赛"
+      },
+      {
+        "word": "portrait",
+        "zh": "人像；肖像"
+      },
+      {
+        "word": "confirmation number",
+        "zh": "确认号码；预订号"
+      },
+      {
+        "word": "around the corner",
+        "zh": "在拐角处；就在附近；即将到来"
+      },
+      {
+        "word": "appliance",
+        "zh": "家用电器；器具"
+      },
+      {
+        "word": "remodel",
+        "zh": "改造；装修"
+      },
+      {
+        "word": "in-home estimate",
+        "zh": "上门估价"
+      },
+      {
+        "word": "make certain",
+        "zh": "确保；弄清楚"
+      },
+      {
+        "word": "be away",
+        "zh": "不在；外出"
+      },
+      {
+        "word": "luck out",
+        "zh": "走运；运气好"
+      },
+      {
+        "word": "there's no question about it",
+        "zh": "毫无疑问；确实如此"
+      },
+      {
+        "word": "live stream",
+        "zh": "直播"
+      },
+      {
+        "word": "quarter",
+        "zh": "季度；四分之一；街区"
+      },
+      {
+        "word": "sales figures",
+        "zh": "销售数字；销售额"
+      },
+      {
+        "word": "favorable",
+        "zh": "有利的；良好的；赞同的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep39.mp4",
+    "script_pdf": "media/ep39_script.pdf",
+    "source_video": "ep39.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep39.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep39.mp4",
+        "script_pdf": "media/ep39_script.pdf",
+        "duration_sec": 3216.7,
+        "theme": "题型精讲 · Part 2 陈述句的回应与否定疑问句",
+        "segments": [
+          {
+            "title": "1. Part 2 陈述句的回应与否定疑问句真题（三套卷精选 14 道）",
+            "start": 0.0,
+            "length": 1792.44
+          },
+          {
+            "title": "2. Part 7 在线聊天（配套精练）",
+            "start": 1792.44,
+            "length": 497.47
+          },
+          {
+            "title": "3. 本期 47 词总复习 · 拼读",
+            "start": 2289.91,
+            "length": 926.75
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep39ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep39ja.mp4",
+        "script_pdf": "media/ep39ja_script.pdf",
+        "duration_sec": 3876.0,
+        "theme": "問題タイプ別精講 · Part 2 平叙文への応答と否定疑問文",
+        "segments": [
+          {
+            "title": "1. Part 2 平叙文への応答と否定疑問文（3セットから厳選 14問）",
+            "start": 0.0,
+            "length": 2285.4
+          },
+          {
+            "title": "2. Part 7 オンラインチャット（関連演習）",
+            "start": 2285.4,
+            "length": 607.13
+          },
+          {
+            "title": "3. 今回の 47 語総復習 · スペル",
+            "start": 2892.53,
+            "length": 983.46
+          }
+        ],
+        "poster": "media/ep39ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "process",
+            "zh": "処理する；手続きする；手順"
+          },
+          {
+            "word": "feedback",
+            "zh": "意見；感想；フィードバック"
+          },
+          {
+            "word": "stand out",
+            "zh": "目立つ；際立つ"
+          },
+          {
+            "word": "replace",
+            "zh": "取り替える；交換する；…に取って代わる"
+          },
+          {
+            "word": "proposal",
+            "zh": "提案；企画書"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "process",
+          "cement",
+          "technical support",
+          "beam",
+          "appreciate",
+          "feedback",
+          "mobile application",
+          "job opening",
+          "stand out",
+          "replace",
+          "ink cartridge",
+          "print",
+          "be out of",
+          "either way",
+          "office supply",
+          "executive director",
+          "call a meeting",
+          "directions",
+          "factory visit",
+          "construction project",
+          "set up",
+          "seminar",
+          "name tag",
+          "exchange",
+          "something wrong with",
+          "traffic light",
+          "seating",
+          "intersection",
+          "proposal",
+          "impressive",
+          "sink",
+          "enter",
+          "contest",
+          "portrait",
+          "confirmation number",
+          "around the corner",
+          "appliance",
+          "remodel",
+          "in-home estimate",
+          "make certain",
+          "be away",
+          "luck out",
+          "there's no question about it",
+          "live stream",
+          "quarter",
+          "sales figures",
+          "favorable"
+        ],
+        "words": [
+          {
+            "word": "process",
+            "pos": "v./n.",
+            "zh": "処理する；手続きする；手順",
+            "ex": "I can help you process the order for shipment.",
+            "exzh": "この注文の発送手続きを手伝えますよ。",
+            "ipa": "/ˈprɑˌsɛs/",
+            "audio": "media/words/ep39/process.mp3",
+            "ex_audio": "media/words/ep39/process_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "cement",
+            "pos": "n.",
+            "zh": "セメント",
+            "ex": "The truck is carrying fifty kilograms of cement.",
+            "exzh": "トラックはセメント50キロを積んでいる。",
+            "ipa": "/səˈmɛnt/",
+            "audio": "media/words/ep39/cement.mp3",
+            "ex_audio": "media/words/ep39/cement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "technical support",
+            "pos": "n.",
+            "zh": "技術サポート（部門）",
+            "ex": "You should call technical support if you have any problems.",
+            "exzh": "問題があればテクニカルサポートに電話したほうがいい。",
+            "ipa": "/ˈtɛknɪkəl səˈpɔrt/",
+            "audio": "media/words/ep39/technical-support.mp3",
+            "ex_audio": "media/words/ep39/technical-support_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "beam",
+            "pos": "n.",
+            "zh": "梁；光線",
+            "ex": "Put a support beam here.",
+            "exzh": "ここに支えの梁を入れてください。",
+            "ipa": "/bim/",
+            "audio": "media/words/ep39/beam.mp3",
+            "ex_audio": "media/words/ep39/beam_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appreciate",
+            "pos": "v.",
+            "zh": "ありがたく思う；感謝する；正しく評価する",
+            "ex": "We'd appreciate your feedback.",
+            "exzh": "ご意見をいただけるとありがたいです。",
+            "ipa": "/əˈpriʃiˌeɪt/",
+            "audio": "media/words/ep39/appreciate.mp3",
+            "ex_audio": "media/words/ep39/appreciate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "feedback",
+            "pos": "n.",
+            "zh": "意見；感想；フィードバック",
+            "ex": "Thank you for your feedback on our new app.",
+            "exzh": "新しいアプリへのご意見ありがとうございます。",
+            "ipa": "/ˈfidˌbæk/",
+            "audio": "media/words/ep39/feedback.mp3",
+            "ex_audio": "media/words/ep39/feedback_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "mobile application",
+            "pos": "n.",
+            "zh": "モバイルアプリ",
+            "ex": "Our new mobile application is free.",
+            "exzh": "当社の新しいモバイルアプリは無料だ。",
+            "ipa": "/ˈmoʊbəl ˌæpləˈkeɪʃən/",
+            "audio": "media/words/ep39/mobile-application.mp3",
+            "ex_audio": "media/words/ep39/mobile-application_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "job opening",
+            "pos": "n.",
+            "zh": "求人；空きポスト",
+            "ex": "There is a job opening in the sales department.",
+            "exzh": "営業部に求人がある。",
+            "ipa": "/dʒɑb ˈoʊpənɪŋ/",
+            "audio": "media/words/ep39/job-opening.mp3",
+            "ex_audio": "media/words/ep39/job-opening_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stand out",
+            "pos": "phr.",
+            "zh": "目立つ；際立つ",
+            "ex": "Bright colors help the sign stand out.",
+            "exzh": "明るい色で看板が目立つ。",
+            "ipa": "/stænd aʊt/",
+            "audio": "media/words/ep39/stand-out.mp3",
+            "ex_audio": "media/words/ep39/stand-out_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "replace",
+            "pos": "v.",
+            "zh": "取り替える；交換する；…に取って代わる",
+            "ex": "Mr. Ruiz replaced the ink cartridge in the copier.",
+            "exzh": "Ruiz さんがコピー機のインクカートリッジを交換した。",
+            "ipa": "/ˌriˈpleɪs/",
+            "audio": "media/words/ep39/replace.mp3",
+            "ex_audio": "media/words/ep39/replace_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "ink cartridge",
+            "pos": "n.",
+            "zh": "インクカートリッジ",
+            "ex": "That was the last ink cartridge.",
+            "exzh": "それが最後のインクカートリッジだった。",
+            "ipa": "/ɪŋk ˈkɑrtrədʒ/",
+            "audio": "media/words/ep39/ink-cartridge.mp3",
+            "ex_audio": "media/words/ep39/ink-cartridge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "print",
+            "pos": "v.",
+            "zh": "印刷する；活字体で書く",
+            "ex": "Please print your name here.",
+            "exzh": "ここに活字体でお名前をお書きください。",
+            "ipa": "/prɪnt/",
+            "audio": "media/words/ep39/print.mp3",
+            "ex_audio": "media/words/ep39/print_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be out of",
+            "pos": "phr.",
+            "zh": "…を切らしている",
+            "ex": "We're almost out of printer paper.",
+            "exzh": "プリンター用紙がもうすぐなくなる。",
+            "ipa": "/bi aʊt əv/",
+            "audio": "media/words/ep39/be-out-of.mp3",
+            "ex_audio": "media/words/ep39/be-out-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "either way",
+            "pos": "phr.",
+            "zh": "どちらでも；いずれにしても",
+            "ex": "Either way is fine with me.",
+            "exzh": "私はどちらでも構わない。",
+            "ipa": "/ˈiðɚ weɪ/",
+            "audio": "media/words/ep39/either-way.mp3",
+            "ex_audio": "media/words/ep39/either-way_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "office supply",
+            "pos": "n.",
+            "zh": "事務用品",
+            "ex": "There's an office supply store nearby.",
+            "exzh": "近くに事務用品店がある。",
+            "ipa": "/ˈɔfɪs səˈplaɪ/",
+            "audio": "media/words/ep39/office-supply.mp3",
+            "ex_audio": "media/words/ep39/office-supply_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "executive director",
+            "pos": "n.",
+            "zh": "専務理事；事務局長",
+            "ex": "The executive director called a special meeting.",
+            "exzh": "専務理事が臨時会議を招集した。",
+            "ipa": "/ɪɡˈzɛkjətɪv dɚˈɛktɚ/",
+            "audio": "media/words/ep39/executive-director.mp3",
+            "ex_audio": "media/words/ep39/executive-director_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "call a meeting",
+            "pos": "phr.",
+            "zh": "会議を招集する",
+            "ex": "She called a meeting for ten A.M. tomorrow.",
+            "exzh": "彼女は明日の午前10時に会議を招集した。",
+            "ipa": "/kɔl ə ˈmitɪŋ/",
+            "audio": "media/words/ep39/call-a-meeting.mp3",
+            "ex_audio": "media/words/ep39/call-a-meeting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "directions",
+            "pos": "n.",
+            "zh": "説明；指示；道順",
+            "ex": "Follow the directions on the box.",
+            "exzh": "箱に書いてある説明に従ってください。",
+            "ipa": "/dɚˈɛkʃənz/",
+            "audio": "media/words/ep39/directions.mp3",
+            "ex_audio": "media/words/ep39/directions_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "factory visit",
+            "pos": "n.",
+            "zh": "工場見学",
+            "ex": "I'll reschedule our factory visit.",
+            "exzh": "工場見学の日程を変更します。",
+            "ipa": "/ˈfæktɚi ˈvɪzɪt/",
+            "audio": "media/words/ep39/factory-visit.mp3",
+            "ex_audio": "media/words/ep39/factory-visit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "construction project",
+            "pos": "n.",
+            "zh": "建設工事；建設プロジェクト",
+            "ex": "The construction project should be completed by now.",
+            "exzh": "その建設工事はもう完成しているはずだ。",
+            "ipa": "/kənˈstrʌkʃən ˈprɑdʒɛkt/",
+            "audio": "media/words/ep39/construction-project.mp3",
+            "ex_audio": "media/words/ep39/construction-project_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set up",
+            "pos": "phr.",
+            "zh": "設置する；準備する；設立する",
+            "ex": "We have to set up the tables for the seminar.",
+            "exzh": "セミナー用にテーブルを並べなければならない。",
+            "ipa": "/sɛt ʌp/",
+            "audio": "media/words/ep39/set-up.mp3",
+            "ex_audio": "media/words/ep39/set-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "seminar",
+            "pos": "n.",
+            "zh": "セミナー；研修会",
+            "ex": "Which room is the seminar going to be in?",
+            "exzh": "セミナーはどの部屋で行われますか。",
+            "ipa": "/ˈsɛməˌnɑr/",
+            "audio": "media/words/ep39/seminar.mp3",
+            "ex_audio": "media/words/ep39/seminar_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "name tag",
+            "pos": "n.",
+            "zh": "名札",
+            "ex": "Please wear your name tag.",
+            "exzh": "名札を着けてください。",
+            "ipa": "/neɪm tæɡ/",
+            "audio": "media/words/ep39/name-tag.mp3",
+            "ex_audio": "media/words/ep39/name-tag_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "exchange",
+            "pos": "v./n.",
+            "zh": "交換する；取り替える；交換",
+            "ex": "I think I'm going to exchange this shirt.",
+            "exzh": "このシャツを交換してもらおうと思う。",
+            "ipa": "/ɪksˈtʃeɪndʒ/",
+            "audio": "media/words/ep39/exchange.mp3",
+            "ex_audio": "media/words/ep39/exchange_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "something wrong with",
+            "pos": "phr.",
+            "zh": "…に何か問題がある",
+            "ex": "Is something wrong with the printer?",
+            "exzh": "プリンターに何か問題がありますか。",
+            "ipa": "/ˈsʌmθɪŋ rɔŋ wɪð/",
+            "audio": "media/words/ep39/something-wrong-with.mp3",
+            "ex_audio": "media/words/ep39/something-wrong-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "traffic light",
+            "pos": "n.",
+            "zh": "信号機；交通信号",
+            "ex": "Turn left at the traffic lights.",
+            "exzh": "信号を左に曲がってください。",
+            "ipa": "/ˈtræfɪk laɪt/",
+            "audio": "media/words/ep39/traffic-light.mp3",
+            "ex_audio": "media/words/ep39/traffic-light_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "seating",
+            "pos": "n.",
+            "zh": "座席；席",
+            "ex": "I'd like to add some outdoor seating for the coffee shop.",
+            "exzh": "コーヒーショップに屋外席を少し増やしたい。",
+            "ipa": "/ˈsitɪŋ/",
+            "audio": "media/words/ep39/seating.mp3",
+            "ex_audio": "media/words/ep39/seating_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "intersection",
+            "pos": "n.",
+            "zh": "交差点",
+            "ex": "The accident happened at a busy intersection.",
+            "exzh": "事故は交通量の多い交差点で起きた。",
+            "ipa": "/ˌɪntɚˈsɛkʃən/",
+            "audio": "media/words/ep39/intersection.mp3",
+            "ex_audio": "media/words/ep39/intersection_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "proposal",
+            "pos": "n.",
+            "zh": "提案；企画書",
+            "ex": "The proposal you've submitted is quite impressive.",
+            "exzh": "あなたが提出した企画書はなかなかすばらしい。",
+            "ipa": "/prəˈpoʊzəl/",
+            "audio": "media/words/ep39/proposal.mp3",
+            "ex_audio": "media/words/ep39/proposal_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "impressive",
+            "pos": "adj.",
+            "zh": "印象的な；すばらしい",
+            "ex": "Her presentation was very impressive.",
+            "exzh": "彼女のプレゼンはとてもすばらしかった。",
+            "ipa": "/ˌɪmˈprɛsɪv/",
+            "audio": "media/words/ep39/impressive.mp3",
+            "ex_audio": "media/words/ep39/impressive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sink",
+            "pos": "n./v.",
+            "zh": "流し；洗面台；沈む",
+            "ex": "This sink needs to be repaired.",
+            "exzh": "この流しは修理が必要だ。",
+            "ipa": "/sɪŋk/",
+            "audio": "media/words/ep39/sink.mp3",
+            "ex_audio": "media/words/ep39/sink_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "enter",
+            "pos": "v.",
+            "zh": "（コンテストに）出品する；入る；入力する",
+            "ex": "Aren't you going to enter a photo in the contest?",
+            "exzh": "コンテストに写真を出さないんですか。",
+            "ipa": "/ˈɛntɚ/",
+            "audio": "media/words/ep39/enter.mp3",
+            "ex_audio": "media/words/ep39/enter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contest",
+            "pos": "n.",
+            "zh": "コンテスト；競技会",
+            "ex": "She won first prize in the photo contest.",
+            "exzh": "彼女は写真コンテストで1等賞を取った。",
+            "ipa": "/ˈkɑntɛst/",
+            "audio": "media/words/ep39/contest.mp3",
+            "ex_audio": "media/words/ep39/contest_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "portrait",
+            "pos": "n.",
+            "zh": "肖像；人物写真",
+            "ex": "I don't take portraits.",
+            "exzh": "私は人物写真は撮らない。",
+            "ipa": "/ˈpɔrtrət/",
+            "audio": "media/words/ep39/portrait.mp3",
+            "ex_audio": "media/words/ep39/portrait_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "confirmation number",
+            "pos": "n.",
+            "zh": "確認番号；予約番号",
+            "ex": "Here's your confirmation number.",
+            "exzh": "こちらが確認番号です。",
+            "ipa": "/ˌkɑnfɚˈmeɪʃən ˈnʌmbɚ/",
+            "audio": "media/words/ep39/confirmation-number.mp3",
+            "ex_audio": "media/words/ep39/confirmation-number_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "around the corner",
+            "pos": "phr.",
+            "zh": "角を曲がったところに；すぐ近くに；間近に",
+            "ex": "Don't you go to that café around the corner?",
+            "exzh": "角のカフェによく行っていませんでしたか。",
+            "ipa": "/ɚˈaʊnd ðə ˈkɔrnɚ/",
+            "audio": "media/words/ep39/around-the-corner.mp3",
+            "ex_audio": "media/words/ep39/around-the-corner_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appliance",
+            "pos": "n.",
+            "zh": "家電製品；器具",
+            "ex": "The videos show us putting in counters, floors, and appliances.",
+            "exzh": "動画ではカウンター、床、家電を取り付ける様子を見せている。",
+            "ipa": "/əˈplaɪəns/",
+            "audio": "media/words/ep39/appliance.mp3",
+            "ex_audio": "media/words/ep39/appliance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "remodel",
+            "pos": "v.",
+            "zh": "改装する；リフォームする",
+            "ex": "They remodel kitchens and bathrooms.",
+            "exzh": "その会社はキッチンや浴室をリフォームしている。",
+            "ipa": "/riˈmɑdəl/",
+            "audio": "media/words/ep39/remodel.mp3",
+            "ex_audio": "media/words/ep39/remodel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in-home estimate",
+            "pos": "n.",
+            "zh": "訪問見積もり",
+            "ex": "I'll be handling in-home estimates and sales.",
+            "exzh": "私は訪問見積もりと販売を担当する。",
+            "ipa": "/ɪn-hoʊm ˈɛstəmət/",
+            "audio": "media/words/ep39/in-home-estimate.mp3",
+            "ex_audio": "media/words/ep39/in-home-estimate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "make certain",
+            "pos": "phr.",
+            "zh": "確かめる；確実にする",
+            "ex": "I want to make certain everything is set.",
+            "exzh": "すべての準備が整っているか確かめたい。",
+            "ipa": "/meɪk ˈsɝtən/",
+            "audio": "media/words/ep39/make-certain.mp3",
+            "ex_audio": "media/words/ep39/make-certain_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be away",
+            "pos": "phr.",
+            "zh": "不在である；出かけている",
+            "ex": "I'll be away at my cousin's wedding.",
+            "exzh": "いとこの結婚式で不在になる。",
+            "ipa": "/bi əˈweɪ/",
+            "audio": "media/words/ep39/be-away.mp3",
+            "ex_audio": "media/words/ep39/be-away_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "luck out",
+            "pos": "phr.",
+            "zh": "運がいい；ついている",
+            "ex": "We really lucked out when we found Jacob!",
+            "exzh": "Jacob が見つかって本当にラッキーだった。",
+            "ipa": "/lʌk aʊt/",
+            "audio": "media/words/ep39/luck-out.mp3",
+            "ex_audio": "media/words/ep39/luck-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "there's no question about it",
+            "pos": "phr.",
+            "zh": "間違いない；そのとおりだ",
+            "ex": "There's no question about it! He's great.",
+            "exzh": "間違いない。彼はすばらしい。",
+            "ipa": "/ðɛrz noʊ ˈkwɛstʃən əˈbaʊt ɪt/",
+            "audio": "media/words/ep39/there-s-no-question-about-it.mp3",
+            "ex_audio": "media/words/ep39/there-s-no-question-about-it_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "live stream",
+            "pos": "v./n.",
+            "zh": "ライブ配信する；ライブ配信",
+            "ex": "He'll be live streaming our demonstrations.",
+            "exzh": "彼が私たちの実演をライブ配信する。",
+            "ipa": "/laɪv strim/",
+            "audio": "media/words/ep39/live-stream.mp3",
+            "ex_audio": "media/words/ep39/live-stream_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "quarter",
+            "pos": "n.",
+            "zh": "四半期；4分の1；地区",
+            "ex": "Sales rose in the third quarter.",
+            "exzh": "第3四半期に売上が伸びた。",
+            "ipa": "/ˈkwɔrtɚ/",
+            "audio": "media/words/ep39/quarter.mp3",
+            "ex_audio": "media/words/ep39/quarter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sales figures",
+            "pos": "n.",
+            "zh": "売上高；売上の数字",
+            "ex": "Our sales figures will be higher than ever.",
+            "exzh": "売上高はこれまでで最も高くなるだろう。",
+            "ipa": "/seɪlz ˈfɪɡjɚz/",
+            "audio": "media/words/ep39/sales-figures.mp3",
+            "ex_audio": "media/words/ep39/sales-figures_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "favorable",
+            "pos": "adj.",
+            "zh": "好ましい；順調な；好意的な",
+            "ex": "Sales have been increasing at a favorable rate.",
+            "exzh": "売上は順調なペースで伸びている。",
+            "ipa": "/ˈfeɪvɚəbəl/",
+            "audio": "media/words/ep39/favorable.mp3",
+            "ex_audio": "media/words/ep39/favorable_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep39_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 2 平叙文への応答と否定疑問文",
+    "words": [
+      {
+        "word": "process",
+        "pos": "v./n.",
+        "zh": "处理；办理；流程",
+        "ex": "I can help you process the order for shipment.",
+        "exzh": "我可以帮你处理这份订单的发货。",
+        "ipa": "/ˈprɑˌsɛs/",
+        "audio": "media/words/ep39/process.mp3",
+        "ex_audio": "media/words/ep39/process_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "cement",
+        "pos": "n.",
+        "zh": "水泥",
+        "ex": "The truck is carrying fifty kilograms of cement.",
+        "exzh": "卡车装着五十公斤水泥。",
+        "ipa": "/səˈmɛnt/",
+        "audio": "media/words/ep39/cement.mp3",
+        "ex_audio": "media/words/ep39/cement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "technical support",
+        "pos": "n.",
+        "zh": "技术支持（部门）",
+        "ex": "You should call technical support if you have any problems.",
+        "exzh": "如果有问题，你应该给技术支持打电话。",
+        "ipa": "/ˈtɛknɪkəl səˈpɔrt/",
+        "audio": "media/words/ep39/technical-support.mp3",
+        "ex_audio": "media/words/ep39/technical-support_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "beam",
+        "pos": "n.",
+        "zh": "梁；横梁；光束",
+        "ex": "Put a support beam here.",
+        "exzh": "在这里放一根支撑梁。",
+        "ipa": "/bim/",
+        "audio": "media/words/ep39/beam.mp3",
+        "ex_audio": "media/words/ep39/beam_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appreciate",
+        "pos": "v.",
+        "zh": "感激；感谢；欣赏",
+        "ex": "We'd appreciate your feedback.",
+        "exzh": "我们很希望听到您的意见。",
+        "ipa": "/əˈpriʃiˌeɪt/",
+        "audio": "media/words/ep39/appreciate.mp3",
+        "ex_audio": "media/words/ep39/appreciate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "feedback",
+        "pos": "n.",
+        "zh": "反馈；意见",
+        "ex": "Thank you for your feedback on our new app.",
+        "exzh": "感谢您对我们新应用的反馈。",
+        "ipa": "/ˈfidˌbæk/",
+        "audio": "media/words/ep39/feedback.mp3",
+        "ex_audio": "media/words/ep39/feedback_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "mobile application",
+        "pos": "n.",
+        "zh": "手机应用",
+        "ex": "Our new mobile application is free.",
+        "exzh": "我们的新手机应用是免费的。",
+        "ipa": "/ˈmoʊbəl ˌæpləˈkeɪʃən/",
+        "audio": "media/words/ep39/mobile-application.mp3",
+        "ex_audio": "media/words/ep39/mobile-application_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "job opening",
+        "pos": "n.",
+        "zh": "职位空缺；招聘岗位",
+        "ex": "There is a job opening in the sales department.",
+        "exzh": "销售部有一个职位空缺。",
+        "ipa": "/dʒɑb ˈoʊpənɪŋ/",
+        "audio": "media/words/ep39/job-opening.mp3",
+        "ex_audio": "media/words/ep39/job-opening_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stand out",
+        "pos": "phr.",
+        "zh": "突出；引人注目",
+        "ex": "Bright colors help the sign stand out.",
+        "exzh": "鲜艳的颜色让招牌更醒目。",
+        "ipa": "/stænd aʊt/",
+        "audio": "media/words/ep39/stand-out.mp3",
+        "ex_audio": "media/words/ep39/stand-out_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "replace",
+        "pos": "v.",
+        "zh": "更换；替换；取代",
+        "ex": "Mr. Ruiz replaced the ink cartridge in the copier.",
+        "exzh": "Ruiz 先生换了复印机的墨盒。",
+        "ipa": "/ˌriˈpleɪs/",
+        "audio": "media/words/ep39/replace.mp3",
+        "ex_audio": "media/words/ep39/replace_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "ink cartridge",
+        "pos": "n.",
+        "zh": "墨盒",
+        "ex": "That was the last ink cartridge.",
+        "exzh": "那是最后一个墨盒了。",
+        "ipa": "/ɪŋk ˈkɑrtrədʒ/",
+        "audio": "media/words/ep39/ink-cartridge.mp3",
+        "ex_audio": "media/words/ep39/ink-cartridge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "print",
+        "pos": "v.",
+        "zh": "打印；印刷；用印刷体书写",
+        "ex": "Please print your name here.",
+        "exzh": "请在这里用正楷写上您的名字。",
+        "ipa": "/prɪnt/",
+        "audio": "media/words/ep39/print.mp3",
+        "ex_audio": "media/words/ep39/print_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be out of",
+        "pos": "phr.",
+        "zh": "用完；没有了",
+        "ex": "We're almost out of printer paper.",
+        "exzh": "我们的打印纸快用完了。",
+        "ipa": "/bi aʊt əv/",
+        "audio": "media/words/ep39/be-out-of.mp3",
+        "ex_audio": "media/words/ep39/be-out-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "either way",
+        "pos": "phr.",
+        "zh": "两种都行；无论哪种",
+        "ex": "Either way is fine with me.",
+        "exzh": "哪种我都可以。",
+        "ipa": "/ˈiðɚ weɪ/",
+        "audio": "media/words/ep39/either-way.mp3",
+        "ex_audio": "media/words/ep39/either-way_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "office supply",
+        "pos": "n.",
+        "zh": "办公用品",
+        "ex": "There's an office supply store nearby.",
+        "exzh": "附近有一家办公用品店。",
+        "ipa": "/ˈɔfɪs səˈplaɪ/",
+        "audio": "media/words/ep39/office-supply.mp3",
+        "ex_audio": "media/words/ep39/office-supply_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "executive director",
+        "pos": "n.",
+        "zh": "执行董事；执行总监",
+        "ex": "The executive director called a special meeting.",
+        "exzh": "执行董事召开了一个特别会议。",
+        "ipa": "/ɪɡˈzɛkjətɪv dɚˈɛktɚ/",
+        "audio": "media/words/ep39/executive-director.mp3",
+        "ex_audio": "media/words/ep39/executive-director_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "call a meeting",
+        "pos": "phr.",
+        "zh": "召开会议",
+        "ex": "She called a meeting for ten A.M. tomorrow.",
+        "exzh": "她召集了明天上午十点的会议。",
+        "ipa": "/kɔl ə ˈmitɪŋ/",
+        "audio": "media/words/ep39/call-a-meeting.mp3",
+        "ex_audio": "media/words/ep39/call-a-meeting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "directions",
+        "pos": "n.",
+        "zh": "说明；指示；路线",
+        "ex": "Follow the directions on the box.",
+        "exzh": "请按照盒子上的说明操作。",
+        "ipa": "/dɚˈɛkʃənz/",
+        "audio": "media/words/ep39/directions.mp3",
+        "ex_audio": "media/words/ep39/directions_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "factory visit",
+        "pos": "n.",
+        "zh": "工厂参观",
+        "ex": "I'll reschedule our factory visit.",
+        "exzh": "我来把我们的工厂参观改期。",
+        "ipa": "/ˈfæktɚi ˈvɪzɪt/",
+        "audio": "media/words/ep39/factory-visit.mp3",
+        "ex_audio": "media/words/ep39/factory-visit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "construction project",
+        "pos": "n.",
+        "zh": "建设工程",
+        "ex": "The construction project should be completed by now.",
+        "exzh": "那个建设工程现在应该完工了。",
+        "ipa": "/kənˈstrʌkʃən ˈprɑdʒɛkt/",
+        "audio": "media/words/ep39/construction-project.mp3",
+        "ex_audio": "media/words/ep39/construction-project_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set up",
+        "pos": "phr.",
+        "zh": "摆放；布置；安装；设立",
+        "ex": "We have to set up the tables for the seminar.",
+        "exzh": "我们得为研讨会把桌子摆好。",
+        "ipa": "/sɛt ʌp/",
+        "audio": "media/words/ep39/set-up.mp3",
+        "ex_audio": "media/words/ep39/set-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "seminar",
+        "pos": "n.",
+        "zh": "研讨会；讲习班",
+        "ex": "Which room is the seminar going to be in?",
+        "exzh": "研讨会在哪个房间举行？",
+        "ipa": "/ˈsɛməˌnɑr/",
+        "audio": "media/words/ep39/seminar.mp3",
+        "ex_audio": "media/words/ep39/seminar_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "name tag",
+        "pos": "n.",
+        "zh": "名牌；胸牌",
+        "ex": "Please wear your name tag.",
+        "exzh": "请戴上您的名牌。",
+        "ipa": "/neɪm tæɡ/",
+        "audio": "media/words/ep39/name-tag.mp3",
+        "ex_audio": "media/words/ep39/name-tag_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "exchange",
+        "pos": "v./n.",
+        "zh": "调换；换货；交换",
+        "ex": "I think I'm going to exchange this shirt.",
+        "exzh": "我想我要去把这件衬衫换掉。",
+        "ipa": "/ɪksˈtʃeɪndʒ/",
+        "audio": "media/words/ep39/exchange.mp3",
+        "ex_audio": "media/words/ep39/exchange_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "something wrong with",
+        "pos": "phr.",
+        "zh": "……出了问题；……有毛病",
+        "ex": "Is something wrong with the printer?",
+        "exzh": "打印机出什么问题了吗？",
+        "ipa": "/ˈsʌmθɪŋ rɔŋ wɪð/",
+        "audio": "media/words/ep39/something-wrong-with.mp3",
+        "ex_audio": "media/words/ep39/something-wrong-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "traffic light",
+        "pos": "n.",
+        "zh": "红绿灯；交通信号灯",
+        "ex": "Turn left at the traffic lights.",
+        "exzh": "在红绿灯那里左转。",
+        "ipa": "/ˈtræfɪk laɪt/",
+        "audio": "media/words/ep39/traffic-light.mp3",
+        "ex_audio": "media/words/ep39/traffic-light_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "seating",
+        "pos": "n.",
+        "zh": "座位；座席",
+        "ex": "I'd like to add some outdoor seating for the coffee shop.",
+        "exzh": "我想给咖啡店加一些户外座位。",
+        "ipa": "/ˈsitɪŋ/",
+        "audio": "media/words/ep39/seating.mp3",
+        "ex_audio": "media/words/ep39/seating_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "intersection",
+        "pos": "n.",
+        "zh": "十字路口；交叉口",
+        "ex": "The accident happened at a busy intersection.",
+        "exzh": "事故发生在一个繁忙的十字路口。",
+        "ipa": "/ˌɪntɚˈsɛkʃən/",
+        "audio": "media/words/ep39/intersection.mp3",
+        "ex_audio": "media/words/ep39/intersection_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案；方案；建议书",
+        "ex": "The proposal you've submitted is quite impressive.",
+        "exzh": "你提交的方案相当出色。",
+        "ipa": "/prəˈpoʊzəl/",
+        "audio": "media/words/ep39/proposal.mp3",
+        "ex_audio": "media/words/ep39/proposal_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "impressive",
+        "pos": "adj.",
+        "zh": "令人印象深刻的；出色的",
+        "ex": "Her presentation was very impressive.",
+        "exzh": "她的演讲非常出色。",
+        "ipa": "/ˌɪmˈprɛsɪv/",
+        "audio": "media/words/ep39/impressive.mp3",
+        "ex_audio": "media/words/ep39/impressive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sink",
+        "pos": "n./v.",
+        "zh": "水槽；洗手池；下沉",
+        "ex": "This sink needs to be repaired.",
+        "exzh": "这个水槽需要修理。",
+        "ipa": "/sɪŋk/",
+        "audio": "media/words/ep39/sink.mp3",
+        "ex_audio": "media/words/ep39/sink_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "enter",
+        "pos": "v.",
+        "zh": "参加（比赛）；进入；输入",
+        "ex": "Aren't you going to enter a photo in the contest?",
+        "exzh": "你不打算拿一张照片去参加比赛吗？",
+        "ipa": "/ˈɛntɚ/",
+        "audio": "media/words/ep39/enter.mp3",
+        "ex_audio": "media/words/ep39/enter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contest",
+        "pos": "n.",
+        "zh": "比赛；竞赛",
+        "ex": "She won first prize in the photo contest.",
+        "exzh": "她在摄影比赛中得了一等奖。",
+        "ipa": "/ˈkɑntɛst/",
+        "audio": "media/words/ep39/contest.mp3",
+        "ex_audio": "media/words/ep39/contest_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "portrait",
+        "pos": "n.",
+        "zh": "人像；肖像",
+        "ex": "I don't take portraits.",
+        "exzh": "我不拍人像。",
+        "ipa": "/ˈpɔrtrət/",
+        "audio": "media/words/ep39/portrait.mp3",
+        "ex_audio": "media/words/ep39/portrait_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "confirmation number",
+        "pos": "n.",
+        "zh": "确认号码；预订号",
+        "ex": "Here's your confirmation number.",
+        "exzh": "这是您的确认号码。",
+        "ipa": "/ˌkɑnfɚˈmeɪʃən ˈnʌmbɚ/",
+        "audio": "media/words/ep39/confirmation-number.mp3",
+        "ex_audio": "media/words/ep39/confirmation-number_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "around the corner",
+        "pos": "phr.",
+        "zh": "在拐角处；就在附近；即将到来",
+        "ex": "Don't you go to that café around the corner?",
+        "exzh": "你不是常去拐角那家咖啡馆吗？",
+        "ipa": "/ɚˈaʊnd ðə ˈkɔrnɚ/",
+        "audio": "media/words/ep39/around-the-corner.mp3",
+        "ex_audio": "media/words/ep39/around-the-corner_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appliance",
+        "pos": "n.",
+        "zh": "家用电器；器具",
+        "ex": "The videos show us putting in counters, floors, and appliances.",
+        "exzh": "视频展示了我们安装台面、地板和家电。",
+        "ipa": "/əˈplaɪəns/",
+        "audio": "media/words/ep39/appliance.mp3",
+        "ex_audio": "media/words/ep39/appliance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "remodel",
+        "pos": "v.",
+        "zh": "改造；装修",
+        "ex": "They remodel kitchens and bathrooms.",
+        "exzh": "他们装修厨房和浴室。",
+        "ipa": "/riˈmɑdəl/",
+        "audio": "media/words/ep39/remodel.mp3",
+        "ex_audio": "media/words/ep39/remodel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in-home estimate",
+        "pos": "n.",
+        "zh": "上门估价",
+        "ex": "I'll be handling in-home estimates and sales.",
+        "exzh": "我会负责上门估价和销售。",
+        "ipa": "/ɪn-hoʊm ˈɛstəmət/",
+        "audio": "media/words/ep39/in-home-estimate.mp3",
+        "ex_audio": "media/words/ep39/in-home-estimate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "make certain",
+        "pos": "phr.",
+        "zh": "确保；弄清楚",
+        "ex": "I want to make certain everything is set.",
+        "exzh": "我想确保一切都准备就绪。",
+        "ipa": "/meɪk ˈsɝtən/",
+        "audio": "media/words/ep39/make-certain.mp3",
+        "ex_audio": "media/words/ep39/make-certain_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be away",
+        "pos": "phr.",
+        "zh": "不在；外出",
+        "ex": "I'll be away at my cousin's wedding.",
+        "exzh": "我会去参加表亲的婚礼，不在。",
+        "ipa": "/bi əˈweɪ/",
+        "audio": "media/words/ep39/be-away.mp3",
+        "ex_audio": "media/words/ep39/be-away_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "luck out",
+        "pos": "phr.",
+        "zh": "走运；运气好",
+        "ex": "We really lucked out when we found Jacob!",
+        "exzh": "我们找到 Jacob 真是走运！",
+        "ipa": "/lʌk aʊt/",
+        "audio": "media/words/ep39/luck-out.mp3",
+        "ex_audio": "media/words/ep39/luck-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "there's no question about it",
+        "pos": "phr.",
+        "zh": "毫无疑问；确实如此",
+        "ex": "There's no question about it! He's great.",
+        "exzh": "毫无疑问！他很棒。",
+        "ipa": "/ðɛrz noʊ ˈkwɛstʃən əˈbaʊt ɪt/",
+        "audio": "media/words/ep39/there-s-no-question-about-it.mp3",
+        "ex_audio": "media/words/ep39/there-s-no-question-about-it_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "live stream",
+        "pos": "v./n.",
+        "zh": "直播",
+        "ex": "He'll be live streaming our demonstrations.",
+        "exzh": "他会直播我们的演示。",
+        "ipa": "/laɪv strim/",
+        "audio": "media/words/ep39/live-stream.mp3",
+        "ex_audio": "media/words/ep39/live-stream_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "quarter",
+        "pos": "n.",
+        "zh": "季度；四分之一；街区",
+        "ex": "Sales rose in the third quarter.",
+        "exzh": "第三季度销售额上升了。",
+        "ipa": "/ˈkwɔrtɚ/",
+        "audio": "media/words/ep39/quarter.mp3",
+        "ex_audio": "media/words/ep39/quarter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sales figures",
+        "pos": "n.",
+        "zh": "销售数字；销售额",
+        "ex": "Our sales figures will be higher than ever.",
+        "exzh": "我们的销售额将比以往都高。",
+        "ipa": "/seɪlz ˈfɪɡjɚz/",
+        "audio": "media/words/ep39/sales-figures.mp3",
+        "ex_audio": "media/words/ep39/sales-figures_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "favorable",
+        "pos": "adj.",
+        "zh": "有利的；良好的；赞同的",
+        "ex": "Sales have been increasing at a favorable rate.",
+        "exzh": "销售额一直以良好的势头增长。",
+        "ipa": "/ˈfeɪvɚəbəl/",
+        "audio": "media/words/ep39/favorable.mp3",
+        "ex_audio": "media/words/ep39/favorable_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 38,
     "theme": "题型精讲 · Part 2 选择疑问句与请求、建议句",
     "date": "2026-10-20",
