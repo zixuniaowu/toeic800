@@ -1,5 +1,1272 @@
 [
   {
+    "number": 40,
+    "theme": "题型精讲 · Part 2 剩下的 WH 疑问句（Part 2 总收尾）",
+    "date": "2026-10-22",
+    "duration_sec": 2630.8,
+    "segments": [
+      {
+        "title": "1. Part 2 剩下的 WH 疑问句真题（三套卷最后 12 道 · Part 2 总收尾）",
+        "start": 0.0,
+        "length": 1487.53
+      },
+      {
+        "title": "2. Part 7 公寓出租启事（配套精练）",
+        "start": 1487.53,
+        "length": 345.28
+      },
+      {
+        "title": "3. 本期 39 词总复习 · 拼读",
+        "start": 1832.82,
+        "length": 798.03
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "prototype",
+        "zh": "原型；样品；试制品"
+      },
+      {
+        "word": "go into effect",
+        "zh": "生效；开始实施"
+      },
+      {
+        "word": "caterer",
+        "zh": "餐饮承办商；外烩公司"
+      },
+      {
+        "word": "be supposed to",
+        "zh": "应该；按规定要"
+      },
+      {
+        "word": "security deposit",
+        "zh": "押金；保证金"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "employee award",
+        "zh": "员工奖；优秀员工奖"
+      },
+      {
+        "word": "prototype",
+        "zh": "原型；样品；试制品"
+      },
+      {
+        "word": "publish",
+        "zh": "发表；出版；刊登"
+      },
+      {
+        "word": "article",
+        "zh": "文章；报道"
+      },
+      {
+        "word": "arts and crafts",
+        "zh": "手工艺；工艺美术"
+      },
+      {
+        "word": "copy",
+        "zh": "；印刷品的；一份；一本；复印"
+      },
+      {
+        "word": "caterer",
+        "zh": "餐饮承办商；外烩公司"
+      },
+      {
+        "word": "budget",
+        "zh": "预算"
+      },
+      {
+        "word": "cancel",
+        "zh": "取消"
+      },
+      {
+        "word": "out of the office",
+        "zh": "不在办公室；外出"
+      },
+      {
+        "word": "payroll",
+        "zh": "工资；工资单；发薪"
+      },
+      {
+        "word": "policy",
+        "zh": "政策；规定；方针"
+      },
+      {
+        "word": "go into effect",
+        "zh": "生效；开始实施"
+      },
+      {
+        "word": "quarter",
+        "zh": "季度；四分之一"
+      },
+      {
+        "word": "shift",
+        "zh": "轮班；班次"
+      },
+      {
+        "word": "set up",
+        "zh": "布置；摆放；安装"
+      },
+      {
+        "word": "from now",
+        "zh": "从现在起"
+      },
+      {
+        "word": "mostly",
+        "zh": "主要地；大部分"
+      },
+      {
+        "word": "loading dock",
+        "zh": "装卸平台；装卸区"
+      },
+      {
+        "word": "speaker",
+        "zh": "演讲者；发言人；扬声器"
+      },
+      {
+        "word": "community center",
+        "zh": "社区活动中心"
+      },
+      {
+        "word": "expect",
+        "zh": "预期；预料；期待"
+      },
+      {
+        "word": "ice water",
+        "zh": "冰水"
+      },
+      {
+        "word": "jacket",
+        "zh": "夹克；外套"
+      },
+      {
+        "word": "travel agency",
+        "zh": "旅行社"
+      },
+      {
+        "word": "recommend",
+        "zh": "推荐；建议"
+      },
+      {
+        "word": "express mail",
+        "zh": "快递；速递邮件"
+      },
+      {
+        "word": "mind",
+        "zh": "介意；在意"
+      },
+      {
+        "word": "lightbulb",
+        "zh": "灯泡"
+      },
+      {
+        "word": "be supposed to",
+        "zh": "应该；按规定要"
+      },
+      {
+        "word": "closet",
+        "zh": "衣柜；壁橱"
+      },
+      {
+        "word": "in the heart of",
+        "zh": "在的中心"
+      },
+      {
+        "word": "within walking distance",
+        "zh": "步行可到达的范围内"
+      },
+      {
+        "word": "public transit",
+        "zh": "公共交通"
+      },
+      {
+        "word": "security deposit",
+        "zh": "押金；保证金"
+      },
+      {
+        "word": "rent",
+        "zh": "房租；租金；租用"
+      },
+      {
+        "word": "lease term",
+        "zh": "租期；租赁期限"
+      },
+      {
+        "word": "grocery store",
+        "zh": "食品杂货店；超市"
+      },
+      {
+        "word": "farmers market",
+        "zh": "农贸市场；农夫市集"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep40.mp4",
+    "script_pdf": "media/ep40_script.pdf",
+    "source_video": "ep40.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep40.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep40.mp4",
+        "script_pdf": "media/ep40_script.pdf",
+        "duration_sec": 2630.8,
+        "theme": "题型精讲 · Part 2 剩下的 WH 疑问句（Part 2 总收尾）",
+        "segments": [
+          {
+            "title": "1. Part 2 剩下的 WH 疑问句真题（三套卷最后 12 道 · Part 2 总收尾）",
+            "start": 0.0,
+            "length": 1487.53
+          },
+          {
+            "title": "2. Part 7 公寓出租启事（配套精练）",
+            "start": 1487.53,
+            "length": 345.28
+          },
+          {
+            "title": "3. 本期 39 词总复习 · 拼读",
+            "start": 1832.82,
+            "length": 798.03
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep40ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep40ja.mp4",
+        "script_pdf": "media/ep40ja_script.pdf",
+        "duration_sec": 3182.7,
+        "theme": "問題タイプ別精講 · Part 2 残りの WH 疑問文（Part 2 総仕上げ）",
+        "segments": [
+          {
+            "title": "1. Part 2 残りの WH 疑問文（最後の 12問 · 総仕上げ）",
+            "start": 0.0,
+            "length": 1904.29
+          },
+          {
+            "title": "2. Part 7 賃貸アパートのお知らせ（関連演習）",
+            "start": 1904.29,
+            "length": 415.34
+          },
+          {
+            "title": "3. 今回の 39 語総復習 · スペル",
+            "start": 2319.63,
+            "length": 863.02
+          }
+        ],
+        "poster": "media/ep40ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "prototype",
+            "zh": "試作品；原型"
+          },
+          {
+            "word": "go into effect",
+            "zh": "発効する；施行される"
+          },
+          {
+            "word": "caterer",
+            "zh": "ケータリング業者；仕出し業者"
+          },
+          {
+            "word": "be supposed to",
+            "zh": "…することになっている"
+          },
+          {
+            "word": "security deposit",
+            "zh": "敷金；保証金"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "employee award",
+          "prototype",
+          "publish",
+          "article",
+          "arts and crafts",
+          "copy",
+          "caterer",
+          "budget",
+          "cancel",
+          "out of the office",
+          "payroll",
+          "policy",
+          "go into effect",
+          "quarter",
+          "shift",
+          "set up",
+          "from now",
+          "mostly",
+          "loading dock",
+          "speaker",
+          "community center",
+          "expect",
+          "ice water",
+          "jacket",
+          "travel agency",
+          "recommend",
+          "express mail",
+          "mind",
+          "lightbulb",
+          "be supposed to",
+          "closet",
+          "in the heart of",
+          "within walking distance",
+          "public transit",
+          "security deposit",
+          "rent",
+          "lease term",
+          "grocery store",
+          "farmers market"
+        ],
+        "words": [
+          {
+            "word": "employee award",
+            "pos": "n.",
+            "zh": "社員賞；優秀社員賞",
+            "ex": "Why did she win an employee award?",
+            "exzh": "彼女はなぜ社員賞をもらったのですか。",
+            "ipa": "/ɛmˈplɔɪi əˈwɔrd/",
+            "audio": "media/words/ep40/employee-award.mp3",
+            "ex_audio": "media/words/ep40/employee-award_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prototype",
+            "pos": "n.",
+            "zh": "試作品；原型",
+            "ex": "The client liked her prototype.",
+            "exzh": "顧客は彼女の試作品を気に入った。",
+            "ipa": "/ˈproʊtəˌtaɪp/",
+            "audio": "media/words/ep40/prototype.mp3",
+            "ex_audio": "media/words/ep40/prototype_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "publish",
+            "pos": "v.",
+            "zh": "掲載する；出版する",
+            "ex": "Why wasn't the article published today?",
+            "exzh": "その記事はなぜ今日掲載されなかったのですか。",
+            "ipa": "/ˈpʌblɪʃ/",
+            "audio": "media/words/ep40/publish.mp3",
+            "ex_audio": "media/words/ep40/publish_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "article",
+            "pos": "n.",
+            "zh": "記事",
+            "ex": "I read an interesting article in the newspaper.",
+            "exzh": "新聞でおもしろい記事を読んだ。",
+            "ipa": "/ˈɑrtəkəl/",
+            "audio": "media/words/ep40/article.mp3",
+            "ex_audio": "media/words/ep40/article_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "arts and crafts",
+            "pos": "n.",
+            "zh": "手工芸；美術工芸",
+            "ex": "She subscribes to an arts and crafts magazine.",
+            "exzh": "彼女は手工芸の雑誌を定期購読している。",
+            "ipa": "/ɑrts ənd kræfts/",
+            "audio": "media/words/ep40/arts-and-crafts.mp3",
+            "ex_audio": "media/words/ep40/arts-and-crafts_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "copy",
+            "pos": "n./v.",
+            "zh": "（印刷物の）1部；1冊；コピーする",
+            "ex": "Two hundred copies is enough.",
+            "exzh": "200部で十分だ。",
+            "ipa": "/ˈkɑpi/",
+            "audio": "media/words/ep40/copy.mp3",
+            "ex_audio": "media/words/ep40/copy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "caterer",
+            "pos": "n.",
+            "zh": "ケータリング業者；仕出し業者",
+            "ex": "We are using a different caterer this year.",
+            "exzh": "今年は別のケータリング業者を使う。",
+            "ipa": "/ˈkeɪtɚɚ/",
+            "audio": "media/words/ep40/caterer.mp3",
+            "ex_audio": "media/words/ep40/caterer_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "budget",
+            "pos": "n.",
+            "zh": "予算",
+            "ex": "We have a smaller budget this year.",
+            "exzh": "今年は予算が減った。",
+            "ipa": "/ˈbʌdʒɪt/",
+            "audio": "media/words/ep40/budget.mp3",
+            "ex_audio": "media/words/ep40/budget_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cancel",
+            "pos": "v.",
+            "zh": "中止する；取り消す",
+            "ex": "The staff meeting was canceled.",
+            "exzh": "スタッフ会議は中止になった。",
+            "ipa": "/ˈkænsəl/",
+            "audio": "media/words/ep40/cancel.mp3",
+            "ex_audio": "media/words/ep40/cancel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "out of the office",
+            "pos": "phr.",
+            "zh": "会社にいない；外出中",
+            "ex": "Ms. Ishikawa is out of the office today.",
+            "exzh": "Ishikawa さんは今日は不在だ。",
+            "ipa": "/aʊt əv ðə ˈɔfɪs/",
+            "audio": "media/words/ep40/out-of-the-office.mp3",
+            "ex_audio": "media/words/ep40/out-of-the-office_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "payroll",
+            "pos": "n.",
+            "zh": "給与；給与支払い",
+            "ex": "The updated payroll policy goes into effect next month.",
+            "exzh": "改定された給与規定は来月から施行される。",
+            "ipa": "/ˈpeɪˌroʊl/",
+            "audio": "media/words/ep40/payroll.mp3",
+            "ex_audio": "media/words/ep40/payroll_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "policy",
+            "pos": "n.",
+            "zh": "方針；規定",
+            "ex": "Please read the company policy carefully.",
+            "exzh": "会社の規定をよく読んでください。",
+            "ipa": "/ˈpɑləsi/",
+            "audio": "media/words/ep40/policy.mp3",
+            "ex_audio": "media/words/ep40/policy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go into effect",
+            "pos": "phr.",
+            "zh": "発効する；施行される",
+            "ex": "The new rules will go into effect on Monday.",
+            "exzh": "新しい規則は月曜日から施行される。",
+            "ipa": "/ɡoʊ ˈɪntu ɪˈfɛkt/",
+            "audio": "media/words/ep40/go-into-effect.mp3",
+            "ex_audio": "media/words/ep40/go-into-effect_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "quarter",
+            "pos": "n.",
+            "zh": "四半期；4分の1",
+            "ex": "At the end of the quarter, I think.",
+            "exzh": "四半期末だと思います。",
+            "ipa": "/ˈkwɔrtɚ/",
+            "audio": "media/words/ep40/quarter.mp3",
+            "ex_audio": "media/words/ep40/quarter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shift",
+            "pos": "n.",
+            "zh": "交替勤務；シフト",
+            "ex": "She works the first shift.",
+            "exzh": "彼女は早番で働いている。",
+            "ipa": "/ʃɪft/",
+            "audio": "media/words/ep40/shift.mp3",
+            "ex_audio": "media/words/ep40/shift_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set up",
+            "pos": "phr.",
+            "zh": "準備する；設置する",
+            "ex": "The caterers will begin setting up for the party soon.",
+            "exzh": "ケータリング業者はまもなくパーティーの準備を始める。",
+            "ipa": "/sɛt ʌp/",
+            "audio": "media/words/ep40/set-up.mp3",
+            "ex_audio": "media/words/ep40/set-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "from now",
+            "pos": "phr.",
+            "zh": "今から",
+            "ex": "The bus leaves an hour from now.",
+            "exzh": "バスは今から1時間後に出発する。",
+            "ipa": "/frʌm naʊ/",
+            "audio": "media/words/ep40/from-now.mp3",
+            "ex_audio": "media/words/ep40/from-now_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mostly",
+            "pos": "adv.",
+            "zh": "主に；大部分は",
+            "ex": "The menu is mostly Indian food.",
+            "exzh": "メニューは主にインド料理だ。",
+            "ipa": "/ˈmoʊstli/",
+            "audio": "media/words/ep40/mostly.mp3",
+            "ex_audio": "media/words/ep40/mostly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loading dock",
+            "pos": "n.",
+            "zh": "荷積み場；荷物の積み下ろし場",
+            "ex": "Who can tell me where the loading dock is?",
+            "exzh": "荷物の積み下ろし場がどこにあるか、誰か教えてくれませんか。",
+            "ipa": "/ˈloʊdɪŋ dɑk/",
+            "audio": "media/words/ep40/loading-dock.mp3",
+            "ex_audio": "media/words/ep40/loading-dock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "speaker",
+            "pos": "n.",
+            "zh": "講演者；話し手；スピーカー",
+            "ex": "He's an excellent speaker.",
+            "exzh": "彼はすばらしい講演者だ。",
+            "ipa": "/ˈspikɚ/",
+            "audio": "media/words/ep40/speaker.mp3",
+            "ex_audio": "media/words/ep40/speaker_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "community center",
+            "pos": "n.",
+            "zh": "コミュニティーセンター；公民館",
+            "ex": "I met Mr. Raj at the community center.",
+            "exzh": "Raj さんとはコミュニティーセンターで知り合った。",
+            "ipa": "/kəˈmjunəti ˈsɛntɚ/",
+            "audio": "media/words/ep40/community-center.mp3",
+            "ex_audio": "media/words/ep40/community-center_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expect",
+            "pos": "v.",
+            "zh": "予想する；期待する",
+            "ex": "Sales are better than we expected.",
+            "exzh": "売上は予想以上にいい。",
+            "ipa": "/ɪkˈspɛkt/",
+            "audio": "media/words/ep40/expect.mp3",
+            "ex_audio": "media/words/ep40/expect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ice water",
+            "pos": "n.",
+            "zh": "氷水",
+            "ex": "Just some ice water, please.",
+            "exzh": "氷水だけお願いします。",
+            "ipa": "/aɪs ˈwɔtɚ/",
+            "audio": "media/words/ep40/ice-water.mp3",
+            "ex_audio": "media/words/ep40/ice-water_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "jacket",
+            "pos": "n.",
+            "zh": "ジャケット；上着",
+            "ex": "It's cold, so I'm bringing a jacket.",
+            "exzh": "寒いのでジャケットを持っていく。",
+            "ipa": "/ˈdʒækət/",
+            "audio": "media/words/ep40/jacket.mp3",
+            "ex_audio": "media/words/ep40/jacket_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "travel agency",
+            "pos": "n.",
+            "zh": "旅行代理店",
+            "ex": "Which travel agency do you recommend?",
+            "exzh": "どの旅行代理店がおすすめですか。",
+            "ipa": "/ˈtrævəl ˈeɪdʒənsi/",
+            "audio": "media/words/ep40/travel-agency.mp3",
+            "ex_audio": "media/words/ep40/travel-agency_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recommend",
+            "pos": "v.",
+            "zh": "勧める；推薦する",
+            "ex": "I recommend the one on Main Street.",
+            "exzh": "Main 通りの店をおすすめします。",
+            "ipa": "/ˌrɛkəˈmɛnd/",
+            "audio": "media/words/ep40/recommend.mp3",
+            "ex_audio": "media/words/ep40/recommend_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "express mail",
+            "pos": "n.",
+            "zh": "速達郵便",
+            "ex": "I sent it by express mail.",
+            "exzh": "速達で送った。",
+            "ipa": "/ɪkˈsprɛs meɪl/",
+            "audio": "media/words/ep40/express-mail.mp3",
+            "ex_audio": "media/words/ep40/express-mail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mind",
+            "pos": "v.",
+            "zh": "気にする；嫌がる",
+            "ex": "No, I don't mind.",
+            "exzh": "いいえ、構いません。",
+            "ipa": "/maɪnd/",
+            "audio": "media/words/ep40/mind.mp3",
+            "ex_audio": "media/words/ep40/mind_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lightbulb",
+            "pos": "n.",
+            "zh": "電球",
+            "ex": "Which lightbulbs are we supposed to replace?",
+            "exzh": "どの電球を取り替えることになっていますか。",
+            "ipa": "/ˈlaɪtˌbʌlb/",
+            "audio": "media/words/ep40/lightbulb.mp3",
+            "ex_audio": "media/words/ep40/lightbulb_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be supposed to",
+            "pos": "phr.",
+            "zh": "…することになっている",
+            "ex": "We are supposed to finish the report today.",
+            "exzh": "報告書は今日仕上げることになっている。",
+            "ipa": "/bi səˈpoʊzd tu/",
+            "audio": "media/words/ep40/be-supposed-to.mp3",
+            "ex_audio": "media/words/ep40/be-supposed-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "closet",
+            "pos": "n.",
+            "zh": "クローゼット；押し入れ",
+            "ex": "My jacket's hanging in the closet.",
+            "exzh": "私のジャケットはクローゼットに掛かっている。",
+            "ipa": "/ˈklɑzət/",
+            "audio": "media/words/ep40/closet.mp3",
+            "ex_audio": "media/words/ep40/closet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in the heart of",
+            "pos": "phr.",
+            "zh": "…の中心に",
+            "ex": "The building is in the heart of the city.",
+            "exzh": "その建物は市の中心部にある。",
+            "ipa": "/ɪn ðə hɑrt əv/",
+            "audio": "media/words/ep40/in-the-heart-of.mp3",
+            "ex_audio": "media/words/ep40/in-the-heart-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "within walking distance",
+            "pos": "phr.",
+            "zh": "歩いて行ける距離に",
+            "ex": "The building is within walking distance of the college.",
+            "exzh": "その建物から大学まで歩いて行ける。",
+            "ipa": "/wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns/",
+            "audio": "media/words/ep40/within-walking-distance.mp3",
+            "ex_audio": "media/words/ep40/within-walking-distance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "public transit",
+            "pos": "n.",
+            "zh": "公共交通機関",
+            "ex": "Convenient public transit is available via bus lines 8 and 15.",
+            "exzh": "8番と15番のバス路線で便利な公共交通機関が利用できる。",
+            "ipa": "/ˈpʌblɪk ˈtrænzɪt/",
+            "audio": "media/words/ep40/public-transit.mp3",
+            "ex_audio": "media/words/ep40/public-transit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "security deposit",
+            "pos": "n.",
+            "zh": "敷金；保証金",
+            "ex": "A security deposit equal to two months' rent is required.",
+            "exzh": "家賃2か月分の敷金が必要だ。",
+            "ipa": "/sɪˈkjʊrəti dəˈpɑzɪt/",
+            "audio": "media/words/ep40/security-deposit.mp3",
+            "ex_audio": "media/words/ep40/security-deposit_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "rent",
+            "pos": "n./v.",
+            "zh": "家賃；賃料；賃借りする",
+            "ex": "The monthly rent is $1,300.",
+            "exzh": "家賃は月1,300ドルだ。",
+            "ipa": "/rɛnt/",
+            "audio": "media/words/ep40/rent.mp3",
+            "ex_audio": "media/words/ep40/rent_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lease term",
+            "pos": "n.",
+            "zh": "賃貸契約の期間",
+            "ex": "The lease term is twelve months.",
+            "exzh": "賃貸契約の期間は12か月だ。",
+            "ipa": "/lis tɝm/",
+            "audio": "media/words/ep40/lease-term.mp3",
+            "ex_audio": "media/words/ep40/lease-term_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "grocery store",
+            "pos": "n.",
+            "zh": "食料品店；スーパー",
+            "ex": "A grocery store is also nearby.",
+            "exzh": "近くには食料品店もある。",
+            "ipa": "/ˈɡroʊsɚi stɔr/",
+            "audio": "media/words/ep40/grocery-store.mp3",
+            "ex_audio": "media/words/ep40/grocery-store_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "farmers market",
+            "pos": "n.",
+            "zh": "ファーマーズマーケット；農産物の直売市場",
+            "ex": "There is a weekend farmers market nearby.",
+            "exzh": "近くに週末のファーマーズマーケットがある。",
+            "ipa": "/ˈfɑrmɚz ˈmɑrkət/",
+            "audio": "media/words/ep40/farmers-market.mp3",
+            "ex_audio": "media/words/ep40/farmers-market_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep40_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 2 残りの WH 疑問文（Part 2 総仕上げ）",
+    "words": [
+      {
+        "word": "employee award",
+        "pos": "n.",
+        "zh": "员工奖；优秀员工奖",
+        "ex": "Why did she win an employee award?",
+        "exzh": "她为什么获得了员工奖？",
+        "ipa": "/ɛmˈplɔɪi əˈwɔrd/",
+        "audio": "media/words/ep40/employee-award.mp3",
+        "ex_audio": "media/words/ep40/employee-award_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prototype",
+        "pos": "n.",
+        "zh": "原型；样品；试制品",
+        "ex": "The client liked her prototype.",
+        "exzh": "客户很喜欢她做的样品。",
+        "ipa": "/ˈproʊtəˌtaɪp/",
+        "audio": "media/words/ep40/prototype.mp3",
+        "ex_audio": "media/words/ep40/prototype_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "publish",
+        "pos": "v.",
+        "zh": "发表；出版；刊登",
+        "ex": "Why wasn't the article published today?",
+        "exzh": "那篇文章今天为什么没有发表？",
+        "ipa": "/ˈpʌblɪʃ/",
+        "audio": "media/words/ep40/publish.mp3",
+        "ex_audio": "media/words/ep40/publish_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "article",
+        "pos": "n.",
+        "zh": "文章；报道",
+        "ex": "I read an interesting article in the newspaper.",
+        "exzh": "我在报纸上读到一篇有趣的文章。",
+        "ipa": "/ˈɑrtəkəl/",
+        "audio": "media/words/ep40/article.mp3",
+        "ex_audio": "media/words/ep40/article_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "arts and crafts",
+        "pos": "n.",
+        "zh": "手工艺；工艺美术",
+        "ex": "She subscribes to an arts and crafts magazine.",
+        "exzh": "她订阅了一本手工艺杂志。",
+        "ipa": "/ɑrts ənd kræfts/",
+        "audio": "media/words/ep40/arts-and-crafts.mp3",
+        "ex_audio": "media/words/ep40/arts-and-crafts_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "copy",
+        "pos": "n./v.",
+        "zh": "（印刷品的）一份；一本；复印",
+        "ex": "Two hundred copies is enough.",
+        "exzh": "两百份就够了。",
+        "ipa": "/ˈkɑpi/",
+        "audio": "media/words/ep40/copy.mp3",
+        "ex_audio": "media/words/ep40/copy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "caterer",
+        "pos": "n.",
+        "zh": "餐饮承办商；外烩公司",
+        "ex": "We are using a different caterer this year.",
+        "exzh": "我们今年用另一家餐饮承办商。",
+        "ipa": "/ˈkeɪtɚɚ/",
+        "audio": "media/words/ep40/caterer.mp3",
+        "ex_audio": "media/words/ep40/caterer_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "budget",
+        "pos": "n.",
+        "zh": "预算",
+        "ex": "We have a smaller budget this year.",
+        "exzh": "我们今年的预算少了。",
+        "ipa": "/ˈbʌdʒɪt/",
+        "audio": "media/words/ep40/budget.mp3",
+        "ex_audio": "media/words/ep40/budget_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cancel",
+        "pos": "v.",
+        "zh": "取消",
+        "ex": "The staff meeting was canceled.",
+        "exzh": "员工会议取消了。",
+        "ipa": "/ˈkænsəl/",
+        "audio": "media/words/ep40/cancel.mp3",
+        "ex_audio": "media/words/ep40/cancel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "out of the office",
+        "pos": "phr.",
+        "zh": "不在办公室；外出",
+        "ex": "Ms. Ishikawa is out of the office today.",
+        "exzh": "Ishikawa 女士今天不在办公室。",
+        "ipa": "/aʊt əv ðə ˈɔfɪs/",
+        "audio": "media/words/ep40/out-of-the-office.mp3",
+        "ex_audio": "media/words/ep40/out-of-the-office_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "payroll",
+        "pos": "n.",
+        "zh": "工资；工资单；发薪",
+        "ex": "The updated payroll policy goes into effect next month.",
+        "exzh": "更新后的工资政策下个月生效。",
+        "ipa": "/ˈpeɪˌroʊl/",
+        "audio": "media/words/ep40/payroll.mp3",
+        "ex_audio": "media/words/ep40/payroll_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "policy",
+        "pos": "n.",
+        "zh": "政策；规定；方针",
+        "ex": "Please read the company policy carefully.",
+        "exzh": "请仔细阅读公司的规定。",
+        "ipa": "/ˈpɑləsi/",
+        "audio": "media/words/ep40/policy.mp3",
+        "ex_audio": "media/words/ep40/policy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go into effect",
+        "pos": "phr.",
+        "zh": "生效；开始实施",
+        "ex": "The new rules will go into effect on Monday.",
+        "exzh": "新规定将于周一生效。",
+        "ipa": "/ɡoʊ ˈɪntu ɪˈfɛkt/",
+        "audio": "media/words/ep40/go-into-effect.mp3",
+        "ex_audio": "media/words/ep40/go-into-effect_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "quarter",
+        "pos": "n.",
+        "zh": "季度；四分之一",
+        "ex": "At the end of the quarter, I think.",
+        "exzh": "我想是在这个季度末。",
+        "ipa": "/ˈkwɔrtɚ/",
+        "audio": "media/words/ep40/quarter.mp3",
+        "ex_audio": "media/words/ep40/quarter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shift",
+        "pos": "n.",
+        "zh": "轮班；班次",
+        "ex": "She works the first shift.",
+        "exzh": "她上早班。",
+        "ipa": "/ʃɪft/",
+        "audio": "media/words/ep40/shift.mp3",
+        "ex_audio": "media/words/ep40/shift_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set up",
+        "pos": "phr.",
+        "zh": "布置；摆放；安装",
+        "ex": "The caterers will begin setting up for the party soon.",
+        "exzh": "餐饮承办商很快就会开始为派对做布置。",
+        "ipa": "/sɛt ʌp/",
+        "audio": "media/words/ep40/set-up.mp3",
+        "ex_audio": "media/words/ep40/set-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "from now",
+        "pos": "phr.",
+        "zh": "从现在起",
+        "ex": "The bus leaves an hour from now.",
+        "exzh": "公交车一小时后出发。",
+        "ipa": "/frʌm naʊ/",
+        "audio": "media/words/ep40/from-now.mp3",
+        "ex_audio": "media/words/ep40/from-now_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mostly",
+        "pos": "adv.",
+        "zh": "主要地；大部分",
+        "ex": "The menu is mostly Indian food.",
+        "exzh": "菜单主要是印度菜。",
+        "ipa": "/ˈmoʊstli/",
+        "audio": "media/words/ep40/mostly.mp3",
+        "ex_audio": "media/words/ep40/mostly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loading dock",
+        "pos": "n.",
+        "zh": "装卸平台；装卸区",
+        "ex": "Who can tell me where the loading dock is?",
+        "exzh": "谁能告诉我装卸区在哪里？",
+        "ipa": "/ˈloʊdɪŋ dɑk/",
+        "audio": "media/words/ep40/loading-dock.mp3",
+        "ex_audio": "media/words/ep40/loading-dock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "speaker",
+        "pos": "n.",
+        "zh": "演讲者；发言人；扬声器",
+        "ex": "He's an excellent speaker.",
+        "exzh": "他是个很棒的演讲者。",
+        "ipa": "/ˈspikɚ/",
+        "audio": "media/words/ep40/speaker.mp3",
+        "ex_audio": "media/words/ep40/speaker_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "community center",
+        "pos": "n.",
+        "zh": "社区活动中心",
+        "ex": "I met Mr. Raj at the community center.",
+        "exzh": "我是在社区活动中心认识 Raj 先生的。",
+        "ipa": "/kəˈmjunəti ˈsɛntɚ/",
+        "audio": "media/words/ep40/community-center.mp3",
+        "ex_audio": "media/words/ep40/community-center_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expect",
+        "pos": "v.",
+        "zh": "预期；预料；期待",
+        "ex": "Sales are better than we expected.",
+        "exzh": "销售情况比我们预期的好。",
+        "ipa": "/ɪkˈspɛkt/",
+        "audio": "media/words/ep40/expect.mp3",
+        "ex_audio": "media/words/ep40/expect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ice water",
+        "pos": "n.",
+        "zh": "冰水",
+        "ex": "Just some ice water, please.",
+        "exzh": "给我一杯冰水就好。",
+        "ipa": "/aɪs ˈwɔtɚ/",
+        "audio": "media/words/ep40/ice-water.mp3",
+        "ex_audio": "media/words/ep40/ice-water_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "jacket",
+        "pos": "n.",
+        "zh": "夹克；外套",
+        "ex": "It's cold, so I'm bringing a jacket.",
+        "exzh": "天冷，所以我要带一件夹克。",
+        "ipa": "/ˈdʒækət/",
+        "audio": "media/words/ep40/jacket.mp3",
+        "ex_audio": "media/words/ep40/jacket_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "travel agency",
+        "pos": "n.",
+        "zh": "旅行社",
+        "ex": "Which travel agency do you recommend?",
+        "exzh": "你推荐哪家旅行社？",
+        "ipa": "/ˈtrævəl ˈeɪdʒənsi/",
+        "audio": "media/words/ep40/travel-agency.mp3",
+        "ex_audio": "media/words/ep40/travel-agency_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recommend",
+        "pos": "v.",
+        "zh": "推荐；建议",
+        "ex": "I recommend the one on Main Street.",
+        "exzh": "我推荐 Main 街上的那家。",
+        "ipa": "/ˌrɛkəˈmɛnd/",
+        "audio": "media/words/ep40/recommend.mp3",
+        "ex_audio": "media/words/ep40/recommend_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "express mail",
+        "pos": "n.",
+        "zh": "快递；速递邮件",
+        "ex": "I sent it by express mail.",
+        "exzh": "我用快递寄出去了。",
+        "ipa": "/ɪkˈsprɛs meɪl/",
+        "audio": "media/words/ep40/express-mail.mp3",
+        "ex_audio": "media/words/ep40/express-mail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mind",
+        "pos": "v.",
+        "zh": "介意；在意",
+        "ex": "No, I don't mind.",
+        "exzh": "不，我不介意。",
+        "ipa": "/maɪnd/",
+        "audio": "media/words/ep40/mind.mp3",
+        "ex_audio": "media/words/ep40/mind_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lightbulb",
+        "pos": "n.",
+        "zh": "灯泡",
+        "ex": "Which lightbulbs are we supposed to replace?",
+        "exzh": "我们应该更换哪些灯泡？",
+        "ipa": "/ˈlaɪtˌbʌlb/",
+        "audio": "media/words/ep40/lightbulb.mp3",
+        "ex_audio": "media/words/ep40/lightbulb_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be supposed to",
+        "pos": "phr.",
+        "zh": "应该；按规定要",
+        "ex": "We are supposed to finish the report today.",
+        "exzh": "我们应该今天完成报告。",
+        "ipa": "/bi səˈpoʊzd tu/",
+        "audio": "media/words/ep40/be-supposed-to.mp3",
+        "ex_audio": "media/words/ep40/be-supposed-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "closet",
+        "pos": "n.",
+        "zh": "衣柜；壁橱",
+        "ex": "My jacket's hanging in the closet.",
+        "exzh": "我的夹克挂在衣柜里。",
+        "ipa": "/ˈklɑzət/",
+        "audio": "media/words/ep40/closet.mp3",
+        "ex_audio": "media/words/ep40/closet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in the heart of",
+        "pos": "phr.",
+        "zh": "在……的中心",
+        "ex": "The building is in the heart of the city.",
+        "exzh": "这栋楼在市中心。",
+        "ipa": "/ɪn ðə hɑrt əv/",
+        "audio": "media/words/ep40/in-the-heart-of.mp3",
+        "ex_audio": "media/words/ep40/in-the-heart-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "within walking distance",
+        "pos": "phr.",
+        "zh": "步行可到达的范围内",
+        "ex": "The building is within walking distance of the college.",
+        "exzh": "这栋楼步行就能到学院。",
+        "ipa": "/wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns/",
+        "audio": "media/words/ep40/within-walking-distance.mp3",
+        "ex_audio": "media/words/ep40/within-walking-distance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "public transit",
+        "pos": "n.",
+        "zh": "公共交通",
+        "ex": "Convenient public transit is available via bus lines 8 and 15.",
+        "exzh": "8 路和 15 路公交车提供便利的公共交通。",
+        "ipa": "/ˈpʌblɪk ˈtrænzɪt/",
+        "audio": "media/words/ep40/public-transit.mp3",
+        "ex_audio": "media/words/ep40/public-transit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "security deposit",
+        "pos": "n.",
+        "zh": "押金；保证金",
+        "ex": "A security deposit equal to two months' rent is required.",
+        "exzh": "需要支付相当于两个月房租的押金。",
+        "ipa": "/sɪˈkjʊrəti dəˈpɑzɪt/",
+        "audio": "media/words/ep40/security-deposit.mp3",
+        "ex_audio": "media/words/ep40/security-deposit_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "rent",
+        "pos": "n./v.",
+        "zh": "房租；租金；租用",
+        "ex": "The monthly rent is $1,300.",
+        "exzh": "月租是一千三百美元。",
+        "ipa": "/rɛnt/",
+        "audio": "media/words/ep40/rent.mp3",
+        "ex_audio": "media/words/ep40/rent_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lease term",
+        "pos": "n.",
+        "zh": "租期；租赁期限",
+        "ex": "The lease term is twelve months.",
+        "exzh": "租期是十二个月。",
+        "ipa": "/lis tɝm/",
+        "audio": "media/words/ep40/lease-term.mp3",
+        "ex_audio": "media/words/ep40/lease-term_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "grocery store",
+        "pos": "n.",
+        "zh": "食品杂货店；超市",
+        "ex": "A grocery store is also nearby.",
+        "exzh": "附近还有一家食品杂货店。",
+        "ipa": "/ˈɡroʊsɚi stɔr/",
+        "audio": "media/words/ep40/grocery-store.mp3",
+        "ex_audio": "media/words/ep40/grocery-store_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "farmers market",
+        "pos": "n.",
+        "zh": "农贸市场；农夫市集",
+        "ex": "There is a weekend farmers market nearby.",
+        "exzh": "附近有一个周末农贸市场。",
+        "ipa": "/ˈfɑrmɚz ˈmɑrkət/",
+        "audio": "media/words/ep40/farmers-market.mp3",
+        "ex_audio": "media/words/ep40/farmers-market_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 39,
     "theme": "题型精讲 · Part 2 陈述句的回应与否定疑问句",
     "date": "2026-10-21",
