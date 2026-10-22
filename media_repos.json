@@ -218,7 +218,7 @@
   },
   "ep35ja.mp4": {
    "repo": "toeic800-media2",
-   "size": 23590040
+   "size": 23590112
   },
   "ep36.mp4": {
    "repo": "toeic800-media3",
@@ -263,6 +263,14 @@
   "ep40ja.mp4": {
    "repo": "toeic800-media3",
    "size": 25366933
+  },
+  "ep41.mp4": {
+   "repo": "toeic800-media3",
+   "size": 24842388
+  },
+  "ep41ja.mp4": {
+   "repo": "toeic800-media3",
+   "size": 29804018
   },
   "ep5.mp4": {
    "repo": "toeic800-media1",

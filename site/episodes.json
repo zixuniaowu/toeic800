@@ -1,5 +1,1997 @@
 [
   {
+    "number": 41,
+    "theme": "题型精讲 · Part 1 物品与风景照片（has been 与 is being）",
+    "date": "2026-10-23",
+    "duration_sec": 2788.5,
+    "segments": [
+      {
+        "title": "1. Part 1 物品与风景照片真题（三套卷剩下的 7 道 · Part 1 总收尾）",
+        "start": 0.0,
+        "length": 1295.15
+      },
+      {
+        "title": "2. Part 7 员工健康委员会邮件（配套精练）",
+        "start": 1295.15,
+        "length": 406.25
+      },
+      {
+        "title": "3. 本期 64 词总复习 · 拼读",
+        "start": 1701.4,
+        "length": 1087.1
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "prop up",
+        "zh": "支撑；把……靠着放"
+      },
+      {
+        "word": "debris",
+        "zh": "碎片；杂物；残骸"
+      },
+      {
+        "word": "stock",
+        "zh": "进货；上架；库存"
+      },
+      {
+        "word": "line",
+        "zh": "沿着……排列；一排；一行"
+      },
+      {
+        "word": "fund-raiser",
+        "zh": "募捐活动；筹款活动"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "potted plant",
+        "zh": "盆栽；盆栽植物"
+      },
+      {
+        "word": "set",
+        "zh": "放置；摆放；过去分词 set"
+      },
+      {
+        "word": "poster",
+        "zh": "海报；招贴"
+      },
+      {
+        "word": "hung",
+        "zh": "挂；hang 的过去式、过去分词"
+      },
+      {
+        "word": "entrance",
+        "zh": "入口；门口"
+      },
+      {
+        "word": "block",
+        "zh": "挡住；堵住"
+      },
+      {
+        "word": "ladder",
+        "zh": "梯子"
+      },
+      {
+        "word": "elevator",
+        "zh": "电梯"
+      },
+      {
+        "word": "board",
+        "zh": "木板；板子"
+      },
+      {
+        "word": "prop up",
+        "zh": "支撑；把靠着放"
+      },
+      {
+        "word": "fence",
+        "zh": "栅栏；围栏"
+      },
+      {
+        "word": "stack",
+        "zh": "堆叠；摞起来；一摞"
+      },
+      {
+        "word": "crate",
+        "zh": "板条箱；木箱"
+      },
+      {
+        "word": "repot",
+        "zh": "换盆；移栽到新花盆"
+      },
+      {
+        "word": "umbrella",
+        "zh": "伞；遮阳伞"
+      },
+      {
+        "word": "tool",
+        "zh": "工具；用具"
+      },
+      {
+        "word": "shelving unit",
+        "zh": "一组货架；置物架"
+      },
+      {
+        "word": "warehouse",
+        "zh": "仓库"
+      },
+      {
+        "word": "corner",
+        "zh": "角落；拐角"
+      },
+      {
+        "word": "product",
+        "zh": "产品；商品"
+      },
+      {
+        "word": "stock",
+        "zh": "进货；上架；库存"
+      },
+      {
+        "word": "load",
+        "zh": "装载；装上；负荷"
+      },
+      {
+        "word": "conveyor belt",
+        "zh": "传送带"
+      },
+      {
+        "word": "pathway",
+        "zh": "小路；通道"
+      },
+      {
+        "word": "lead to",
+        "zh": "通向；通往；导致"
+      },
+      {
+        "word": "structure",
+        "zh": "建筑物；结构"
+      },
+      {
+        "word": "outdoors",
+        "zh": "在户外；在露天"
+      },
+      {
+        "word": "nature trail",
+        "zh": "自然步道"
+      },
+      {
+        "word": "clear of",
+        "zh": "把清除干净；clear A of B"
+      },
+      {
+        "word": "debris",
+        "zh": "碎片；杂物；残骸"
+      },
+      {
+        "word": "deck",
+        "zh": "；木头；平台；露台；甲板"
+      },
+      {
+        "word": "repair",
+        "zh": "修理；维修"
+      },
+      {
+        "word": "picnic area",
+        "zh": "野餐区"
+      },
+      {
+        "word": "set up",
+        "zh": "布置；设置；搭建"
+      },
+      {
+        "word": "picnic basket",
+        "zh": "野餐篮"
+      },
+      {
+        "word": "bench",
+        "zh": "长椅；长凳"
+      },
+      {
+        "word": "tent",
+        "zh": "帐篷"
+      },
+      {
+        "word": "shelter",
+        "zh": "遮蔽；保护；避难所"
+      },
+      {
+        "word": "cooking grill",
+        "zh": "烤架；烧烤炉"
+      },
+      {
+        "word": "door to",
+        "zh": "通往的门；的门"
+      },
+      {
+        "word": "left open",
+        "zh": "被开着没关"
+      },
+      {
+        "word": "set in a line",
+        "zh": "摆成一排"
+      },
+      {
+        "word": "plastic bin",
+        "zh": "塑料盆；塑料箱"
+      },
+      {
+        "word": "on top of",
+        "zh": "在的上面"
+      },
+      {
+        "word": "work area",
+        "zh": "工作区；工作台"
+      },
+      {
+        "word": "attached to",
+        "zh": "附在上；固定在上"
+      },
+      {
+        "word": "line",
+        "zh": "沿着排列；一排；一行"
+      },
+      {
+        "word": "pedestrian",
+        "zh": "行人；步行的"
+      },
+      {
+        "word": "walkway",
+        "zh": "步行道；人行通道"
+      },
+      {
+        "word": "prune",
+        "zh": "修剪；树枝"
+      },
+      {
+        "word": "ride a bike",
+        "zh": "骑自行车"
+      },
+      {
+        "word": "water fountain",
+        "zh": "喷泉；饮水器"
+      },
+      {
+        "word": "courtyard",
+        "zh": "庭院；院子"
+      },
+      {
+        "word": "committee",
+        "zh": "委员会"
+      },
+      {
+        "word": "update",
+        "zh": "最新情况；更新"
+      },
+      {
+        "word": "be unable to",
+        "zh": "没能；无法"
+      },
+      {
+        "word": "be scheduled to",
+        "zh": "预定要；安排在"
+      },
+      {
+        "word": "exercise",
+        "zh": "运动；锻炼；练习"
+      },
+      {
+        "word": "sign up",
+        "zh": "报名；登记"
+      },
+      {
+        "word": "cookbook",
+        "zh": "食谱书；烹饪书"
+      },
+      {
+        "word": "recipe",
+        "zh": "食谱；菜谱；秘诀"
+      },
+      {
+        "word": "alternatively",
+        "zh": "或者；另一种办法是"
+      },
+      {
+        "word": "bound",
+        "zh": "装订；bind 的过去分词"
+      },
+      {
+        "word": "fund-raiser",
+        "zh": "募捐活动；筹款活动"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep41.mp4",
+    "script_pdf": "media/ep41_script.pdf",
+    "source_video": "ep41.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep41.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep41.mp4",
+        "script_pdf": "media/ep41_script.pdf",
+        "duration_sec": 2788.5,
+        "theme": "题型精讲 · Part 1 物品与风景照片（has been 与 is being）",
+        "segments": [
+          {
+            "title": "1. Part 1 物品与风景照片真题（三套卷剩下的 7 道 · Part 1 总收尾）",
+            "start": 0.0,
+            "length": 1295.15
+          },
+          {
+            "title": "2. Part 7 员工健康委员会邮件（配套精练）",
+            "start": 1295.15,
+            "length": 406.25
+          },
+          {
+            "title": "3. 本期 64 词总复习 · 拼读",
+            "start": 1701.4,
+            "length": 1087.1
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep41ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep41ja.mp4",
+        "script_pdf": "media/ep41ja_script.pdf",
+        "duration_sec": 3244.4,
+        "theme": "問題タイプ別精講 · Part 1 物と風景の写真（has been と is being）",
+        "segments": [
+          {
+            "title": "1. Part 1 物と風景の写真（残りの 7問 · 総仕上げ）",
+            "start": 0.0,
+            "length": 1613.66
+          },
+          {
+            "title": "2. Part 7 社員健康委員会のメール（関連演習）",
+            "start": 1613.66,
+            "length": 483.53
+          },
+          {
+            "title": "3. 今回の 64 語総復習 · スペル",
+            "start": 2097.18,
+            "length": 1147.22
+          }
+        ],
+        "poster": "media/ep41ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "prop up",
+            "zh": "支える；立てかける"
+          },
+          {
+            "word": "debris",
+            "zh": "がれき；破片"
+          },
+          {
+            "word": "stock",
+            "zh": "仕入れる；棚に並べる；在庫"
+          },
+          {
+            "word": "line",
+            "zh": "…に沿って並ぶ；列"
+          },
+          {
+            "word": "fund-raiser",
+            "zh": "募金活動；資金集めのイベント"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "potted plant",
+          "set",
+          "poster",
+          "hung",
+          "entrance",
+          "block",
+          "ladder",
+          "elevator",
+          "board",
+          "prop up",
+          "fence",
+          "stack",
+          "crate",
+          "repot",
+          "umbrella",
+          "tool",
+          "shelving unit",
+          "warehouse",
+          "corner",
+          "product",
+          "stock",
+          "load",
+          "conveyor belt",
+          "pathway",
+          "lead to",
+          "structure",
+          "outdoors",
+          "nature trail",
+          "clear of",
+          "debris",
+          "deck",
+          "repair",
+          "picnic area",
+          "set up",
+          "picnic basket",
+          "bench",
+          "tent",
+          "shelter",
+          "cooking grill",
+          "door to",
+          "left open",
+          "set in a line",
+          "plastic bin",
+          "on top of",
+          "work area",
+          "attached to",
+          "line",
+          "pedestrian",
+          "walkway",
+          "prune",
+          "ride a bike",
+          "water fountain",
+          "courtyard",
+          "committee",
+          "update",
+          "be unable to",
+          "be scheduled to",
+          "exercise",
+          "sign up",
+          "cookbook",
+          "recipe",
+          "alternatively",
+          "bound",
+          "fund-raiser"
+        ],
+        "words": [
+          {
+            "word": "potted plant",
+            "pos": "n.",
+            "zh": "鉢植え",
+            "ex": "A potted plant has been set on the floor.",
+            "exzh": "鉢植えが床に置かれている。",
+            "ipa": "/ˈpɑtɪd plænt/",
+            "audio": "media/words/ep41/potted-plant.mp3",
+            "ex_audio": "media/words/ep41/potted-plant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set",
+            "pos": "v.",
+            "zh": "置く；配置する（過去分詞 set）",
+            "ex": "The vase has been set on the table.",
+            "exzh": "花瓶がテーブルに置かれている。",
+            "ipa": "/sɛt/",
+            "audio": "media/words/ep41/set.mp3",
+            "ex_audio": "media/words/ep41/set_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "poster",
+            "pos": "n.",
+            "zh": "ポスター",
+            "ex": "Some posters have been hung on the walls.",
+            "exzh": "壁にポスターが何枚か貼られている。",
+            "ipa": "/ˈpoʊstɚ/",
+            "audio": "media/words/ep41/poster.mp3",
+            "ex_audio": "media/words/ep41/poster_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hung",
+            "pos": "v.",
+            "zh": "掛けた；掛けられた（hang の過去形・過去分詞）",
+            "ex": "A clock has been hung on the wall.",
+            "exzh": "壁に時計が掛けられている。",
+            "ipa": "/hʌŋ/",
+            "audio": "media/words/ep41/hung.mp3",
+            "ex_audio": "media/words/ep41/hung_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "entrance",
+            "pos": "n.",
+            "zh": "入口；玄関",
+            "ex": "An entrance is blocked by a ladder.",
+            "exzh": "入口がはしごでふさがれている。",
+            "ipa": "/ˈɛntrəns/",
+            "audio": "media/words/ep41/entrance.mp3",
+            "ex_audio": "media/words/ep41/entrance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "block",
+            "pos": "v.",
+            "zh": "ふさぐ；さえぎる",
+            "ex": "A truck is blocking the road.",
+            "exzh": "トラックが道路をふさいでいる。",
+            "ipa": "/blɑk/",
+            "audio": "media/words/ep41/block.mp3",
+            "ex_audio": "media/words/ep41/block_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ladder",
+            "pos": "n.",
+            "zh": "はしご",
+            "ex": "A ladder is leaning against the wall.",
+            "exzh": "はしごが壁に立てかけてある。",
+            "ipa": "/ˈlædɚ/",
+            "audio": "media/words/ep41/ladder.mp3",
+            "ex_audio": "media/words/ep41/ladder_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "elevator",
+            "pos": "n.",
+            "zh": "エレベーター",
+            "ex": "Some elevator doors are open.",
+            "exzh": "エレベーターの扉がいくつか開いている。",
+            "ipa": "/ˈɛləˌveɪtɚ/",
+            "audio": "media/words/ep41/elevator.mp3",
+            "ex_audio": "media/words/ep41/elevator_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "board",
+            "pos": "n.",
+            "zh": "板",
+            "ex": "Wooden boards are piled on the ground.",
+            "exzh": "木の板が地面に積まれている。",
+            "ipa": "/bɔrd/",
+            "audio": "media/words/ep41/board.mp3",
+            "ex_audio": "media/words/ep41/board_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prop up",
+            "pos": "phr.",
+            "zh": "支える；立てかける",
+            "ex": "Wooden boards have been propped up against a fence.",
+            "exzh": "木の板がフェンスに立てかけてある。",
+            "ipa": "/prɑp ʌp/",
+            "audio": "media/words/ep41/prop-up.mp3",
+            "ex_audio": "media/words/ep41/prop-up_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "fence",
+            "pos": "n.",
+            "zh": "フェンス；柵",
+            "ex": "There is a fence around the garden.",
+            "exzh": "庭の周りにフェンスがある。",
+            "ipa": "/fɛns/",
+            "audio": "media/words/ep41/fence.mp3",
+            "ex_audio": "media/words/ep41/fence_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stack",
+            "pos": "v./n.",
+            "zh": "積み重ねる；積み重ねたもの",
+            "ex": "Baskets have been stacked on a wooden crate.",
+            "exzh": "かごが木箱の上に積み重ねられている。",
+            "ipa": "/stæk/",
+            "audio": "media/words/ep41/stack.mp3",
+            "ex_audio": "media/words/ep41/stack_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "crate",
+            "pos": "n.",
+            "zh": "木枠の箱；木箱",
+            "ex": "The apples were packed in a wooden crate.",
+            "exzh": "リンゴは木箱に詰められていた。",
+            "ipa": "/kreɪt/",
+            "audio": "media/words/ep41/crate.mp3",
+            "ex_audio": "media/words/ep41/crate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "repot",
+            "pos": "v.",
+            "zh": "鉢を植え替える",
+            "ex": "Flowers are being repotted.",
+            "exzh": "花が植え替えられているところだ。",
+            "ipa": "",
+            "audio": "media/words/ep41/repot.mp3",
+            "ex_audio": "media/words/ep41/repot_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "umbrella",
+            "pos": "n.",
+            "zh": "傘；パラソル",
+            "ex": "An umbrella is being closed.",
+            "exzh": "傘が閉じられているところだ。",
+            "ipa": "/əmˈbrɛlə/",
+            "audio": "media/words/ep41/umbrella.mp3",
+            "ex_audio": "media/words/ep41/umbrella_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tool",
+            "pos": "n.",
+            "zh": "工具；道具",
+            "ex": "Tools have been hung from a shelving unit.",
+            "exzh": "工具が棚に掛けられている。",
+            "ipa": "/tul/",
+            "audio": "media/words/ep41/tool.mp3",
+            "ex_audio": "media/words/ep41/tool_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shelving unit",
+            "pos": "n.",
+            "zh": "棚；ひとそろいの棚",
+            "ex": "The shelving unit is full of boxes.",
+            "exzh": "棚は箱でいっぱいだ。",
+            "ipa": "/ˈʃɛlvɪŋ ˈjunət/",
+            "audio": "media/words/ep41/shelving-unit.mp3",
+            "ex_audio": "media/words/ep41/shelving-unit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "warehouse",
+            "pos": "n.",
+            "zh": "倉庫",
+            "ex": "A ladder has been left in the corner of a warehouse.",
+            "exzh": "はしごが倉庫の隅に置いたままになっている。",
+            "ipa": "/ˈwɛrˌhaʊs/",
+            "audio": "media/words/ep41/warehouse.mp3",
+            "ex_audio": "media/words/ep41/warehouse_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "corner",
+            "pos": "n.",
+            "zh": "隅；角",
+            "ex": "A plant is in the corner of the room.",
+            "exzh": "部屋の隅に植物がある。",
+            "ipa": "/ˈkɔrnɚ/",
+            "audio": "media/words/ep41/corner.mp3",
+            "ex_audio": "media/words/ep41/corner_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "product",
+            "pos": "n.",
+            "zh": "製品；商品",
+            "ex": "Products have been stocked on shelves.",
+            "exzh": "商品が棚に並べられている。",
+            "ipa": "/ˈprɑdəkt/",
+            "audio": "media/words/ep41/product.mp3",
+            "ex_audio": "media/words/ep41/product_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stock",
+            "pos": "v./n.",
+            "zh": "仕入れる；棚に並べる；在庫",
+            "ex": "The store stocks fresh vegetables.",
+            "exzh": "その店は新鮮な野菜を置いている。",
+            "ipa": "/stɑk/",
+            "audio": "media/words/ep41/stock.mp3",
+            "ex_audio": "media/words/ep41/stock_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "load",
+            "pos": "v./n.",
+            "zh": "積む；載せる；積み荷",
+            "ex": "Some boxes have been loaded onto a conveyor belt.",
+            "exzh": "箱がベルトコンベヤーに載せられている。",
+            "ipa": "/loʊd/",
+            "audio": "media/words/ep41/load.mp3",
+            "ex_audio": "media/words/ep41/load_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "conveyor belt",
+            "pos": "n.",
+            "zh": "ベルトコンベヤー",
+            "ex": "Packages are moving along a conveyor belt.",
+            "exzh": "荷物がベルトコンベヤーで運ばれている。",
+            "ipa": "/kənˈveɪɚ bɛlt/",
+            "audio": "media/words/ep41/conveyor-belt.mp3",
+            "ex_audio": "media/words/ep41/conveyor-belt_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pathway",
+            "pos": "n.",
+            "zh": "小道；通路",
+            "ex": "A stone pathway leads to a lake.",
+            "exzh": "石の小道が湖に通じている。",
+            "ipa": "/ˈpæˌθweɪ/",
+            "audio": "media/words/ep41/pathway.mp3",
+            "ex_audio": "media/words/ep41/pathway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lead to",
+            "pos": "phr.",
+            "zh": "…に通じる；…につながる",
+            "ex": "This road leads to the station.",
+            "exzh": "この道は駅に通じている。",
+            "ipa": "/lɛd tu/",
+            "audio": "media/words/ep41/lead-to.mp3",
+            "ex_audio": "media/words/ep41/lead-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "structure",
+            "pos": "n.",
+            "zh": "建造物；構造",
+            "ex": "A wooden structure has been built outdoors.",
+            "exzh": "木造の建造物が屋外に建てられている。",
+            "ipa": "/ˈstrʌktʃɚ/",
+            "audio": "media/words/ep41/structure.mp3",
+            "ex_audio": "media/words/ep41/structure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "outdoors",
+            "pos": "adv.",
+            "zh": "屋外で；野外で",
+            "ex": "The concert will be held outdoors.",
+            "exzh": "コンサートは屋外で行われる。",
+            "ipa": "/ˈaʊtˈdɔrz/",
+            "audio": "media/words/ep41/outdoors.mp3",
+            "ex_audio": "media/words/ep41/outdoors_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "nature trail",
+            "pos": "n.",
+            "zh": "自然遊歩道",
+            "ex": "We walked along a nature trail in the park.",
+            "exzh": "公園の自然遊歩道を歩いた。",
+            "ipa": "/ˈneɪtʃɚ treɪl/",
+            "audio": "media/words/ep41/nature-trail.mp3",
+            "ex_audio": "media/words/ep41/nature-trail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "clear of",
+            "pos": "phr.",
+            "zh": "…を取り除く（clear A of B）",
+            "ex": "Workers cleared the road of snow.",
+            "exzh": "作業員が道路の雪を取り除いた。",
+            "ipa": "/klɪr əv/",
+            "audio": "media/words/ep41/clear-of.mp3",
+            "ex_audio": "media/words/ep41/clear-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "debris",
+            "pos": "n.",
+            "zh": "がれき；破片",
+            "ex": "A nature trail is being cleared of debris.",
+            "exzh": "自然遊歩道のがれきが片付けられているところだ。",
+            "ipa": "/dəˈbri/",
+            "audio": "media/words/ep41/debris.mp3",
+            "ex_audio": "media/words/ep41/debris_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "deck",
+            "pos": "n.",
+            "zh": "（木の）デッキ；テラス；甲板",
+            "ex": "An outdoor deck is being repaired.",
+            "exzh": "屋外のデッキが修理されているところだ。",
+            "ipa": "/dɛk/",
+            "audio": "media/words/ep41/deck.mp3",
+            "ex_audio": "media/words/ep41/deck_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "repair",
+            "pos": "v./n.",
+            "zh": "修理する；修理",
+            "ex": "The roof needs to be repaired.",
+            "exzh": "屋根を修理する必要がある。",
+            "ipa": "/rɪˈpɛr/",
+            "audio": "media/words/ep41/repair.mp3",
+            "ex_audio": "media/words/ep41/repair_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "picnic area",
+            "pos": "n.",
+            "zh": "ピクニックエリア",
+            "ex": "A picnic area has been set up near some trees.",
+            "exzh": "木の近くにピクニックエリアが設けられている。",
+            "ipa": "/ˈpɪkˌnɪk ˈɛriə/",
+            "audio": "media/words/ep41/picnic-area.mp3",
+            "ex_audio": "media/words/ep41/picnic-area_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set up",
+            "pos": "phr.",
+            "zh": "設置する；準備する",
+            "ex": "Chairs have been set up for the meeting.",
+            "exzh": "会議のために椅子が並べられている。",
+            "ipa": "/sɛt ʌp/",
+            "audio": "media/words/ep41/set-up.mp3",
+            "ex_audio": "media/words/ep41/set-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "picnic basket",
+            "pos": "n.",
+            "zh": "ピクニックバスケット",
+            "ex": "A picnic basket has been left on a bench.",
+            "exzh": "ピクニックバスケットがベンチに置いたままになっている。",
+            "ipa": "/ˈpɪkˌnɪk ˈbæskət/",
+            "audio": "media/words/ep41/picnic-basket.mp3",
+            "ex_audio": "media/words/ep41/picnic-basket_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bench",
+            "pos": "n.",
+            "zh": "ベンチ；長いす",
+            "ex": "There is a bench along the walkway.",
+            "exzh": "歩道沿いにベンチがある。",
+            "ipa": "/bɛntʃ/",
+            "audio": "media/words/ep41/bench.mp3",
+            "ex_audio": "media/words/ep41/bench_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tent",
+            "pos": "n.",
+            "zh": "テント",
+            "ex": "A tent is sheltering a picnic area.",
+            "exzh": "テントがピクニックエリアを覆っている。",
+            "ipa": "/tɛnt/",
+            "audio": "media/words/ep41/tent.mp3",
+            "ex_audio": "media/words/ep41/tent_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shelter",
+            "pos": "v./n.",
+            "zh": "覆う；守る；避難所",
+            "ex": "The trees shelter the tables from the sun.",
+            "exzh": "木がテーブルを日差しから守っている。",
+            "ipa": "/ˈʃɛltɚ/",
+            "audio": "media/words/ep41/shelter.mp3",
+            "ex_audio": "media/words/ep41/shelter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cooking grill",
+            "pos": "n.",
+            "zh": "バーベキューグリル；焼き網",
+            "ex": "There's a cooking grill next to a fence.",
+            "exzh": "フェンスの横にバーベキューグリルがある。",
+            "ipa": "/ˈkʊkɪŋ ɡrɪl/",
+            "audio": "media/words/ep41/cooking-grill.mp3",
+            "ex_audio": "media/words/ep41/cooking-grill_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "door to",
+            "pos": "phr.",
+            "zh": "…へのドア；…のドア",
+            "ex": "The door to the office is locked.",
+            "exzh": "事務所のドアに鍵がかかっている。",
+            "ipa": "/dɔr tu/",
+            "audio": "media/words/ep41/door-to.mp3",
+            "ex_audio": "media/words/ep41/door-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "left open",
+            "pos": "phr.",
+            "zh": "開けたままにされた",
+            "ex": "The door to a building has been left open.",
+            "exzh": "建物のドアが開けたままになっている。",
+            "ipa": "/lɛft ˈoʊpən/",
+            "audio": "media/words/ep41/left-open.mp3",
+            "ex_audio": "media/words/ep41/left-open_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set in a line",
+            "pos": "phr.",
+            "zh": "一列に並べる",
+            "ex": "Some chairs have been set in a line.",
+            "exzh": "椅子が一列に並べられている。",
+            "ipa": "/sɛt ɪn ə laɪn/",
+            "audio": "media/words/ep41/set-in-a-line.mp3",
+            "ex_audio": "media/words/ep41/set-in-a-line_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "plastic bin",
+            "pos": "n.",
+            "zh": "プラスチックの容器；プラスチックのたらい",
+            "ex": "A plastic bin is on top of a work area.",
+            "exzh": "プラスチックの容器が作業場の上にある。",
+            "ipa": "/ˈplæstɪk bɪn/",
+            "audio": "media/words/ep41/plastic-bin.mp3",
+            "ex_audio": "media/words/ep41/plastic-bin_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on top of",
+            "pos": "phr.",
+            "zh": "…の上に",
+            "ex": "The keys are on top of the desk.",
+            "exzh": "鍵は机の上にある。",
+            "ipa": "/ɑn tɑp əv/",
+            "audio": "media/words/ep41/on-top-of.mp3",
+            "ex_audio": "media/words/ep41/on-top-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "work area",
+            "pos": "n.",
+            "zh": "作業場；作業スペース",
+            "ex": "Please keep the work area clean.",
+            "exzh": "作業場をきれいにしておいてください。",
+            "ipa": "/wɝk ˈɛriə/",
+            "audio": "media/words/ep41/work-area.mp3",
+            "ex_audio": "media/words/ep41/work-area_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attached to",
+            "pos": "phr.",
+            "zh": "…に取り付けられた；…に付いた",
+            "ex": "Some tools are attached to a wall.",
+            "exzh": "工具が壁に取り付けられている。",
+            "ipa": "/əˈtætʃt tu/",
+            "audio": "media/words/ep41/attached-to.mp3",
+            "ex_audio": "media/words/ep41/attached-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "line",
+            "pos": "v./n.",
+            "zh": "…に沿って並ぶ；列",
+            "ex": "Some trees line a pedestrian walkway.",
+            "exzh": "木が歩行者用の通路に沿って並んでいる。",
+            "ipa": "/laɪn/",
+            "audio": "media/words/ep41/line.mp3",
+            "ex_audio": "media/words/ep41/line_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "pedestrian",
+            "pos": "n./adj.",
+            "zh": "歩行者；歩行者用の",
+            "ex": "Pedestrians should use the crosswalk.",
+            "exzh": "歩行者は横断歩道を使うべきだ。",
+            "ipa": "/pəˈdɛstriən/",
+            "audio": "media/words/ep41/pedestrian.mp3",
+            "ex_audio": "media/words/ep41/pedestrian_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "walkway",
+            "pos": "n.",
+            "zh": "歩道；通路",
+            "ex": "The walkway is lined with trees.",
+            "exzh": "歩道に沿って木が並んでいる。",
+            "ipa": "/ˈwɔˌkweɪ/",
+            "audio": "media/words/ep41/walkway.mp3",
+            "ex_audio": "media/words/ep41/walkway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prune",
+            "pos": "v.",
+            "zh": "（枝を）剪定する",
+            "ex": "Some workers are pruning trees.",
+            "exzh": "作業員が木を剪定している。",
+            "ipa": "/prun/",
+            "audio": "media/words/ep41/prune.mp3",
+            "ex_audio": "media/words/ep41/prune_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ride a bike",
+            "pos": "phr.",
+            "zh": "自転車に乗る",
+            "ex": "A person is riding a bike down a street.",
+            "exzh": "人が自転車で通りを進んでいる。",
+            "ipa": "/raɪd ə baɪk/",
+            "audio": "media/words/ep41/ride-a-bike.mp3",
+            "ex_audio": "media/words/ep41/ride-a-bike_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "water fountain",
+            "pos": "n.",
+            "zh": "噴水；水飲み場",
+            "ex": "There's a water fountain in a courtyard.",
+            "exzh": "中庭に噴水がある。",
+            "ipa": "/ˈwɔtɚ ˈfaʊntən/",
+            "audio": "media/words/ep41/water-fountain.mp3",
+            "ex_audio": "media/words/ep41/water-fountain_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "courtyard",
+            "pos": "n.",
+            "zh": "中庭",
+            "ex": "The hotel has a quiet courtyard.",
+            "exzh": "そのホテルには静かな中庭がある。",
+            "ipa": "/ˈkɔrtˌjɑrd/",
+            "audio": "media/words/ep41/courtyard.mp3",
+            "ex_audio": "media/words/ep41/courtyard_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "committee",
+            "pos": "n.",
+            "zh": "委員会",
+            "ex": "She is a member of the Employee Wellness Committee.",
+            "exzh": "彼女は社員健康委員会のメンバーだ。",
+            "ipa": "/kəˈmɪti/",
+            "audio": "media/words/ep41/committee.mp3",
+            "ex_audio": "media/words/ep41/committee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "update",
+            "pos": "n./v.",
+            "zh": "最新情報；更新する",
+            "ex": "He sent an update on committee activities.",
+            "exzh": "彼は委員会の活動の最新情報を送った。",
+            "ipa": "/əpˈdeɪt/",
+            "audio": "media/words/ep41/update.mp3",
+            "ex_audio": "media/words/ep41/update_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be unable to",
+            "pos": "phr.",
+            "zh": "…できない",
+            "ex": "You were unable to attend the last meeting.",
+            "exzh": "あなたは前回の会議に出席できなかった。",
+            "ipa": "/bi əˈneɪbəl tu/",
+            "audio": "media/words/ep41/be-unable-to.mp3",
+            "ex_audio": "media/words/ep41/be-unable-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be scheduled to",
+            "pos": "phr.",
+            "zh": "…する予定になっている",
+            "ex": "What is scheduled to take place on October 16?",
+            "exzh": "10月16日に何が予定されているか。",
+            "ipa": "/bi ˈskɛdʒʊld tu/",
+            "audio": "media/words/ep41/be-scheduled-to.mp3",
+            "ex_audio": "media/words/ep41/be-scheduled-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "exercise",
+            "pos": "n./v.",
+            "zh": "運動；運動する；練習",
+            "ex": "Walking is good exercise.",
+            "exzh": "ウォーキングはよい運動だ。",
+            "ipa": "/ˈɛksɚˌsaɪz/",
+            "audio": "media/words/ep41/exercise.mp3",
+            "ex_audio": "media/words/ep41/exercise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sign up",
+            "pos": "phr.",
+            "zh": "申し込む；登録する",
+            "ex": "32 employees have already signed up.",
+            "exzh": "すでに社員32人が登録した。",
+            "ipa": "/saɪn ʌp/",
+            "audio": "media/words/ep41/sign-up.mp3",
+            "ex_audio": "media/words/ep41/sign-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cookbook",
+            "pos": "n.",
+            "zh": "料理の本；レシピ集",
+            "ex": "The committee decided to create a cookbook.",
+            "exzh": "委員会はレシピ集を作ることに決めた。",
+            "ipa": "/ˈkʊkˌbʊk/",
+            "audio": "media/words/ep41/cookbook.mp3",
+            "ex_audio": "media/words/ep41/cookbook_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recipe",
+            "pos": "n.",
+            "zh": "レシピ；調理法；秘訣",
+            "ex": "Employees submitted healthy recipes.",
+            "exzh": "社員が健康的なレシピを提出した。",
+            "ipa": "/ˈrɛsəpi/",
+            "audio": "media/words/ep41/recipe.mp3",
+            "ex_audio": "media/words/ep41/recipe_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "alternatively",
+            "pos": "adv.",
+            "zh": "あるいは；代わりに",
+            "ex": "Alternatively, we could print the recipes as a book.",
+            "exzh": "あるいは、レシピを本として印刷することもできる。",
+            "ipa": "/ɔlˈtɝnətɪvli/",
+            "audio": "media/words/ep41/alternatively.mp3",
+            "ex_audio": "media/words/ep41/alternatively_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bound",
+            "pos": "v.",
+            "zh": "製本された（bind の過去分詞）",
+            "ex": "The recipes were printed and bound as a book.",
+            "exzh": "レシピは印刷・製本されて本になった。",
+            "ipa": "/baʊnd/",
+            "audio": "media/words/ep41/bound.mp3",
+            "ex_audio": "media/words/ep41/bound_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fund-raiser",
+            "pos": "n.",
+            "zh": "募金活動；資金集めのイベント",
+            "ex": "We could sell the book as a fund-raiser.",
+            "exzh": "その本を募金活動として販売することもできる。",
+            "ipa": "/ˈfʌnˌdreɪzɚ/",
+            "audio": "media/words/ep41/fund-raiser.mp3",
+            "ex_audio": "media/words/ep41/fund-raiser_ex.mp3",
+            "highlight": true,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep41_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 1 物と風景の写真（has been と is being）",
+    "words": [
+      {
+        "word": "potted plant",
+        "pos": "n.",
+        "zh": "盆栽；盆栽植物",
+        "ex": "A potted plant has been set on the floor.",
+        "exzh": "一盆盆栽被放在了地上。",
+        "ipa": "/ˈpɑtɪd plænt/",
+        "audio": "media/words/ep41/potted-plant.mp3",
+        "ex_audio": "media/words/ep41/potted-plant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set",
+        "pos": "v.",
+        "zh": "放置；摆放（过去分词 set）",
+        "ex": "The vase has been set on the table.",
+        "exzh": "花瓶被放在了桌子上。",
+        "ipa": "/sɛt/",
+        "audio": "media/words/ep41/set.mp3",
+        "ex_audio": "media/words/ep41/set_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "poster",
+        "pos": "n.",
+        "zh": "海报；招贴",
+        "ex": "Some posters have been hung on the walls.",
+        "exzh": "墙上挂了一些海报。",
+        "ipa": "/ˈpoʊstɚ/",
+        "audio": "media/words/ep41/poster.mp3",
+        "ex_audio": "media/words/ep41/poster_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hung",
+        "pos": "v.",
+        "zh": "挂（hang 的过去式、过去分词）",
+        "ex": "A clock has been hung on the wall.",
+        "exzh": "墙上挂了一个钟。",
+        "ipa": "/hʌŋ/",
+        "audio": "media/words/ep41/hung.mp3",
+        "ex_audio": "media/words/ep41/hung_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "zh": "入口；门口",
+        "ex": "An entrance is blocked by a ladder.",
+        "exzh": "一个入口被梯子挡住了。",
+        "ipa": "/ˈɛntrəns/",
+        "audio": "media/words/ep41/entrance.mp3",
+        "ex_audio": "media/words/ep41/entrance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "block",
+        "pos": "v.",
+        "zh": "挡住；堵住",
+        "ex": "A truck is blocking the road.",
+        "exzh": "一辆卡车挡住了道路。",
+        "ipa": "/blɑk/",
+        "audio": "media/words/ep41/block.mp3",
+        "ex_audio": "media/words/ep41/block_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ladder",
+        "pos": "n.",
+        "zh": "梯子",
+        "ex": "A ladder is leaning against the wall.",
+        "exzh": "一把梯子靠在墙上。",
+        "ipa": "/ˈlædɚ/",
+        "audio": "media/words/ep41/ladder.mp3",
+        "ex_audio": "media/words/ep41/ladder_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "elevator",
+        "pos": "n.",
+        "zh": "电梯",
+        "ex": "Some elevator doors are open.",
+        "exzh": "一些电梯门是开着的。",
+        "ipa": "/ˈɛləˌveɪtɚ/",
+        "audio": "media/words/ep41/elevator.mp3",
+        "ex_audio": "media/words/ep41/elevator_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "board",
+        "pos": "n.",
+        "zh": "木板；板子",
+        "ex": "Wooden boards are piled on the ground.",
+        "exzh": "木板堆在地上。",
+        "ipa": "/bɔrd/",
+        "audio": "media/words/ep41/board.mp3",
+        "ex_audio": "media/words/ep41/board_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prop up",
+        "pos": "phr.",
+        "zh": "支撑；把……靠着放",
+        "ex": "Wooden boards have been propped up against a fence.",
+        "exzh": "木板被靠在了栅栏上。",
+        "ipa": "/prɑp ʌp/",
+        "audio": "media/words/ep41/prop-up.mp3",
+        "ex_audio": "media/words/ep41/prop-up_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "fence",
+        "pos": "n.",
+        "zh": "栅栏；围栏",
+        "ex": "There is a fence around the garden.",
+        "exzh": "花园四周有一圈栅栏。",
+        "ipa": "/fɛns/",
+        "audio": "media/words/ep41/fence.mp3",
+        "ex_audio": "media/words/ep41/fence_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stack",
+        "pos": "v./n.",
+        "zh": "堆叠；摞起来；一摞",
+        "ex": "Baskets have been stacked on a wooden crate.",
+        "exzh": "篮子被摞在一个木箱上。",
+        "ipa": "/stæk/",
+        "audio": "media/words/ep41/stack.mp3",
+        "ex_audio": "media/words/ep41/stack_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "crate",
+        "pos": "n.",
+        "zh": "板条箱；木箱",
+        "ex": "The apples were packed in a wooden crate.",
+        "exzh": "苹果装在一个木箱里。",
+        "ipa": "/kreɪt/",
+        "audio": "media/words/ep41/crate.mp3",
+        "ex_audio": "media/words/ep41/crate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "repot",
+        "pos": "v.",
+        "zh": "换盆；移栽到新花盆",
+        "ex": "Flowers are being repotted.",
+        "exzh": "花正在被换盆。",
+        "ipa": "",
+        "audio": "media/words/ep41/repot.mp3",
+        "ex_audio": "media/words/ep41/repot_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "umbrella",
+        "pos": "n.",
+        "zh": "伞；遮阳伞",
+        "ex": "An umbrella is being closed.",
+        "exzh": "一把伞正在被收起来。",
+        "ipa": "/əmˈbrɛlə/",
+        "audio": "media/words/ep41/umbrella.mp3",
+        "ex_audio": "media/words/ep41/umbrella_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tool",
+        "pos": "n.",
+        "zh": "工具；用具",
+        "ex": "Tools have been hung from a shelving unit.",
+        "exzh": "工具被挂在了一个货架上。",
+        "ipa": "/tul/",
+        "audio": "media/words/ep41/tool.mp3",
+        "ex_audio": "media/words/ep41/tool_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shelving unit",
+        "pos": "n.",
+        "zh": "一组货架；置物架",
+        "ex": "The shelving unit is full of boxes.",
+        "exzh": "货架上堆满了箱子。",
+        "ipa": "/ˈʃɛlvɪŋ ˈjunət/",
+        "audio": "media/words/ep41/shelving-unit.mp3",
+        "ex_audio": "media/words/ep41/shelving-unit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "warehouse",
+        "pos": "n.",
+        "zh": "仓库",
+        "ex": "A ladder has been left in the corner of a warehouse.",
+        "exzh": "一把梯子被留在了仓库的角落里。",
+        "ipa": "/ˈwɛrˌhaʊs/",
+        "audio": "media/words/ep41/warehouse.mp3",
+        "ex_audio": "media/words/ep41/warehouse_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "corner",
+        "pos": "n.",
+        "zh": "角落；拐角",
+        "ex": "A plant is in the corner of the room.",
+        "exzh": "房间的角落里有一盆植物。",
+        "ipa": "/ˈkɔrnɚ/",
+        "audio": "media/words/ep41/corner.mp3",
+        "ex_audio": "media/words/ep41/corner_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "product",
+        "pos": "n.",
+        "zh": "产品；商品",
+        "ex": "Products have been stocked on shelves.",
+        "exzh": "商品已经被摆上了货架。",
+        "ipa": "/ˈprɑdəkt/",
+        "audio": "media/words/ep41/product.mp3",
+        "ex_audio": "media/words/ep41/product_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stock",
+        "pos": "v./n.",
+        "zh": "进货；上架；库存",
+        "ex": "The store stocks fresh vegetables.",
+        "exzh": "这家店有新鲜蔬菜出售。",
+        "ipa": "/stɑk/",
+        "audio": "media/words/ep41/stock.mp3",
+        "ex_audio": "media/words/ep41/stock_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "load",
+        "pos": "v./n.",
+        "zh": "装载；装上；负荷",
+        "ex": "Some boxes have been loaded onto a conveyor belt.",
+        "exzh": "一些箱子被装上了传送带。",
+        "ipa": "/loʊd/",
+        "audio": "media/words/ep41/load.mp3",
+        "ex_audio": "media/words/ep41/load_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "conveyor belt",
+        "pos": "n.",
+        "zh": "传送带",
+        "ex": "Packages are moving along a conveyor belt.",
+        "exzh": "包裹在传送带上移动。",
+        "ipa": "/kənˈveɪɚ bɛlt/",
+        "audio": "media/words/ep41/conveyor-belt.mp3",
+        "ex_audio": "media/words/ep41/conveyor-belt_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pathway",
+        "pos": "n.",
+        "zh": "小路；通道",
+        "ex": "A stone pathway leads to a lake.",
+        "exzh": "一条石头小路通向一个湖。",
+        "ipa": "/ˈpæˌθweɪ/",
+        "audio": "media/words/ep41/pathway.mp3",
+        "ex_audio": "media/words/ep41/pathway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lead to",
+        "pos": "phr.",
+        "zh": "通向；通往；导致",
+        "ex": "This road leads to the station.",
+        "exzh": "这条路通往车站。",
+        "ipa": "/lɛd tu/",
+        "audio": "media/words/ep41/lead-to.mp3",
+        "ex_audio": "media/words/ep41/lead-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "structure",
+        "pos": "n.",
+        "zh": "建筑物；结构",
+        "ex": "A wooden structure has been built outdoors.",
+        "exzh": "户外建了一座木头建筑。",
+        "ipa": "/ˈstrʌktʃɚ/",
+        "audio": "media/words/ep41/structure.mp3",
+        "ex_audio": "media/words/ep41/structure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "outdoors",
+        "pos": "adv.",
+        "zh": "在户外；在露天",
+        "ex": "The concert will be held outdoors.",
+        "exzh": "音乐会将在户外举行。",
+        "ipa": "/ˈaʊtˈdɔrz/",
+        "audio": "media/words/ep41/outdoors.mp3",
+        "ex_audio": "media/words/ep41/outdoors_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "nature trail",
+        "pos": "n.",
+        "zh": "自然步道",
+        "ex": "We walked along a nature trail in the park.",
+        "exzh": "我们沿着公园里的自然步道散步。",
+        "ipa": "/ˈneɪtʃɚ treɪl/",
+        "audio": "media/words/ep41/nature-trail.mp3",
+        "ex_audio": "media/words/ep41/nature-trail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "clear of",
+        "pos": "phr.",
+        "zh": "把……清除干净（clear A of B）",
+        "ex": "Workers cleared the road of snow.",
+        "exzh": "工人们清除了路上的雪。",
+        "ipa": "/klɪr əv/",
+        "audio": "media/words/ep41/clear-of.mp3",
+        "ex_audio": "media/words/ep41/clear-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "debris",
+        "pos": "n.",
+        "zh": "碎片；杂物；残骸",
+        "ex": "A nature trail is being cleared of debris.",
+        "exzh": "一条自然步道正在被清理杂物。",
+        "ipa": "/dəˈbri/",
+        "audio": "media/words/ep41/debris.mp3",
+        "ex_audio": "media/words/ep41/debris_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "deck",
+        "pos": "n.",
+        "zh": "（木头）平台；露台；甲板",
+        "ex": "An outdoor deck is being repaired.",
+        "exzh": "一个户外平台正在被修理。",
+        "ipa": "/dɛk/",
+        "audio": "media/words/ep41/deck.mp3",
+        "ex_audio": "media/words/ep41/deck_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "repair",
+        "pos": "v./n.",
+        "zh": "修理；维修",
+        "ex": "The roof needs to be repaired.",
+        "exzh": "屋顶需要修理。",
+        "ipa": "/rɪˈpɛr/",
+        "audio": "media/words/ep41/repair.mp3",
+        "ex_audio": "media/words/ep41/repair_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "picnic area",
+        "pos": "n.",
+        "zh": "野餐区",
+        "ex": "A picnic area has been set up near some trees.",
+        "exzh": "树旁边布置了一片野餐区。",
+        "ipa": "/ˈpɪkˌnɪk ˈɛriə/",
+        "audio": "media/words/ep41/picnic-area.mp3",
+        "ex_audio": "media/words/ep41/picnic-area_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set up",
+        "pos": "phr.",
+        "zh": "布置；设置；搭建",
+        "ex": "Chairs have been set up for the meeting.",
+        "exzh": "为会议摆好了椅子。",
+        "ipa": "/sɛt ʌp/",
+        "audio": "media/words/ep41/set-up.mp3",
+        "ex_audio": "media/words/ep41/set-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "picnic basket",
+        "pos": "n.",
+        "zh": "野餐篮",
+        "ex": "A picnic basket has been left on a bench.",
+        "exzh": "一个野餐篮被留在了长椅上。",
+        "ipa": "/ˈpɪkˌnɪk ˈbæskət/",
+        "audio": "media/words/ep41/picnic-basket.mp3",
+        "ex_audio": "media/words/ep41/picnic-basket_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bench",
+        "pos": "n.",
+        "zh": "长椅；长凳",
+        "ex": "There is a bench along the walkway.",
+        "exzh": "步行道边有一张长椅。",
+        "ipa": "/bɛntʃ/",
+        "audio": "media/words/ep41/bench.mp3",
+        "ex_audio": "media/words/ep41/bench_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tent",
+        "pos": "n.",
+        "zh": "帐篷",
+        "ex": "A tent is sheltering a picnic area.",
+        "exzh": "一顶帐篷正在为野餐区遮挡。",
+        "ipa": "/tɛnt/",
+        "audio": "media/words/ep41/tent.mp3",
+        "ex_audio": "media/words/ep41/tent_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shelter",
+        "pos": "v./n.",
+        "zh": "遮蔽；保护；避难所",
+        "ex": "The trees shelter the tables from the sun.",
+        "exzh": "大树为桌子挡住了阳光。",
+        "ipa": "/ˈʃɛltɚ/",
+        "audio": "media/words/ep41/shelter.mp3",
+        "ex_audio": "media/words/ep41/shelter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cooking grill",
+        "pos": "n.",
+        "zh": "烤架；烧烤炉",
+        "ex": "There's a cooking grill next to a fence.",
+        "exzh": "栅栏旁边有一个烤架。",
+        "ipa": "/ˈkʊkɪŋ ɡrɪl/",
+        "audio": "media/words/ep41/cooking-grill.mp3",
+        "ex_audio": "media/words/ep41/cooking-grill_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "door to",
+        "pos": "phr.",
+        "zh": "通往……的门；……的门",
+        "ex": "The door to the office is locked.",
+        "exzh": "办公室的门锁着。",
+        "ipa": "/dɔr tu/",
+        "audio": "media/words/ep41/door-to.mp3",
+        "ex_audio": "media/words/ep41/door-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "left open",
+        "pos": "phr.",
+        "zh": "被开着没关",
+        "ex": "The door to a building has been left open.",
+        "exzh": "大楼的门一直开着。",
+        "ipa": "/lɛft ˈoʊpən/",
+        "audio": "media/words/ep41/left-open.mp3",
+        "ex_audio": "media/words/ep41/left-open_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set in a line",
+        "pos": "phr.",
+        "zh": "摆成一排",
+        "ex": "Some chairs have been set in a line.",
+        "exzh": "一些椅子被摆成了一排。",
+        "ipa": "/sɛt ɪn ə laɪn/",
+        "audio": "media/words/ep41/set-in-a-line.mp3",
+        "ex_audio": "media/words/ep41/set-in-a-line_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "plastic bin",
+        "pos": "n.",
+        "zh": "塑料盆；塑料箱",
+        "ex": "A plastic bin is on top of a work area.",
+        "exzh": "一个塑料盆放在工作区的上面。",
+        "ipa": "/ˈplæstɪk bɪn/",
+        "audio": "media/words/ep41/plastic-bin.mp3",
+        "ex_audio": "media/words/ep41/plastic-bin_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on top of",
+        "pos": "phr.",
+        "zh": "在……的上面",
+        "ex": "The keys are on top of the desk.",
+        "exzh": "钥匙在桌子上面。",
+        "ipa": "/ɑn tɑp əv/",
+        "audio": "media/words/ep41/on-top-of.mp3",
+        "ex_audio": "media/words/ep41/on-top-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "work area",
+        "pos": "n.",
+        "zh": "工作区；工作台",
+        "ex": "Please keep the work area clean.",
+        "exzh": "请保持工作区整洁。",
+        "ipa": "/wɝk ˈɛriə/",
+        "audio": "media/words/ep41/work-area.mp3",
+        "ex_audio": "media/words/ep41/work-area_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attached to",
+        "pos": "phr.",
+        "zh": "附在……上；固定在……上",
+        "ex": "Some tools are attached to a wall.",
+        "exzh": "一些工具被固定在墙上。",
+        "ipa": "/əˈtætʃt tu/",
+        "audio": "media/words/ep41/attached-to.mp3",
+        "ex_audio": "media/words/ep41/attached-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "line",
+        "pos": "v./n.",
+        "zh": "沿着……排列；一排；一行",
+        "ex": "Some trees line a pedestrian walkway.",
+        "exzh": "树木排列在步行道的两旁。",
+        "ipa": "/laɪn/",
+        "audio": "media/words/ep41/line.mp3",
+        "ex_audio": "media/words/ep41/line_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "pedestrian",
+        "pos": "n./adj.",
+        "zh": "行人；步行的",
+        "ex": "Pedestrians should use the crosswalk.",
+        "exzh": "行人应该走人行横道。",
+        "ipa": "/pəˈdɛstriən/",
+        "audio": "media/words/ep41/pedestrian.mp3",
+        "ex_audio": "media/words/ep41/pedestrian_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "walkway",
+        "pos": "n.",
+        "zh": "步行道；人行通道",
+        "ex": "The walkway is lined with trees.",
+        "exzh": "步行道两旁种着树。",
+        "ipa": "/ˈwɔˌkweɪ/",
+        "audio": "media/words/ep41/walkway.mp3",
+        "ex_audio": "media/words/ep41/walkway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prune",
+        "pos": "v.",
+        "zh": "修剪（树枝）",
+        "ex": "Some workers are pruning trees.",
+        "exzh": "一些工人正在修剪树木。",
+        "ipa": "/prun/",
+        "audio": "media/words/ep41/prune.mp3",
+        "ex_audio": "media/words/ep41/prune_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ride a bike",
+        "pos": "phr.",
+        "zh": "骑自行车",
+        "ex": "A person is riding a bike down a street.",
+        "exzh": "一个人正沿着街道骑自行车。",
+        "ipa": "/raɪd ə baɪk/",
+        "audio": "media/words/ep41/ride-a-bike.mp3",
+        "ex_audio": "media/words/ep41/ride-a-bike_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "water fountain",
+        "pos": "n.",
+        "zh": "喷泉；饮水器",
+        "ex": "There's a water fountain in a courtyard.",
+        "exzh": "庭院里有一个喷泉。",
+        "ipa": "/ˈwɔtɚ ˈfaʊntən/",
+        "audio": "media/words/ep41/water-fountain.mp3",
+        "ex_audio": "media/words/ep41/water-fountain_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "courtyard",
+        "pos": "n.",
+        "zh": "庭院；院子",
+        "ex": "The hotel has a quiet courtyard.",
+        "exzh": "这家酒店有一个安静的庭院。",
+        "ipa": "/ˈkɔrtˌjɑrd/",
+        "audio": "media/words/ep41/courtyard.mp3",
+        "ex_audio": "media/words/ep41/courtyard_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "committee",
+        "pos": "n.",
+        "zh": "委员会",
+        "ex": "She is a member of the Employee Wellness Committee.",
+        "exzh": "她是员工健康委员会的成员。",
+        "ipa": "/kəˈmɪti/",
+        "audio": "media/words/ep41/committee.mp3",
+        "ex_audio": "media/words/ep41/committee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "update",
+        "pos": "n./v.",
+        "zh": "最新情况；更新",
+        "ex": "He sent an update on committee activities.",
+        "exzh": "他发来了委员会活动的最新情况。",
+        "ipa": "/əpˈdeɪt/",
+        "audio": "media/words/ep41/update.mp3",
+        "ex_audio": "media/words/ep41/update_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be unable to",
+        "pos": "phr.",
+        "zh": "没能；无法",
+        "ex": "You were unable to attend the last meeting.",
+        "exzh": "你没能参加上次的会议。",
+        "ipa": "/bi əˈneɪbəl tu/",
+        "audio": "media/words/ep41/be-unable-to.mp3",
+        "ex_audio": "media/words/ep41/be-unable-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be scheduled to",
+        "pos": "phr.",
+        "zh": "预定要；安排在",
+        "ex": "What is scheduled to take place on October 16?",
+        "exzh": "10 月 16 日安排了什么？",
+        "ipa": "/bi ˈskɛdʒʊld tu/",
+        "audio": "media/words/ep41/be-scheduled-to.mp3",
+        "ex_audio": "media/words/ep41/be-scheduled-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "exercise",
+        "pos": "n./v.",
+        "zh": "运动；锻炼；练习",
+        "ex": "Walking is good exercise.",
+        "exzh": "走路是很好的运动。",
+        "ipa": "/ˈɛksɚˌsaɪz/",
+        "audio": "media/words/ep41/exercise.mp3",
+        "ex_audio": "media/words/ep41/exercise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sign up",
+        "pos": "phr.",
+        "zh": "报名；登记",
+        "ex": "32 employees have already signed up.",
+        "exzh": "已经有三十二名员工报名了。",
+        "ipa": "/saɪn ʌp/",
+        "audio": "media/words/ep41/sign-up.mp3",
+        "ex_audio": "media/words/ep41/sign-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cookbook",
+        "pos": "n.",
+        "zh": "食谱书；烹饪书",
+        "ex": "The committee decided to create a cookbook.",
+        "exzh": "委员会决定做一本食谱书。",
+        "ipa": "/ˈkʊkˌbʊk/",
+        "audio": "media/words/ep41/cookbook.mp3",
+        "ex_audio": "media/words/ep41/cookbook_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recipe",
+        "pos": "n.",
+        "zh": "食谱；菜谱；秘诀",
+        "ex": "Employees submitted healthy recipes.",
+        "exzh": "员工们提交了健康食谱。",
+        "ipa": "/ˈrɛsəpi/",
+        "audio": "media/words/ep41/recipe.mp3",
+        "ex_audio": "media/words/ep41/recipe_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "alternatively",
+        "pos": "adv.",
+        "zh": "或者；另一种办法是",
+        "ex": "Alternatively, we could print the recipes as a book.",
+        "exzh": "或者，我们也可以把食谱印成一本书。",
+        "ipa": "/ɔlˈtɝnətɪvli/",
+        "audio": "media/words/ep41/alternatively.mp3",
+        "ex_audio": "media/words/ep41/alternatively_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bound",
+        "pos": "v.",
+        "zh": "装订（bind 的过去分词）",
+        "ex": "The recipes were printed and bound as a book.",
+        "exzh": "食谱被印刷装订成了一本书。",
+        "ipa": "/baʊnd/",
+        "audio": "media/words/ep41/bound.mp3",
+        "ex_audio": "media/words/ep41/bound_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fund-raiser",
+        "pos": "n.",
+        "zh": "募捐活动；筹款活动",
+        "ex": "We could sell the book as a fund-raiser.",
+        "exzh": "我们可以把这本书作为募捐活动来卖。",
+        "ipa": "/ˈfʌnˌdreɪzɚ/",
+        "audio": "media/words/ep41/fund-raiser.mp3",
+        "ex_audio": "media/words/ep41/fund-raiser_ex.mp3",
+        "highlight": true,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 40,
     "theme": "题型精讲 · Part 2 剩下的 WH 疑问句（Part 2 总收尾）",
     "date": "2026-10-22",
