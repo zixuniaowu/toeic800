@@ -1,5 +1,1794 @@
 [
   {
+    "number": 42,
+    "theme": "题型精讲 · Part 3/4 主题与目的题",
+    "date": "2026-10-24",
+    "duration_sec": 3302.0,
+    "segments": [
+      {
+        "title": "1. Part 3/4 主题与目的题真题（三套卷 5 组 · 逐句精听）",
+        "start": 0.0,
+        "length": 1954.15
+      },
+      {
+        "title": "2. Part 7 演出延期邮件（配套精练）",
+        "start": 1954.15,
+        "length": 275.28
+      },
+      {
+        "title": "3. 本期 57 词总复习 · 拼读",
+        "start": 2229.44,
+        "length": 1072.54
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "drop off",
+        "zh": "送到；放下；归还"
+      },
+      {
+        "word": "on back order",
+        "zh": "缺货；等待补货"
+      },
+      {
+        "word": "shipment",
+        "zh": "发货；运送的货物"
+      },
+      {
+        "word": "initiative",
+        "zh": "举措；新计划；主动性"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "be supposed to",
+        "zh": "本来应该；按规定要"
+      },
+      {
+        "word": "drop off",
+        "zh": "送到；放下；归还"
+      },
+      {
+        "word": "notify",
+        "zh": "通知；告知"
+      },
+      {
+        "word": "branch",
+        "zh": "分店；分公司；树枝"
+      },
+      {
+        "word": "be aware that",
+        "zh": "注意到；要知道"
+      },
+      {
+        "word": "make sure to",
+        "zh": "务必；一定要"
+      },
+      {
+        "word": "late fee",
+        "zh": "滞纳金；逾期费"
+      },
+      {
+        "word": "warn",
+        "zh": "警告；提醒"
+      },
+      {
+        "word": "business hours",
+        "zh": "营业时间"
+      },
+      {
+        "word": "reception area",
+        "zh": "接待区；前台区域"
+      },
+      {
+        "word": "appointment",
+        "zh": "预约；约会"
+      },
+      {
+        "word": "be scheduled for",
+        "zh": "安排在；预定在"
+      },
+      {
+        "word": "I'd hate to",
+        "zh": "我很不愿意；真不想"
+      },
+      {
+        "word": "rearrange",
+        "zh": "重新安排；调整"
+      },
+      {
+        "word": "announce",
+        "zh": "宣布；通报"
+      },
+      {
+        "word": "misunderstanding",
+        "zh": "误会；误解"
+      },
+      {
+        "word": "beverage",
+        "zh": "饮料"
+      },
+      {
+        "word": "place an order",
+        "zh": "下订单；订购"
+      },
+      {
+        "word": "on back order",
+        "zh": "缺货；等待补货"
+      },
+      {
+        "word": "ship",
+        "zh": "发货；运送"
+      },
+      {
+        "word": "construction",
+        "zh": "施工；建造；建设"
+      },
+      {
+        "word": "carry",
+        "zh": "；商店；有货；出售；搬运"
+      },
+      {
+        "word": "manufacturer",
+        "zh": "制造商；厂商"
+      },
+      {
+        "word": "make up for",
+        "zh": "弥补；补偿"
+      },
+      {
+        "word": "inconvenience",
+        "zh": "不便；麻烦"
+      },
+      {
+        "word": "in person",
+        "zh": "亲自；本人到场"
+      },
+      {
+        "word": "stop by",
+        "zh": "顺路去一下；顺便拜访"
+      },
+      {
+        "word": "shipment",
+        "zh": "发货；运送的货物"
+      },
+      {
+        "word": "invoice",
+        "zh": "发票；账单"
+      },
+      {
+        "word": "substitute",
+        "zh": "替代品；替代的；代替"
+      },
+      {
+        "word": "approval",
+        "zh": "批准；同意"
+      },
+      {
+        "word": "break ground",
+        "zh": "破土动工；开工"
+      },
+      {
+        "word": "appreciate",
+        "zh": "感谢；重视"
+      },
+      {
+        "word": "building materials",
+        "zh": "建筑材料"
+      },
+      {
+        "word": "go up",
+        "zh": "上涨；上升"
+      },
+      {
+        "word": "in that case",
+        "zh": "既然这样；那样的话"
+      },
+      {
+        "word": "survey",
+        "zh": "调查；问卷"
+      },
+      {
+        "word": "assumption",
+        "zh": "推测；假设"
+      },
+      {
+        "word": "proposal",
+        "zh": "提案；建议书"
+      },
+      {
+        "word": "staff meeting",
+        "zh": "员工会议"
+      },
+      {
+        "word": "sustainability",
+        "zh": "可持续性；可持续发展"
+      },
+      {
+        "word": "take seriously",
+        "zh": "认真对待；重视"
+      },
+      {
+        "word": "charging station",
+        "zh": "充电桩；充电站"
+      },
+      {
+        "word": "corporate campus",
+        "zh": "公司园区"
+      },
+      {
+        "word": "amenity",
+        "zh": "便利设施；生活设施"
+      },
+      {
+        "word": "promote",
+        "zh": "推广；促进；晋升"
+      },
+      {
+        "word": "newsletter",
+        "zh": "通讯；简报"
+      },
+      {
+        "word": "initiative",
+        "zh": "举措；新计划；主动性"
+      },
+      {
+        "word": "recommendation",
+        "zh": "建议；推荐"
+      },
+      {
+        "word": "regret to inform",
+        "zh": "遗憾地通知"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "procedure",
+        "zh": "程序；流程；手续"
+      },
+      {
+        "word": "patron",
+        "zh": "顾客；常客；赞助人"
+      },
+      {
+        "word": "advise",
+        "zh": "建议；劝告；通知"
+      },
+      {
+        "word": "retain",
+        "zh": "保留；保持"
+      },
+      {
+        "word": "box office",
+        "zh": "售票处"
+      },
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep42.mp4",
+    "script_pdf": "media/ep42_script.pdf",
+    "source_video": "ep42.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep42.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep42.mp4",
+        "script_pdf": "media/ep42_script.pdf",
+        "duration_sec": 3302.0,
+        "theme": "题型精讲 · Part 3/4 主题与目的题",
+        "segments": [
+          {
+            "title": "1. Part 3/4 主题与目的题真题（三套卷 5 组 · 逐句精听）",
+            "start": 0.0,
+            "length": 1954.15
+          },
+          {
+            "title": "2. Part 7 演出延期邮件（配套精练）",
+            "start": 1954.15,
+            "length": 275.28
+          },
+          {
+            "title": "3. 本期 57 词总复习 · 拼读",
+            "start": 2229.44,
+            "length": 1072.54
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep42ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep42ja.mp4",
+        "script_pdf": "media/ep42ja_script.pdf",
+        "duration_sec": 3909.9,
+        "theme": "問題タイプ別精講 · Part 3/4 話題・目的を問う問題",
+        "segments": [
+          {
+            "title": "1. Part 3/4 話題・目的の問題（本番 5セット · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 2444.78
+          },
+          {
+            "title": "2. Part 7 公演延期のメール（関連演習）",
+            "start": 2444.78,
+            "length": 327.82
+          },
+          {
+            "title": "3. 今回の 57 語総復習 · スペル",
+            "start": 2772.6,
+            "length": 1137.32
+          }
+        ],
+        "poster": "media/ep42ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "drop off",
+            "zh": "届ける；置いていく；返却する"
+          },
+          {
+            "word": "on back order",
+            "zh": "入荷待ちで；取り寄せ中で"
+          },
+          {
+            "word": "shipment",
+            "zh": "発送；積み荷"
+          },
+          {
+            "word": "initiative",
+            "zh": "取り組み；新しい計画；主体性"
+          },
+          {
+            "word": "postpone",
+            "zh": "延期する"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "be supposed to",
+          "drop off",
+          "notify",
+          "branch",
+          "be aware that",
+          "make sure to",
+          "late fee",
+          "warn",
+          "business hours",
+          "reception area",
+          "appointment",
+          "be scheduled for",
+          "I'd hate to",
+          "rearrange",
+          "announce",
+          "misunderstanding",
+          "beverage",
+          "place an order",
+          "on back order",
+          "ship",
+          "construction",
+          "carry",
+          "manufacturer",
+          "make up for",
+          "inconvenience",
+          "in person",
+          "stop by",
+          "shipment",
+          "invoice",
+          "substitute",
+          "approval",
+          "break ground",
+          "appreciate",
+          "building materials",
+          "go up",
+          "in that case",
+          "survey",
+          "assumption",
+          "proposal",
+          "staff meeting",
+          "sustainability",
+          "take seriously",
+          "charging station",
+          "corporate campus",
+          "amenity",
+          "promote",
+          "newsletter",
+          "initiative",
+          "recommendation",
+          "regret to inform",
+          "postpone",
+          "procedure",
+          "patron",
+          "advise",
+          "retain",
+          "box office",
+          "reschedule"
+        ],
+        "words": [
+          {
+            "word": "be supposed to",
+            "pos": "phr.",
+            "zh": "…することになっている",
+            "ex": "I'm supposed to return the car on Sunday.",
+            "exzh": "日曜日に車を返すことになっている。",
+            "ipa": "/bi səˈpoʊzd tu/",
+            "audio": "media/words/ep42/be-supposed-to.mp3",
+            "ex_audio": "media/words/ep42/be-supposed-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "drop off",
+            "pos": "phr.",
+            "zh": "届ける；置いていく；返却する",
+            "ex": "Could I drop the car off in Oakland instead?",
+            "exzh": "代わりに Oakland で車を返却できますか。",
+            "ipa": "/drɑp ɔf/",
+            "audio": "media/words/ep42/drop-off.mp3",
+            "ex_audio": "media/words/ep42/drop-off_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "notify",
+            "pos": "v.",
+            "zh": "知らせる；通知する",
+            "ex": "I can notify our Oakland branch.",
+            "exzh": "Oakland 支店に知らせておきます。",
+            "ipa": "/ˈnoʊtəˌfaɪ/",
+            "audio": "media/words/ep42/notify.mp3",
+            "ex_audio": "media/words/ep42/notify_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "branch",
+            "pos": "n.",
+            "zh": "支店；支社；枝",
+            "ex": "The bank has a branch near the station.",
+            "exzh": "その銀行は駅の近くに支店がある。",
+            "ipa": "/bræntʃ/",
+            "audio": "media/words/ep42/branch.mp3",
+            "ex_audio": "media/words/ep42/branch_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be aware that",
+            "pos": "phr.",
+            "zh": "…に注意する；…を承知する",
+            "ex": "Please be aware that the office closes early on Sundays.",
+            "exzh": "営業所は日曜日は早く閉まりますのでご注意ください。",
+            "ipa": "/bi əˈwɛr ðæt/",
+            "audio": "media/words/ep42/be-aware-that.mp3",
+            "ex_audio": "media/words/ep42/be-aware-that_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "make sure to",
+            "pos": "phr.",
+            "zh": "必ず…する",
+            "ex": "I'll make sure to note that on my calendar.",
+            "exzh": "必ずカレンダーにメモしておきます。",
+            "ipa": "/meɪk ʃʊr tu/",
+            "audio": "media/words/ep42/make-sure-to.mp3",
+            "ex_audio": "media/words/ep42/make-sure-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "late fee",
+            "pos": "n.",
+            "zh": "延滞料",
+            "ex": "I don't want to pay any late fees.",
+            "exzh": "延滞料は払いたくない。",
+            "ipa": "/leɪt fi/",
+            "audio": "media/words/ep42/late-fee.mp3",
+            "ex_audio": "media/words/ep42/late-fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "warn",
+            "pos": "v.",
+            "zh": "警告する；注意する",
+            "ex": "The woman warns the man about business hours.",
+            "exzh": "女性は男性に営業時間について注意する。",
+            "ipa": "/wɔrn/",
+            "audio": "media/words/ep42/warn.mp3",
+            "ex_audio": "media/words/ep42/warn_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "business hours",
+            "pos": "n.",
+            "zh": "営業時間",
+            "ex": "Our business hours are nine to five.",
+            "exzh": "当店の営業時間は9時から5時です。",
+            "ipa": "/ˈbɪznəs ˈaʊɚz/",
+            "audio": "media/words/ep42/business-hours.mp3",
+            "ex_audio": "media/words/ep42/business-hours_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reception area",
+            "pos": "n.",
+            "zh": "受付エリア",
+            "ex": "He is waiting in the reception area.",
+            "exzh": "彼は受付エリアで待っている。",
+            "ipa": "/rɪˈsɛpʃən ˈɛriə/",
+            "audio": "media/words/ep42/reception-area.mp3",
+            "ex_audio": "media/words/ep42/reception-area_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appointment",
+            "pos": "n.",
+            "zh": "（面会の）約束；予約",
+            "ex": "He has an appointment with you at ten A.M.",
+            "exzh": "彼は午前10時にあなたと約束がある。",
+            "ipa": "/əˈpɔɪntmənt/",
+            "audio": "media/words/ep42/appointment.mp3",
+            "ex_audio": "media/words/ep42/appointment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be scheduled for",
+            "pos": "phr.",
+            "zh": "…に予定されている",
+            "ex": "That meeting is scheduled for tomorrow.",
+            "exzh": "その面会は明日の予定だ。",
+            "ipa": "/bi ˈskɛdʒʊld fɔr/",
+            "audio": "media/words/ep42/be-scheduled-for.mp3",
+            "ex_audio": "media/words/ep42/be-scheduled-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "I'd hate to",
+            "pos": "phr.",
+            "zh": "…するのは気が進まない；…したくない",
+            "ex": "I'd hate to waste his time.",
+            "exzh": "彼の時間を無駄にさせたくない。",
+            "ipa": "/aɪd heɪt tu/",
+            "audio": "media/words/ep42/i-d-hate-to.mp3",
+            "ex_audio": "media/words/ep42/i-d-hate-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rearrange",
+            "pos": "v.",
+            "zh": "組み替える；再調整する",
+            "ex": "I can rearrange my calendar.",
+            "exzh": "予定を組み替えられる。",
+            "ipa": "/ˌriɚˈeɪndʒ/",
+            "audio": "media/words/ep42/rearrange.mp3",
+            "ex_audio": "media/words/ep42/rearrange_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "announce",
+            "pos": "v.",
+            "zh": "知らせる；発表する",
+            "ex": "The man is calling to announce a visitor.",
+            "exzh": "男性は来客を知らせるために電話している。",
+            "ipa": "/əˈnaʊns/",
+            "audio": "media/words/ep42/announce.mp3",
+            "ex_audio": "media/words/ep42/announce_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "misunderstanding",
+            "pos": "n.",
+            "zh": "誤解；行き違い",
+            "ex": "There has been a misunderstanding.",
+            "exzh": "行き違いがあった。",
+            "ipa": "/ˌmɪsəndɚˈstændɪŋ/",
+            "audio": "media/words/ep42/misunderstanding.mp3",
+            "ex_audio": "media/words/ep42/misunderstanding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "beverage",
+            "pos": "n.",
+            "zh": "飲み物；飲料",
+            "ex": "He will offer the visitor a beverage.",
+            "exzh": "彼は来客に飲み物を勧めるだろう。",
+            "ipa": "/ˈbɛvɚɪdʒ/",
+            "audio": "media/words/ep42/beverage.mp3",
+            "ex_audio": "media/words/ep42/beverage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "place an order",
+            "pos": "phr.",
+            "zh": "注文する",
+            "ex": "I'm calling about the order you placed.",
+            "exzh": "ご注文の件でお電話しています。",
+            "ipa": "/pleɪs æn ˈɔrdɚ/",
+            "audio": "media/words/ep42/place-an-order.mp3",
+            "ex_audio": "media/words/ep42/place-an-order_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on back order",
+            "pos": "phr.",
+            "zh": "入荷待ちで；取り寄せ中で",
+            "ex": "The tile is on back order.",
+            "exzh": "そのタイルは入荷待ちだ。",
+            "ipa": "/ɑn bæk ˈɔrdɚ/",
+            "audio": "media/words/ep42/on-back-order.mp3",
+            "ex_audio": "media/words/ep42/on-back-order_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "ship",
+            "pos": "v.",
+            "zh": "発送する；出荷する",
+            "ex": "We won't be able to ship your tile for two months.",
+            "exzh": "2か月はタイルを発送できない。",
+            "ipa": "/ʃɪp/",
+            "audio": "media/words/ep42/ship.mp3",
+            "ex_audio": "media/words/ep42/ship_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "construction",
+            "pos": "n.",
+            "zh": "工事；建設",
+            "ex": "Construction starts in a week.",
+            "exzh": "工事は1週間後に始まる。",
+            "ipa": "/kənˈstrʌkʃən/",
+            "audio": "media/words/ep42/construction.mp3",
+            "ex_audio": "media/words/ep42/construction_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "carry",
+            "pos": "v.",
+            "zh": "（店が）扱う；置いている；運ぶ",
+            "ex": "We carry a very similar tile.",
+            "exzh": "当店ではとてもよく似たタイルを扱っている。",
+            "ipa": "/ˈkæri/",
+            "audio": "media/words/ep42/carry.mp3",
+            "ex_audio": "media/words/ep42/carry_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "manufacturer",
+            "pos": "n.",
+            "zh": "メーカー；製造業者",
+            "ex": "It is made by another manufacturer.",
+            "exzh": "それは別のメーカーが作っている。",
+            "ipa": "/ˌmænjəˈfæktʃɚɚ/",
+            "audio": "media/words/ep42/manufacturer.mp3",
+            "ex_audio": "media/words/ep42/manufacturer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "make up for",
+            "pos": "phr.",
+            "zh": "埋め合わせをする；償う",
+            "ex": "I can give it to you for the same price to make up for the inconvenience.",
+            "exzh": "ご迷惑のおわびに同じ価格でご提供できる。",
+            "ipa": "/meɪk ʌp fɔr/",
+            "audio": "media/words/ep42/make-up-for.mp3",
+            "ex_audio": "media/words/ep42/make-up-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inconvenience",
+            "pos": "n.",
+            "zh": "不便；迷惑",
+            "ex": "We apologize for any inconvenience.",
+            "exzh": "ご不便をおかけして申し訳ありません。",
+            "ipa": "/ˌɪnkənˈvinjəns/",
+            "audio": "media/words/ep42/inconvenience.mp3",
+            "ex_audio": "media/words/ep42/inconvenience_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in person",
+            "pos": "phr.",
+            "zh": "直接；本人が",
+            "ex": "I have to see the tile in person.",
+            "exzh": "タイルを実際に見なければならない。",
+            "ipa": "/ɪn ˈpɝsən/",
+            "audio": "media/words/ep42/in-person.mp3",
+            "ex_audio": "media/words/ep42/in-person_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stop by",
+            "pos": "phr.",
+            "zh": "立ち寄る",
+            "ex": "I could stop by tomorrow evening.",
+            "exzh": "明日の夜に寄れる。",
+            "ipa": "/stɑp baɪ/",
+            "audio": "media/words/ep42/stop-by.mp3",
+            "ex_audio": "media/words/ep42/stop-by_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shipment",
+            "pos": "n.",
+            "zh": "発送；積み荷",
+            "ex": "The conversation is about a delayed shipment.",
+            "exzh": "会話は発送の遅れについてだ。",
+            "ipa": "/ˈʃɪpmənt/",
+            "audio": "media/words/ep42/shipment.mp3",
+            "ex_audio": "media/words/ep42/shipment_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "invoice",
+            "pos": "n.",
+            "zh": "請求書；送り状",
+            "ex": "Please send us the invoice by Friday.",
+            "exzh": "金曜日までに請求書を送ってください。",
+            "ipa": "/ˈɪnvɔɪs/",
+            "audio": "media/words/ep42/invoice.mp3",
+            "ex_audio": "media/words/ep42/invoice_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "substitute",
+            "pos": "n./adj./v.",
+            "zh": "代わりのもの；代用の；代わりに使う",
+            "ex": "The man offers a substitute item.",
+            "exzh": "男性は代わりの品を提案する。",
+            "ipa": "/ˈsʌbstəˌtut/",
+            "audio": "media/words/ep42/substitute.mp3",
+            "ex_audio": "media/words/ep42/substitute_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "approval",
+            "pos": "n.",
+            "zh": "承認；許可",
+            "ex": "I need your approval.",
+            "exzh": "あなたの承認が必要だ。",
+            "ipa": "/əˈpruvəl/",
+            "audio": "media/words/ep42/approval.mp3",
+            "ex_audio": "media/words/ep42/approval_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "break ground",
+            "pos": "phr.",
+            "zh": "着工する",
+            "ex": "We're hoping to break ground at the end of the year.",
+            "exzh": "年末に着工したいと思っている。",
+            "ipa": "/breɪk ɡraʊnd/",
+            "audio": "media/words/ep42/break-ground.mp3",
+            "ex_audio": "media/words/ep42/break-ground_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appreciate",
+            "pos": "v.",
+            "zh": "感謝する；ありがたく思う",
+            "ex": "I appreciate your team's fast work.",
+            "exzh": "チームの早い仕事に感謝している。",
+            "ipa": "/əˈpriʃiˌeɪt/",
+            "audio": "media/words/ep42/appreciate.mp3",
+            "ex_audio": "media/words/ep42/appreciate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "building materials",
+            "pos": "n.",
+            "zh": "建築資材",
+            "ex": "The price of building materials has gone up.",
+            "exzh": "建築資材の値段が上がった。",
+            "ipa": "/ˈbɪldɪŋ məˈtɪriəlz/",
+            "audio": "media/words/ep42/building-materials.mp3",
+            "ex_audio": "media/words/ep42/building-materials_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go up",
+            "pos": "phr.",
+            "zh": "上がる；上昇する",
+            "ex": "Prices have gone up this year.",
+            "exzh": "今年は物価が上がった。",
+            "ipa": "/ɡoʊ ʌp/",
+            "audio": "media/words/ep42/go-up.mp3",
+            "ex_audio": "media/words/ep42/go-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in that case",
+            "pos": "phr.",
+            "zh": "それなら；その場合は",
+            "ex": "In that case, I'll need some time to think.",
+            "exzh": "それなら、考える時間が必要だ。",
+            "ipa": "/ɪn ðæt keɪs/",
+            "audio": "media/words/ep42/in-that-case.mp3",
+            "ex_audio": "media/words/ep42/in-that-case_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "survey",
+            "pos": "n./v.",
+            "zh": "調査；アンケート",
+            "ex": "Please fill out the employee survey.",
+            "exzh": "社員アンケートに記入してください。",
+            "ipa": "/sɚˈveɪ/",
+            "audio": "media/words/ep42/survey.mp3",
+            "ex_audio": "media/words/ep42/survey_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assumption",
+            "pos": "n.",
+            "zh": "思い込み；仮定",
+            "ex": "The man is correcting an assumption.",
+            "exzh": "男性は思い込みを訂正している。",
+            "ipa": "/əˈsʌmpʃən/",
+            "audio": "media/words/ep42/assumption.mp3",
+            "ex_audio": "media/words/ep42/assumption_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "proposal",
+            "pos": "n.",
+            "zh": "提案；提案書",
+            "ex": "The proposal has many pages.",
+            "exzh": "その提案書はページ数が多い。",
+            "ipa": "/prəˈpoʊzəl/",
+            "audio": "media/words/ep42/proposal.mp3",
+            "ex_audio": "media/words/ep42/proposal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "staff meeting",
+            "pos": "n.",
+            "zh": "社員会議；職員会議",
+            "ex": "Before we get our staff meeting started, I have news.",
+            "exzh": "社員会議を始める前にお知らせがある。",
+            "ipa": "/stæf ˈmitɪŋ/",
+            "audio": "media/words/ep42/staff-meeting.mp3",
+            "ex_audio": "media/words/ep42/staff-meeting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sustainability",
+            "pos": "n.",
+            "zh": "持続可能性",
+            "ex": "Our company takes environmental sustainability seriously.",
+            "exzh": "当社は環境の持続可能性を真剣に考えている。",
+            "ipa": "/səˌsteɪnəˈbɪlɪti/",
+            "audio": "media/words/ep42/sustainability.mp3",
+            "ex_audio": "media/words/ep42/sustainability_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take seriously",
+            "pos": "phr.",
+            "zh": "真剣に考える；重視する",
+            "ex": "We take customer feedback seriously.",
+            "exzh": "当社はお客様の声を真剣に受け止めている。",
+            "ipa": "/teɪk ˈsɪriəsli/",
+            "audio": "media/words/ep42/take-seriously.mp3",
+            "ex_audio": "media/words/ep42/take-seriously_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "charging station",
+            "pos": "n.",
+            "zh": "充電スタンド",
+            "ex": "There are eight new charging stations.",
+            "exzh": "新しい充電スタンドが8台ある。",
+            "ipa": "/ˈtʃɑrdʒɪŋ ˈsteɪʃən/",
+            "audio": "media/words/ep42/charging-station.mp3",
+            "ex_audio": "media/words/ep42/charging-station_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "corporate campus",
+            "pos": "n.",
+            "zh": "会社の敷地；本社キャンパス",
+            "ex": "The charging area is on our corporate campus.",
+            "exzh": "充電エリアは会社の敷地内にある。",
+            "ipa": "/ˈkɔrpɚət ˈkæmpəs/",
+            "audio": "media/words/ep42/corporate-campus.mp3",
+            "ex_audio": "media/words/ep42/corporate-campus_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "amenity",
+            "pos": "n.",
+            "zh": "便利な設備；アメニティ",
+            "ex": "Employees can use this amenity during the workday.",
+            "exzh": "社員は勤務中にこの設備を使える。",
+            "ipa": "/əˈmɛnəti/",
+            "audio": "media/words/ep42/amenity.mp3",
+            "ex_audio": "media/words/ep42/amenity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "promote",
+            "pos": "v.",
+            "zh": "推進する；宣伝する；昇進させる",
+            "ex": "How can we further promote environmental practices?",
+            "exzh": "環境への取り組みをどうさらに進められるか。",
+            "ipa": "/prəˈmoʊt/",
+            "audio": "media/words/ep42/promote.mp3",
+            "ex_audio": "media/words/ep42/promote_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "newsletter",
+            "pos": "n.",
+            "zh": "社内報；会報",
+            "ex": "The link is in our company newsletter.",
+            "exzh": "リンクは社内報にある。",
+            "ipa": "/ˈnuzˌlɛtɚ/",
+            "audio": "media/words/ep42/newsletter.mp3",
+            "ex_audio": "media/words/ep42/newsletter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "initiative",
+            "pos": "n.",
+            "zh": "取り組み；新しい計画；主体性",
+            "ex": "The talk is about a sustainability initiative.",
+            "exzh": "トークは持続可能性への取り組みについてだ。",
+            "ipa": "/ˌɪˈnɪʃətɪv/",
+            "audio": "media/words/ep42/initiative.mp3",
+            "ex_audio": "media/words/ep42/initiative_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "recommendation",
+            "pos": "n.",
+            "zh": "提案；推薦",
+            "ex": "How can listeners submit recommendations?",
+            "exzh": "聞き手はどうやって提案を出せるか。",
+            "ipa": "/ˌrɛkəmənˈdeɪʃən/",
+            "audio": "media/words/ep42/recommendation.mp3",
+            "ex_audio": "media/words/ep42/recommendation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regret to inform",
+            "pos": "phr.",
+            "zh": "残念ながらお知らせする",
+            "ex": "We regret to inform you that the performance has been postponed.",
+            "exzh": "残念ながら、公演が延期になったことをお知らせします。",
+            "ipa": "/rəˈɡrɛt tu ˌɪnˈfɔrm/",
+            "audio": "media/words/ep42/regret-to-inform.mp3",
+            "ex_audio": "media/words/ep42/regret-to-inform_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する",
+            "ex": "Tomorrow's performance has been postponed.",
+            "exzh": "明日の公演は延期された。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep42/postpone.mp3",
+            "ex_audio": "media/words/ep42/postpone_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "procedure",
+            "pos": "n.",
+            "zh": "手順；手続き",
+            "ex": "There is a new procedure for purchasing tickets.",
+            "exzh": "チケット購入の新しい手順がある。",
+            "ipa": "/prəˈsidʒɚ/",
+            "audio": "media/words/ep42/procedure.mp3",
+            "ex_audio": "media/words/ep42/procedure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "patron",
+            "pos": "n.",
+            "zh": "客；ひいき客；後援者",
+            "ex": "The theater offered patrons discounted tickets.",
+            "exzh": "劇場は客に割引チケットを提供した。",
+            "ipa": "/ˈpeɪtrən/",
+            "audio": "media/words/ep42/patron.mp3",
+            "ex_audio": "media/words/ep42/patron_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "advise",
+            "pos": "v.",
+            "zh": "勧める；助言する",
+            "ex": "Ticket holders are advised to save their tickets.",
+            "exzh": "チケットをお持ちの方はチケットを保管するよう勧められている。",
+            "ipa": "/ædˈvaɪz/",
+            "audio": "media/words/ep42/advise.mp3",
+            "ex_audio": "media/words/ep42/advise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retain",
+            "pos": "v.",
+            "zh": "保持する；取っておく",
+            "ex": "Please retain your tickets.",
+            "exzh": "チケットを保管しておいてください。",
+            "ipa": "/rɪˈteɪn/",
+            "audio": "media/words/ep42/retain.mp3",
+            "ex_audio": "media/words/ep42/retain_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "box office",
+            "pos": "n.",
+            "zh": "チケット売り場",
+            "ex": "Contact the box office at 555-0112.",
+            "exzh": "555-0112 でチケット売り場に連絡してください。",
+            "ipa": "/bɑks ˈɔfɪs/",
+            "audio": "media/words/ep42/box-office.mp3",
+            "ex_audio": "media/words/ep42/box-office_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reschedule",
+            "pos": "v.",
+            "zh": "日程を変更する",
+            "ex": "We are working to reschedule the performance.",
+            "exzh": "公演の日程を組み直しているところだ。",
+            "ipa": "/riˈskɛdʒul/",
+            "audio": "media/words/ep42/reschedule.mp3",
+            "ex_audio": "media/words/ep42/reschedule_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep42_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 3/4 話題・目的を問う問題",
+    "words": [
+      {
+        "word": "be supposed to",
+        "pos": "phr.",
+        "zh": "本来应该；按规定要",
+        "ex": "I'm supposed to return the car on Sunday.",
+        "exzh": "我本来应该周日还车。",
+        "ipa": "/bi səˈpoʊzd tu/",
+        "audio": "media/words/ep42/be-supposed-to.mp3",
+        "ex_audio": "media/words/ep42/be-supposed-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "drop off",
+        "pos": "phr.",
+        "zh": "送到；放下；归还",
+        "ex": "Could I drop the car off in Oakland instead?",
+        "exzh": "我能改在奥克兰还车吗？",
+        "ipa": "/drɑp ɔf/",
+        "audio": "media/words/ep42/drop-off.mp3",
+        "ex_audio": "media/words/ep42/drop-off_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "notify",
+        "pos": "v.",
+        "zh": "通知；告知",
+        "ex": "I can notify our Oakland branch.",
+        "exzh": "我可以通知我们的奥克兰分店。",
+        "ipa": "/ˈnoʊtəˌfaɪ/",
+        "audio": "media/words/ep42/notify.mp3",
+        "ex_audio": "media/words/ep42/notify_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "branch",
+        "pos": "n.",
+        "zh": "分店；分公司；树枝",
+        "ex": "The bank has a branch near the station.",
+        "exzh": "这家银行在车站附近有一家分行。",
+        "ipa": "/bræntʃ/",
+        "audio": "media/words/ep42/branch.mp3",
+        "ex_audio": "media/words/ep42/branch_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be aware that",
+        "pos": "phr.",
+        "zh": "注意到；要知道",
+        "ex": "Please be aware that the office closes early on Sundays.",
+        "exzh": "请注意，营业所周日提早关门。",
+        "ipa": "/bi əˈwɛr ðæt/",
+        "audio": "media/words/ep42/be-aware-that.mp3",
+        "ex_audio": "media/words/ep42/be-aware-that_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "make sure to",
+        "pos": "phr.",
+        "zh": "务必；一定要",
+        "ex": "I'll make sure to note that on my calendar.",
+        "exzh": "我一定把这个记在日历上。",
+        "ipa": "/meɪk ʃʊr tu/",
+        "audio": "media/words/ep42/make-sure-to.mp3",
+        "ex_audio": "media/words/ep42/make-sure-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "late fee",
+        "pos": "n.",
+        "zh": "滞纳金；逾期费",
+        "ex": "I don't want to pay any late fees.",
+        "exzh": "我不想付滞纳金。",
+        "ipa": "/leɪt fi/",
+        "audio": "media/words/ep42/late-fee.mp3",
+        "ex_audio": "media/words/ep42/late-fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "warn",
+        "pos": "v.",
+        "zh": "警告；提醒",
+        "ex": "The woman warns the man about business hours.",
+        "exzh": "女子提醒男子注意营业时间。",
+        "ipa": "/wɔrn/",
+        "audio": "media/words/ep42/warn.mp3",
+        "ex_audio": "media/words/ep42/warn_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "business hours",
+        "pos": "n.",
+        "zh": "营业时间",
+        "ex": "Our business hours are nine to five.",
+        "exzh": "我们的营业时间是九点到五点。",
+        "ipa": "/ˈbɪznəs ˈaʊɚz/",
+        "audio": "media/words/ep42/business-hours.mp3",
+        "ex_audio": "media/words/ep42/business-hours_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reception area",
+        "pos": "n.",
+        "zh": "接待区；前台区域",
+        "ex": "He is waiting in the reception area.",
+        "exzh": "他正在接待区等候。",
+        "ipa": "/rɪˈsɛpʃən ˈɛriə/",
+        "audio": "media/words/ep42/reception-area.mp3",
+        "ex_audio": "media/words/ep42/reception-area_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appointment",
+        "pos": "n.",
+        "zh": "预约；约会",
+        "ex": "He has an appointment with you at ten A.M.",
+        "exzh": "他和您约了上午十点。",
+        "ipa": "/əˈpɔɪntmənt/",
+        "audio": "media/words/ep42/appointment.mp3",
+        "ex_audio": "media/words/ep42/appointment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be scheduled for",
+        "pos": "phr.",
+        "zh": "安排在；预定在",
+        "ex": "That meeting is scheduled for tomorrow.",
+        "exzh": "那次会面安排在明天。",
+        "ipa": "/bi ˈskɛdʒʊld fɔr/",
+        "audio": "media/words/ep42/be-scheduled-for.mp3",
+        "ex_audio": "media/words/ep42/be-scheduled-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "I'd hate to",
+        "pos": "phr.",
+        "zh": "我很不愿意；真不想",
+        "ex": "I'd hate to waste his time.",
+        "exzh": "我不想浪费他的时间。",
+        "ipa": "/aɪd heɪt tu/",
+        "audio": "media/words/ep42/i-d-hate-to.mp3",
+        "ex_audio": "media/words/ep42/i-d-hate-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rearrange",
+        "pos": "v.",
+        "zh": "重新安排；调整",
+        "ex": "I can rearrange my calendar.",
+        "exzh": "我可以调整我的日程。",
+        "ipa": "/ˌriɚˈeɪndʒ/",
+        "audio": "media/words/ep42/rearrange.mp3",
+        "ex_audio": "media/words/ep42/rearrange_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "announce",
+        "pos": "v.",
+        "zh": "宣布；通报",
+        "ex": "The man is calling to announce a visitor.",
+        "exzh": "男子打电话是来通报有访客。",
+        "ipa": "/əˈnaʊns/",
+        "audio": "media/words/ep42/announce.mp3",
+        "ex_audio": "media/words/ep42/announce_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "misunderstanding",
+        "pos": "n.",
+        "zh": "误会；误解",
+        "ex": "There has been a misunderstanding.",
+        "exzh": "这中间有误会。",
+        "ipa": "/ˌmɪsəndɚˈstændɪŋ/",
+        "audio": "media/words/ep42/misunderstanding.mp3",
+        "ex_audio": "media/words/ep42/misunderstanding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "beverage",
+        "pos": "n.",
+        "zh": "饮料",
+        "ex": "He will offer the visitor a beverage.",
+        "exzh": "他会给客人提供饮料。",
+        "ipa": "/ˈbɛvɚɪdʒ/",
+        "audio": "media/words/ep42/beverage.mp3",
+        "ex_audio": "media/words/ep42/beverage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "place an order",
+        "pos": "phr.",
+        "zh": "下订单；订购",
+        "ex": "I'm calling about the order you placed.",
+        "exzh": "我打电话是关于您下的订单。",
+        "ipa": "/pleɪs æn ˈɔrdɚ/",
+        "audio": "media/words/ep42/place-an-order.mp3",
+        "ex_audio": "media/words/ep42/place-an-order_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on back order",
+        "pos": "phr.",
+        "zh": "缺货；等待补货",
+        "ex": "The tile is on back order.",
+        "exzh": "这款瓷砖缺货了。",
+        "ipa": "/ɑn bæk ˈɔrdɚ/",
+        "audio": "media/words/ep42/on-back-order.mp3",
+        "ex_audio": "media/words/ep42/on-back-order_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "ship",
+        "pos": "v.",
+        "zh": "发货；运送",
+        "ex": "We won't be able to ship your tile for two months.",
+        "exzh": "两个月内我们没法给您发货。",
+        "ipa": "/ʃɪp/",
+        "audio": "media/words/ep42/ship.mp3",
+        "ex_audio": "media/words/ep42/ship_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "construction",
+        "pos": "n.",
+        "zh": "施工；建造；建设",
+        "ex": "Construction starts in a week.",
+        "exzh": "一周后就要开工了。",
+        "ipa": "/kənˈstrʌkʃən/",
+        "audio": "media/words/ep42/construction.mp3",
+        "ex_audio": "media/words/ep42/construction_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "carry",
+        "pos": "v.",
+        "zh": "（商店）有货；出售；搬运",
+        "ex": "We carry a very similar tile.",
+        "exzh": "我们店里有一款非常相似的瓷砖。",
+        "ipa": "/ˈkæri/",
+        "audio": "media/words/ep42/carry.mp3",
+        "ex_audio": "media/words/ep42/carry_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "manufacturer",
+        "pos": "n.",
+        "zh": "制造商；厂商",
+        "ex": "It is made by another manufacturer.",
+        "exzh": "它是另一家厂商生产的。",
+        "ipa": "/ˌmænjəˈfæktʃɚɚ/",
+        "audio": "media/words/ep42/manufacturer.mp3",
+        "ex_audio": "media/words/ep42/manufacturer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "make up for",
+        "pos": "phr.",
+        "zh": "弥补；补偿",
+        "ex": "I can give it to you for the same price to make up for the inconvenience.",
+        "exzh": "为了弥补给您带来的不便，我可以按原价给您。",
+        "ipa": "/meɪk ʌp fɔr/",
+        "audio": "media/words/ep42/make-up-for.mp3",
+        "ex_audio": "media/words/ep42/make-up-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n.",
+        "zh": "不便；麻烦",
+        "ex": "We apologize for any inconvenience.",
+        "exzh": "给您带来不便，我们深表歉意。",
+        "ipa": "/ˌɪnkənˈvinjəns/",
+        "audio": "media/words/ep42/inconvenience.mp3",
+        "ex_audio": "media/words/ep42/inconvenience_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in person",
+        "pos": "phr.",
+        "zh": "亲自；本人到场",
+        "ex": "I have to see the tile in person.",
+        "exzh": "我得亲眼看看这款瓷砖。",
+        "ipa": "/ɪn ˈpɝsən/",
+        "audio": "media/words/ep42/in-person.mp3",
+        "ex_audio": "media/words/ep42/in-person_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stop by",
+        "pos": "phr.",
+        "zh": "顺路去一下；顺便拜访",
+        "ex": "I could stop by tomorrow evening.",
+        "exzh": "我明天晚上可以过去一趟。",
+        "ipa": "/stɑp baɪ/",
+        "audio": "media/words/ep42/stop-by.mp3",
+        "ex_audio": "media/words/ep42/stop-by_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "zh": "发货；运送的货物",
+        "ex": "The conversation is about a delayed shipment.",
+        "exzh": "对话是关于发货延迟的。",
+        "ipa": "/ˈʃɪpmənt/",
+        "audio": "media/words/ep42/shipment.mp3",
+        "ex_audio": "media/words/ep42/shipment_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "zh": "发票；账单",
+        "ex": "Please send us the invoice by Friday.",
+        "exzh": "请在周五前把发票寄给我们。",
+        "ipa": "/ˈɪnvɔɪs/",
+        "audio": "media/words/ep42/invoice.mp3",
+        "ex_audio": "media/words/ep42/invoice_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "substitute",
+        "pos": "n./adj./v.",
+        "zh": "替代品；替代的；代替",
+        "ex": "The man offers a substitute item.",
+        "exzh": "男子提供了一件替代品。",
+        "ipa": "/ˈsʌbstəˌtut/",
+        "audio": "media/words/ep42/substitute.mp3",
+        "ex_audio": "media/words/ep42/substitute_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "approval",
+        "pos": "n.",
+        "zh": "批准；同意",
+        "ex": "I need your approval.",
+        "exzh": "需要您批准。",
+        "ipa": "/əˈpruvəl/",
+        "audio": "media/words/ep42/approval.mp3",
+        "ex_audio": "media/words/ep42/approval_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "break ground",
+        "pos": "phr.",
+        "zh": "破土动工；开工",
+        "ex": "We're hoping to break ground at the end of the year.",
+        "exzh": "我们希望年底动工。",
+        "ipa": "/breɪk ɡraʊnd/",
+        "audio": "media/words/ep42/break-ground.mp3",
+        "ex_audio": "media/words/ep42/break-ground_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appreciate",
+        "pos": "v.",
+        "zh": "感谢；重视",
+        "ex": "I appreciate your team's fast work.",
+        "exzh": "感谢你们组做得这么快。",
+        "ipa": "/əˈpriʃiˌeɪt/",
+        "audio": "media/words/ep42/appreciate.mp3",
+        "ex_audio": "media/words/ep42/appreciate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "building materials",
+        "pos": "n.",
+        "zh": "建筑材料",
+        "ex": "The price of building materials has gone up.",
+        "exzh": "建材涨价了。",
+        "ipa": "/ˈbɪldɪŋ məˈtɪriəlz/",
+        "audio": "media/words/ep42/building-materials.mp3",
+        "ex_audio": "media/words/ep42/building-materials_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go up",
+        "pos": "phr.",
+        "zh": "上涨；上升",
+        "ex": "Prices have gone up this year.",
+        "exzh": "今年物价上涨了。",
+        "ipa": "/ɡoʊ ʌp/",
+        "audio": "media/words/ep42/go-up.mp3",
+        "ex_audio": "media/words/ep42/go-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in that case",
+        "pos": "phr.",
+        "zh": "既然这样；那样的话",
+        "ex": "In that case, I'll need some time to think.",
+        "exzh": "既然这样，我需要时间考虑。",
+        "ipa": "/ɪn ðæt keɪs/",
+        "audio": "media/words/ep42/in-that-case.mp3",
+        "ex_audio": "media/words/ep42/in-that-case_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "survey",
+        "pos": "n./v.",
+        "zh": "调查；问卷",
+        "ex": "Please fill out the employee survey.",
+        "exzh": "请填写员工调查问卷。",
+        "ipa": "/sɚˈveɪ/",
+        "audio": "media/words/ep42/survey.mp3",
+        "ex_audio": "media/words/ep42/survey_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assumption",
+        "pos": "n.",
+        "zh": "推测；假设",
+        "ex": "The man is correcting an assumption.",
+        "exzh": "男子在纠正一个推测。",
+        "ipa": "/əˈsʌmpʃən/",
+        "audio": "media/words/ep42/assumption.mp3",
+        "ex_audio": "media/words/ep42/assumption_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案；建议书",
+        "ex": "The proposal has many pages.",
+        "exzh": "这份提案有很多页。",
+        "ipa": "/prəˈpoʊzəl/",
+        "audio": "media/words/ep42/proposal.mp3",
+        "ex_audio": "media/words/ep42/proposal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "staff meeting",
+        "pos": "n.",
+        "zh": "员工会议",
+        "ex": "Before we get our staff meeting started, I have news.",
+        "exzh": "员工会议开始前，我有个消息。",
+        "ipa": "/stæf ˈmitɪŋ/",
+        "audio": "media/words/ep42/staff-meeting.mp3",
+        "ex_audio": "media/words/ep42/staff-meeting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sustainability",
+        "pos": "n.",
+        "zh": "可持续性；可持续发展",
+        "ex": "Our company takes environmental sustainability seriously.",
+        "exzh": "我们公司很重视环境的可持续发展。",
+        "ipa": "/səˌsteɪnəˈbɪlɪti/",
+        "audio": "media/words/ep42/sustainability.mp3",
+        "ex_audio": "media/words/ep42/sustainability_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take seriously",
+        "pos": "phr.",
+        "zh": "认真对待；重视",
+        "ex": "We take customer feedback seriously.",
+        "exzh": "我们很重视顾客的反馈。",
+        "ipa": "/teɪk ˈsɪriəsli/",
+        "audio": "media/words/ep42/take-seriously.mp3",
+        "ex_audio": "media/words/ep42/take-seriously_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "charging station",
+        "pos": "n.",
+        "zh": "充电桩；充电站",
+        "ex": "There are eight new charging stations.",
+        "exzh": "有八个新充电桩。",
+        "ipa": "/ˈtʃɑrdʒɪŋ ˈsteɪʃən/",
+        "audio": "media/words/ep42/charging-station.mp3",
+        "ex_audio": "media/words/ep42/charging-station_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "corporate campus",
+        "pos": "n.",
+        "zh": "公司园区",
+        "ex": "The charging area is on our corporate campus.",
+        "exzh": "充电区在公司园区里。",
+        "ipa": "/ˈkɔrpɚət ˈkæmpəs/",
+        "audio": "media/words/ep42/corporate-campus.mp3",
+        "ex_audio": "media/words/ep42/corporate-campus_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "amenity",
+        "pos": "n.",
+        "zh": "便利设施；生活设施",
+        "ex": "Employees can use this amenity during the workday.",
+        "exzh": "员工上班时间可以使用这项设施。",
+        "ipa": "/əˈmɛnəti/",
+        "audio": "media/words/ep42/amenity.mp3",
+        "ex_audio": "media/words/ep42/amenity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "promote",
+        "pos": "v.",
+        "zh": "推广；促进；晋升",
+        "ex": "How can we further promote environmental practices?",
+        "exzh": "我们怎样进一步推广环保做法？",
+        "ipa": "/prəˈmoʊt/",
+        "audio": "media/words/ep42/promote.mp3",
+        "ex_audio": "media/words/ep42/promote_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "newsletter",
+        "pos": "n.",
+        "zh": "通讯；简报",
+        "ex": "The link is in our company newsletter.",
+        "exzh": "链接在公司通讯里。",
+        "ipa": "/ˈnuzˌlɛtɚ/",
+        "audio": "media/words/ep42/newsletter.mp3",
+        "ex_audio": "media/words/ep42/newsletter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "initiative",
+        "pos": "n.",
+        "zh": "举措；新计划；主动性",
+        "ex": "The talk is about a sustainability initiative.",
+        "exzh": "这段独白是关于一项可持续发展举措的。",
+        "ipa": "/ˌɪˈnɪʃətɪv/",
+        "audio": "media/words/ep42/initiative.mp3",
+        "ex_audio": "media/words/ep42/initiative_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "recommendation",
+        "pos": "n.",
+        "zh": "建议；推荐",
+        "ex": "How can listeners submit recommendations?",
+        "exzh": "听众怎样提交建议？",
+        "ipa": "/ˌrɛkəmənˈdeɪʃən/",
+        "audio": "media/words/ep42/recommendation.mp3",
+        "ex_audio": "media/words/ep42/recommendation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regret to inform",
+        "pos": "phr.",
+        "zh": "遗憾地通知",
+        "ex": "We regret to inform you that the performance has been postponed.",
+        "exzh": "我们很遗憾地通知您，演出已经延期。",
+        "ipa": "/rəˈɡrɛt tu ˌɪnˈfɔrm/",
+        "audio": "media/words/ep42/regret-to-inform.mp3",
+        "ex_audio": "media/words/ep42/regret-to-inform_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟；延期",
+        "ex": "Tomorrow's performance has been postponed.",
+        "exzh": "明天的演出延期了。",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep42/postpone.mp3",
+        "ex_audio": "media/words/ep42/postpone_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "procedure",
+        "pos": "n.",
+        "zh": "程序；流程；手续",
+        "ex": "There is a new procedure for purchasing tickets.",
+        "exzh": "购票有了新的流程。",
+        "ipa": "/prəˈsidʒɚ/",
+        "audio": "media/words/ep42/procedure.mp3",
+        "ex_audio": "media/words/ep42/procedure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "patron",
+        "pos": "n.",
+        "zh": "顾客；常客；赞助人",
+        "ex": "The theater offered patrons discounted tickets.",
+        "exzh": "剧院给观众提供了打折票。",
+        "ipa": "/ˈpeɪtrən/",
+        "audio": "media/words/ep42/patron.mp3",
+        "ex_audio": "media/words/ep42/patron_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "advise",
+        "pos": "v.",
+        "zh": "建议；劝告；通知",
+        "ex": "Ticket holders are advised to save their tickets.",
+        "exzh": "持票人被建议保留门票。",
+        "ipa": "/ædˈvaɪz/",
+        "audio": "media/words/ep42/advise.mp3",
+        "ex_audio": "media/words/ep42/advise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retain",
+        "pos": "v.",
+        "zh": "保留；保持",
+        "ex": "Please retain your tickets.",
+        "exzh": "请保留好您的门票。",
+        "ipa": "/rɪˈteɪn/",
+        "audio": "media/words/ep42/retain.mp3",
+        "ex_audio": "media/words/ep42/retain_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "box office",
+        "pos": "n.",
+        "zh": "售票处",
+        "ex": "Contact the box office at 555-0112.",
+        "exzh": "请拨打 555-0112 联系售票处。",
+        "ipa": "/bɑks ˈɔfɪs/",
+        "audio": "media/words/ep42/box-office.mp3",
+        "ex_audio": "media/words/ep42/box-office_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "zh": "重新安排时间；改期",
+        "ex": "We are working to reschedule the performance.",
+        "exzh": "我们正在重新安排演出时间。",
+        "ipa": "/riˈskɛdʒul/",
+        "audio": "media/words/ep42/reschedule.mp3",
+        "ex_audio": "media/words/ep42/reschedule_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 41,
     "theme": "题型精讲 · Part 1 物品与风景照片（has been 与 is being）",
     "date": "2026-10-23",
