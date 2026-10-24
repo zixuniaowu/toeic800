@@ -1,5 +1,2026 @@
 [
   {
+    "number": 43,
+    "theme": "题型精讲 · Part 3/4 意图题与“接下来做什么”题",
+    "date": "2026-10-25",
+    "duration_sec": 3802.3,
+    "segments": [
+      {
+        "title": "1. Part 3/4 意图题与“接下来做什么”题真题（三套卷 5 组 · 逐句精听）",
+        "start": 0.0,
+        "length": 2193.82
+      },
+      {
+        "title": "2. Part 7 找擦窗公司聊天（配套精练）",
+        "start": 2193.82,
+        "length": 449.55
+      },
+      {
+        "title": "3. 本期 65 词总复习 · 拼读",
+        "start": 2643.37,
+        "length": 1158.93
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "reassurance",
+        "zh": "安慰；使人放心的话"
+      },
+      {
+        "word": "justify",
+        "zh": "证明……合理；为……辩护"
+      },
+      {
+        "word": "imply",
+        "zh": "暗示；意味着"
+      },
+      {
+        "word": "walk through",
+        "zh": "带……逐步看；逐步讲解"
+      },
+      {
+        "word": "get in touch with",
+        "zh": "与……联系"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "look forward to",
+        "zh": "期待；盼望；后接名词或动名词"
+      },
+      {
+        "word": "outcome",
+        "zh": "结果；成果"
+      },
+      {
+        "word": "outlet",
+        "zh": "商店；门店；电源插座"
+      },
+      {
+        "word": "loyal",
+        "zh": "忠诚的；忠实的"
+      },
+      {
+        "word": "customer base",
+        "zh": "客户群；顾客基础"
+      },
+      {
+        "word": "expand",
+        "zh": "扩大；扩展"
+      },
+      {
+        "word": "appeal to",
+        "zh": "吸引；对有吸引力"
+      },
+      {
+        "word": "segment",
+        "zh": "部分；群体；细分市场"
+      },
+      {
+        "word": "rely on",
+        "zh": "依靠；依赖"
+      },
+      {
+        "word": "attract",
+        "zh": "吸引"
+      },
+      {
+        "word": "reassurance",
+        "zh": "安慰；使人放心的话"
+      },
+      {
+        "word": "object to",
+        "zh": "反对"
+      },
+      {
+        "word": "laboratory",
+        "zh": "实验室；研究所"
+      },
+      {
+        "word": "soil",
+        "zh": "土壤；泥土"
+      },
+      {
+        "word": "consider doing",
+        "zh": "考虑做某事"
+      },
+      {
+        "word": "nutrient",
+        "zh": "营养物质；养分"
+      },
+      {
+        "word": "farmland",
+        "zh": "农田；耕地"
+      },
+      {
+        "word": "workload",
+        "zh": "工作量"
+      },
+      {
+        "word": "turn down",
+        "zh": "拒绝；调低"
+      },
+      {
+        "word": "interview for",
+        "zh": "应聘；参加的面试"
+      },
+      {
+        "word": "retire",
+        "zh": "退休"
+      },
+      {
+        "word": "replacement",
+        "zh": "接替的人；替代品"
+      },
+      {
+        "word": "résumé",
+        "zh": "简历；履历"
+      },
+      {
+        "word": "impressive",
+        "zh": "令人印象深刻的；出色的"
+      },
+      {
+        "word": "recruitment",
+        "zh": "招聘；招募"
+      },
+      {
+        "word": "seek",
+        "zh": "寻求；谋求"
+      },
+      {
+        "word": "walk through",
+        "zh": "带逐步看；逐步讲解"
+      },
+      {
+        "word": "portfolio",
+        "zh": "作品集；；投资；组合"
+      },
+      {
+        "word": "architect",
+        "zh": "建筑师"
+      },
+      {
+        "word": "billboard",
+        "zh": "广告牌"
+      },
+      {
+        "word": "return a call",
+        "zh": "回电话"
+      },
+      {
+        "word": "regarding",
+        "zh": "关于"
+      },
+      {
+        "word": "funding",
+        "zh": "资金；经费"
+      },
+      {
+        "word": "campaign",
+        "zh": "；广告、宣传；活动"
+      },
+      {
+        "word": "necessity",
+        "zh": "必要性；必需品"
+      },
+      {
+        "word": "in particular",
+        "zh": "特别是；尤其"
+      },
+      {
+        "word": "rental fee",
+        "zh": "租金；租赁费"
+      },
+      {
+        "word": "forecast",
+        "zh": "预报；预测"
+      },
+      {
+        "word": "call for",
+        "zh": "；天气；预报会有；需要；要求"
+      },
+      {
+        "word": "send out",
+        "zh": "发出；寄出"
+      },
+      {
+        "word": "charity",
+        "zh": "慈善；慈善机构"
+      },
+      {
+        "word": "justify",
+        "zh": "证明合理；为辩护"
+      },
+      {
+        "word": "acknowledge",
+        "zh": "承认；确认收到"
+      },
+      {
+        "word": "call a meeting",
+        "zh": "召开会议"
+      },
+      {
+        "word": "closure",
+        "zh": "关闭；封闭"
+      },
+      {
+        "word": "representative",
+        "zh": "代表；代理人"
+      },
+      {
+        "word": "pedestrian",
+        "zh": "行人；步行的"
+      },
+      {
+        "word": "district",
+        "zh": "区域；地区"
+      },
+      {
+        "word": "vote on",
+        "zh": "就投票"
+      },
+      {
+        "word": "input",
+        "zh": "意见；建议；输入"
+      },
+      {
+        "word": "go over",
+        "zh": "仔细查看；过一遍"
+      },
+      {
+        "word": "budget figures",
+        "zh": "预算数字"
+      },
+      {
+        "word": "refer to",
+        "zh": "参看；查阅；提到"
+      },
+      {
+        "word": "handout",
+        "zh": "讲义；分发的资料"
+      },
+      {
+        "word": "imply",
+        "zh": "暗示；意味着"
+      },
+      {
+        "word": "rendering",
+        "zh": "效果图；表现；演奏"
+      },
+      {
+        "word": "reliable",
+        "zh": "可靠的；可信赖的"
+      },
+      {
+        "word": "disconnected",
+        "zh": "；电话；停机的；断开的"
+      },
+      {
+        "word": "go out of business",
+        "zh": "倒闭；停业"
+      },
+      {
+        "word": "could use",
+        "zh": "需要；很想要"
+      },
+      {
+        "word": "kick up",
+        "zh": "扬起；激起"
+      },
+      {
+        "word": "disappointed",
+        "zh": "失望的；遗憾的"
+      },
+      {
+        "word": "disclose",
+        "zh": "透露；公开"
+      },
+      {
+        "word": "get in touch with",
+        "zh": "与联系"
+      },
+      {
+        "word": "head of maintenance",
+        "zh": "维修主管；设施管理负责人"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep43.mp4",
+    "script_pdf": "media/ep43_script.pdf",
+    "source_video": "ep43.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep43.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep43.mp4",
+        "script_pdf": "media/ep43_script.pdf",
+        "duration_sec": 3802.3,
+        "theme": "题型精讲 · Part 3/4 意图题与“接下来做什么”题",
+        "segments": [
+          {
+            "title": "1. Part 3/4 意图题与“接下来做什么”题真题（三套卷 5 组 · 逐句精听）",
+            "start": 0.0,
+            "length": 2193.82
+          },
+          {
+            "title": "2. Part 7 找擦窗公司聊天（配套精练）",
+            "start": 2193.82,
+            "length": 449.55
+          },
+          {
+            "title": "3. 本期 65 词总复习 · 拼读",
+            "start": 2643.37,
+            "length": 1158.93
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep43ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep43ja.mp4",
+        "script_pdf": "media/ep43ja_script.pdf",
+        "duration_sec": 4547.0,
+        "theme": "問題タイプ別精講 · Part 3/4 意図問題と「次に何をするか」の問題",
+        "segments": [
+          {
+            "title": "1. Part 3/4 意図問題と「次に何をするか」の問題（本番 5セット · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 2773.76
+          },
+          {
+            "title": "2. Part 7 窓清掃業者探しのチャット（関連演習）",
+            "start": 2773.76,
+            "length": 539.14
+          },
+          {
+            "title": "3. 今回の 65 語総復習 · スペル",
+            "start": 3312.9,
+            "length": 1234.12
+          }
+        ],
+        "poster": "media/ep43ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "reassurance",
+            "zh": "安心させる言葉；安心"
+          },
+          {
+            "word": "justify",
+            "zh": "正当化する；妥当性を示す"
+          },
+          {
+            "word": "imply",
+            "zh": "ほのめかす；暗に示す"
+          },
+          {
+            "word": "walk through",
+            "zh": "順を追って説明する"
+          },
+          {
+            "word": "get in touch with",
+            "zh": "…と連絡を取る"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "look forward to",
+          "outcome",
+          "outlet",
+          "loyal",
+          "customer base",
+          "expand",
+          "appeal to",
+          "segment",
+          "rely on",
+          "attract",
+          "reassurance",
+          "object to",
+          "laboratory",
+          "soil",
+          "consider doing",
+          "nutrient",
+          "farmland",
+          "workload",
+          "turn down",
+          "interview for",
+          "retire",
+          "replacement",
+          "résumé",
+          "impressive",
+          "recruitment",
+          "seek",
+          "walk through",
+          "portfolio",
+          "architect",
+          "billboard",
+          "return a call",
+          "regarding",
+          "funding",
+          "campaign",
+          "necessity",
+          "in particular",
+          "rental fee",
+          "forecast",
+          "call for",
+          "send out",
+          "charity",
+          "justify",
+          "acknowledge",
+          "call a meeting",
+          "closure",
+          "representative",
+          "pedestrian",
+          "district",
+          "vote on",
+          "input",
+          "go over",
+          "budget figures",
+          "refer to",
+          "handout",
+          "imply",
+          "rendering",
+          "reliable",
+          "disconnected",
+          "go out of business",
+          "could use",
+          "kick up",
+          "disappointed",
+          "disclose",
+          "get in touch with",
+          "head of maintenance"
+        ],
+        "words": [
+          {
+            "word": "look forward to",
+            "pos": "phr.",
+            "zh": "…を楽しみにする（後ろは名詞か動名詞）",
+            "ex": "I'm looking forward to helping you improve your company's image.",
+            "exzh": "御社のイメージ向上をお手伝いできるのを楽しみにしています。",
+            "ipa": "/lʊk ˈfɔrwɚd tu/",
+            "audio": "media/words/ep43/look-forward-to.mp3",
+            "ex_audio": "media/words/ep43/look-forward-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "outcome",
+            "pos": "n.",
+            "zh": "結果；成果",
+            "ex": "Let's discuss the outcomes you'd like from this project.",
+            "exzh": "このプロジェクトで望む成果について話しましょう。",
+            "ipa": "/ˈaʊtˌkʌm/",
+            "audio": "media/words/ep43/outcome.mp3",
+            "ex_audio": "media/words/ep43/outcome_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "outlet",
+            "pos": "n.",
+            "zh": "販売店；店舗；コンセント",
+            "ex": "Our shoe outlet has a loyal customer base.",
+            "exzh": "うちの靴店には根強い顧客層がある。",
+            "ipa": "/ˈaʊtˌlɛt/",
+            "audio": "media/words/ep43/outlet.mp3",
+            "ex_audio": "media/words/ep43/outlet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loyal",
+            "pos": "adj.",
+            "zh": "忠実な；ひいきにしている",
+            "ex": "The store has many loyal customers.",
+            "exzh": "その店には常連客が多い。",
+            "ipa": "/ˈlɔɪəl/",
+            "audio": "media/words/ep43/loyal.mp3",
+            "ex_audio": "media/words/ep43/loyal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "customer base",
+            "pos": "n.",
+            "zh": "顧客層；顧客基盤",
+            "ex": "Our customer base hasn't grown much.",
+            "exzh": "うちの顧客層はあまり増えていない。",
+            "ipa": "/ˈkʌstəmɚ beɪs/",
+            "audio": "media/words/ep43/customer-base.mp3",
+            "ex_audio": "media/words/ep43/customer-base_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expand",
+            "pos": "v.",
+            "zh": "広げる；拡大する",
+            "ex": "We would like to expand our customer base.",
+            "exzh": "顧客層を広げたい。",
+            "ipa": "/ɪkˈspænd/",
+            "audio": "media/words/ep43/expand.mp3",
+            "ex_audio": "media/words/ep43/expand_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appeal to",
+            "pos": "phr.",
+            "zh": "…を引きつける；…の心に訴える",
+            "ex": "The new design appeals to younger consumers.",
+            "exzh": "新しいデザインは若い消費者を引きつける。",
+            "ipa": "/əˈpil tu/",
+            "audio": "media/words/ep43/appeal-to.mp3",
+            "ex_audio": "media/words/ep43/appeal-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "segment",
+            "pos": "n.",
+            "zh": "区分；層；部分",
+            "ex": "Reaching this audience segment means relying on social media.",
+            "exzh": "この客層に届くにはソーシャルメディアに頼ることになる。",
+            "ipa": "/ˈsɛɡmənt/",
+            "audio": "media/words/ep43/segment.mp3",
+            "ex_audio": "media/words/ep43/segment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rely on",
+            "pos": "phr.",
+            "zh": "…に頼る；…を当てにする",
+            "ex": "We rely heavily on social media.",
+            "exzh": "私たちはソーシャルメディアに大きく頼っている。",
+            "ipa": "/rɪˈlaɪ ɑn/",
+            "audio": "media/words/ep43/rely-on.mp3",
+            "ex_audio": "media/words/ep43/rely-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attract",
+            "pos": "v.",
+            "zh": "引きつける；呼び込む",
+            "ex": "That's how we'll attract younger customers.",
+            "exzh": "そうやって若い客を引きつける。",
+            "ipa": "/əˈtrækt/",
+            "audio": "media/words/ep43/attract.mp3",
+            "ex_audio": "media/words/ep43/attract_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reassurance",
+            "pos": "n.",
+            "zh": "安心させる言葉；安心",
+            "ex": "The man says it to offer reassurance.",
+            "exzh": "男性は相手を安心させるためにそう言っている。",
+            "ipa": "/ˌriəˈʃʊrəns/",
+            "audio": "media/words/ep43/reassurance.mp3",
+            "ex_audio": "media/words/ep43/reassurance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "object to",
+            "pos": "phr.",
+            "zh": "…に反対する",
+            "ex": "Nobody objected to the proposal.",
+            "exzh": "誰もその提案に反対しなかった。",
+            "ipa": "/ˈɑbdʒɛkt tu/",
+            "audio": "media/words/ep43/object-to.mp3",
+            "ex_audio": "media/words/ep43/object-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "laboratory",
+            "pos": "n.",
+            "zh": "研究所；実験室",
+            "ex": "I'd like your laboratory to do some soil testing.",
+            "exzh": "そちらの研究所に土壌検査をお願いしたい。",
+            "ipa": "/ˈlæbrəˌtɔri/",
+            "audio": "media/words/ep43/laboratory.mp3",
+            "ex_audio": "media/words/ep43/laboratory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "soil",
+            "pos": "n.",
+            "zh": "土；土壌",
+            "ex": "I want to test the soil first.",
+            "exzh": "まず土を調べたい。",
+            "ipa": "/sɔɪl/",
+            "audio": "media/words/ep43/soil.mp3",
+            "ex_audio": "media/words/ep43/soil_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "consider doing",
+            "pos": "phr.",
+            "zh": "…することを検討する",
+            "ex": "I'm considering buying land in Springfield.",
+            "exzh": "Springfield で土地を買うことを考えている。",
+            "ipa": "/kənˈsɪdɚ ˈduɪŋ/",
+            "audio": "media/words/ep43/consider-doing.mp3",
+            "ex_audio": "media/words/ep43/consider-doing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "nutrient",
+            "pos": "n.",
+            "zh": "栄養素；養分",
+            "ex": "We will test the soil for nutrient levels.",
+            "exzh": "土の栄養分の量を調べる。",
+            "ipa": "/ˈnutriənt/",
+            "audio": "media/words/ep43/nutrient.mp3",
+            "ex_audio": "media/words/ep43/nutrient_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "farmland",
+            "pos": "n.",
+            "zh": "農地",
+            "ex": "He is interested in buying farmland there.",
+            "exzh": "彼はそこで農地を買うことに関心がある。",
+            "ipa": "/ˈfɑrmˌlænd/",
+            "audio": "media/words/ep43/farmland.mp3",
+            "ex_audio": "media/words/ep43/farmland_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "workload",
+            "pos": "n.",
+            "zh": "仕事量；作業量",
+            "ex": "She complained about her heavy workload.",
+            "exzh": "彼女は仕事量が多いと不満を言った。",
+            "ipa": "/ˈwɝˌkloʊd/",
+            "audio": "media/words/ep43/workload.mp3",
+            "ex_audio": "media/words/ep43/workload_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "turn down",
+            "pos": "phr.",
+            "zh": "断る；（音量などを）下げる",
+            "ex": "She turned down the invitation.",
+            "exzh": "彼女は招待を断った。",
+            "ipa": "/tɝn daʊn/",
+            "audio": "media/words/ep43/turn-down.mp3",
+            "ex_audio": "media/words/ep43/turn-down_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "interview for",
+            "pos": "phr.",
+            "zh": "…の面接を受ける",
+            "ex": "We're glad you came in to interview for this position.",
+            "exzh": "この職の面接に来ていただいてうれしい。",
+            "ipa": "/ˈɪntɚˌvju fɔr/",
+            "audio": "media/words/ep43/interview-for.mp3",
+            "ex_audio": "media/words/ep43/interview-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retire",
+            "pos": "v.",
+            "zh": "退職する；引退する",
+            "ex": "Our lead graphic designer just retired.",
+            "exzh": "主任グラフィックデザイナーが退職したばかりだ。",
+            "ipa": "/rɪˈtaɪr/",
+            "audio": "media/words/ep43/retire.mp3",
+            "ex_audio": "media/words/ep43/retire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "replacement",
+            "pos": "n.",
+            "zh": "後任；代わりのもの",
+            "ex": "We've had a hard time finding his replacement.",
+            "exzh": "後任がなかなか見つからなかった。",
+            "ipa": "/rɪˈpleɪsmənt/",
+            "audio": "media/words/ep43/replacement.mp3",
+            "ex_audio": "media/words/ep43/replacement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "résumé",
+            "pos": "n.",
+            "zh": "履歴書",
+            "ex": "Your résumé is very impressive.",
+            "exzh": "履歴書がとてもすばらしい。",
+            "ipa": "",
+            "audio": "media/words/ep43/r-sum.mp3",
+            "ex_audio": "media/words/ep43/r-sum_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "impressive",
+            "pos": "adj.",
+            "zh": "印象的な；すばらしい",
+            "ex": "Her presentation was very impressive.",
+            "exzh": "彼女のプレゼンはとてもすばらしかった。",
+            "ipa": "/ˌɪmˈprɛsɪv/",
+            "audio": "media/words/ep43/impressive.mp3",
+            "ex_audio": "media/words/ep43/impressive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recruitment",
+            "pos": "n.",
+            "zh": "採用；募集",
+            "ex": "I saw the company's recruitment video on television.",
+            "exzh": "テレビで会社の採用動画を見た。",
+            "ipa": "/rəˈkrutmənt/",
+            "audio": "media/words/ep43/recruitment.mp3",
+            "ex_audio": "media/words/ep43/recruitment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "seek",
+            "pos": "v.",
+            "zh": "求める；探す",
+            "ex": "He is seeking a position with your company.",
+            "exzh": "彼は御社での職を求めている。",
+            "ipa": "/sik/",
+            "audio": "media/words/ep43/seek.mp3",
+            "ex_audio": "media/words/ep43/seek_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "walk through",
+            "pos": "phr.",
+            "zh": "順を追って説明する",
+            "ex": "Please walk us through your portfolio.",
+            "exzh": "作品集を順に見せて説明してください。",
+            "ipa": "/wɔk θru/",
+            "audio": "media/words/ep43/walk-through.mp3",
+            "ex_audio": "media/words/ep43/walk-through_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "portfolio",
+            "pos": "n.",
+            "zh": "作品集；ポートフォリオ",
+            "ex": "I have my portfolio right here.",
+            "exzh": "作品集はここにあります。",
+            "ipa": "/pɔrtˈfoʊliˌoʊ/",
+            "audio": "media/words/ep43/portfolio.mp3",
+            "ex_audio": "media/words/ep43/portfolio_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "architect",
+            "pos": "n.",
+            "zh": "建築家",
+            "ex": "The architect designed the new library.",
+            "exzh": "その建築家が新しい図書館を設計した。",
+            "ipa": "/ˈɑrkəˌtɛkt/",
+            "audio": "media/words/ep43/architect.mp3",
+            "ex_audio": "media/words/ep43/architect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "billboard",
+            "pos": "n.",
+            "zh": "看板；広告板",
+            "ex": "I saw the advertisement on a billboard.",
+            "exzh": "その広告を看板で見た。",
+            "ipa": "/ˈbɪlˌbɔrd/",
+            "audio": "media/words/ep43/billboard.mp3",
+            "ex_audio": "media/words/ep43/billboard_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "return a call",
+            "pos": "phr.",
+            "zh": "折り返し電話する",
+            "ex": "I'm returning your call regarding the funding request.",
+            "exzh": "費用の申請の件で折り返しお電話しています。",
+            "ipa": "/rɪˈtɝn ə kɔl/",
+            "audio": "media/words/ep43/return-a-call.mp3",
+            "ex_audio": "media/words/ep43/return-a-call_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regarding",
+            "pos": "prep.",
+            "zh": "…に関して",
+            "ex": "I'm calling regarding the request I submitted.",
+            "exzh": "提出した申請に関してお電話しています。",
+            "ipa": "/rɪˈɡɑrdɪŋ/",
+            "audio": "media/words/ep43/regarding.mp3",
+            "ex_audio": "media/words/ep43/regarding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "funding",
+            "pos": "n.",
+            "zh": "資金；費用",
+            "ex": "I submitted a funding request yesterday.",
+            "exzh": "昨日、費用の申請を出した。",
+            "ipa": "/ˈfʌndɪŋ/",
+            "audio": "media/words/ep43/funding.mp3",
+            "ex_audio": "media/words/ep43/funding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "campaign",
+            "pos": "n.",
+            "zh": "（広告・宣伝の）キャンペーン",
+            "ex": "Everyone worked hard on the Davidson campaign.",
+            "exzh": "みんな Davidson キャンペーンで頑張った。",
+            "ipa": "/kæmˈpeɪn/",
+            "audio": "media/words/ep43/campaign.mp3",
+            "ex_audio": "media/words/ep43/campaign_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "necessity",
+            "pos": "n.",
+            "zh": "必要性；必需品",
+            "ex": "You questioned the necessity of some items.",
+            "exzh": "いくつかの項目の必要性に疑問を示された。",
+            "ipa": "/nəˈsɛsəti/",
+            "audio": "media/words/ep43/necessity.mp3",
+            "ex_audio": "media/words/ep43/necessity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in particular",
+            "pos": "phr.",
+            "zh": "特に",
+            "ex": "In particular, the rental fee for the tent.",
+            "exzh": "特にテントのレンタル料です。",
+            "ipa": "/ɪn pɚˈtɪkjəlɚ/",
+            "audio": "media/words/ep43/in-particular.mp3",
+            "ex_audio": "media/words/ep43/in-particular_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rental fee",
+            "pos": "n.",
+            "zh": "レンタル料；賃借料",
+            "ex": "The rental fee for the tent is 200 dollars.",
+            "exzh": "テントのレンタル料は200ドルだ。",
+            "ipa": "/ˈrɛntəl fi/",
+            "audio": "media/words/ep43/rental-fee.mp3",
+            "ex_audio": "media/words/ep43/rental-fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "forecast",
+            "pos": "n./v.",
+            "zh": "予報；予測する",
+            "ex": "The forecast is calling for rain.",
+            "exzh": "天気予報では雨だ。",
+            "ipa": "/ˈfɔrˌkæst/",
+            "audio": "media/words/ep43/forecast.mp3",
+            "ex_audio": "media/words/ep43/forecast_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "call for",
+            "pos": "phr.",
+            "zh": "（天気を）予報する；必要とする；求める",
+            "ex": "The forecast calls for snow tomorrow.",
+            "exzh": "予報では明日は雪だ。",
+            "ipa": "/kɔl fɔr/",
+            "audio": "media/words/ep43/call-for.mp3",
+            "ex_audio": "media/words/ep43/call-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "send out",
+            "pos": "phr.",
+            "zh": "発送する；送り出す",
+            "ex": "I'm hoping to send out invitations by Friday.",
+            "exzh": "金曜日までに招待状を送りたい。",
+            "ipa": "/sɛnd aʊt/",
+            "audio": "media/words/ep43/send-out.mp3",
+            "ex_audio": "media/words/ep43/send-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "charity",
+            "pos": "n.",
+            "zh": "慈善；慈善団体",
+            "ex": "The event raised money for a local charity.",
+            "exzh": "そのイベントは地元の慈善団体のために資金を集めた。",
+            "ipa": "/ˈtʃɛrɪti/",
+            "audio": "media/words/ep43/charity.mp3",
+            "ex_audio": "media/words/ep43/charity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "justify",
+            "pos": "v.",
+            "zh": "正当化する；妥当性を示す",
+            "ex": "He mentions the rain to justify a request.",
+            "exzh": "彼は申請の妥当性を示すために雨のことを言う。",
+            "ipa": "/ˈdʒʌstəˌfaɪ/",
+            "audio": "media/words/ep43/justify.mp3",
+            "ex_audio": "media/words/ep43/justify_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "acknowledge",
+            "pos": "v.",
+            "zh": "認める；受け取りを知らせる",
+            "ex": "He acknowledged his mistake.",
+            "exzh": "彼は自分の間違いを認めた。",
+            "ipa": "/ækˈnɑlɪdʒ/",
+            "audio": "media/words/ep43/acknowledge.mp3",
+            "ex_audio": "media/words/ep43/acknowledge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "call a meeting",
+            "pos": "phr.",
+            "zh": "会議を招集する",
+            "ex": "We've called tonight's meeting to discuss the proposal.",
+            "exzh": "提案を話し合うために今夜の会議を招集した。",
+            "ipa": "/kɔl ə ˈmitɪŋ/",
+            "audio": "media/words/ep43/call-a-meeting.mp3",
+            "ex_audio": "media/words/ep43/call-a-meeting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "closure",
+            "pos": "n.",
+            "zh": "閉鎖",
+            "ex": "The proposed closure of Main Street will be discussed.",
+            "exzh": "Main Street の閉鎖案が話し合われる。",
+            "ipa": "/ˈkloʊʒɚ/",
+            "audio": "media/words/ep43/closure.mp3",
+            "ex_audio": "media/words/ep43/closure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "representative",
+            "pos": "n.",
+            "zh": "代表者；担当者",
+            "ex": "As government representatives, we have a responsibility.",
+            "exzh": "行政の代表として、私たちには責任がある。",
+            "ipa": "/ˌrɛprəˈzɛntətɪv/",
+            "audio": "media/words/ep43/representative.mp3",
+            "ex_audio": "media/words/ep43/representative_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pedestrian",
+            "pos": "n./adj.",
+            "zh": "歩行者；歩行者用の",
+            "ex": "They plan to create a pedestrian walkway.",
+            "exzh": "歩行者用の通路を作る計画だ。",
+            "ipa": "/pəˈdɛstriən/",
+            "audio": "media/words/ep43/pedestrian.mp3",
+            "ex_audio": "media/words/ep43/pedestrian_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "district",
+            "pos": "n.",
+            "zh": "地区；地域",
+            "ex": "The walkway will attract visitors to the shopping district.",
+            "exzh": "通路は商業地区に人を呼ぶだろう。",
+            "ipa": "/ˈdɪstrɪkt/",
+            "audio": "media/words/ep43/district.mp3",
+            "ex_audio": "media/words/ep43/district_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "vote on",
+            "pos": "phr.",
+            "zh": "…について採決する；投票する",
+            "ex": "Before we vote on this matter, we need more input.",
+            "exzh": "この件を採決する前に、もっと意見が必要だ。",
+            "ipa": "/voʊt ɑn/",
+            "audio": "media/words/ep43/vote-on.mp3",
+            "ex_audio": "media/words/ep43/vote-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "input",
+            "pos": "n.",
+            "zh": "意見；助言；入力",
+            "ex": "We need input from all high-ranking officials.",
+            "exzh": "すべての幹部の意見が必要だ。",
+            "ipa": "/ˈɪnˌpʊt/",
+            "audio": "media/words/ep43/input.mp3",
+            "ex_audio": "media/words/ep43/input_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go over",
+            "pos": "phr.",
+            "zh": "目を通す；見直す",
+            "ex": "Tonight we'll go over the budget figures.",
+            "exzh": "今夜は予算の数字を確認する。",
+            "ipa": "/ɡoʊ ˈoʊvɚ/",
+            "audio": "media/words/ep43/go-over.mp3",
+            "ex_audio": "media/words/ep43/go-over_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "budget figures",
+            "pos": "n.",
+            "zh": "予算の数字",
+            "ex": "Please review the proposed budget figures.",
+            "exzh": "予算案の数字を確認してください。",
+            "ipa": "/ˈbʌdʒɪt ˈfɪɡjɚz/",
+            "audio": "media/words/ep43/budget-figures.mp3",
+            "ex_audio": "media/words/ep43/budget-figures_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "refer to",
+            "pos": "phr.",
+            "zh": "参照する；言及する",
+            "ex": "Please refer to page ten in your handouts.",
+            "exzh": "資料の10ページを参照してください。",
+            "ipa": "/rəˈfɝ tu/",
+            "audio": "media/words/ep43/refer-to.mp3",
+            "ex_audio": "media/words/ep43/refer-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "handout",
+            "pos": "n.",
+            "zh": "配布資料；プリント",
+            "ex": "The handouts are on the table by the door.",
+            "exzh": "配布資料はドアのそばのテーブルにある。",
+            "ipa": "/ˈhænˌdaʊt/",
+            "audio": "media/words/ep43/handout.mp3",
+            "ex_audio": "media/words/ep43/handout_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "imply",
+            "pos": "v.",
+            "zh": "ほのめかす；暗に示す",
+            "ex": "What does the speaker imply?",
+            "exzh": "話し手は何をほのめかしているか。",
+            "ipa": "/ˌɪmˈplaɪ/",
+            "audio": "media/words/ep43/imply.mp3",
+            "ex_audio": "media/words/ep43/imply_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "rendering",
+            "pos": "n.",
+            "zh": "完成予想図；表現；演奏",
+            "ex": "They looked at some architectural renderings.",
+            "exzh": "彼らは建築の完成予想図を見た。",
+            "ipa": "/ˈrɛndɚɪŋ/",
+            "audio": "media/words/ep43/rendering.mp3",
+            "ex_audio": "media/words/ep43/rendering_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reliable",
+            "pos": "adj.",
+            "zh": "信頼できる；頼りになる",
+            "ex": "Do you know of any reliable window washers?",
+            "exzh": "信頼できる窓清掃業者を知りませんか。",
+            "ipa": "/rɪˈlaɪəbəl/",
+            "audio": "media/words/ep43/reliable.mp3",
+            "ex_audio": "media/words/ep43/reliable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "disconnected",
+            "pos": "adj.",
+            "zh": "（電話が）不通の；切断された",
+            "ex": "Their telephone number has been disconnected.",
+            "exzh": "その会社の電話番号は不通になっている。",
+            "ipa": "/ˌdɪskəˈnɛktɪd/",
+            "audio": "media/words/ep43/disconnected.mp3",
+            "ex_audio": "media/words/ep43/disconnected_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go out of business",
+            "pos": "phr.",
+            "zh": "廃業する；倒産する",
+            "ex": "It seems the company has gone out of business.",
+            "exzh": "その会社は廃業したようだ。",
+            "ipa": "/ɡoʊ aʊt əv ˈbɪznəs/",
+            "audio": "media/words/ep43/go-out-of-business.mp3",
+            "ex_audio": "media/words/ep43/go-out-of-business_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "could use",
+            "pos": "phr.",
+            "zh": "…が必要だ；…が欲しい",
+            "ex": "The windows could sure use a cleaning!",
+            "exzh": "窓は本当に掃除が必要だ。",
+            "ipa": "/kʊd jus/",
+            "audio": "media/words/ep43/could-use.mp3",
+            "ex_audio": "media/words/ep43/could-use_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "kick up",
+            "pos": "phr.",
+            "zh": "舞い上げる；巻き上げる",
+            "ex": "The construction has kicked up a lot of dust.",
+            "exzh": "工事でほこりがたくさん舞っている。",
+            "ipa": "/kɪk ʌp/",
+            "audio": "media/words/ep43/kick-up.mp3",
+            "ex_audio": "media/words/ep43/kick-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "disappointed",
+            "pos": "adj.",
+            "zh": "がっかりした；残念に思う",
+            "ex": "He is disappointed to learn the news.",
+            "exzh": "彼はその知らせを聞いてがっかりしている。",
+            "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+            "audio": "media/words/ep43/disappointed.mp3",
+            "ex_audio": "media/words/ep43/disappointed_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "disclose",
+            "pos": "v.",
+            "zh": "明かす；公開する",
+            "ex": "He cannot disclose a confidential source.",
+            "exzh": "彼は内密の情報源を明かせない。",
+            "ipa": "/dɪsˈkloʊz/",
+            "audio": "media/words/ep43/disclose.mp3",
+            "ex_audio": "media/words/ep43/disclose_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "get in touch with",
+            "pos": "phr.",
+            "zh": "…と連絡を取る",
+            "ex": "I'll get in touch with him right away.",
+            "exzh": "すぐに彼に連絡します。",
+            "ipa": "/ɡɛt ɪn tʌtʃ wɪð/",
+            "audio": "media/words/ep43/get-in-touch-with.mp3",
+            "ex_audio": "media/words/ep43/get-in-touch-with_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "head of maintenance",
+            "pos": "n.",
+            "zh": "保守の責任者；設備管理の責任者",
+            "ex": "He was the head of maintenance at his old company.",
+            "exzh": "彼は前の会社で保守の責任者だった。",
+            "ipa": "/hɛd əv ˈmeɪntənəns/",
+            "audio": "media/words/ep43/head-of-maintenance.mp3",
+            "ex_audio": "media/words/ep43/head-of-maintenance_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep43_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 3/4 意図問題と「次に何をするか」の問題",
+    "words": [
+      {
+        "word": "look forward to",
+        "pos": "phr.",
+        "zh": "期待；盼望（后接名词或动名词）",
+        "ex": "I'm looking forward to helping you improve your company's image.",
+        "exzh": "我很期待帮你改善公司的形象。",
+        "ipa": "/lʊk ˈfɔrwɚd tu/",
+        "audio": "media/words/ep43/look-forward-to.mp3",
+        "ex_audio": "media/words/ep43/look-forward-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "outcome",
+        "pos": "n.",
+        "zh": "结果；成果",
+        "ex": "Let's discuss the outcomes you'd like from this project.",
+        "exzh": "我们谈谈你希望这个项目达到的效果吧。",
+        "ipa": "/ˈaʊtˌkʌm/",
+        "audio": "media/words/ep43/outcome.mp3",
+        "ex_audio": "media/words/ep43/outcome_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "outlet",
+        "pos": "n.",
+        "zh": "商店；门店；电源插座",
+        "ex": "Our shoe outlet has a loyal customer base.",
+        "exzh": "我们的鞋店有一批忠实顾客。",
+        "ipa": "/ˈaʊtˌlɛt/",
+        "audio": "media/words/ep43/outlet.mp3",
+        "ex_audio": "media/words/ep43/outlet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loyal",
+        "pos": "adj.",
+        "zh": "忠诚的；忠实的",
+        "ex": "The store has many loyal customers.",
+        "exzh": "这家店有很多忠实顾客。",
+        "ipa": "/ˈlɔɪəl/",
+        "audio": "media/words/ep43/loyal.mp3",
+        "ex_audio": "media/words/ep43/loyal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "customer base",
+        "pos": "n.",
+        "zh": "客户群；顾客基础",
+        "ex": "Our customer base hasn't grown much.",
+        "exzh": "我们的客户群没怎么增长。",
+        "ipa": "/ˈkʌstəmɚ beɪs/",
+        "audio": "media/words/ep43/customer-base.mp3",
+        "ex_audio": "media/words/ep43/customer-base_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expand",
+        "pos": "v.",
+        "zh": "扩大；扩展",
+        "ex": "We would like to expand our customer base.",
+        "exzh": "我们想扩大客户群。",
+        "ipa": "/ɪkˈspænd/",
+        "audio": "media/words/ep43/expand.mp3",
+        "ex_audio": "media/words/ep43/expand_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appeal to",
+        "pos": "phr.",
+        "zh": "吸引；对……有吸引力",
+        "ex": "The new design appeals to younger consumers.",
+        "exzh": "新设计吸引年轻的消费者。",
+        "ipa": "/əˈpil tu/",
+        "audio": "media/words/ep43/appeal-to.mp3",
+        "ex_audio": "media/words/ep43/appeal-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "segment",
+        "pos": "n.",
+        "zh": "部分；群体；细分市场",
+        "ex": "Reaching this audience segment means relying on social media.",
+        "exzh": "要接触这个受众群体，就得依靠社交媒体。",
+        "ipa": "/ˈsɛɡmənt/",
+        "audio": "media/words/ep43/segment.mp3",
+        "ex_audio": "media/words/ep43/segment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rely on",
+        "pos": "phr.",
+        "zh": "依靠；依赖",
+        "ex": "We rely heavily on social media.",
+        "exzh": "我们很大程度上依靠社交媒体。",
+        "ipa": "/rɪˈlaɪ ɑn/",
+        "audio": "media/words/ep43/rely-on.mp3",
+        "ex_audio": "media/words/ep43/rely-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attract",
+        "pos": "v.",
+        "zh": "吸引",
+        "ex": "That's how we'll attract younger customers.",
+        "exzh": "我们就是这样吸引年轻顾客的。",
+        "ipa": "/əˈtrækt/",
+        "audio": "media/words/ep43/attract.mp3",
+        "ex_audio": "media/words/ep43/attract_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reassurance",
+        "pos": "n.",
+        "zh": "安慰；使人放心的话",
+        "ex": "The man says it to offer reassurance.",
+        "exzh": "男子说这句话是为了让对方放心。",
+        "ipa": "/ˌriəˈʃʊrəns/",
+        "audio": "media/words/ep43/reassurance.mp3",
+        "ex_audio": "media/words/ep43/reassurance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "object to",
+        "pos": "phr.",
+        "zh": "反对",
+        "ex": "Nobody objected to the proposal.",
+        "exzh": "没有人反对这个提议。",
+        "ipa": "/ˈɑbdʒɛkt tu/",
+        "audio": "media/words/ep43/object-to.mp3",
+        "ex_audio": "media/words/ep43/object-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "laboratory",
+        "pos": "n.",
+        "zh": "实验室；研究所",
+        "ex": "I'd like your laboratory to do some soil testing.",
+        "exzh": "我想请你们实验室做土壤检测。",
+        "ipa": "/ˈlæbrəˌtɔri/",
+        "audio": "media/words/ep43/laboratory.mp3",
+        "ex_audio": "media/words/ep43/laboratory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "soil",
+        "pos": "n.",
+        "zh": "土壤；泥土",
+        "ex": "I want to test the soil first.",
+        "exzh": "我想先检测土壤。",
+        "ipa": "/sɔɪl/",
+        "audio": "media/words/ep43/soil.mp3",
+        "ex_audio": "media/words/ep43/soil_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "consider doing",
+        "pos": "phr.",
+        "zh": "考虑做某事",
+        "ex": "I'm considering buying land in Springfield.",
+        "exzh": "我正在考虑在 Springfield 买地。",
+        "ipa": "/kənˈsɪdɚ ˈduɪŋ/",
+        "audio": "media/words/ep43/consider-doing.mp3",
+        "ex_audio": "media/words/ep43/consider-doing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "nutrient",
+        "pos": "n.",
+        "zh": "营养物质；养分",
+        "ex": "We will test the soil for nutrient levels.",
+        "exzh": "我们会检测土壤的养分含量。",
+        "ipa": "/ˈnutriənt/",
+        "audio": "media/words/ep43/nutrient.mp3",
+        "ex_audio": "media/words/ep43/nutrient_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "farmland",
+        "pos": "n.",
+        "zh": "农田；耕地",
+        "ex": "He is interested in buying farmland there.",
+        "exzh": "他有意在那里买农田。",
+        "ipa": "/ˈfɑrmˌlænd/",
+        "audio": "media/words/ep43/farmland.mp3",
+        "ex_audio": "media/words/ep43/farmland_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "workload",
+        "pos": "n.",
+        "zh": "工作量",
+        "ex": "She complained about her heavy workload.",
+        "exzh": "她抱怨工作量太大。",
+        "ipa": "/ˈwɝˌkloʊd/",
+        "audio": "media/words/ep43/workload.mp3",
+        "ex_audio": "media/words/ep43/workload_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "turn down",
+        "pos": "phr.",
+        "zh": "拒绝；调低",
+        "ex": "She turned down the invitation.",
+        "exzh": "她拒绝了邀请。",
+        "ipa": "/tɝn daʊn/",
+        "audio": "media/words/ep43/turn-down.mp3",
+        "ex_audio": "media/words/ep43/turn-down_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "interview for",
+        "pos": "phr.",
+        "zh": "应聘；参加……的面试",
+        "ex": "We're glad you came in to interview for this position.",
+        "exzh": "很高兴您来面试这个职位。",
+        "ipa": "/ˈɪntɚˌvju fɔr/",
+        "audio": "media/words/ep43/interview-for.mp3",
+        "ex_audio": "media/words/ep43/interview-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retire",
+        "pos": "v.",
+        "zh": "退休",
+        "ex": "Our lead graphic designer just retired.",
+        "exzh": "我们的首席平面设计师刚退休。",
+        "ipa": "/rɪˈtaɪr/",
+        "audio": "media/words/ep43/retire.mp3",
+        "ex_audio": "media/words/ep43/retire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "replacement",
+        "pos": "n.",
+        "zh": "接替的人；替代品",
+        "ex": "We've had a hard time finding his replacement.",
+        "exzh": "我们一直很难找到接替他的人。",
+        "ipa": "/rɪˈpleɪsmənt/",
+        "audio": "media/words/ep43/replacement.mp3",
+        "ex_audio": "media/words/ep43/replacement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "résumé",
+        "pos": "n.",
+        "zh": "简历；履历",
+        "ex": "Your résumé is very impressive.",
+        "exzh": "您的简历非常出色。",
+        "ipa": "",
+        "audio": "media/words/ep43/r-sum.mp3",
+        "ex_audio": "media/words/ep43/r-sum_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "impressive",
+        "pos": "adj.",
+        "zh": "令人印象深刻的；出色的",
+        "ex": "Her presentation was very impressive.",
+        "exzh": "她的发表非常出色。",
+        "ipa": "/ˌɪmˈprɛsɪv/",
+        "audio": "media/words/ep43/impressive.mp3",
+        "ex_audio": "media/words/ep43/impressive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recruitment",
+        "pos": "n.",
+        "zh": "招聘；招募",
+        "ex": "I saw the company's recruitment video on television.",
+        "exzh": "我在电视上看到了公司的招聘视频。",
+        "ipa": "/rəˈkrutmənt/",
+        "audio": "media/words/ep43/recruitment.mp3",
+        "ex_audio": "media/words/ep43/recruitment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "seek",
+        "pos": "v.",
+        "zh": "寻求；谋求",
+        "ex": "He is seeking a position with your company.",
+        "exzh": "他想在贵公司谋求一个职位。",
+        "ipa": "/sik/",
+        "audio": "media/words/ep43/seek.mp3",
+        "ex_audio": "media/words/ep43/seek_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "walk through",
+        "pos": "phr.",
+        "zh": "带……逐步看；逐步讲解",
+        "ex": "Please walk us through your portfolio.",
+        "exzh": "请带我们看一遍您的作品集。",
+        "ipa": "/wɔk θru/",
+        "audio": "media/words/ep43/walk-through.mp3",
+        "ex_audio": "media/words/ep43/walk-through_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "portfolio",
+        "pos": "n.",
+        "zh": "作品集；（投资）组合",
+        "ex": "I have my portfolio right here.",
+        "exzh": "我的作品集就在这里。",
+        "ipa": "/pɔrtˈfoʊliˌoʊ/",
+        "audio": "media/words/ep43/portfolio.mp3",
+        "ex_audio": "media/words/ep43/portfolio_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "architect",
+        "pos": "n.",
+        "zh": "建筑师",
+        "ex": "The architect designed the new library.",
+        "exzh": "这位建筑师设计了新图书馆。",
+        "ipa": "/ˈɑrkəˌtɛkt/",
+        "audio": "media/words/ep43/architect.mp3",
+        "ex_audio": "media/words/ep43/architect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "billboard",
+        "pos": "n.",
+        "zh": "广告牌",
+        "ex": "I saw the advertisement on a billboard.",
+        "exzh": "我在广告牌上看到了这个广告。",
+        "ipa": "/ˈbɪlˌbɔrd/",
+        "audio": "media/words/ep43/billboard.mp3",
+        "ex_audio": "media/words/ep43/billboard_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "return a call",
+        "pos": "phr.",
+        "zh": "回电话",
+        "ex": "I'm returning your call regarding the funding request.",
+        "exzh": "我给您回电话，是关于经费申请的事。",
+        "ipa": "/rɪˈtɝn ə kɔl/",
+        "audio": "media/words/ep43/return-a-call.mp3",
+        "ex_audio": "media/words/ep43/return-a-call_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regarding",
+        "pos": "prep.",
+        "zh": "关于",
+        "ex": "I'm calling regarding the request I submitted.",
+        "exzh": "我打电话是关于我提交的申请。",
+        "ipa": "/rɪˈɡɑrdɪŋ/",
+        "audio": "media/words/ep43/regarding.mp3",
+        "ex_audio": "media/words/ep43/regarding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "funding",
+        "pos": "n.",
+        "zh": "资金；经费",
+        "ex": "I submitted a funding request yesterday.",
+        "exzh": "我昨天提交了经费申请。",
+        "ipa": "/ˈfʌndɪŋ/",
+        "audio": "media/words/ep43/funding.mp3",
+        "ex_audio": "media/words/ep43/funding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "campaign",
+        "pos": "n.",
+        "zh": "（广告、宣传）活动",
+        "ex": "Everyone worked hard on the Davidson campaign.",
+        "exzh": "大家在 Davidson 广告活动上都很努力。",
+        "ipa": "/kæmˈpeɪn/",
+        "audio": "media/words/ep43/campaign.mp3",
+        "ex_audio": "media/words/ep43/campaign_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "necessity",
+        "pos": "n.",
+        "zh": "必要性；必需品",
+        "ex": "You questioned the necessity of some items.",
+        "exzh": "您质疑了一些项目的必要性。",
+        "ipa": "/nəˈsɛsəti/",
+        "audio": "media/words/ep43/necessity.mp3",
+        "ex_audio": "media/words/ep43/necessity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in particular",
+        "pos": "phr.",
+        "zh": "特别是；尤其",
+        "ex": "In particular, the rental fee for the tent.",
+        "exzh": "特别是帐篷的租金。",
+        "ipa": "/ɪn pɚˈtɪkjəlɚ/",
+        "audio": "media/words/ep43/in-particular.mp3",
+        "ex_audio": "media/words/ep43/in-particular_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rental fee",
+        "pos": "n.",
+        "zh": "租金；租赁费",
+        "ex": "The rental fee for the tent is 200 dollars.",
+        "exzh": "帐篷的租金是两百美元。",
+        "ipa": "/ˈrɛntəl fi/",
+        "audio": "media/words/ep43/rental-fee.mp3",
+        "ex_audio": "media/words/ep43/rental-fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "forecast",
+        "pos": "n./v.",
+        "zh": "预报；预测",
+        "ex": "The forecast is calling for rain.",
+        "exzh": "天气预报说会下雨。",
+        "ipa": "/ˈfɔrˌkæst/",
+        "audio": "media/words/ep43/forecast.mp3",
+        "ex_audio": "media/words/ep43/forecast_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "call for",
+        "pos": "phr.",
+        "zh": "（天气）预报会有；需要；要求",
+        "ex": "The forecast calls for snow tomorrow.",
+        "exzh": "天气预报说明天会下雪。",
+        "ipa": "/kɔl fɔr/",
+        "audio": "media/words/ep43/call-for.mp3",
+        "ex_audio": "media/words/ep43/call-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "send out",
+        "pos": "phr.",
+        "zh": "发出；寄出",
+        "ex": "I'm hoping to send out invitations by Friday.",
+        "exzh": "我希望周五前发出邀请。",
+        "ipa": "/sɛnd aʊt/",
+        "audio": "media/words/ep43/send-out.mp3",
+        "ex_audio": "media/words/ep43/send-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "charity",
+        "pos": "n.",
+        "zh": "慈善；慈善机构",
+        "ex": "The event raised money for a local charity.",
+        "exzh": "这次活动为当地一家慈善机构筹了款。",
+        "ipa": "/ˈtʃɛrɪti/",
+        "audio": "media/words/ep43/charity.mp3",
+        "ex_audio": "media/words/ep43/charity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "justify",
+        "pos": "v.",
+        "zh": "证明……合理；为……辩护",
+        "ex": "He mentions the rain to justify a request.",
+        "exzh": "他提到下雨，是为了证明申请合理。",
+        "ipa": "/ˈdʒʌstəˌfaɪ/",
+        "audio": "media/words/ep43/justify.mp3",
+        "ex_audio": "media/words/ep43/justify_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "acknowledge",
+        "pos": "v.",
+        "zh": "承认；确认收到",
+        "ex": "He acknowledged his mistake.",
+        "exzh": "他承认了自己的错误。",
+        "ipa": "/ækˈnɑlɪdʒ/",
+        "audio": "media/words/ep43/acknowledge.mp3",
+        "ex_audio": "media/words/ep43/acknowledge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "call a meeting",
+        "pos": "phr.",
+        "zh": "召开会议",
+        "ex": "We've called tonight's meeting to discuss the proposal.",
+        "exzh": "我们召开今晚的会议是为了讨论这个提案。",
+        "ipa": "/kɔl ə ˈmitɪŋ/",
+        "audio": "media/words/ep43/call-a-meeting.mp3",
+        "ex_audio": "media/words/ep43/call-a-meeting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "closure",
+        "pos": "n.",
+        "zh": "关闭；封闭",
+        "ex": "The proposed closure of Main Street will be discussed.",
+        "exzh": "会讨论关闭 Main Street 的提案。",
+        "ipa": "/ˈkloʊʒɚ/",
+        "audio": "media/words/ep43/closure.mp3",
+        "ex_audio": "media/words/ep43/closure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "representative",
+        "pos": "n.",
+        "zh": "代表；代理人",
+        "ex": "As government representatives, we have a responsibility.",
+        "exzh": "作为政府代表，我们有责任。",
+        "ipa": "/ˌrɛprəˈzɛntətɪv/",
+        "audio": "media/words/ep43/representative.mp3",
+        "ex_audio": "media/words/ep43/representative_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pedestrian",
+        "pos": "n./adj.",
+        "zh": "行人；步行的",
+        "ex": "They plan to create a pedestrian walkway.",
+        "exzh": "他们计划建一条步行道。",
+        "ipa": "/pəˈdɛstriən/",
+        "audio": "media/words/ep43/pedestrian.mp3",
+        "ex_audio": "media/words/ep43/pedestrian_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "district",
+        "pos": "n.",
+        "zh": "区域；地区",
+        "ex": "The walkway will attract visitors to the shopping district.",
+        "exzh": "步行道会吸引游客到购物区。",
+        "ipa": "/ˈdɪstrɪkt/",
+        "audio": "media/words/ep43/district.mp3",
+        "ex_audio": "media/words/ep43/district_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "vote on",
+        "pos": "phr.",
+        "zh": "就……投票",
+        "ex": "Before we vote on this matter, we need more input.",
+        "exzh": "在就这件事投票之前，我们需要更多意见。",
+        "ipa": "/voʊt ɑn/",
+        "audio": "media/words/ep43/vote-on.mp3",
+        "ex_audio": "media/words/ep43/vote-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "input",
+        "pos": "n.",
+        "zh": "意见；建议；输入",
+        "ex": "We need input from all high-ranking officials.",
+        "exzh": "我们需要所有高级官员的意见。",
+        "ipa": "/ˈɪnˌpʊt/",
+        "audio": "media/words/ep43/input.mp3",
+        "ex_audio": "media/words/ep43/input_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go over",
+        "pos": "phr.",
+        "zh": "仔细查看；过一遍",
+        "ex": "Tonight we'll go over the budget figures.",
+        "exzh": "今晚我们过一遍预算数字。",
+        "ipa": "/ɡoʊ ˈoʊvɚ/",
+        "audio": "media/words/ep43/go-over.mp3",
+        "ex_audio": "media/words/ep43/go-over_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "budget figures",
+        "pos": "n.",
+        "zh": "预算数字",
+        "ex": "Please review the proposed budget figures.",
+        "exzh": "请审阅预算草案的数字。",
+        "ipa": "/ˈbʌdʒɪt ˈfɪɡjɚz/",
+        "audio": "media/words/ep43/budget-figures.mp3",
+        "ex_audio": "media/words/ep43/budget-figures_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "refer to",
+        "pos": "phr.",
+        "zh": "参看；查阅；提到",
+        "ex": "Please refer to page ten in your handouts.",
+        "exzh": "请看讲义第十页。",
+        "ipa": "/rəˈfɝ tu/",
+        "audio": "media/words/ep43/refer-to.mp3",
+        "ex_audio": "media/words/ep43/refer-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "handout",
+        "pos": "n.",
+        "zh": "讲义；分发的资料",
+        "ex": "The handouts are on the table by the door.",
+        "exzh": "讲义放在门边的桌子上。",
+        "ipa": "/ˈhænˌdaʊt/",
+        "audio": "media/words/ep43/handout.mp3",
+        "ex_audio": "media/words/ep43/handout_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "imply",
+        "pos": "v.",
+        "zh": "暗示；意味着",
+        "ex": "What does the speaker imply?",
+        "exzh": "说话人暗示了什么？",
+        "ipa": "/ˌɪmˈplaɪ/",
+        "audio": "media/words/ep43/imply.mp3",
+        "ex_audio": "media/words/ep43/imply_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "rendering",
+        "pos": "n.",
+        "zh": "效果图；表现；演奏",
+        "ex": "They looked at some architectural renderings.",
+        "exzh": "他们看了一些建筑效果图。",
+        "ipa": "/ˈrɛndɚɪŋ/",
+        "audio": "media/words/ep43/rendering.mp3",
+        "ex_audio": "media/words/ep43/rendering_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reliable",
+        "pos": "adj.",
+        "zh": "可靠的；可信赖的",
+        "ex": "Do you know of any reliable window washers?",
+        "exzh": "你知道有什么可靠的擦窗工吗？",
+        "ipa": "/rɪˈlaɪəbəl/",
+        "audio": "media/words/ep43/reliable.mp3",
+        "ex_audio": "media/words/ep43/reliable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "disconnected",
+        "pos": "adj.",
+        "zh": "（电话）停机的；断开的",
+        "ex": "Their telephone number has been disconnected.",
+        "exzh": "他们的电话已经停机了。",
+        "ipa": "/ˌdɪskəˈnɛktɪd/",
+        "audio": "media/words/ep43/disconnected.mp3",
+        "ex_audio": "media/words/ep43/disconnected_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go out of business",
+        "pos": "phr.",
+        "zh": "倒闭；停业",
+        "ex": "It seems the company has gone out of business.",
+        "exzh": "那家公司好像倒闭了。",
+        "ipa": "/ɡoʊ aʊt əv ˈbɪznəs/",
+        "audio": "media/words/ep43/go-out-of-business.mp3",
+        "ex_audio": "media/words/ep43/go-out-of-business_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "could use",
+        "pos": "phr.",
+        "zh": "需要；很想要",
+        "ex": "The windows could sure use a cleaning!",
+        "exzh": "窗户真该洗洗了！",
+        "ipa": "/kʊd jus/",
+        "audio": "media/words/ep43/could-use.mp3",
+        "ex_audio": "media/words/ep43/could-use_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "kick up",
+        "pos": "phr.",
+        "zh": "扬起；激起",
+        "ex": "The construction has kicked up a lot of dust.",
+        "exzh": "施工扬起了很多灰尘。",
+        "ipa": "/kɪk ʌp/",
+        "audio": "media/words/ep43/kick-up.mp3",
+        "ex_audio": "media/words/ep43/kick-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "disappointed",
+        "pos": "adj.",
+        "zh": "失望的；遗憾的",
+        "ex": "He is disappointed to learn the news.",
+        "exzh": "他听到这个消息很失望。",
+        "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+        "audio": "media/words/ep43/disappointed.mp3",
+        "ex_audio": "media/words/ep43/disappointed_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "disclose",
+        "pos": "v.",
+        "zh": "透露；公开",
+        "ex": "He cannot disclose a confidential source.",
+        "exzh": "他不能透露机密消息来源。",
+        "ipa": "/dɪsˈkloʊz/",
+        "audio": "media/words/ep43/disclose.mp3",
+        "ex_audio": "media/words/ep43/disclose_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "get in touch with",
+        "pos": "phr.",
+        "zh": "与……联系",
+        "ex": "I'll get in touch with him right away.",
+        "exzh": "我马上联系他。",
+        "ipa": "/ɡɛt ɪn tʌtʃ wɪð/",
+        "audio": "media/words/ep43/get-in-touch-with.mp3",
+        "ex_audio": "media/words/ep43/get-in-touch-with_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "head of maintenance",
+        "pos": "n.",
+        "zh": "维修主管；设施管理负责人",
+        "ex": "He was the head of maintenance at his old company.",
+        "exzh": "他在以前的公司当过维修主管。",
+        "ipa": "/hɛd əv ˈmeɪntənəns/",
+        "audio": "media/words/ep43/head-of-maintenance.mp3",
+        "ex_audio": "media/words/ep43/head-of-maintenance_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 42,
     "theme": "题型精讲 · Part 3/4 主题与目的题",
     "date": "2026-10-24",
