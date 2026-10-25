@@ -1,5 +1,1852 @@
 [
   {
+    "number": 44,
+    "theme": "题型精讲 · Part 3/4 图表题",
+    "date": "2026-10-26",
+    "duration_sec": 3406.5,
+    "segments": [
+      {
+        "title": "1. Part 3/4 图表题真题（Test 3 四组 · 题本原图 · 逐句精听）",
+        "start": 0.0,
+        "length": 1902.75
+      },
+      {
+        "title": "2. Part 7 商业颁奖晚会公告（配套精练）",
+        "start": 1902.75,
+        "length": 464.35
+      },
+      {
+        "title": "3. 本期 59 词总复习 · 拼读",
+        "start": 2367.1,
+        "length": 1039.42
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "lease",
+        "zh": "租约；租赁合同；租用"
+      },
+      {
+        "word": "courtesy shuttle",
+        "zh": "免费接驳车"
+      },
+      {
+        "word": "substitute for",
+        "zh": "代替；代班"
+      },
+      {
+        "word": "duration",
+        "zh": "持续时间；期限"
+      },
+      {
+        "word": "proceeds",
+        "zh": "收益；所得款项"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "dessert",
+        "zh": "甜点"
+      },
+      {
+        "word": "retirement party",
+        "zh": "退休派对；退休欢送会"
+      },
+      {
+        "word": "bakery",
+        "zh": "面包店；烘焙店"
+      },
+      {
+        "word": "review",
+        "zh": "评价；评论；复习；审查"
+      },
+      {
+        "word": "toward",
+        "zh": "用于；为了；朝着"
+      },
+      {
+        "word": "necessary",
+        "zh": "必要的"
+      },
+      {
+        "word": "banquet",
+        "zh": "宴会；晚宴"
+      },
+      {
+        "word": "exhibit",
+        "zh": "展览；展品；展出"
+      },
+      {
+        "word": "contribute",
+        "zh": "出钱；捐助；贡献"
+      },
+      {
+        "word": "ticket counter",
+        "zh": "售票柜台"
+      },
+      {
+        "word": "reservation",
+        "zh": "预订；预约"
+      },
+      {
+        "word": "return flight",
+        "zh": "回程航班"
+      },
+      {
+        "word": "take care of",
+        "zh": "处理；负责；照顾"
+      },
+      {
+        "word": "fee",
+        "zh": "费用；手续费"
+      },
+      {
+        "word": "attend",
+        "zh": "参加；出席"
+      },
+      {
+        "word": "by the way",
+        "zh": "顺便说一下"
+      },
+      {
+        "word": "transportation",
+        "zh": "交通；交通工具；运输"
+      },
+      {
+        "word": "courtesy shuttle",
+        "zh": "免费接驳车"
+      },
+      {
+        "word": "tip",
+        "zh": "提示；建议；小费"
+      },
+      {
+        "word": "enroll",
+        "zh": "注册；加入；登记"
+      },
+      {
+        "word": "refund",
+        "zh": "退款；退还"
+      },
+      {
+        "word": "sightseeing",
+        "zh": "观光；游览"
+      },
+      {
+        "word": "be impressed with",
+        "zh": "对印象深刻；很欣赏"
+      },
+      {
+        "word": "lease",
+        "zh": "租约；租赁合同；租用"
+      },
+      {
+        "word": "option",
+        "zh": "选项；选择"
+      },
+      {
+        "word": "depend on",
+        "zh": "取决于；依赖"
+      },
+      {
+        "word": "duration",
+        "zh": "持续时间；期限"
+      },
+      {
+        "word": "tenant",
+        "zh": "租客；房客"
+      },
+      {
+        "word": "relocate",
+        "zh": "搬迁；迁移"
+      },
+      {
+        "word": "move-in date",
+        "zh": "入住日期"
+      },
+      {
+        "word": "have something done",
+        "zh": "请别人做某事；使某事被做"
+      },
+      {
+        "word": "professionally",
+        "zh": "专业地；职业上"
+      },
+      {
+        "word": "appliance",
+        "zh": "家用电器；器具"
+      },
+      {
+        "word": "arrange for",
+        "zh": "安排；准备"
+      },
+      {
+        "word": "assign",
+        "zh": "分配；指派"
+      },
+      {
+        "word": "host",
+        "zh": "主持；主持人；主办"
+      },
+      {
+        "word": "episode",
+        "zh": "；节目的；一期；一集"
+      },
+      {
+        "word": "regular",
+        "zh": "固定的；平常的；定期的"
+      },
+      {
+        "word": "on vacation",
+        "zh": "在休假"
+      },
+      {
+        "word": "restaurant chain",
+        "zh": "连锁餐厅"
+      },
+      {
+        "word": "vegetarian",
+        "zh": "素食的；素食者"
+      },
+      {
+        "word": "cuisine",
+        "zh": "菜肴；烹饪风格"
+      },
+      {
+        "word": "process",
+        "zh": "过程；流程"
+      },
+      {
+        "word": "along the way",
+        "zh": "一路上；在这个过程中"
+      },
+      {
+        "word": "sponsor",
+        "zh": "赞助商；赞助"
+      },
+      {
+        "word": "mattress",
+        "zh": "床垫"
+      },
+      {
+        "word": "cutting-edge",
+        "zh": "尖端的；最先进的"
+      },
+      {
+        "word": "ensure",
+        "zh": "确保；保证"
+      },
+      {
+        "word": "substitute for",
+        "zh": "代替；代班"
+      },
+      {
+        "word": "environmentally friendly",
+        "zh": "环保的；对环境友好的"
+      },
+      {
+        "word": "accomplishment",
+        "zh": "成就；成绩"
+      },
+      {
+        "word": "decade",
+        "zh": "十年"
+      },
+      {
+        "word": "assortment",
+        "zh": "各种各样的搭配；品种"
+      },
+      {
+        "word": "initiate",
+        "zh": "发起；创始；开始"
+      },
+      {
+        "word": "praise",
+        "zh": "称赞；赞扬"
+      },
+      {
+        "word": "admission",
+        "zh": "入场；入场费；准许进入"
+      },
+      {
+        "word": "proceeds",
+        "zh": "收益；所得款项"
+      },
+      {
+        "word": "benefit",
+        "zh": "有益于；使受益；好处"
+      },
+      {
+        "word": "cause",
+        "zh": "公益事业；目标；原因"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep44.mp4",
+    "script_pdf": "media/ep44_script.pdf",
+    "source_video": "ep44.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep44.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep44.mp4",
+        "script_pdf": "media/ep44_script.pdf",
+        "duration_sec": 3406.5,
+        "theme": "题型精讲 · Part 3/4 图表题",
+        "segments": [
+          {
+            "title": "1. Part 3/4 图表题真题（Test 3 四组 · 题本原图 · 逐句精听）",
+            "start": 0.0,
+            "length": 1902.75
+          },
+          {
+            "title": "2. Part 7 商业颁奖晚会公告（配套精练）",
+            "start": 1902.75,
+            "length": 464.35
+          },
+          {
+            "title": "3. 本期 59 词总复习 · 拼读",
+            "start": 2367.1,
+            "length": 1039.42
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep44ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep44ja.mp4",
+        "script_pdf": "media/ep44ja_script.pdf",
+        "duration_sec": 4049.4,
+        "theme": "問題タイプ別精講 · Part 3/4 図表問題",
+        "segments": [
+          {
+            "title": "1. Part 3/4 図表問題（Test 3 の4セット · 問題冊子の実物図表 · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 2379.18
+          },
+          {
+            "title": "2. Part 7 ビジネス表彰式のお知らせ（関連演習）",
+            "start": 2379.18,
+            "length": 562.01
+          },
+          {
+            "title": "3. 今回の 59 語総復習 · スペル",
+            "start": 2941.18,
+            "length": 1108.18
+          }
+        ],
+        "poster": "media/ep44ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "lease",
+            "zh": "賃貸借契約；リース；賃貸する"
+          },
+          {
+            "word": "courtesy shuttle",
+            "zh": "無料送迎シャトル"
+          },
+          {
+            "word": "substitute for",
+            "zh": "…の代わりを務める"
+          },
+          {
+            "word": "duration",
+            "zh": "期間；継続時間"
+          },
+          {
+            "word": "proceeds",
+            "zh": "収益；売上金"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "dessert",
+          "retirement party",
+          "bakery",
+          "review",
+          "toward",
+          "necessary",
+          "banquet",
+          "exhibit",
+          "contribute",
+          "ticket counter",
+          "reservation",
+          "return flight",
+          "take care of",
+          "fee",
+          "attend",
+          "by the way",
+          "transportation",
+          "courtesy shuttle",
+          "tip",
+          "enroll",
+          "refund",
+          "sightseeing",
+          "be impressed with",
+          "lease",
+          "option",
+          "depend on",
+          "duration",
+          "tenant",
+          "relocate",
+          "move-in date",
+          "have something done",
+          "professionally",
+          "appliance",
+          "arrange for",
+          "assign",
+          "host",
+          "episode",
+          "regular",
+          "on vacation",
+          "restaurant chain",
+          "vegetarian",
+          "cuisine",
+          "process",
+          "along the way",
+          "sponsor",
+          "mattress",
+          "cutting-edge",
+          "ensure",
+          "substitute for",
+          "environmentally friendly",
+          "accomplishment",
+          "decade",
+          "assortment",
+          "initiate",
+          "praise",
+          "admission",
+          "proceeds",
+          "benefit",
+          "cause"
+        ],
+        "words": [
+          {
+            "word": "dessert",
+            "pos": "n.",
+            "zh": "デザート",
+            "ex": "I was thinking of getting a dessert to bring to the party.",
+            "exzh": "パーティーにデザートを持っていこうと思っていた。",
+            "ipa": "/dɪˈzɝt/",
+            "audio": "media/words/ep44/dessert.mp3",
+            "ex_audio": "media/words/ep44/dessert_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retirement party",
+            "pos": "n.",
+            "zh": "退職パーティー；送別会",
+            "ex": "We're having a retirement party for Jin-Ah.",
+            "exzh": "Jin-Ah さんの退職パーティーを開く。",
+            "ipa": "/riˈtaɪɚmənt ˈpɑrti/",
+            "audio": "media/words/ep44/retirement-party.mp3",
+            "ex_audio": "media/words/ep44/retirement-party_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bakery",
+            "pos": "n.",
+            "zh": "パン屋；ベーカリー",
+            "ex": "Have you tried anything from Gladstone's Bakery?",
+            "exzh": "Gladstone's ベーカリーのものを食べたことがある？",
+            "ipa": "/ˈbeɪkɚi/",
+            "audio": "media/words/ep44/bakery.mp3",
+            "ex_audio": "media/words/ep44/bakery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "review",
+            "pos": "n./v.",
+            "zh": "レビュー；評価；見直す；復習する",
+            "ex": "I have heard great reviews about the bakery.",
+            "exzh": "そのベーカリーはとても評判がいいと聞いている。",
+            "ipa": "/ˌriˈvju/",
+            "audio": "media/words/ep44/review.mp3",
+            "ex_audio": "media/words/ep44/review_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "toward",
+            "pos": "prep.",
+            "zh": "…のために；…に充てて；…の方へ",
+            "ex": "I'd be happy to give you some money toward paying for it.",
+            "exzh": "支払いの足しにお金を出すよ。",
+            "ipa": "/təˈwɔrd/",
+            "audio": "media/words/ep44/toward.mp3",
+            "ex_audio": "media/words/ep44/toward_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "necessary",
+            "pos": "adj.",
+            "zh": "必要な",
+            "ex": "Oh, that won't be necessary.",
+            "exzh": "いや、それには及ばないよ。",
+            "ipa": "/ˈnɛsəˌsɛri/",
+            "audio": "media/words/ep44/necessary.mp3",
+            "ex_audio": "media/words/ep44/necessary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "banquet",
+            "pos": "n.",
+            "zh": "晩餐会；宴会",
+            "ex": "The company holds a banquet every December.",
+            "exzh": "会社は毎年12月に晩餐会を開く。",
+            "ipa": "/ˈbæŋkwət/",
+            "audio": "media/words/ep44/banquet.mp3",
+            "ex_audio": "media/words/ep44/banquet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "exhibit",
+            "pos": "n./v.",
+            "zh": "展示；展覧会；展示する",
+            "ex": "We went to an art exhibit opening.",
+            "exzh": "美術展のオープニングに行った。",
+            "ipa": "/ɪɡˈzɪbɪt/",
+            "audio": "media/words/ep44/exhibit.mp3",
+            "ex_audio": "media/words/ep44/exhibit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contribute",
+            "pos": "v.",
+            "zh": "お金を出す；寄付する；貢献する",
+            "ex": "The woman offers to contribute some money.",
+            "exzh": "女性はお金を出すと申し出ている。",
+            "ipa": "/kənˈtrɪbjut/",
+            "audio": "media/words/ep44/contribute.mp3",
+            "ex_audio": "media/words/ep44/contribute_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ticket counter",
+            "pos": "n.",
+            "zh": "チケットカウンター；切符売り場",
+            "ex": "Welcome to the ticket counter for Ace Airlines.",
+            "exzh": "Ace 航空のチケットカウンターへようこそ。",
+            "ipa": "/ˈtɪkət ˈkaʊntɚ/",
+            "audio": "media/words/ep44/ticket-counter.mp3",
+            "ex_audio": "media/words/ep44/ticket-counter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reservation",
+            "pos": "n.",
+            "zh": "予約",
+            "ex": "I'd like to change the reservation for my flight.",
+            "exzh": "便の予約を変更したい。",
+            "ipa": "/ˌrɛzɚˈveɪʃən/",
+            "audio": "media/words/ep44/reservation.mp3",
+            "ex_audio": "media/words/ep44/reservation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "return flight",
+            "pos": "n.",
+            "zh": "帰りの便；復路便",
+            "ex": "My return flight leaves on Monday.",
+            "exzh": "帰りの便は月曜日に出発する。",
+            "ipa": "/rɪˈtɝn flaɪt/",
+            "audio": "media/words/ep44/return-flight.mp3",
+            "ex_audio": "media/words/ep44/return-flight_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take care of",
+            "pos": "phr.",
+            "zh": "処理する；引き受ける；世話をする",
+            "ex": "Certainly. I'll take care of that.",
+            "exzh": "かしこまりました。お手続きいたします。",
+            "ipa": "/teɪk kɛr əv/",
+            "audio": "media/words/ep44/take-care-of.mp3",
+            "ex_audio": "media/words/ep44/take-care-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fee",
+            "pos": "n.",
+            "zh": "料金；手数料",
+            "ex": "There's a fee of 100 dollars for the change.",
+            "exzh": "変更には100ドルの手数料がかかる。",
+            "ipa": "/fi/",
+            "audio": "media/words/ep44/fee.mp3",
+            "ex_audio": "media/words/ep44/fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attend",
+            "pos": "v.",
+            "zh": "出席する；参加する",
+            "ex": "I'd like to stay at the conference I'm attending for another day.",
+            "exzh": "参加している会議にもう1日いたい。",
+            "ipa": "/əˈtɛnd/",
+            "audio": "media/words/ep44/attend.mp3",
+            "ex_audio": "media/words/ep44/attend_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "by the way",
+            "pos": "phr.",
+            "zh": "ところで",
+            "ex": "By the way, the sign over there will tell you where to go.",
+            "exzh": "ところで、あちらの案内板に行き先が書いてあります。",
+            "ipa": "/baɪ ðə weɪ/",
+            "audio": "media/words/ep44/by-the-way.mp3",
+            "ex_audio": "media/words/ep44/by-the-way_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "transportation",
+            "pos": "n.",
+            "zh": "交通；交通手段；輸送",
+            "ex": "Do you need transportation into the city?",
+            "exzh": "市内への交通手段が必要ですか。",
+            "ipa": "/ˌtrænspɚˈteɪʃən/",
+            "audio": "media/words/ep44/transportation.mp3",
+            "ex_audio": "media/words/ep44/transportation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "courtesy shuttle",
+            "pos": "n.",
+            "zh": "無料送迎シャトル",
+            "ex": "I'm planning to take the hotel's courtesy shuttle.",
+            "exzh": "ホテルの無料シャトルに乗るつもりだ。",
+            "ipa": "/ˈkɝtəsi ˈʃʌtəl/",
+            "audio": "media/words/ep44/courtesy-shuttle.mp3",
+            "ex_audio": "media/words/ep44/courtesy-shuttle_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "tip",
+            "pos": "n.",
+            "zh": "ヒント；助言；チップ",
+            "ex": "Thanks for the tip!",
+            "exzh": "教えてくれてありがとう！",
+            "ipa": "/tɪp/",
+            "audio": "media/words/ep44/tip.mp3",
+            "ex_audio": "media/words/ep44/tip_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "enroll",
+            "pos": "v.",
+            "zh": "登録する；入会させる",
+            "ex": "Please enroll me in the rewards program.",
+            "exzh": "特典プログラムに登録してください。",
+            "ipa": "/ɛnˈroʊl/",
+            "audio": "media/words/ep44/enroll.mp3",
+            "ex_audio": "media/words/ep44/enroll_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "refund",
+            "pos": "v./n.",
+            "zh": "払い戻す；払い戻し",
+            "ex": "Can you refund my ticket?",
+            "exzh": "航空券を払い戻してもらえますか。",
+            "ipa": "/rɪˈfʌnd/",
+            "audio": "media/words/ep44/refund.mp3",
+            "ex_audio": "media/words/ep44/refund_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sightseeing",
+            "pos": "n.",
+            "zh": "観光",
+            "ex": "He is not traveling for sightseeing.",
+            "exzh": "彼は観光で旅行しているのではない。",
+            "ipa": "/ˈsaɪtˈsiɪŋ/",
+            "audio": "media/words/ep44/sightseeing.mp3",
+            "ex_audio": "media/words/ep44/sightseeing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be impressed with",
+            "pos": "phr.",
+            "zh": "…に感心する；…が気に入る",
+            "ex": "I was really impressed with the big windows.",
+            "exzh": "大きな窓に本当に感心した。",
+            "ipa": "/bi ˌɪmˈprɛst wɪð/",
+            "audio": "media/words/ep44/be-impressed-with.mp3",
+            "ex_audio": "media/words/ep44/be-impressed-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lease",
+            "pos": "n./v.",
+            "zh": "賃貸借契約；リース；賃貸する",
+            "ex": "Are you ready to sign a lease?",
+            "exzh": "賃貸契約を結ぶ準備はできましたか。",
+            "ipa": "/lis/",
+            "audio": "media/words/ep44/lease.mp3",
+            "ex_audio": "media/words/ep44/lease_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "option",
+            "pos": "n.",
+            "zh": "選択肢；オプション",
+            "ex": "There are several lease options.",
+            "exzh": "契約のプランがいくつかある。",
+            "ipa": "/ˈɑpʃən/",
+            "audio": "media/words/ep44/option.mp3",
+            "ex_audio": "media/words/ep44/option_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "depend on",
+            "pos": "phr.",
+            "zh": "…によって決まる；…次第だ",
+            "ex": "The rent depends on the duration of the lease.",
+            "exzh": "家賃は契約期間によって変わる。",
+            "ipa": "/dɪˈpɛnd ɑn/",
+            "audio": "media/words/ep44/depend-on.mp3",
+            "ex_audio": "media/words/ep44/depend-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "duration",
+            "pos": "n.",
+            "zh": "期間；継続時間",
+            "ex": "The duration of the lease is one year.",
+            "exzh": "契約期間は1年だ。",
+            "ipa": "/ˈdʊˈreɪʃən/",
+            "audio": "media/words/ep44/duration.mp3",
+            "ex_audio": "media/words/ep44/duration_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "tenant",
+            "pos": "n.",
+            "zh": "入居者；借家人",
+            "ex": "Most tenants choose the two-year lease.",
+            "exzh": "ほとんどの入居者は2年契約を選ぶ。",
+            "ipa": "/ˈtɛnənt/",
+            "audio": "media/words/ep44/tenant.mp3",
+            "ex_audio": "media/words/ep44/tenant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relocate",
+            "pos": "v.",
+            "zh": "移転する；移す",
+            "ex": "I may have to move if my company relocates.",
+            "exzh": "会社が移転したら引っ越さないといけないかもしれない。",
+            "ipa": "/ˌriˈloʊkeɪt/",
+            "audio": "media/words/ep44/relocate.mp3",
+            "ex_audio": "media/words/ep44/relocate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "move-in date",
+            "pos": "n.",
+            "zh": "入居日",
+            "ex": "Just let me know your move-in date.",
+            "exzh": "入居日だけ教えてください。",
+            "ipa": "/muv-ɪn deɪt/",
+            "audio": "media/words/ep44/move-in-date.mp3",
+            "ex_audio": "media/words/ep44/move-in-date_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "have something done",
+            "pos": "phr.",
+            "zh": "（人に）…してもらう；…させる",
+            "ex": "I can have the apartment professionally cleaned.",
+            "exzh": "アパートを専門業者に掃除してもらえる。",
+            "ipa": "/hæv ˈsʌmθɪŋ dʌn/",
+            "audio": "media/words/ep44/have-something-done.mp3",
+            "ex_audio": "media/words/ep44/have-something-done_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "professionally",
+            "pos": "adv.",
+            "zh": "専門的に；プロの手で",
+            "ex": "The carpets were professionally cleaned.",
+            "exzh": "じゅうたんはプロの手で洗浄された。",
+            "ipa": "/prəˈfɛʃənəli/",
+            "audio": "media/words/ep44/professionally.mp3",
+            "ex_audio": "media/words/ep44/professionally_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appliance",
+            "pos": "n.",
+            "zh": "家電製品；器具",
+            "ex": "The apartment has upgraded appliances.",
+            "exzh": "そのアパートは家電が新しくなっている。",
+            "ipa": "/əˈplaɪəns/",
+            "audio": "media/words/ep44/appliance.mp3",
+            "ex_audio": "media/words/ep44/appliance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "arrange for",
+            "pos": "phr.",
+            "zh": "手配する；準備する",
+            "ex": "She will arrange for a cleaning service.",
+            "exzh": "彼女は清掃サービスを手配する。",
+            "ipa": "/ɚˈeɪndʒ fɔr/",
+            "audio": "media/words/ep44/arrange-for.mp3",
+            "ex_audio": "media/words/ep44/arrange-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assign",
+            "pos": "v.",
+            "zh": "割り当てる；任命する",
+            "ex": "They will assign you a parking space.",
+            "exzh": "駐車スペースが割り当てられる。",
+            "ipa": "/əˈsaɪn/",
+            "audio": "media/words/ep44/assign.mp3",
+            "ex_audio": "media/words/ep44/assign_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "host",
+            "pos": "v./n.",
+            "zh": "司会をする；司会者；主催する",
+            "ex": "I'm excited to be hosting today's episode.",
+            "exzh": "今日の回の司会を務められてうれしい。",
+            "ipa": "/hoʊst/",
+            "audio": "media/words/ep44/host.mp3",
+            "ex_audio": "media/words/ep44/host_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "episode",
+            "pos": "n.",
+            "zh": "（番組の）1回分；エピソード",
+            "ex": "Welcome to today's episode of Food Bites.",
+            "exzh": "今日の Food Bites へようこそ。",
+            "ipa": "/ˈɛpəˌsoʊd/",
+            "audio": "media/words/ep44/episode.mp3",
+            "ex_audio": "media/words/ep44/episode_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regular",
+            "pos": "adj.",
+            "zh": "いつもの；定期的な；通常の",
+            "ex": "Our regular host is on vacation.",
+            "exzh": "いつもの司会者は休暇中だ。",
+            "ipa": "/ˈrɛɡjəlɚ/",
+            "audio": "media/words/ep44/regular.mp3",
+            "ex_audio": "media/words/ep44/regular_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on vacation",
+            "pos": "phr.",
+            "zh": "休暇中で",
+            "ex": "She is on vacation this week.",
+            "exzh": "彼女は今週休暇中だ。",
+            "ipa": "/ɑn veɪˈkeɪʃən/",
+            "audio": "media/words/ep44/on-vacation.mp3",
+            "ex_audio": "media/words/ep44/on-vacation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "restaurant chain",
+            "pos": "n.",
+            "zh": "レストランチェーン",
+            "ex": "She started a local restaurant chain.",
+            "exzh": "彼女は地元でレストランチェーンを始めた。",
+            "ipa": "/ˈrɛstɚˌɑnt tʃeɪn/",
+            "audio": "media/words/ep44/restaurant-chain.mp3",
+            "ex_audio": "media/words/ep44/restaurant-chain_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "vegetarian",
+            "pos": "adj./n.",
+            "zh": "菜食の；菜食主義者",
+            "ex": "The restaurant serves vegetarian dishes.",
+            "exzh": "そのレストランはベジタリアン料理を出す。",
+            "ipa": "/ˌvɛdʒəˈtɛˌriən/",
+            "audio": "media/words/ep44/vegetarian.mp3",
+            "ex_audio": "media/words/ep44/vegetarian_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cuisine",
+            "pos": "n.",
+            "zh": "料理；料理法",
+            "ex": "The chain serves vegetarian cuisine.",
+            "exzh": "そのチェーンはベジタリアン料理を出している。",
+            "ipa": "/kwɪˈzin/",
+            "audio": "media/words/ep44/cuisine.mp3",
+            "ex_audio": "media/words/ep44/cuisine_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "process",
+            "pos": "n.",
+            "zh": "過程；手順",
+            "ex": "I'll ask her about the process of creating a business.",
+            "exzh": "ビジネスを作る過程について聞く。",
+            "ipa": "/ˈprɑˌsɛs/",
+            "audio": "media/words/ep44/process.mp3",
+            "ex_audio": "media/words/ep44/process_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "along the way",
+            "pos": "phr.",
+            "zh": "その途中で；これまでに",
+            "ex": "What has she learned along the way?",
+            "exzh": "彼女はその中で何を学んだのか。",
+            "ipa": "/əˈlɔŋ ðə weɪ/",
+            "audio": "media/words/ep44/along-the-way.mp3",
+            "ex_audio": "media/words/ep44/along-the-way_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sponsor",
+            "pos": "n./v.",
+            "zh": "スポンサー；後援する",
+            "ex": "I'd like to thank our sponsor, Mattress Pod.",
+            "exzh": "スポンサーの Mattress Pod に感謝したい。",
+            "ipa": "/ˈspɑnsɚ/",
+            "audio": "media/words/ep44/sponsor.mp3",
+            "ex_audio": "media/words/ep44/sponsor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mattress",
+            "pos": "n.",
+            "zh": "マットレス",
+            "ex": "This mattress keeps you cool while you sleep.",
+            "exzh": "このマットレスは寝ている間も涼しく保つ。",
+            "ipa": "/ˈmætrəs/",
+            "audio": "media/words/ep44/mattress.mp3",
+            "ex_audio": "media/words/ep44/mattress_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cutting-edge",
+            "pos": "adj.",
+            "zh": "最先端の",
+            "ex": "The company uses cutting-edge technology.",
+            "exzh": "その会社は最先端の技術を使っている。",
+            "ipa": "/ˈkʌtɪŋˌɛdʒ/",
+            "audio": "media/words/ep44/cutting-edge.mp3",
+            "ex_audio": "media/words/ep44/cutting-edge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ensure",
+            "pos": "v.",
+            "zh": "確実にする；保証する",
+            "ex": "The technology ensures that you stay cool.",
+            "exzh": "その技術で涼しさが保たれる。",
+            "ipa": "/ɛnˈʃʊr/",
+            "audio": "media/words/ep44/ensure.mp3",
+            "ex_audio": "media/words/ep44/ensure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "substitute for",
+            "pos": "phr.",
+            "zh": "…の代わりを務める",
+            "ex": "Who is the speaker substituting for?",
+            "exzh": "話し手は誰の代わりを務めているか。",
+            "ipa": "/ˈsʌbstəˌtut fɔr/",
+            "audio": "media/words/ep44/substitute-for.mp3",
+            "ex_audio": "media/words/ep44/substitute-for_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "environmentally friendly",
+            "pos": "adj.",
+            "zh": "環境に優しい",
+            "ex": "The company uses environmentally friendly practices.",
+            "exzh": "その会社は環境に優しい取り組みをしている。",
+            "ipa": "/ɪnˌvaɪrənˈmɛntəli ˈfrɛndli/",
+            "audio": "media/words/ep44/environmentally-friendly.mp3",
+            "ex_audio": "media/words/ep44/environmentally-friendly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "accomplishment",
+            "pos": "n.",
+            "zh": "業績；成果",
+            "ex": "The awards acknowledge their accomplishments.",
+            "exzh": "その賞は彼らの業績をたたえるものだ。",
+            "ipa": "/əˈkɑmplɪʃmənt/",
+            "audio": "media/words/ep44/accomplishment.mp3",
+            "ex_audio": "media/words/ep44/accomplishment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "decade",
+            "pos": "n.",
+            "zh": "10年",
+            "ex": "She has served the community for five decades.",
+            "exzh": "彼女は50年間地域に尽くしてきた。",
+            "ipa": "/dɛˈkeɪd/",
+            "audio": "media/words/ep44/decade.mp3",
+            "ex_audio": "media/words/ep44/decade_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assortment",
+            "pos": "n.",
+            "zh": "取りそろえ；品ぞろえ",
+            "ex": "The store has the widest assortments of art supplies.",
+            "exzh": "その店は画材の品ぞろえが最も豊富だ。",
+            "ipa": "/əˈsɔrtmənt/",
+            "audio": "media/words/ep44/assortment.mp3",
+            "ex_audio": "media/words/ep44/assortment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "initiate",
+            "pos": "v.",
+            "zh": "始める；創設する",
+            "ex": "She initiated the Lusaka Arts Jamboree.",
+            "exzh": "彼女は Lusaka 芸術祭を始めた。",
+            "ipa": "/ˌɪˈnɪʃiˌeɪt/",
+            "audio": "media/words/ep44/initiate.mp3",
+            "ex_audio": "media/words/ep44/initiate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "praise",
+            "pos": "n./v.",
+            "zh": "称賛；ほめる",
+            "ex": "The program has already drawn praise.",
+            "exzh": "そのプログラムはすでに称賛を集めている。",
+            "ipa": "/preɪz/",
+            "audio": "media/words/ep44/praise.mp3",
+            "ex_audio": "media/words/ep44/praise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "admission",
+            "pos": "n.",
+            "zh": "入場；入場料；入場許可",
+            "ex": "You can buy admission tickets online.",
+            "exzh": "入場券はオンラインで買える。",
+            "ipa": "/ædˈmɪʃən/",
+            "audio": "media/words/ep44/admission.mp3",
+            "ex_audio": "media/words/ep44/admission_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "proceeds",
+            "pos": "n.",
+            "zh": "収益；売上金",
+            "ex": "All proceeds will benefit the foundation.",
+            "exzh": "収益はすべて財団に寄付される。",
+            "ipa": "/prəˈsidz/",
+            "audio": "media/words/ep44/proceeds.mp3",
+            "ex_audio": "media/words/ep44/proceeds_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "benefit",
+            "pos": "v./n.",
+            "zh": "…のためになる；利益",
+            "ex": "The auction will benefit local youth.",
+            "exzh": "オークションは地元の若者のためになる。",
+            "ipa": "/ˈbɛnəfɪt/",
+            "audio": "media/words/ep44/benefit.mp3",
+            "ex_audio": "media/words/ep44/benefit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cause",
+            "pos": "n.",
+            "zh": "（慈善などの）運動；大義；原因",
+            "ex": "The event raises money for a good cause.",
+            "exzh": "そのイベントは慈善のために資金を集める。",
+            "ipa": "/kɑz/",
+            "audio": "media/words/ep44/cause.mp3",
+            "ex_audio": "media/words/ep44/cause_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep44_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 3/4 図表問題",
+    "words": [
+      {
+        "word": "dessert",
+        "pos": "n.",
+        "zh": "甜点",
+        "ex": "I was thinking of getting a dessert to bring to the party.",
+        "exzh": "我在想买一份甜点带去派对。",
+        "ipa": "/dɪˈzɝt/",
+        "audio": "media/words/ep44/dessert.mp3",
+        "ex_audio": "media/words/ep44/dessert_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retirement party",
+        "pos": "n.",
+        "zh": "退休派对；退休欢送会",
+        "ex": "We're having a retirement party for Jin-Ah.",
+        "exzh": "我们要给 Jin-Ah 办退休派对。",
+        "ipa": "/riˈtaɪɚmənt ˈpɑrti/",
+        "audio": "media/words/ep44/retirement-party.mp3",
+        "ex_audio": "media/words/ep44/retirement-party_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bakery",
+        "pos": "n.",
+        "zh": "面包店；烘焙店",
+        "ex": "Have you tried anything from Gladstone's Bakery?",
+        "exzh": "你吃过 Gladstone's 面包店的东西吗？",
+        "ipa": "/ˈbeɪkɚi/",
+        "audio": "media/words/ep44/bakery.mp3",
+        "ex_audio": "media/words/ep44/bakery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "review",
+        "pos": "n./v.",
+        "zh": "评价；评论；复习；审查",
+        "ex": "I have heard great reviews about the bakery.",
+        "exzh": "我听说这家面包店评价很好。",
+        "ipa": "/ˌriˈvju/",
+        "audio": "media/words/ep44/review.mp3",
+        "ex_audio": "media/words/ep44/review_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "toward",
+        "pos": "prep.",
+        "zh": "用于；为了；朝着",
+        "ex": "I'd be happy to give you some money toward paying for it.",
+        "exzh": "我很乐意出点钱帮你付款。",
+        "ipa": "/təˈwɔrd/",
+        "audio": "media/words/ep44/toward.mp3",
+        "ex_audio": "media/words/ep44/toward_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "necessary",
+        "pos": "adj.",
+        "zh": "必要的",
+        "ex": "Oh, that won't be necessary.",
+        "exzh": "哦，那就不必了。",
+        "ipa": "/ˈnɛsəˌsɛri/",
+        "audio": "media/words/ep44/necessary.mp3",
+        "ex_audio": "media/words/ep44/necessary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "banquet",
+        "pos": "n.",
+        "zh": "宴会；晚宴",
+        "ex": "The company holds a banquet every December.",
+        "exzh": "公司每年十二月办一次宴会。",
+        "ipa": "/ˈbæŋkwət/",
+        "audio": "media/words/ep44/banquet.mp3",
+        "ex_audio": "media/words/ep44/banquet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "exhibit",
+        "pos": "n./v.",
+        "zh": "展览；展品；展出",
+        "ex": "We went to an art exhibit opening.",
+        "exzh": "我们去了一个艺术展的开幕式。",
+        "ipa": "/ɪɡˈzɪbɪt/",
+        "audio": "media/words/ep44/exhibit.mp3",
+        "ex_audio": "media/words/ep44/exhibit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contribute",
+        "pos": "v.",
+        "zh": "出钱；捐助；贡献",
+        "ex": "The woman offers to contribute some money.",
+        "exzh": "女子主动提出出点钱。",
+        "ipa": "/kənˈtrɪbjut/",
+        "audio": "media/words/ep44/contribute.mp3",
+        "ex_audio": "media/words/ep44/contribute_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ticket counter",
+        "pos": "n.",
+        "zh": "售票柜台",
+        "ex": "Welcome to the ticket counter for Ace Airlines.",
+        "exzh": "欢迎来到 Ace 航空公司的售票柜台。",
+        "ipa": "/ˈtɪkət ˈkaʊntɚ/",
+        "audio": "media/words/ep44/ticket-counter.mp3",
+        "ex_audio": "media/words/ep44/ticket-counter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reservation",
+        "pos": "n.",
+        "zh": "预订；预约",
+        "ex": "I'd like to change the reservation for my flight.",
+        "exzh": "我想改一下航班的预订。",
+        "ipa": "/ˌrɛzɚˈveɪʃən/",
+        "audio": "media/words/ep44/reservation.mp3",
+        "ex_audio": "media/words/ep44/reservation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "return flight",
+        "pos": "n.",
+        "zh": "回程航班",
+        "ex": "My return flight leaves on Monday.",
+        "exzh": "我的回程航班星期一起飞。",
+        "ipa": "/rɪˈtɝn flaɪt/",
+        "audio": "media/words/ep44/return-flight.mp3",
+        "ex_audio": "media/words/ep44/return-flight_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take care of",
+        "pos": "phr.",
+        "zh": "处理；负责；照顾",
+        "ex": "Certainly. I'll take care of that.",
+        "exzh": "好的，我来处理。",
+        "ipa": "/teɪk kɛr əv/",
+        "audio": "media/words/ep44/take-care-of.mp3",
+        "ex_audio": "media/words/ep44/take-care-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fee",
+        "pos": "n.",
+        "zh": "费用；手续费",
+        "ex": "There's a fee of 100 dollars for the change.",
+        "exzh": "改签要收 100 美元的手续费。",
+        "ipa": "/fi/",
+        "audio": "media/words/ep44/fee.mp3",
+        "ex_audio": "media/words/ep44/fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attend",
+        "pos": "v.",
+        "zh": "参加；出席",
+        "ex": "I'd like to stay at the conference I'm attending for another day.",
+        "exzh": "我想在我参加的会议上再多待一天。",
+        "ipa": "/əˈtɛnd/",
+        "audio": "media/words/ep44/attend.mp3",
+        "ex_audio": "media/words/ep44/attend_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "by the way",
+        "pos": "phr.",
+        "zh": "顺便说一下",
+        "ex": "By the way, the sign over there will tell you where to go.",
+        "exzh": "顺便说一下，那边的指示牌会告诉您去哪里。",
+        "ipa": "/baɪ ðə weɪ/",
+        "audio": "media/words/ep44/by-the-way.mp3",
+        "ex_audio": "media/words/ep44/by-the-way_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "transportation",
+        "pos": "n.",
+        "zh": "交通；交通工具；运输",
+        "ex": "Do you need transportation into the city?",
+        "exzh": "您需要进城的交通工具吗？",
+        "ipa": "/ˌtrænspɚˈteɪʃən/",
+        "audio": "media/words/ep44/transportation.mp3",
+        "ex_audio": "media/words/ep44/transportation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "courtesy shuttle",
+        "pos": "n.",
+        "zh": "免费接驳车",
+        "ex": "I'm planning to take the hotel's courtesy shuttle.",
+        "exzh": "我打算坐酒店的免费接驳车。",
+        "ipa": "/ˈkɝtəsi ˈʃʌtəl/",
+        "audio": "media/words/ep44/courtesy-shuttle.mp3",
+        "ex_audio": "media/words/ep44/courtesy-shuttle_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "tip",
+        "pos": "n.",
+        "zh": "提示；建议；小费",
+        "ex": "Thanks for the tip!",
+        "exzh": "谢谢你的提醒！",
+        "ipa": "/tɪp/",
+        "audio": "media/words/ep44/tip.mp3",
+        "ex_audio": "media/words/ep44/tip_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "enroll",
+        "pos": "v.",
+        "zh": "注册；加入；登记",
+        "ex": "Please enroll me in the rewards program.",
+        "exzh": "请帮我加入积分计划。",
+        "ipa": "/ɛnˈroʊl/",
+        "audio": "media/words/ep44/enroll.mp3",
+        "ex_audio": "media/words/ep44/enroll_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "refund",
+        "pos": "v./n.",
+        "zh": "退款；退还",
+        "ex": "Can you refund my ticket?",
+        "exzh": "能给我退票吗？",
+        "ipa": "/rɪˈfʌnd/",
+        "audio": "media/words/ep44/refund.mp3",
+        "ex_audio": "media/words/ep44/refund_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sightseeing",
+        "pos": "n.",
+        "zh": "观光；游览",
+        "ex": "He is not traveling for sightseeing.",
+        "exzh": "他出行不是为了观光。",
+        "ipa": "/ˈsaɪtˈsiɪŋ/",
+        "audio": "media/words/ep44/sightseeing.mp3",
+        "ex_audio": "media/words/ep44/sightseeing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be impressed with",
+        "pos": "phr.",
+        "zh": "对……印象深刻；很欣赏",
+        "ex": "I was really impressed with the big windows.",
+        "exzh": "那些大窗户让我印象深刻。",
+        "ipa": "/bi ˌɪmˈprɛst wɪð/",
+        "audio": "media/words/ep44/be-impressed-with.mp3",
+        "ex_audio": "media/words/ep44/be-impressed-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lease",
+        "pos": "n./v.",
+        "zh": "租约；租赁合同；租用",
+        "ex": "Are you ready to sign a lease?",
+        "exzh": "您准备好签租约了吗？",
+        "ipa": "/lis/",
+        "audio": "media/words/ep44/lease.mp3",
+        "ex_audio": "media/words/ep44/lease_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "option",
+        "pos": "n.",
+        "zh": "选项；选择",
+        "ex": "There are several lease options.",
+        "exzh": "有几种租约选择。",
+        "ipa": "/ˈɑpʃən/",
+        "audio": "media/words/ep44/option.mp3",
+        "ex_audio": "media/words/ep44/option_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "depend on",
+        "pos": "phr.",
+        "zh": "取决于；依赖",
+        "ex": "The rent depends on the duration of the lease.",
+        "exzh": "房租取决于租约的期限。",
+        "ipa": "/dɪˈpɛnd ɑn/",
+        "audio": "media/words/ep44/depend-on.mp3",
+        "ex_audio": "media/words/ep44/depend-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "duration",
+        "pos": "n.",
+        "zh": "持续时间；期限",
+        "ex": "The duration of the lease is one year.",
+        "exzh": "租约期限是一年。",
+        "ipa": "/ˈdʊˈreɪʃən/",
+        "audio": "media/words/ep44/duration.mp3",
+        "ex_audio": "media/words/ep44/duration_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "tenant",
+        "pos": "n.",
+        "zh": "租客；房客",
+        "ex": "Most tenants choose the two-year lease.",
+        "exzh": "大多数租客选两年的租约。",
+        "ipa": "/ˈtɛnənt/",
+        "audio": "media/words/ep44/tenant.mp3",
+        "ex_audio": "media/words/ep44/tenant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relocate",
+        "pos": "v.",
+        "zh": "搬迁；迁移",
+        "ex": "I may have to move if my company relocates.",
+        "exzh": "如果公司搬迁，我可能得搬家。",
+        "ipa": "/ˌriˈloʊkeɪt/",
+        "audio": "media/words/ep44/relocate.mp3",
+        "ex_audio": "media/words/ep44/relocate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "move-in date",
+        "pos": "n.",
+        "zh": "入住日期",
+        "ex": "Just let me know your move-in date.",
+        "exzh": "只要告诉我您的入住日期就行。",
+        "ipa": "/muv-ɪn deɪt/",
+        "audio": "media/words/ep44/move-in-date.mp3",
+        "ex_audio": "media/words/ep44/move-in-date_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "have something done",
+        "pos": "phr.",
+        "zh": "请别人做某事；使某事被做",
+        "ex": "I can have the apartment professionally cleaned.",
+        "exzh": "我可以请专业人员把公寓打扫好。",
+        "ipa": "/hæv ˈsʌmθɪŋ dʌn/",
+        "audio": "media/words/ep44/have-something-done.mp3",
+        "ex_audio": "media/words/ep44/have-something-done_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "professionally",
+        "pos": "adv.",
+        "zh": "专业地；职业上",
+        "ex": "The carpets were professionally cleaned.",
+        "exzh": "地毯请专业人员清洗过了。",
+        "ipa": "/prəˈfɛʃənəli/",
+        "audio": "media/words/ep44/professionally.mp3",
+        "ex_audio": "media/words/ep44/professionally_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appliance",
+        "pos": "n.",
+        "zh": "家用电器；器具",
+        "ex": "The apartment has upgraded appliances.",
+        "exzh": "这套公寓的家电升级过。",
+        "ipa": "/əˈplaɪəns/",
+        "audio": "media/words/ep44/appliance.mp3",
+        "ex_audio": "media/words/ep44/appliance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "arrange for",
+        "pos": "phr.",
+        "zh": "安排；准备",
+        "ex": "She will arrange for a cleaning service.",
+        "exzh": "她会安排清洁服务。",
+        "ipa": "/ɚˈeɪndʒ fɔr/",
+        "audio": "media/words/ep44/arrange-for.mp3",
+        "ex_audio": "media/words/ep44/arrange-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assign",
+        "pos": "v.",
+        "zh": "分配；指派",
+        "ex": "They will assign you a parking space.",
+        "exzh": "他们会给你分配一个车位。",
+        "ipa": "/əˈsaɪn/",
+        "audio": "media/words/ep44/assign.mp3",
+        "ex_audio": "media/words/ep44/assign_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "host",
+        "pos": "v./n.",
+        "zh": "主持；主持人；主办",
+        "ex": "I'm excited to be hosting today's episode.",
+        "exzh": "很高兴来主持今天这一期节目。",
+        "ipa": "/hoʊst/",
+        "audio": "media/words/ep44/host.mp3",
+        "ex_audio": "media/words/ep44/host_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "episode",
+        "pos": "n.",
+        "zh": "（节目的）一期；一集",
+        "ex": "Welcome to today's episode of Food Bites.",
+        "exzh": "欢迎收听今天这一期 Food Bites。",
+        "ipa": "/ˈɛpəˌsoʊd/",
+        "audio": "media/words/ep44/episode.mp3",
+        "ex_audio": "media/words/ep44/episode_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regular",
+        "pos": "adj.",
+        "zh": "固定的；平常的；定期的",
+        "ex": "Our regular host is on vacation.",
+        "exzh": "我们的常驻主持人在休假。",
+        "ipa": "/ˈrɛɡjəlɚ/",
+        "audio": "media/words/ep44/regular.mp3",
+        "ex_audio": "media/words/ep44/regular_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on vacation",
+        "pos": "phr.",
+        "zh": "在休假",
+        "ex": "She is on vacation this week.",
+        "exzh": "她这周在休假。",
+        "ipa": "/ɑn veɪˈkeɪʃən/",
+        "audio": "media/words/ep44/on-vacation.mp3",
+        "ex_audio": "media/words/ep44/on-vacation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "restaurant chain",
+        "pos": "n.",
+        "zh": "连锁餐厅",
+        "ex": "She started a local restaurant chain.",
+        "exzh": "她创办了一家本地连锁餐厅。",
+        "ipa": "/ˈrɛstɚˌɑnt tʃeɪn/",
+        "audio": "media/words/ep44/restaurant-chain.mp3",
+        "ex_audio": "media/words/ep44/restaurant-chain_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "vegetarian",
+        "pos": "adj./n.",
+        "zh": "素食的；素食者",
+        "ex": "The restaurant serves vegetarian dishes.",
+        "exzh": "这家餐厅供应素食。",
+        "ipa": "/ˌvɛdʒəˈtɛˌriən/",
+        "audio": "media/words/ep44/vegetarian.mp3",
+        "ex_audio": "media/words/ep44/vegetarian_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cuisine",
+        "pos": "n.",
+        "zh": "菜肴；烹饪风格",
+        "ex": "The chain serves vegetarian cuisine.",
+        "exzh": "这家连锁店供应素食菜肴。",
+        "ipa": "/kwɪˈzin/",
+        "audio": "media/words/ep44/cuisine.mp3",
+        "ex_audio": "media/words/ep44/cuisine_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "process",
+        "pos": "n.",
+        "zh": "过程；流程",
+        "ex": "I'll ask her about the process of creating a business.",
+        "exzh": "我会问她创业的过程。",
+        "ipa": "/ˈprɑˌsɛs/",
+        "audio": "media/words/ep44/process.mp3",
+        "ex_audio": "media/words/ep44/process_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "along the way",
+        "pos": "phr.",
+        "zh": "一路上；在这个过程中",
+        "ex": "What has she learned along the way?",
+        "exzh": "她一路走来学到了什么？",
+        "ipa": "/əˈlɔŋ ðə weɪ/",
+        "audio": "media/words/ep44/along-the-way.mp3",
+        "ex_audio": "media/words/ep44/along-the-way_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sponsor",
+        "pos": "n./v.",
+        "zh": "赞助商；赞助",
+        "ex": "I'd like to thank our sponsor, Mattress Pod.",
+        "exzh": "我要感谢我们的赞助商 Mattress Pod。",
+        "ipa": "/ˈspɑnsɚ/",
+        "audio": "media/words/ep44/sponsor.mp3",
+        "ex_audio": "media/words/ep44/sponsor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mattress",
+        "pos": "n.",
+        "zh": "床垫",
+        "ex": "This mattress keeps you cool while you sleep.",
+        "exzh": "这款床垫让你睡觉时保持凉爽。",
+        "ipa": "/ˈmætrəs/",
+        "audio": "media/words/ep44/mattress.mp3",
+        "ex_audio": "media/words/ep44/mattress_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cutting-edge",
+        "pos": "adj.",
+        "zh": "尖端的；最先进的",
+        "ex": "The company uses cutting-edge technology.",
+        "exzh": "这家公司采用尖端技术。",
+        "ipa": "/ˈkʌtɪŋˌɛdʒ/",
+        "audio": "media/words/ep44/cutting-edge.mp3",
+        "ex_audio": "media/words/ep44/cutting-edge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ensure",
+        "pos": "v.",
+        "zh": "确保；保证",
+        "ex": "The technology ensures that you stay cool.",
+        "exzh": "这项技术确保你保持凉爽。",
+        "ipa": "/ɛnˈʃʊr/",
+        "audio": "media/words/ep44/ensure.mp3",
+        "ex_audio": "media/words/ep44/ensure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "substitute for",
+        "pos": "phr.",
+        "zh": "代替；代班",
+        "ex": "Who is the speaker substituting for?",
+        "exzh": "说话人在替谁代班？",
+        "ipa": "/ˈsʌbstəˌtut fɔr/",
+        "audio": "media/words/ep44/substitute-for.mp3",
+        "ex_audio": "media/words/ep44/substitute-for_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "environmentally friendly",
+        "pos": "adj.",
+        "zh": "环保的；对环境友好的",
+        "ex": "The company uses environmentally friendly practices.",
+        "exzh": "这家公司采用环保的做法。",
+        "ipa": "/ɪnˌvaɪrənˈmɛntəli ˈfrɛndli/",
+        "audio": "media/words/ep44/environmentally-friendly.mp3",
+        "ex_audio": "media/words/ep44/environmentally-friendly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "accomplishment",
+        "pos": "n.",
+        "zh": "成就；成绩",
+        "ex": "The awards acknowledge their accomplishments.",
+        "exzh": "这些奖项是对他们成就的表彰。",
+        "ipa": "/əˈkɑmplɪʃmənt/",
+        "audio": "media/words/ep44/accomplishment.mp3",
+        "ex_audio": "media/words/ep44/accomplishment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "decade",
+        "pos": "n.",
+        "zh": "十年",
+        "ex": "She has served the community for five decades.",
+        "exzh": "她为社区服务了五十年。",
+        "ipa": "/dɛˈkeɪd/",
+        "audio": "media/words/ep44/decade.mp3",
+        "ex_audio": "media/words/ep44/decade_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assortment",
+        "pos": "n.",
+        "zh": "各种各样的搭配；品种",
+        "ex": "The store has the widest assortments of art supplies.",
+        "exzh": "这家店的美术用品品种最齐全。",
+        "ipa": "/əˈsɔrtmənt/",
+        "audio": "media/words/ep44/assortment.mp3",
+        "ex_audio": "media/words/ep44/assortment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "initiate",
+        "pos": "v.",
+        "zh": "发起；创始；开始",
+        "ex": "She initiated the Lusaka Arts Jamboree.",
+        "exzh": "她发起了 Lusaka 艺术节。",
+        "ipa": "/ˌɪˈnɪʃiˌeɪt/",
+        "audio": "media/words/ep44/initiate.mp3",
+        "ex_audio": "media/words/ep44/initiate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "praise",
+        "pos": "n./v.",
+        "zh": "称赞；赞扬",
+        "ex": "The program has already drawn praise.",
+        "exzh": "这个项目已经获得了称赞。",
+        "ipa": "/preɪz/",
+        "audio": "media/words/ep44/praise.mp3",
+        "ex_audio": "media/words/ep44/praise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "admission",
+        "pos": "n.",
+        "zh": "入场；入场费；准许进入",
+        "ex": "You can buy admission tickets online.",
+        "exzh": "可以在网上买入场券。",
+        "ipa": "/ædˈmɪʃən/",
+        "audio": "media/words/ep44/admission.mp3",
+        "ex_audio": "media/words/ep44/admission_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "proceeds",
+        "pos": "n.",
+        "zh": "收益；所得款项",
+        "ex": "All proceeds will benefit the foundation.",
+        "exzh": "所有收益都将捐给基金会。",
+        "ipa": "/prəˈsidz/",
+        "audio": "media/words/ep44/proceeds.mp3",
+        "ex_audio": "media/words/ep44/proceeds_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "benefit",
+        "pos": "v./n.",
+        "zh": "有益于；使受益；好处",
+        "ex": "The auction will benefit local youth.",
+        "exzh": "这次拍卖将惠及本地青少年。",
+        "ipa": "/ˈbɛnəfɪt/",
+        "audio": "media/words/ep44/benefit.mp3",
+        "ex_audio": "media/words/ep44/benefit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cause",
+        "pos": "n.",
+        "zh": "公益事业；目标；原因",
+        "ex": "The event raises money for a good cause.",
+        "exzh": "这次活动为公益事业筹款。",
+        "ipa": "/kɑz/",
+        "audio": "media/words/ep44/cause.mp3",
+        "ex_audio": "media/words/ep44/cause_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 43,
     "theme": "题型精讲 · Part 3/4 意图题与“接下来做什么”题",
     "date": "2026-10-25",
