@@ -1,5 +1,1968 @@
 [
   {
+    "number": 46,
+    "theme": "题型精讲 · Part 3/4 请求、提议与建议题",
+    "date": "2026-10-28",
+    "duration_sec": 3742.4,
+    "segments": [
+      {
+        "title": "1. Part 3/4 请求·提议·建议题真题（两套卷 5 组 · 逐句精听）",
+        "start": 0.0,
+        "length": 2382.13
+      },
+      {
+        "title": "2. Part 7 合作餐厅免费午餐通知（配套精练）",
+        "start": 2382.13,
+        "length": 305.83
+      },
+      {
+        "title": "3. 本期 63 词总复习 · 拼读",
+        "start": 2687.96,
+        "length": 1054.42
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "assign",
+        "zh": "分配；指派"
+      },
+      {
+        "word": "invoice",
+        "zh": "发票；账单；开发票"
+      },
+      {
+        "word": "layover",
+        "zh": "中途停留；转机等候"
+      },
+      {
+        "word": "obstacle",
+        "zh": "障碍；阻碍"
+      },
+      {
+        "word": "permanent",
+        "zh": "永久的；常设的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "internship",
+        "zh": "实习；实习期"
+      },
+      {
+        "word": "come along",
+        "zh": "进展；进步"
+      },
+      {
+        "word": "remind",
+        "zh": "提醒；使想起"
+      },
+      {
+        "word": "mentor",
+        "zh": "导师；指导人；指导"
+      },
+      {
+        "word": "that way",
+        "zh": "这样一来；那样的话"
+      },
+      {
+        "word": "assign",
+        "zh": "分配；指派"
+      },
+      {
+        "word": "colleague",
+        "zh": "同事"
+      },
+      {
+        "word": "available",
+        "zh": "有空的；可获得的"
+      },
+      {
+        "word": "anniversary",
+        "zh": "周年纪念日"
+      },
+      {
+        "word": "workshop",
+        "zh": "研讨会；讲习班；工作坊"
+      },
+      {
+        "word": "availability",
+        "zh": "有空；可利用性"
+      },
+      {
+        "word": "account",
+        "zh": "客户；账户；账目"
+      },
+      {
+        "word": "calculation",
+        "zh": "计算"
+      },
+      {
+        "word": "finalize",
+        "zh": "最后确定；定稿"
+      },
+      {
+        "word": "invoice",
+        "zh": "发票；账单；开发票"
+      },
+      {
+        "word": "complex",
+        "zh": "复杂的；综合大楼"
+      },
+      {
+        "word": "expense",
+        "zh": "开支；费用"
+      },
+      {
+        "word": "receipt",
+        "zh": "收据；收到"
+      },
+      {
+        "word": "right away",
+        "zh": "马上；立刻"
+      },
+      {
+        "word": "accountant",
+        "zh": "会计；会计师"
+      },
+      {
+        "word": "architect",
+        "zh": "建筑师"
+      },
+      {
+        "word": "supplier",
+        "zh": "供应商；供货方"
+      },
+      {
+        "word": "press conference",
+        "zh": "记者招待会；新闻发布会"
+      },
+      {
+        "word": "flight school",
+        "zh": "飞行学校"
+      },
+      {
+        "word": "hire",
+        "zh": "雇用；录用；新员工"
+      },
+      {
+        "word": "route",
+        "zh": "路线；航线"
+      },
+      {
+        "word": "used to",
+        "zh": "以前常常；过去曾经"
+      },
+      {
+        "word": "layover",
+        "zh": "中途停留；转机等候"
+      },
+      {
+        "word": "downtown",
+        "zh": "在市中心；去市中心；市中心"
+      },
+      {
+        "word": "recommendation",
+        "zh": "推荐；建议"
+      },
+      {
+        "word": "crew",
+        "zh": "机组人员；全体工作人员"
+      },
+      {
+        "word": "line up",
+        "zh": "排队；排成一行"
+      },
+      {
+        "word": "baggage handler",
+        "zh": "行李搬运员"
+      },
+      {
+        "word": "sightseeing",
+        "zh": "观光；游览"
+      },
+      {
+        "word": "checkpoint",
+        "zh": "检查站；关卡"
+      },
+      {
+        "word": "physicist",
+        "zh": "物理学家"
+      },
+      {
+        "word": "alternative energy",
+        "zh": "替代能源"
+      },
+      {
+        "word": "fusion",
+        "zh": "聚变；融合"
+      },
+      {
+        "word": "eventually",
+        "zh": "最终；终于"
+      },
+      {
+        "word": "obstacle",
+        "zh": "障碍；阻碍"
+      },
+      {
+        "word": "overcome",
+        "zh": "克服；战胜"
+      },
+      {
+        "word": "commercially",
+        "zh": "商业上；大规模商用地"
+      },
+      {
+        "word": "social media",
+        "zh": "社交媒体"
+      },
+      {
+        "word": "tune in",
+        "zh": "收听；收看"
+      },
+      {
+        "word": "journalist",
+        "zh": "记者；新闻工作者"
+      },
+      {
+        "word": "activist",
+        "zh": "活动家；积极分子"
+      },
+      {
+        "word": "regulate",
+        "zh": "监管；调节；控制"
+      },
+      {
+        "word": "exhibit",
+        "zh": "展览；展品；展出"
+      },
+      {
+        "word": "portrait",
+        "zh": "肖像；人像"
+      },
+      {
+        "word": "carve",
+        "zh": "雕刻；切"
+      },
+      {
+        "word": "on loan",
+        "zh": "借来的；出借中的"
+      },
+      {
+        "word": "temporary",
+        "zh": "临时的；暂时的"
+      },
+      {
+        "word": "permanent",
+        "zh": "永久的；常设的"
+      },
+      {
+        "word": "headphones",
+        "zh": "耳机；头戴式耳机"
+      },
+      {
+        "word": "pottery",
+        "zh": "陶器；制陶"
+      },
+      {
+        "word": "photography",
+        "zh": "摄影；拍照"
+      },
+      {
+        "word": "pamphlet",
+        "zh": "小册子"
+      },
+      {
+        "word": "tradition",
+        "zh": "传统；惯例"
+      },
+      {
+        "word": "collaboration",
+        "zh": "合作；协作"
+      },
+      {
+        "word": "appreciation",
+        "zh": "感谢；欣赏；理解"
+      },
+      {
+        "word": "register",
+        "zh": "登记；报名；注册"
+      },
+      {
+        "word": "signature",
+        "zh": "签名"
+      },
+      {
+        "word": "circulate",
+        "zh": "传阅；流通；循环"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media3/ep46.mp4",
+    "script_pdf": "media/ep46_script.pdf",
+    "source_video": "ep46.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep46.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep46.mp4",
+        "script_pdf": "media/ep46_script.pdf",
+        "duration_sec": 3742.4,
+        "theme": "题型精讲 · Part 3/4 请求、提议与建议题",
+        "segments": [
+          {
+            "title": "1. Part 3/4 请求·提议·建议题真题（两套卷 5 组 · 逐句精听）",
+            "start": 0.0,
+            "length": 2382.13
+          },
+          {
+            "title": "2. Part 7 合作餐厅免费午餐通知（配套精练）",
+            "start": 2382.13,
+            "length": 305.83
+          },
+          {
+            "title": "3. 本期 63 词总复习 · 拼读",
+            "start": 2687.96,
+            "length": 1054.42
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep46ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media3/ep46ja.mp4",
+        "script_pdf": "media/ep46ja_script.pdf",
+        "duration_sec": 4624.8,
+        "theme": "問題タイプ別精講 · Part 3/4 依頼・申し出・提案の問題",
+        "segments": [
+          {
+            "title": "1. Part 3/4 依頼・申し出・提案の問題（本番 5セット · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 3104.31
+          },
+          {
+            "title": "2. Part 7 提携レストランの無料ランチのお知らせ（関連演習）",
+            "start": 3104.31,
+            "length": 384.21
+          },
+          {
+            "title": "3. 今回の 63 語総復習 · スペル",
+            "start": 3488.53,
+            "length": 1136.24
+          }
+        ],
+        "poster": "media/ep46ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "assign",
+            "zh": "割り当てる；任命する"
+          },
+          {
+            "word": "invoice",
+            "zh": "請求書；送り状；請求書を送る"
+          },
+          {
+            "word": "layover",
+            "zh": "乗り継ぎ待ち；途中滞在"
+          },
+          {
+            "word": "obstacle",
+            "zh": "障害；妨げ"
+          },
+          {
+            "word": "permanent",
+            "zh": "永久的な；常設の"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "internship",
+          "come along",
+          "remind",
+          "mentor",
+          "that way",
+          "assign",
+          "colleague",
+          "available",
+          "anniversary",
+          "workshop",
+          "availability",
+          "account",
+          "calculation",
+          "finalize",
+          "invoice",
+          "complex",
+          "expense",
+          "receipt",
+          "right away",
+          "accountant",
+          "architect",
+          "supplier",
+          "press conference",
+          "flight school",
+          "hire",
+          "route",
+          "used to",
+          "layover",
+          "downtown",
+          "recommendation",
+          "crew",
+          "line up",
+          "baggage handler",
+          "sightseeing",
+          "checkpoint",
+          "physicist",
+          "alternative energy",
+          "fusion",
+          "eventually",
+          "obstacle",
+          "overcome",
+          "commercially",
+          "social media",
+          "tune in",
+          "journalist",
+          "activist",
+          "regulate",
+          "exhibit",
+          "portrait",
+          "carve",
+          "on loan",
+          "temporary",
+          "permanent",
+          "headphones",
+          "pottery",
+          "photography",
+          "pamphlet",
+          "tradition",
+          "collaboration",
+          "appreciation",
+          "register",
+          "signature",
+          "circulate"
+        ],
+        "words": [
+          {
+            "word": "internship",
+            "pos": "n.",
+            "zh": "インターンシップ；実習",
+            "ex": "Our plans for the summer internships are coming along nicely.",
+            "exzh": "夏のインターンシップの計画は順調に進んでいる。",
+            "ipa": "/ˈɪntɚnˌʃɪp/",
+            "audio": "media/words/ep46/internship.mp3",
+            "ex_audio": "media/words/ep46/internship_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "come along",
+            "pos": "phr.",
+            "zh": "進む；はかどる",
+            "ex": "The project is coming along nicely.",
+            "exzh": "そのプロジェクトは順調に進んでいる。",
+            "ipa": "/kʌm əˈlɔŋ/",
+            "audio": "media/words/ep46/come-along.mp3",
+            "ex_audio": "media/words/ep46/come-along_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "remind",
+            "pos": "v.",
+            "zh": "思い出させる；念を押す",
+            "ex": "That reminds me—I had an idea.",
+            "exzh": "それで思い出した、アイデアがあるの。",
+            "ipa": "/riˈmaɪnd/",
+            "audio": "media/words/ep46/remind.mp3",
+            "ex_audio": "media/words/ep46/remind_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mentor",
+            "pos": "n./v.",
+            "zh": "メンター；指導者；指導する",
+            "ex": "Why don't we pair each intern with a mentor?",
+            "exzh": "インターン1人ひとりにメンターをつけてはどうだろう。",
+            "ipa": "/ˈmɛnˌtɔr/",
+            "audio": "media/words/ep46/mentor.mp3",
+            "ex_audio": "media/words/ep46/mentor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "that way",
+            "pos": "phr.",
+            "zh": "そうすれば；そのようにして",
+            "ex": "That way, interns will have someone to go to with questions.",
+            "exzh": "そうすれば、インターンは質問があるときに頼れる人ができる。",
+            "ipa": "/ðæt weɪ/",
+            "audio": "media/words/ep46/that-way.mp3",
+            "ex_audio": "media/words/ep46/that-way_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assign",
+            "pos": "v.",
+            "zh": "割り当てる；任命する",
+            "ex": "I'd be happy to assign a mentor to each intern.",
+            "exzh": "インターンごとにメンターを喜んで割り当てます。",
+            "ipa": "/əˈsaɪn/",
+            "audio": "media/words/ep46/assign.mp3",
+            "ex_audio": "media/words/ep46/assign_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "colleague",
+            "pos": "n.",
+            "zh": "同僚",
+            "ex": "Let's see what our colleagues' schedules look like.",
+            "exzh": "同僚たちの予定を見てみよう。",
+            "ipa": "/ˈkɑliɡ/",
+            "audio": "media/words/ep46/colleague.mp3",
+            "ex_audio": "media/words/ep46/colleague_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "available",
+            "pos": "adj.",
+            "zh": "手が空いている；利用できる",
+            "ex": "I'll see who's available to be a mentor.",
+            "exzh": "メンターになれる人がいるか確かめる。",
+            "ipa": "/əˈveɪləbəl/",
+            "audio": "media/words/ep46/available.mp3",
+            "ex_audio": "media/words/ep46/available_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "anniversary",
+            "pos": "n.",
+            "zh": "記念日；…周年",
+            "ex": "The company held an anniversary event.",
+            "exzh": "会社は記念行事を開いた。",
+            "ipa": "/ˌænəˈvɝsɚi/",
+            "audio": "media/words/ep46/anniversary.mp3",
+            "ex_audio": "media/words/ep46/anniversary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "workshop",
+            "pos": "n.",
+            "zh": "研修会；講習会；ワークショップ",
+            "ex": "She will lead a workshop for new staff.",
+            "exzh": "彼女は新入社員向けの研修会を指導する。",
+            "ipa": "/ˈwɝkˌʃɑp/",
+            "audio": "media/words/ep46/workshop.mp3",
+            "ex_audio": "media/words/ep46/workshop_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "availability",
+            "pos": "n.",
+            "zh": "都合；空き具合",
+            "ex": "Please check staff availability before the meeting.",
+            "exzh": "会議の前にスタッフの都合を確認してください。",
+            "ipa": "/əˌveɪləˈbɪləti/",
+            "audio": "media/words/ep46/availability.mp3",
+            "ex_audio": "media/words/ep46/availability_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "account",
+            "pos": "n.",
+            "zh": "取引先；口座；勘定",
+            "ex": "I have some questions about the Becker account.",
+            "exzh": "Becker さんとの取引について質問がある。",
+            "ipa": "/əˈkaʊnt/",
+            "audio": "media/words/ep46/account.mp3",
+            "ex_audio": "media/words/ep46/account_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "calculation",
+            "pos": "n.",
+            "zh": "計算",
+            "ex": "I want to be sure that my calculations are correct.",
+            "exzh": "計算が正しいか確かめたい。",
+            "ipa": "/ˌkælkjəˈleɪʃən/",
+            "audio": "media/words/ep46/calculation.mp3",
+            "ex_audio": "media/words/ep46/calculation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "finalize",
+            "pos": "v.",
+            "zh": "最終的に決める；仕上げる",
+            "ex": "I need to finalize the invoice today.",
+            "exzh": "今日中に請求書を確定しなければならない。",
+            "ipa": "/ˈfaɪnəˌlaɪz/",
+            "audio": "media/words/ep46/finalize.mp3",
+            "ex_audio": "media/words/ep46/finalize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "invoice",
+            "pos": "n./v.",
+            "zh": "請求書；送り状；請求書を送る",
+            "ex": "I will send the invoice for the work our company did.",
+            "exzh": "当社が行った作業の請求書を送ります。",
+            "ipa": "/ˈɪnvɔɪs/",
+            "audio": "media/words/ep46/invoice.mp3",
+            "ex_audio": "media/words/ep46/invoice_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "complex",
+            "pos": "adj./n.",
+            "zh": "複雑な；複合施設",
+            "ex": "That was a complex building renovation.",
+            "exzh": "あれは複雑な建物の改修工事だった。",
+            "ipa": "/ˈkɑmplɛks/",
+            "audio": "media/words/ep46/complex.mp3",
+            "ex_audio": "media/words/ep46/complex_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expense",
+            "pos": "n.",
+            "zh": "費用；経費",
+            "ex": "I'm looking at the expenses from September.",
+            "exzh": "9月の経費を見ている。",
+            "ipa": "/ɪkˈspɛns/",
+            "audio": "media/words/ep46/expense.mp3",
+            "ex_audio": "media/words/ep46/expense_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "receipt",
+            "pos": "n.",
+            "zh": "領収書；レシート；受領",
+            "ex": "Can you send me the receipts for the materials?",
+            "exzh": "資材の領収書を送ってもらえますか。",
+            "ipa": "/rɪˈsit/",
+            "audio": "media/words/ep46/receipt.mp3",
+            "ex_audio": "media/words/ep46/receipt_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "right away",
+            "pos": "phr.",
+            "zh": "すぐに；ただちに",
+            "ex": "Could you do it right away?",
+            "exzh": "すぐにやってもらえますか。",
+            "ipa": "/raɪt əˈweɪ/",
+            "audio": "media/words/ep46/right-away.mp3",
+            "ex_audio": "media/words/ep46/right-away_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "accountant",
+            "pos": "n.",
+            "zh": "会計士；経理担当者",
+            "ex": "The accountant checked the expenses.",
+            "exzh": "経理担当者が経費を確認した。",
+            "ipa": "/əˈkaʊntənt/",
+            "audio": "media/words/ep46/accountant.mp3",
+            "ex_audio": "media/words/ep46/accountant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "architect",
+            "pos": "n.",
+            "zh": "建築家",
+            "ex": "The architect designed the new library.",
+            "exzh": "その建築家が新しい図書館を設計した。",
+            "ipa": "/ˈɑrkəˌtɛkt/",
+            "audio": "media/words/ep46/architect.mp3",
+            "ex_audio": "media/words/ep46/architect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "supplier",
+            "pos": "n.",
+            "zh": "仕入れ先；供給業者",
+            "ex": "Do you have the supplier's address?",
+            "exzh": "仕入れ先の住所はわかりますか。",
+            "ipa": "/səˈplaɪɚ/",
+            "audio": "media/words/ep46/supplier.mp3",
+            "ex_audio": "media/words/ep46/supplier_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "press conference",
+            "pos": "n.",
+            "zh": "記者会見",
+            "ex": "The mayor will hold a press conference at noon.",
+            "exzh": "市長は正午に記者会見を開く。",
+            "ipa": "/prɛs ˈkɑnfɚəns/",
+            "audio": "media/words/ep46/press-conference.mp3",
+            "ex_audio": "media/words/ep46/press-conference_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "flight school",
+            "pos": "n.",
+            "zh": "飛行学校；パイロット養成学校",
+            "ex": "I haven't seen you since flight school.",
+            "exzh": "飛行学校以来会っていなかった。",
+            "ipa": "/flaɪt skul/",
+            "audio": "media/words/ep46/flight-school.mp3",
+            "ex_audio": "media/words/ep46/flight-school_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hire",
+            "pos": "v./n.",
+            "zh": "雇う；採用する；新入社員",
+            "ex": "I was just hired by Sand Airlines last month.",
+            "exzh": "先月 Sand 航空に採用されたばかりだ。",
+            "ipa": "/ˈhaɪɚ/",
+            "audio": "media/words/ep46/hire.mp3",
+            "ex_audio": "media/words/ep46/hire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "route",
+            "pos": "n.",
+            "zh": "ルート；路線",
+            "ex": "They have me flying the Springfield to Newark route.",
+            "exzh": "Springfield から Newark への路線を任されている。",
+            "ipa": "/rut/",
+            "audio": "media/words/ep46/route.mp3",
+            "ex_audio": "media/words/ep46/route_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "used to",
+            "pos": "phr.",
+            "zh": "以前は…していた",
+            "ex": "I used to fly that route.",
+            "exzh": "以前その路線を飛んでいた。",
+            "ipa": "/juzd tu/",
+            "audio": "media/words/ep46/used-to.mp3",
+            "ex_audio": "media/words/ep46/used-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "layover",
+            "pos": "n.",
+            "zh": "乗り継ぎ待ち；途中滞在",
+            "ex": "I have a long layover in Springfield.",
+            "exzh": "Springfield で長い乗り継ぎ待ちがある。",
+            "ipa": "/ˈleɪˌoʊvɚ/",
+            "audio": "media/words/ep46/layover.mp3",
+            "ex_audio": "media/words/ep46/layover_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "downtown",
+            "pos": "adv./n./adj.",
+            "zh": "繁華街で；中心街へ；中心街",
+            "ex": "You should go to Jim's Restaurant downtown.",
+            "exzh": "繁華街の Jim's レストランに行くといい。",
+            "ipa": "/ˈdaʊnˈtaʊn/",
+            "audio": "media/words/ep46/downtown.mp3",
+            "ex_audio": "media/words/ep46/downtown_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recommendation",
+            "pos": "n.",
+            "zh": "推薦；おすすめ",
+            "ex": "Thanks for the recommendation.",
+            "exzh": "おすすめをありがとう。",
+            "ipa": "/ˌrɛkəmənˈdeɪʃən/",
+            "audio": "media/words/ep46/recommendation.mp3",
+            "ex_audio": "media/words/ep46/recommendation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "crew",
+            "pos": "n.",
+            "zh": "乗務員；乗組員",
+            "ex": "My crew is lining up to go through security.",
+            "exzh": "乗務員たちが保安検査を通るために並んでいる。",
+            "ipa": "/kru/",
+            "audio": "media/words/ep46/crew.mp3",
+            "ex_audio": "media/words/ep46/crew_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "line up",
+            "pos": "phr.",
+            "zh": "並ぶ；列を作る",
+            "ex": "Passengers lined up at the gate.",
+            "exzh": "乗客がゲートに並んだ。",
+            "ipa": "/laɪn ʌp/",
+            "audio": "media/words/ep46/line-up.mp3",
+            "ex_audio": "media/words/ep46/line-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "baggage handler",
+            "pos": "n.",
+            "zh": "手荷物係",
+            "ex": "The baggage handlers loaded the suitcases.",
+            "exzh": "手荷物係がスーツケースを積み込んだ。",
+            "ipa": "/ˈbæɡədʒ ˈhændlɚ/",
+            "audio": "media/words/ep46/baggage-handler.mp3",
+            "ex_audio": "media/words/ep46/baggage-handler_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sightseeing",
+            "pos": "n.",
+            "zh": "観光",
+            "ex": "We went sightseeing in the city.",
+            "exzh": "私たちは街を観光した。",
+            "ipa": "/ˈsaɪtˈsiɪŋ/",
+            "audio": "media/words/ep46/sightseeing.mp3",
+            "ex_audio": "media/words/ep46/sightseeing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "checkpoint",
+            "pos": "n.",
+            "zh": "検問所；チェックポイント",
+            "ex": "Please go through the security checkpoint.",
+            "exzh": "保安検査場を通ってください。",
+            "ipa": "/ˈtʃɛkˌpɔɪnt/",
+            "audio": "media/words/ep46/checkpoint.mp3",
+            "ex_audio": "media/words/ep46/checkpoint_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "physicist",
+            "pos": "n.",
+            "zh": "物理学者",
+            "ex": "I'll be interviewing physicist Dr. Claudia Tong.",
+            "exzh": "物理学者の Claudia Tong 博士にインタビューする。",
+            "ipa": "/ˈfɪzɪsɪst/",
+            "audio": "media/words/ep46/physicist.mp3",
+            "ex_audio": "media/words/ep46/physicist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "alternative energy",
+            "pos": "n.",
+            "zh": "代替エネルギー",
+            "ex": "Her team researches alternative energy sources.",
+            "exzh": "彼女のチームは代替エネルギー源を研究している。",
+            "ipa": "/ɔlˈtɝnətɪv ˈɛnɚdʒi/",
+            "audio": "media/words/ep46/alternative-energy.mp3",
+            "ex_audio": "media/words/ep46/alternative-energy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fusion",
+            "pos": "n.",
+            "zh": "核融合；融合",
+            "ex": "She will explain the science behind fusion energy.",
+            "exzh": "彼女は核融合エネルギーの仕組みを説明する。",
+            "ipa": "/ˈfjuʒən/",
+            "audio": "media/words/ep46/fusion.mp3",
+            "ex_audio": "media/words/ep46/fusion_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "eventually",
+            "pos": "adv.",
+            "zh": "最終的に；いずれ",
+            "ex": "Fusion energy will eventually be the main source of energy.",
+            "exzh": "核融合エネルギーはいずれ主要なエネルギー源になる。",
+            "ipa": "/ɪˈvɛntʃəwəli/",
+            "audio": "media/words/ep46/eventually.mp3",
+            "ex_audio": "media/words/ep46/eventually_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "obstacle",
+            "pos": "n.",
+            "zh": "障害；妨げ",
+            "ex": "Scientists need to overcome many obstacles.",
+            "exzh": "科学者は多くの障害を乗り越える必要がある。",
+            "ipa": "/ˈɑbstəkəl/",
+            "audio": "media/words/ep46/obstacle.mp3",
+            "ex_audio": "media/words/ep46/obstacle_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "overcome",
+            "pos": "v.",
+            "zh": "克服する；乗り越える",
+            "ex": "We overcame the problem together.",
+            "exzh": "私たちは一緒にその問題を乗り越えた。",
+            "ipa": "/ˈoʊvɚˌkʌm/",
+            "audio": "media/words/ep46/overcome.mp3",
+            "ex_audio": "media/words/ep46/overcome_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "commercially",
+            "pos": "adv.",
+            "zh": "商業的に",
+            "ex": "Fusion power is not yet produced commercially.",
+            "exzh": "核融合発電はまだ商業的に行われていない。",
+            "ipa": "/kəˈmɝʃəli/",
+            "audio": "media/words/ep46/commercially.mp3",
+            "ex_audio": "media/words/ep46/commercially_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "social media",
+            "pos": "n.",
+            "zh": "ソーシャルメディア；SNS",
+            "ex": "Post your questions on my social media page.",
+            "exzh": "私のソーシャルメディアのページに質問を投稿してください。",
+            "ipa": "/ˈsoʊʃəl ˈmidiə/",
+            "audio": "media/words/ep46/social-media.mp3",
+            "ex_audio": "media/words/ep46/social-media_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tune in",
+            "pos": "phr.",
+            "zh": "番組を聴く；チャンネルを合わせる",
+            "ex": "Be sure to tune in to tomorrow's show.",
+            "exzh": "明日の番組をぜひお聴きください。",
+            "ipa": "/tun ɪn/",
+            "audio": "media/words/ep46/tune-in.mp3",
+            "ex_audio": "media/words/ep46/tune-in_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "journalist",
+            "pos": "n.",
+            "zh": "記者；ジャーナリスト",
+            "ex": "The journalist interviewed the mayor.",
+            "exzh": "記者が市長にインタビューした。",
+            "ipa": "/ˈdʒɝnələst/",
+            "audio": "media/words/ep46/journalist.mp3",
+            "ex_audio": "media/words/ep46/journalist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "activist",
+            "pos": "n.",
+            "zh": "活動家",
+            "ex": "An environmental activist spoke at the event.",
+            "exzh": "環境活動家がイベントで講演した。",
+            "ipa": "/ˈæktəvəst/",
+            "audio": "media/words/ep46/activist.mp3",
+            "ex_audio": "media/words/ep46/activist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regulate",
+            "pos": "v.",
+            "zh": "規制する；調整する",
+            "ex": "The government regulates new technologies.",
+            "exzh": "政府は新しい技術を規制している。",
+            "ipa": "/ˈrɛɡjəˌleɪt/",
+            "audio": "media/words/ep46/regulate.mp3",
+            "ex_audio": "media/words/ep46/regulate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "exhibit",
+            "pos": "n./v.",
+            "zh": "展示；展覧会；展示する",
+            "ex": "Welcome to the Faces in Time exhibit.",
+            "exzh": "「Faces in Time」展へようこそ。",
+            "ipa": "/ɪɡˈzɪbɪt/",
+            "audio": "media/words/ep46/exhibit.mp3",
+            "ex_audio": "media/words/ep46/exhibit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "portrait",
+            "pos": "n.",
+            "zh": "肖像；肖像画",
+            "ex": "The exhibit features portraits carved out of wood.",
+            "exzh": "その展示は木で彫った肖像を紹介している。",
+            "ipa": "/ˈpɔrtrət/",
+            "audio": "media/words/ep46/portrait.mp3",
+            "ex_audio": "media/words/ep46/portrait_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "carve",
+            "pos": "v.",
+            "zh": "彫る；刻む",
+            "ex": "The artists carved portraits out of tree trunks.",
+            "exzh": "アーティストたちは木の幹から肖像を彫った。",
+            "ipa": "/kɑrv/",
+            "audio": "media/words/ep46/carve.mp3",
+            "ex_audio": "media/words/ep46/carve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on loan",
+            "pos": "phr.",
+            "zh": "貸し出し中で；借りている",
+            "ex": "These carvings are on loan to us.",
+            "exzh": "これらの彫刻は当館に貸し出されている。",
+            "ipa": "/ɑn loʊn/",
+            "audio": "media/words/ep46/on-loan.mp3",
+            "ex_audio": "media/words/ep46/on-loan_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "temporary",
+            "pos": "adj.",
+            "zh": "一時的な；仮の",
+            "ex": "Pictures cannot be taken in the temporary galleries.",
+            "exzh": "仮設の展示室では写真を撮れない。",
+            "ipa": "/ˈtɛmpɚˌɛri/",
+            "audio": "media/words/ep46/temporary.mp3",
+            "ex_audio": "media/words/ep46/temporary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "permanent",
+            "pos": "adj.",
+            "zh": "永久的な；常設の",
+            "ex": "The other galleries in this museum are permanent.",
+            "exzh": "当館のほかの展示室は常設だ。",
+            "ipa": "/ˈpɝmənənt/",
+            "audio": "media/words/ep46/permanent.mp3",
+            "ex_audio": "media/words/ep46/permanent_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "headphones",
+            "pos": "n.",
+            "zh": "ヘッドホン",
+            "ex": "Please come up to the front for a set of headphones.",
+            "exzh": "ヘッドホンをご希望の方は前へお越しください。",
+            "ipa": "/ˈhɛdˌfoʊnz/",
+            "audio": "media/words/ep46/headphones.mp3",
+            "ex_audio": "media/words/ep46/headphones_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pottery",
+            "pos": "n.",
+            "zh": "陶器；陶芸",
+            "ex": "The museum has a collection of clay pottery.",
+            "exzh": "その博物館には陶器のコレクションがある。",
+            "ipa": "/ˈpɑtɚi/",
+            "audio": "media/words/ep46/pottery.mp3",
+            "ex_audio": "media/words/ep46/pottery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "photography",
+            "pos": "n.",
+            "zh": "写真撮影；写真術",
+            "ex": "Photography is allowed in the permanent galleries.",
+            "exzh": "常設の展示室では写真撮影ができる。",
+            "ipa": "/fəˈtɑɡrəfi/",
+            "audio": "media/words/ep46/photography.mp3",
+            "ex_audio": "media/words/ep46/photography_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pamphlet",
+            "pos": "n.",
+            "zh": "パンフレット；小冊子",
+            "ex": "Pamphlets are available at the entrance.",
+            "exzh": "入口にパンフレットがある。",
+            "ipa": "/ˈpæmflət/",
+            "audio": "media/words/ep46/pamphlet.mp3",
+            "ex_audio": "media/words/ep46/pamphlet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tradition",
+            "pos": "n.",
+            "zh": "伝統；恒例",
+            "ex": "It is time for a favourite annual tradition!",
+            "exzh": "みんなが大好きな毎年恒例の行事の時期です！",
+            "ipa": "/trəˈdɪʃən/",
+            "audio": "media/words/ep46/tradition.mp3",
+            "ex_audio": "media/words/ep46/tradition_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "collaboration",
+            "pos": "n.",
+            "zh": "協力；共同作業",
+            "ex": "The lunch is in honour of our continued business collaboration.",
+            "exzh": "その昼食は両社の継続的な取引を記念したものだ。",
+            "ipa": "/kəˌlæbɚˈeɪʃən/",
+            "audio": "media/words/ep46/collaboration.mp3",
+            "ex_audio": "media/words/ep46/collaboration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appreciation",
+            "pos": "n.",
+            "zh": "感謝；評価；理解",
+            "ex": "The lunch expresses appreciation for a business partnership.",
+            "exzh": "その昼食は取引関係への感謝を表している。",
+            "ipa": "/əˌpriʃiˈeɪʃən/",
+            "audio": "media/words/ep46/appreciation.mp3",
+            "ex_audio": "media/words/ep46/appreciation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "register",
+            "pos": "v./n.",
+            "zh": "登録する；申し込む；登録簿",
+            "ex": "Please speak with the receptionist to register for the lunch.",
+            "exzh": "昼食の申し込みは受付でしてください。",
+            "ipa": "/ˈrɛdʒɪstɚ/",
+            "audio": "media/words/ep46/register.mp3",
+            "ex_audio": "media/words/ep46/register_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "signature",
+            "pos": "n.",
+            "zh": "署名；サイン",
+            "ex": "Please add your signature to the card by 1 June.",
+            "exzh": "6月1日までにカードに署名してください。",
+            "ipa": "/ˈsɪɡnətʃɚ/",
+            "audio": "media/words/ep46/signature.mp3",
+            "ex_audio": "media/words/ep46/signature_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "circulate",
+            "pos": "v.",
+            "zh": "回覧する；流通する；循環する",
+            "ex": "We will be circulating a thank-you card.",
+            "exzh": "お礼のカードを回覧します。",
+            "ipa": "/ˈsɝkjəˌleɪt/",
+            "audio": "media/words/ep46/circulate.mp3",
+            "ex_audio": "media/words/ep46/circulate_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep46_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 3/4 依頼・申し出・提案の問題",
+    "words": [
+      {
+        "word": "internship",
+        "pos": "n.",
+        "zh": "实习；实习期",
+        "ex": "Our plans for the summer internships are coming along nicely.",
+        "exzh": "我们的暑期实习计划进展得很顺利。",
+        "ipa": "/ˈɪntɚnˌʃɪp/",
+        "audio": "media/words/ep46/internship.mp3",
+        "ex_audio": "media/words/ep46/internship_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "come along",
+        "pos": "phr.",
+        "zh": "进展；进步",
+        "ex": "The project is coming along nicely.",
+        "exzh": "这个项目进展得很顺利。",
+        "ipa": "/kʌm əˈlɔŋ/",
+        "audio": "media/words/ep46/come-along.mp3",
+        "ex_audio": "media/words/ep46/come-along_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "remind",
+        "pos": "v.",
+        "zh": "提醒；使想起",
+        "ex": "That reminds me—I had an idea.",
+        "exzh": "这倒提醒了我，我有个主意。",
+        "ipa": "/riˈmaɪnd/",
+        "audio": "media/words/ep46/remind.mp3",
+        "ex_audio": "media/words/ep46/remind_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mentor",
+        "pos": "n./v.",
+        "zh": "导师；指导人；指导",
+        "ex": "Why don't we pair each intern with a mentor?",
+        "exzh": "我们为什么不给每个实习生配一位导师呢？",
+        "ipa": "/ˈmɛnˌtɔr/",
+        "audio": "media/words/ep46/mentor.mp3",
+        "ex_audio": "media/words/ep46/mentor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "that way",
+        "pos": "phr.",
+        "zh": "这样一来；那样的话",
+        "ex": "That way, interns will have someone to go to with questions.",
+        "exzh": "这样一来，实习生有问题就有人可以问了。",
+        "ipa": "/ðæt weɪ/",
+        "audio": "media/words/ep46/that-way.mp3",
+        "ex_audio": "media/words/ep46/that-way_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assign",
+        "pos": "v.",
+        "zh": "分配；指派",
+        "ex": "I'd be happy to assign a mentor to each intern.",
+        "exzh": "我很乐意给每个实习生分配一位导师。",
+        "ipa": "/əˈsaɪn/",
+        "audio": "media/words/ep46/assign.mp3",
+        "ex_audio": "media/words/ep46/assign_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "colleague",
+        "pos": "n.",
+        "zh": "同事",
+        "ex": "Let's see what our colleagues' schedules look like.",
+        "exzh": "我们看看同事们的日程安排吧。",
+        "ipa": "/ˈkɑliɡ/",
+        "audio": "media/words/ep46/colleague.mp3",
+        "ex_audio": "media/words/ep46/colleague_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "available",
+        "pos": "adj.",
+        "zh": "有空的；可获得的",
+        "ex": "I'll see who's available to be a mentor.",
+        "exzh": "我会看看谁有空当导师。",
+        "ipa": "/əˈveɪləbəl/",
+        "audio": "media/words/ep46/available.mp3",
+        "ex_audio": "media/words/ep46/available_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "anniversary",
+        "pos": "n.",
+        "zh": "周年纪念日",
+        "ex": "The company held an anniversary event.",
+        "exzh": "公司举办了周年庆活动。",
+        "ipa": "/ˌænəˈvɝsɚi/",
+        "audio": "media/words/ep46/anniversary.mp3",
+        "ex_audio": "media/words/ep46/anniversary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "zh": "研讨会；讲习班；工作坊",
+        "ex": "She will lead a workshop for new staff.",
+        "exzh": "她将为新员工主持一场研讨会。",
+        "ipa": "/ˈwɝkˌʃɑp/",
+        "audio": "media/words/ep46/workshop.mp3",
+        "ex_audio": "media/words/ep46/workshop_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "availability",
+        "pos": "n.",
+        "zh": "有空；可利用性",
+        "ex": "Please check staff availability before the meeting.",
+        "exzh": "开会前请确认员工有没有空。",
+        "ipa": "/əˌveɪləˈbɪləti/",
+        "audio": "media/words/ep46/availability.mp3",
+        "ex_audio": "media/words/ep46/availability_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "account",
+        "pos": "n.",
+        "zh": "客户；账户；账目",
+        "ex": "I have some questions about the Becker account.",
+        "exzh": "关于 Becker 的账目我有几个问题。",
+        "ipa": "/əˈkaʊnt/",
+        "audio": "media/words/ep46/account.mp3",
+        "ex_audio": "media/words/ep46/account_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "calculation",
+        "pos": "n.",
+        "zh": "计算",
+        "ex": "I want to be sure that my calculations are correct.",
+        "exzh": "我想确认我的计算是正确的。",
+        "ipa": "/ˌkælkjəˈleɪʃən/",
+        "audio": "media/words/ep46/calculation.mp3",
+        "ex_audio": "media/words/ep46/calculation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "finalize",
+        "pos": "v.",
+        "zh": "最后确定；定稿",
+        "ex": "I need to finalize the invoice today.",
+        "exzh": "我今天得把发票定下来。",
+        "ipa": "/ˈfaɪnəˌlaɪz/",
+        "audio": "media/words/ep46/finalize.mp3",
+        "ex_audio": "media/words/ep46/finalize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "invoice",
+        "pos": "n./v.",
+        "zh": "发票；账单；开发票",
+        "ex": "I will send the invoice for the work our company did.",
+        "exzh": "我会把我们公司所做工程的发票寄出去。",
+        "ipa": "/ˈɪnvɔɪs/",
+        "audio": "media/words/ep46/invoice.mp3",
+        "ex_audio": "media/words/ep46/invoice_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "complex",
+        "pos": "adj./n.",
+        "zh": "复杂的；综合大楼",
+        "ex": "That was a complex building renovation.",
+        "exzh": "那是一个很复杂的楼房翻修工程。",
+        "ipa": "/ˈkɑmplɛks/",
+        "audio": "media/words/ep46/complex.mp3",
+        "ex_audio": "media/words/ep46/complex_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expense",
+        "pos": "n.",
+        "zh": "开支；费用",
+        "ex": "I'm looking at the expenses from September.",
+        "exzh": "我在看九月份的开支。",
+        "ipa": "/ɪkˈspɛns/",
+        "audio": "media/words/ep46/expense.mp3",
+        "ex_audio": "media/words/ep46/expense_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "receipt",
+        "pos": "n.",
+        "zh": "收据；收到",
+        "ex": "Can you send me the receipts for the materials?",
+        "exzh": "你能把材料的收据发给我吗？",
+        "ipa": "/rɪˈsit/",
+        "audio": "media/words/ep46/receipt.mp3",
+        "ex_audio": "media/words/ep46/receipt_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "right away",
+        "pos": "phr.",
+        "zh": "马上；立刻",
+        "ex": "Could you do it right away?",
+        "exzh": "你能马上做吗？",
+        "ipa": "/raɪt əˈweɪ/",
+        "audio": "media/words/ep46/right-away.mp3",
+        "ex_audio": "media/words/ep46/right-away_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "accountant",
+        "pos": "n.",
+        "zh": "会计；会计师",
+        "ex": "The accountant checked the expenses.",
+        "exzh": "会计核对了开支。",
+        "ipa": "/əˈkaʊntənt/",
+        "audio": "media/words/ep46/accountant.mp3",
+        "ex_audio": "media/words/ep46/accountant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "architect",
+        "pos": "n.",
+        "zh": "建筑师",
+        "ex": "The architect designed the new library.",
+        "exzh": "这位建筑师设计了新图书馆。",
+        "ipa": "/ˈɑrkəˌtɛkt/",
+        "audio": "media/words/ep46/architect.mp3",
+        "ex_audio": "media/words/ep46/architect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "supplier",
+        "pos": "n.",
+        "zh": "供应商；供货方",
+        "ex": "Do you have the supplier's address?",
+        "exzh": "你有供应商的地址吗？",
+        "ipa": "/səˈplaɪɚ/",
+        "audio": "media/words/ep46/supplier.mp3",
+        "ex_audio": "media/words/ep46/supplier_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "press conference",
+        "pos": "n.",
+        "zh": "记者招待会；新闻发布会",
+        "ex": "The mayor will hold a press conference at noon.",
+        "exzh": "市长将在中午召开记者招待会。",
+        "ipa": "/prɛs ˈkɑnfɚəns/",
+        "audio": "media/words/ep46/press-conference.mp3",
+        "ex_audio": "media/words/ep46/press-conference_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "flight school",
+        "pos": "n.",
+        "zh": "飞行学校",
+        "ex": "I haven't seen you since flight school.",
+        "exzh": "从飞行学校以后我就没见过你了。",
+        "ipa": "/flaɪt skul/",
+        "audio": "media/words/ep46/flight-school.mp3",
+        "ex_audio": "media/words/ep46/flight-school_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hire",
+        "pos": "v./n.",
+        "zh": "雇用；录用；新员工",
+        "ex": "I was just hired by Sand Airlines last month.",
+        "exzh": "我上个月刚被 Sand 航空公司录用。",
+        "ipa": "/ˈhaɪɚ/",
+        "audio": "media/words/ep46/hire.mp3",
+        "ex_audio": "media/words/ep46/hire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "route",
+        "pos": "n.",
+        "zh": "路线；航线",
+        "ex": "They have me flying the Springfield to Newark route.",
+        "exzh": "他们安排我飞 Springfield 到 Newark 的航线。",
+        "ipa": "/rut/",
+        "audio": "media/words/ep46/route.mp3",
+        "ex_audio": "media/words/ep46/route_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "used to",
+        "pos": "phr.",
+        "zh": "以前常常；过去曾经",
+        "ex": "I used to fly that route.",
+        "exzh": "我以前飞过那条航线。",
+        "ipa": "/juzd tu/",
+        "audio": "media/words/ep46/used-to.mp3",
+        "ex_audio": "media/words/ep46/used-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "layover",
+        "pos": "n.",
+        "zh": "中途停留；转机等候",
+        "ex": "I have a long layover in Springfield.",
+        "exzh": "我在 Springfield 要停留很长时间。",
+        "ipa": "/ˈleɪˌoʊvɚ/",
+        "audio": "media/words/ep46/layover.mp3",
+        "ex_audio": "media/words/ep46/layover_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "downtown",
+        "pos": "adv./n./adj.",
+        "zh": "在市中心；去市中心；市中心",
+        "ex": "You should go to Jim's Restaurant downtown.",
+        "exzh": "你应该去市中心的 Jim's 餐厅。",
+        "ipa": "/ˈdaʊnˈtaʊn/",
+        "audio": "media/words/ep46/downtown.mp3",
+        "ex_audio": "media/words/ep46/downtown_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recommendation",
+        "pos": "n.",
+        "zh": "推荐；建议",
+        "ex": "Thanks for the recommendation.",
+        "exzh": "谢谢你的推荐。",
+        "ipa": "/ˌrɛkəmənˈdeɪʃən/",
+        "audio": "media/words/ep46/recommendation.mp3",
+        "ex_audio": "media/words/ep46/recommendation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "crew",
+        "pos": "n.",
+        "zh": "机组人员；全体工作人员",
+        "ex": "My crew is lining up to go through security.",
+        "exzh": "我的机组人员在排队过安检。",
+        "ipa": "/kru/",
+        "audio": "media/words/ep46/crew.mp3",
+        "ex_audio": "media/words/ep46/crew_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "line up",
+        "pos": "phr.",
+        "zh": "排队；排成一行",
+        "ex": "Passengers lined up at the gate.",
+        "exzh": "乘客们在登机口排队。",
+        "ipa": "/laɪn ʌp/",
+        "audio": "media/words/ep46/line-up.mp3",
+        "ex_audio": "media/words/ep46/line-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "baggage handler",
+        "pos": "n.",
+        "zh": "行李搬运员",
+        "ex": "The baggage handlers loaded the suitcases.",
+        "exzh": "行李搬运员把行李箱装上了飞机。",
+        "ipa": "/ˈbæɡədʒ ˈhændlɚ/",
+        "audio": "media/words/ep46/baggage-handler.mp3",
+        "ex_audio": "media/words/ep46/baggage-handler_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sightseeing",
+        "pos": "n.",
+        "zh": "观光；游览",
+        "ex": "We went sightseeing in the city.",
+        "exzh": "我们在城里观光了。",
+        "ipa": "/ˈsaɪtˈsiɪŋ/",
+        "audio": "media/words/ep46/sightseeing.mp3",
+        "ex_audio": "media/words/ep46/sightseeing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "checkpoint",
+        "pos": "n.",
+        "zh": "检查站；关卡",
+        "ex": "Please go through the security checkpoint.",
+        "exzh": "请通过安检口。",
+        "ipa": "/ˈtʃɛkˌpɔɪnt/",
+        "audio": "media/words/ep46/checkpoint.mp3",
+        "ex_audio": "media/words/ep46/checkpoint_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "physicist",
+        "pos": "n.",
+        "zh": "物理学家",
+        "ex": "I'll be interviewing physicist Dr. Claudia Tong.",
+        "exzh": "我将采访物理学家 Claudia Tong 博士。",
+        "ipa": "/ˈfɪzɪsɪst/",
+        "audio": "media/words/ep46/physicist.mp3",
+        "ex_audio": "media/words/ep46/physicist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "alternative energy",
+        "pos": "n.",
+        "zh": "替代能源",
+        "ex": "Her team researches alternative energy sources.",
+        "exzh": "她的团队研究替代能源。",
+        "ipa": "/ɔlˈtɝnətɪv ˈɛnɚdʒi/",
+        "audio": "media/words/ep46/alternative-energy.mp3",
+        "ex_audio": "media/words/ep46/alternative-energy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fusion",
+        "pos": "n.",
+        "zh": "聚变；融合",
+        "ex": "She will explain the science behind fusion energy.",
+        "exzh": "她会讲解核聚变能源背后的科学原理。",
+        "ipa": "/ˈfjuʒən/",
+        "audio": "media/words/ep46/fusion.mp3",
+        "ex_audio": "media/words/ep46/fusion_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "eventually",
+        "pos": "adv.",
+        "zh": "最终；终于",
+        "ex": "Fusion energy will eventually be the main source of energy.",
+        "exzh": "核聚变能源最终会成为主要能源。",
+        "ipa": "/ɪˈvɛntʃəwəli/",
+        "audio": "media/words/ep46/eventually.mp3",
+        "ex_audio": "media/words/ep46/eventually_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "obstacle",
+        "pos": "n.",
+        "zh": "障碍；阻碍",
+        "ex": "Scientists need to overcome many obstacles.",
+        "exzh": "科学家需要克服很多障碍。",
+        "ipa": "/ˈɑbstəkəl/",
+        "audio": "media/words/ep46/obstacle.mp3",
+        "ex_audio": "media/words/ep46/obstacle_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "overcome",
+        "pos": "v.",
+        "zh": "克服；战胜",
+        "ex": "We overcame the problem together.",
+        "exzh": "我们一起克服了这个问题。",
+        "ipa": "/ˈoʊvɚˌkʌm/",
+        "audio": "media/words/ep46/overcome.mp3",
+        "ex_audio": "media/words/ep46/overcome_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "commercially",
+        "pos": "adv.",
+        "zh": "商业上；大规模商用地",
+        "ex": "Fusion power is not yet produced commercially.",
+        "exzh": "核聚变发电还没有实现商业化生产。",
+        "ipa": "/kəˈmɝʃəli/",
+        "audio": "media/words/ep46/commercially.mp3",
+        "ex_audio": "media/words/ep46/commercially_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "social media",
+        "pos": "n.",
+        "zh": "社交媒体",
+        "ex": "Post your questions on my social media page.",
+        "exzh": "请把问题发在我的社交媒体主页上。",
+        "ipa": "/ˈsoʊʃəl ˈmidiə/",
+        "audio": "media/words/ep46/social-media.mp3",
+        "ex_audio": "media/words/ep46/social-media_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tune in",
+        "pos": "phr.",
+        "zh": "收听；收看",
+        "ex": "Be sure to tune in to tomorrow's show.",
+        "exzh": "明天一定要收听节目。",
+        "ipa": "/tun ɪn/",
+        "audio": "media/words/ep46/tune-in.mp3",
+        "ex_audio": "media/words/ep46/tune-in_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "journalist",
+        "pos": "n.",
+        "zh": "记者；新闻工作者",
+        "ex": "The journalist interviewed the mayor.",
+        "exzh": "记者采访了市长。",
+        "ipa": "/ˈdʒɝnələst/",
+        "audio": "media/words/ep46/journalist.mp3",
+        "ex_audio": "media/words/ep46/journalist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "activist",
+        "pos": "n.",
+        "zh": "活动家；积极分子",
+        "ex": "An environmental activist spoke at the event.",
+        "exzh": "一位环保活动家在活动上发言。",
+        "ipa": "/ˈæktəvəst/",
+        "audio": "media/words/ep46/activist.mp3",
+        "ex_audio": "media/words/ep46/activist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regulate",
+        "pos": "v.",
+        "zh": "监管；调节；控制",
+        "ex": "The government regulates new technologies.",
+        "exzh": "政府对新技术进行监管。",
+        "ipa": "/ˈrɛɡjəˌleɪt/",
+        "audio": "media/words/ep46/regulate.mp3",
+        "ex_audio": "media/words/ep46/regulate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "exhibit",
+        "pos": "n./v.",
+        "zh": "展览；展品；展出",
+        "ex": "Welcome to the Faces in Time exhibit.",
+        "exzh": "欢迎来到《Faces in Time》特展。",
+        "ipa": "/ɪɡˈzɪbɪt/",
+        "audio": "media/words/ep46/exhibit.mp3",
+        "ex_audio": "media/words/ep46/exhibit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "portrait",
+        "pos": "n.",
+        "zh": "肖像；人像",
+        "ex": "The exhibit features portraits carved out of wood.",
+        "exzh": "这个展览展出木雕人像。",
+        "ipa": "/ˈpɔrtrət/",
+        "audio": "media/words/ep46/portrait.mp3",
+        "ex_audio": "media/words/ep46/portrait_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "carve",
+        "pos": "v.",
+        "zh": "雕刻；切",
+        "ex": "The artists carved portraits out of tree trunks.",
+        "exzh": "艺术家们用树干雕刻人像。",
+        "ipa": "/kɑrv/",
+        "audio": "media/words/ep46/carve.mp3",
+        "ex_audio": "media/words/ep46/carve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on loan",
+        "pos": "phr.",
+        "zh": "借来的；出借中的",
+        "ex": "These carvings are on loan to us.",
+        "exzh": "这些雕刻作品是借给我们展出的。",
+        "ipa": "/ɑn loʊn/",
+        "audio": "media/words/ep46/on-loan.mp3",
+        "ex_audio": "media/words/ep46/on-loan_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "temporary",
+        "pos": "adj.",
+        "zh": "临时的；暂时的",
+        "ex": "Pictures cannot be taken in the temporary galleries.",
+        "exzh": "临时展厅里不能拍照。",
+        "ipa": "/ˈtɛmpɚˌɛri/",
+        "audio": "media/words/ep46/temporary.mp3",
+        "ex_audio": "media/words/ep46/temporary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "permanent",
+        "pos": "adj.",
+        "zh": "永久的；常设的",
+        "ex": "The other galleries in this museum are permanent.",
+        "exzh": "本馆其他的展厅都是常设展厅。",
+        "ipa": "/ˈpɝmənənt/",
+        "audio": "media/words/ep46/permanent.mp3",
+        "ex_audio": "media/words/ep46/permanent_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "headphones",
+        "pos": "n.",
+        "zh": "耳机；头戴式耳机",
+        "ex": "Please come up to the front for a set of headphones.",
+        "exzh": "想要耳机请到前面来。",
+        "ipa": "/ˈhɛdˌfoʊnz/",
+        "audio": "media/words/ep46/headphones.mp3",
+        "ex_audio": "media/words/ep46/headphones_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pottery",
+        "pos": "n.",
+        "zh": "陶器；制陶",
+        "ex": "The museum has a collection of clay pottery.",
+        "exzh": "这家博物馆收藏了一批陶器。",
+        "ipa": "/ˈpɑtɚi/",
+        "audio": "media/words/ep46/pottery.mp3",
+        "ex_audio": "media/words/ep46/pottery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "photography",
+        "pos": "n.",
+        "zh": "摄影；拍照",
+        "ex": "Photography is allowed in the permanent galleries.",
+        "exzh": "常设展厅里可以拍照。",
+        "ipa": "/fəˈtɑɡrəfi/",
+        "audio": "media/words/ep46/photography.mp3",
+        "ex_audio": "media/words/ep46/photography_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pamphlet",
+        "pos": "n.",
+        "zh": "小册子",
+        "ex": "Pamphlets are available at the entrance.",
+        "exzh": "入口处有小册子。",
+        "ipa": "/ˈpæmflət/",
+        "audio": "media/words/ep46/pamphlet.mp3",
+        "ex_audio": "media/words/ep46/pamphlet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tradition",
+        "pos": "n.",
+        "zh": "传统；惯例",
+        "ex": "It is time for a favourite annual tradition!",
+        "exzh": "大家最喜欢的年度传统又来了！",
+        "ipa": "/trəˈdɪʃən/",
+        "audio": "media/words/ep46/tradition.mp3",
+        "ex_audio": "media/words/ep46/tradition_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "collaboration",
+        "pos": "n.",
+        "zh": "合作；协作",
+        "ex": "The lunch is in honour of our continued business collaboration.",
+        "exzh": "这次午餐是为了纪念我们持续的业务合作。",
+        "ipa": "/kəˌlæbɚˈeɪʃən/",
+        "audio": "media/words/ep46/collaboration.mp3",
+        "ex_audio": "media/words/ep46/collaboration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appreciation",
+        "pos": "n.",
+        "zh": "感谢；欣赏；理解",
+        "ex": "The lunch expresses appreciation for a business partnership.",
+        "exzh": "这次午餐表达了对业务合作的感谢。",
+        "ipa": "/əˌpriʃiˈeɪʃən/",
+        "audio": "media/words/ep46/appreciation.mp3",
+        "ex_audio": "media/words/ep46/appreciation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "register",
+        "pos": "v./n.",
+        "zh": "登记；报名；注册",
+        "ex": "Please speak with the receptionist to register for the lunch.",
+        "exzh": "请找前台报名参加午餐。",
+        "ipa": "/ˈrɛdʒɪstɚ/",
+        "audio": "media/words/ep46/register.mp3",
+        "ex_audio": "media/words/ep46/register_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "signature",
+        "pos": "n.",
+        "zh": "签名",
+        "ex": "Please add your signature to the card by 1 June.",
+        "exzh": "请在 6 月 1 日前在卡片上签名。",
+        "ipa": "/ˈsɪɡnətʃɚ/",
+        "audio": "media/words/ep46/signature.mp3",
+        "ex_audio": "media/words/ep46/signature_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "circulate",
+        "pos": "v.",
+        "zh": "传阅；流通；循环",
+        "ex": "We will be circulating a thank-you card.",
+        "exzh": "我们会传阅一张感谢卡。",
+        "ipa": "/ˈsɝkjəˌleɪt/",
+        "audio": "media/words/ep46/circulate.mp3",
+        "ex_audio": "media/words/ep46/circulate_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 45,
     "theme": "题型精讲 · Part 3/4 细节题：身份与地点",
     "date": "2026-10-27",
