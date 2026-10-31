@@ -1,5 +1,3284 @@
 [
   {
+    "number": 50,
+    "theme": "题型精讲 · Part 3/4 综合总复习（下）：目的 · 建议 · 意图 · 身份地点",
+    "date": "2026-11-01",
+    "duration_sec": 4788.1,
+    "segments": [
+      {
+        "title": "1. Part 3/4 综合总复习真题（三套卷 5 组 · 混合题型 · 逐句精听）",
+        "start": 0.0,
+        "length": 2764.19
+      },
+      {
+        "title": "2. Part 7 台灯公司网页（配套精练）",
+        "start": 2764.19,
+        "length": 500.98
+      },
+      {
+        "title": "3. 本期 91 词总复习 · 拼读",
+        "start": 3265.17,
+        "length": 1522.9
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "recognizable",
+        "zh": "能认出的；易于识别的"
+      },
+      {
+        "word": "inconvenient",
+        "zh": "不方便的"
+      },
+      {
+        "word": "apparel",
+        "zh": "服装；衣服"
+      },
+      {
+        "word": "reassure",
+        "zh": "使放心；安慰"
+      },
+      {
+        "word": "recognition",
+        "zh": "认可；表彰；认出"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "Question 3. What is the woman concerned about?",
+        "zh": "下面逐句精听：每句先读英文；再讲意思和难词"
+      },
+      {
+        "word": "line",
+        "zh": "意思是：产品系列；线；排队"
+      },
+      {
+        "word": "humorous",
+        "zh": "意思是：幽默的；滑稽的"
+      },
+      {
+        "word": "stand out",
+        "zh": "意思是：突出；显眼"
+      },
+      {
+        "word": "greeting card",
+        "zh": "意思是：贺卡"
+      },
+      {
+        "word": "contract",
+        "zh": "意思是：签约雇用；合同"
+      },
+      {
+        "word": "recognizable",
+        "zh": "意思是：能认出的；易于识别的"
+      },
+      {
+        "word": "timeline",
+        "zh": "意思是：时间表；日程"
+      },
+      {
+        "word": "artwork",
+        "zh": "意思是：艺术作品；插画"
+      },
+      {
+        "word": "assistant",
+        "zh": "意思是：助理；助手"
+      },
+      {
+        "word": "finalize",
+        "zh": "意思是：敲定；最终确定"
+      },
+      {
+        "word": "product line",
+        "zh": "意思是：产品系列；产品线"
+      },
+      {
+        "word": "consult",
+        "zh": "意思是：咨询；请教；查阅"
+      },
+      {
+        "word": "negotiate",
+        "zh": "意思是：谈判；协商"
+      },
+      {
+        "word": "bulk order",
+        "zh": "意思是：大批订购；大宗订单"
+      },
+      {
+        "word": "deadline",
+        "zh": "意思是：截止日期；最后期限"
+      },
+      {
+        "word": "competitor",
+        "zh": "意思是：竞争对手"
+      },
+      {
+        "word": "See you next week.",
+        "zh": "下面逐句精听：每句先读英文；再讲意思和难词"
+      },
+      {
+        "word": "Hi, Susana.",
+        "zh": "第一句：你好；Susana。Hi 加名字；是电话留言的开头；Susana 是听留言的人"
+      },
+      {
+        "word": "It's Jacob.",
+        "zh": "第二句：我是 Jacob。电话里自我介绍说 It's Jacob 或 This is Jacob；不说 I am Jacob。这个说法在 Part"
+      },
+      {
+        "word": "I wanted to let you know that things are going smoothly so far at the Hamburg branch",
+        "zh": "第三句：我想告诉你；到目前为止汉堡分公司这边一切都很顺利。let you know 是“告诉你、通知你”"
+      },
+      {
+        "word": "smoothly",
+        "zh": "意思是：顺利地；平稳地"
+      },
+      {
+        "word": "branch office",
+        "zh": "意思是：分公司；分店"
+      },
+      {
+        "word": "My flight arrived on time last night, so I was able to start training the new employees",
+        "zh": "第四句：我的航班昨晚准时到达；所以今天早上我能按计划开始培训新员工。on time 是“准时”；注意和"
+      },
+      {
+        "word": "on time",
+        "zh": "意思是：准时"
+      },
+      {
+        "word": "as scheduled",
+        "zh": "意思是：按计划；如期"
+      },
+      {
+        "word": "I think they're going to be a great addition to our sales team—they were all very",
+        "zh": "第五句：我觉得他们会是我们销售团队很棒的新成员——他们都很投入；还问了很多关于我们目标客户群的"
+      },
+      {
+        "word": "addition",
+        "zh": "意思是：新成员；增加的人或物；加法"
+      },
+      {
+        "word": "engaged",
+        "zh": "意思是：投入的；积极参与的；订婚的"
+      },
+      {
+        "word": "client base",
+        "zh": "意思是：客户群"
+      },
+      {
+        "word": "Looking forward to your arrival next week.",
+        "zh": "第六句：期待你下周到来。Looking forward to 前面省略了 I'm；口语里很常见；to 是介词；后面接名词"
+      },
+      {
+        "word": "It's a beautiful place, but it's been a bit cold here, and I didn't pack the right clothes.",
+        "zh": "第七句：这里很美；不过这几天有点冷；我没带对衣服。it's been a bit cold 是现在完成时；“最近一直有"
+      },
+      {
+        "word": "pack",
+        "zh": "意思是：收拾行李；打包；包"
+      },
+      {
+        "word": "Remember that we're planning to go hiking on the weekend.",
+        "zh": "第八句：别忘了我们打算周末去远足。Remember that 是“别忘了、记得”；用来提醒对方；go hiking"
+      },
+      {
+        "word": "See you next week.",
+        "zh": "第九句：下周见。See you next week 是留言的结尾；再次确认两人下周会在汉堡见面"
+      },
+      {
+        "word": "relative",
+        "zh": "意思是：亲戚；相对的"
+      },
+      {
+        "word": "appoint",
+        "zh": "意思是：任命；指派"
+      },
+      {
+        "word": "department",
+        "zh": "意思是：部门"
+      },
+      {
+        "word": "human resources",
+        "zh": "意思是：人力资源部；人事部"
+      },
+      {
+        "word": "correct",
+        "zh": "意思是：更正；纠正；正确的"
+      },
+      {
+        "word": "delay",
+        "zh": "意思是：延误；推迟"
+      },
+      {
+        "word": "Silvia, could you please post them in the entryways and elevators of each building?",
+        "zh": "下面逐句精听：每句先读英文；再讲意思和难词"
+      },
+      {
+        "word": "Good morning, maintenance team.",
+        "zh": "第一句：早上好；维修团队的各位。maintenance 是“维修、保养”；读 MAYN-tuh-nunce；后半部分很"
+      },
+      {
+        "word": "maintenance",
+        "zh": "意思是：维修；保养"
+      },
+      {
+        "word": "As you know, we'll be closing the parking area of this apartment complex next week.",
+        "zh": "第二句：大家都知道；下周我们要关闭这个公寓小区的停车场。As you know 是“如大家所知”；parking"
+      },
+      {
+        "word": "apartment complex",
+        "zh": "意思是：公寓小区；公寓楼群"
+      },
+      {
+        "word": "I've hired contractors to repaint the lines for the parking spaces, and we'll need all",
+        "zh": "第三句：我请了承包商来重新画停车位的线；所以需要所有住户换个地方停车。contractor 是“承包商、"
+      },
+      {
+        "word": "contractor",
+        "zh": "意思是：承包商；施工方"
+      },
+      {
+        "word": "resident",
+        "zh": "意思是：居民；住户"
+      },
+      {
+        "word": "alternate",
+        "zh": "意思是：替代的；备用的；交替"
+      },
+      {
+        "word": "The owner of the shopping center just opposite us has agreed to let residents park their",
+        "zh": "第四句：我们正对面那家购物中心的老板同意让住户暂时把车停在他的停车场。just opposite us 是“就在"
+      },
+      {
+        "word": "opposite",
+        "zh": "意思是：在对面；相反的"
+      },
+      {
+        "word": "temporarily",
+        "zh": "意思是：暂时地；临时地"
+      },
+      {
+        "word": "But it's across the highway, so we'll try to get this work over with as quickly as possible.",
+        "zh": "第五句：不过它在高速公路的另一侧；所以我们会尽量把这项工程尽快做完。But 是转折；it's across the"
+      },
+      {
+        "word": "highway",
+        "zh": "意思是：公路；干线公路"
+      },
+      {
+        "word": "get over with",
+        "zh": "意思是：把；麻烦事；赶紧做完"
+      },
+      {
+        "word": "I made some signs with this information.",
+        "zh": "第六句：我做了一些写着这些信息的告示牌。sign 在这里是名词“告示、标牌”；读 SINE；g 不发音"
+      },
+      {
+        "word": "Silvia, could you please post them in the entryways and elevators of each building?",
+        "zh": "第七句：Silvia；你能把它们贴到每栋楼的入口和电梯里吗？could you please 是礼貌的请求；post 是“张"
+      },
+      {
+        "word": "entryway",
+        "zh": "意思是：入口；门厅"
+      },
+      {
+        "word": "attendant",
+        "zh": "意思是：服务员；管理员"
+      },
+      {
+        "word": "commercial",
+        "zh": "意思是：商业的；商用的；广告"
+      },
+      {
+        "word": "real estate",
+        "zh": "意思是：房地产；不动产"
+      },
+      {
+        "word": "inconvenient",
+        "zh": "意思是：不方便的"
+      },
+      {
+        "word": "proposal",
+        "zh": "意思是：提议；方案"
+      },
+      {
+        "word": "vehicle",
+        "zh": "意思是：车辆；交通工具"
+      },
+      {
+        "word": "purchase",
+        "zh": "意思是：购买；购买的东西"
+      },
+      {
+        "word": "Now, recently, I installed a security alarm, so I'll give you the code to enter.",
+        "zh": "下面逐句精听：每句先读英文；再讲意思和难词"
+      },
+      {
+        "word": "Good morning.",
+        "zh": "第一句：早上好。Good morning 是讲话的开场；说明这是早上对一群人讲话"
+      },
+      {
+        "word": "I'm Kevin Williams—co-owner of this apparel business.",
+        "zh": "第二句：我是 Kevin Williams；这家服装公司的共同所有人。co-owner 是“共同所有人、合伙老板”；co"
+      },
+      {
+        "word": "co-owner",
+        "zh": "意思是：共同所有人；合伙老板"
+      },
+      {
+        "word": "apparel",
+        "zh": "意思是：服装；衣服"
+      },
+      {
+        "word": "I'd like to welcome you as new employees to High Point Style.",
+        "zh": "第三句：欢迎各位作为新员工加入 High Point Style。welcome you as new employees to 是“欢迎你们"
+      },
+      {
+        "word": "This is a family business.",
+        "zh": "第四句：这是一家家族企业。family business 是“家族企业、家族经营的公司”。下一句会解释为什么是"
+      },
+      {
+        "word": "family business",
+        "zh": "意思是：家族企业"
+      },
+      {
+        "word": "My father started selling business suits twenty years ago, and we're proud to",
+        "zh": "第五句：我父亲二十年前开始卖商务西装；我们很自豪能为职场人士提供做工精良的商务服装。suit 是"
+      },
+      {
+        "word": "attire",
+        "zh": "意思是：服装；衣着"
+      },
+      {
+        "word": "professional",
+        "zh": "意思是：专业人士；职场人士；专业的"
+      },
+      {
+        "word": "We're committed to maintaining a loyal customer base, and so our number one goal",
+        "zh": "第六句：我们致力于留住忠实的顾客群；所以我们的头号目标是确保随时提供优质的客户服务。be"
+      },
+      {
+        "word": "committed",
+        "zh": "意思是：致力于的；坚定的"
+      },
+      {
+        "word": "loyal",
+        "zh": "意思是：忠实的；忠诚的"
+      },
+      {
+        "word": "at all times",
+        "zh": "意思是：随时；始终"
+      },
+      {
+        "word": "Now, recently, I installed a security alarm, so I'll give you the code to enter.",
+        "zh": "第七句：还有；最近我装了一套安保警报系统；所以我会把进门的密码给你们。Now 在这里不是“现"
+      },
+      {
+        "word": "install",
+        "zh": "意思是：安装"
+      },
+      {
+        "word": "security alarm",
+        "zh": "意思是：安保警报器；防盗警报"
+      },
+      {
+        "word": "textile",
+        "zh": "意思是：纺织品；布料"
+      },
+      {
+        "word": "firm",
+        "zh": "意思是：公司；事务所；坚定的"
+      },
+      {
+        "word": "reduce",
+        "zh": "意思是：减少；降低"
+      },
+      {
+        "word": "uniform",
+        "zh": "意思是：制服；统一的"
+      },
+      {
+        "word": "contact list",
+        "zh": "意思是：联系人名单；通讯录"
+      },
+      {
+        "word": "I've just hired two experienced individuals who will be quite skilled at doing that",
+        "zh": "下面逐句精听：每句先读英文；再讲意思和难词"
+      },
+      {
+        "word": "We opened our small storefront six years ago selling only women's shoes.",
+        "zh": "第一句：六年前我们开了这家小店面；只卖女鞋。storefront 是“店面、临街的小店”；store 加 front"
+      },
+      {
+        "word": "storefront",
+        "zh": "意思是：店面；临街的小店"
+      },
+      {
+        "word": "We've gradually added some men's and children's shoes, but we just don't have the",
+        "zh": "第二句：我们慢慢加了一些男鞋和童鞋；但店里的面积实在不够；没法提供我们想要的品种。gradually 是"
+      },
+      {
+        "word": "gradually",
+        "zh": "意思是：逐渐地；慢慢地"
+      },
+      {
+        "word": "floor space",
+        "zh": "意思是：营业面积；店内面积"
+      },
+      {
+        "word": "selection",
+        "zh": "意思是：可供选择的商品；品种；选择"
+      },
+      {
+        "word": "So, I'm happy to announce that I've acquired a new, much larger space for us.",
+        "zh": "第三句：所以我很高兴地宣布；我已经为我们买下了一个新的、大得多的地方。announce 是“宣布”"
+      },
+      {
+        "word": "acquire",
+        "zh": "意思是：获得；购得"
+      },
+      {
+        "word": "I know some of you might be worried about losing customers, but the location's just",
+        "zh": "第四句：我知道你们有些人可能担心会流失顾客；不过新地方就在这条街前面不远处。be worried about"
+      },
+      {
+        "word": "down the street",
+        "zh": "意思是：沿这条街往前；就在街那头"
+      },
+      {
+        "word": "With all the space, there'll even be enough room to have an in-house repair shop.",
+        "zh": "第五句：地方大了；甚至可以开一个店内的修理铺。With all the space 是“有了这么大的空间”；room"
+      },
+      {
+        "word": "in-house",
+        "zh": "意思是：内部的；店内的；公司内部的"
+      },
+      {
+        "word": "I've just hired two experienced individuals who will be quite skilled at doing that",
+        "zh": "第六句：我刚请了两位有经验的人；他们会非常擅长做这种专门的工作。individual 作名词是“个人、"
+      },
+      {
+        "word": "individual",
+        "zh": "意思是：个人；人；个别的"
+      },
+      {
+        "word": "skilled",
+        "zh": "意思是：熟练的；有技能的"
+      },
+      {
+        "word": "specialized",
+        "zh": "意思是：专门的；专业的"
+      },
+      {
+        "word": "jewelry",
+        "zh": "意思是：珠宝；首饰"
+      },
+      {
+        "word": "dealership",
+        "zh": "意思是：经销店；代理商"
+      },
+      {
+        "word": "reassure",
+        "zh": "意思是：使放心；安慰"
+      },
+      {
+        "word": "discourage",
+        "zh": "意思是：劝阻；使泄气"
+      },
+      {
+        "word": "handle",
+        "zh": "意思是：处理；负责；把手"
+      },
+      {
+        "word": "finance",
+        "zh": "意思是：财务；资金；为提供资金"
+      },
+      {
+        "word": "D. It plans to open more stores in other regions.",
+        "zh": "第155题；这个网页介绍的是什么？先看页面顶部；选中的标签是 Features；“特色”。第一段说；一盏"
+      },
+      {
+        "word": "desirable",
+        "zh": "意思是：理想的；令人想要的"
+      },
+      {
+        "word": "aspect",
+        "zh": "意思是：方面；特点"
+      },
+      {
+        "word": "adjustable",
+        "zh": "意思是：可调节的"
+      },
+      {
+        "word": "manufacture",
+        "zh": "意思是：生产；制造"
+      },
+      {
+        "word": "dimmable",
+        "zh": "意思是：可调光的"
+      },
+      {
+        "word": "eyestrain",
+        "zh": "意思是：眼睛疲劳"
+      },
+      {
+        "word": "compact",
+        "zh": "意思是：小巧的；紧凑的"
+      },
+      {
+        "word": "narrow",
+        "zh": "意思是：窄的；缩小"
+      },
+      {
+        "word": "out of stock",
+        "zh": "意思是：缺货"
+      },
+      {
+        "word": "recognition",
+        "zh": "意思是：认可；表彰；认出"
+      },
+      {
+        "word": "worthy",
+        "zh": "意思是：值得的；配得上的"
+      },
+      {
+        "word": "mainstay",
+        "zh": "意思是：支柱；必备品；主力"
+      },
+      {
+        "word": "durability",
+        "zh": "意思是：耐用性；持久性"
+      },
+      {
+        "word": "line",
+        "zh": "产品系列；线；排队"
+      },
+      {
+        "word": "humorous",
+        "zh": "幽默的；滑稽的"
+      },
+      {
+        "word": "stand out",
+        "zh": "突出；显眼"
+      },
+      {
+        "word": "greeting card",
+        "zh": "贺卡"
+      },
+      {
+        "word": "contract",
+        "zh": "签约雇用；合同"
+      },
+      {
+        "word": "recognizable",
+        "zh": "能认出的；易于识别的"
+      },
+      {
+        "word": "timeline",
+        "zh": "时间表；日程"
+      },
+      {
+        "word": "artwork",
+        "zh": "艺术作品；插画"
+      },
+      {
+        "word": "assistant",
+        "zh": "助理；助手"
+      },
+      {
+        "word": "finalize",
+        "zh": "敲定；最终确定"
+      },
+      {
+        "word": "product line",
+        "zh": "产品系列；产品线"
+      },
+      {
+        "word": "consult",
+        "zh": "咨询；请教；查阅"
+      },
+      {
+        "word": "negotiate",
+        "zh": "谈判；协商"
+      },
+      {
+        "word": "bulk order",
+        "zh": "大批订购；大宗订单"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期；最后期限"
+      },
+      {
+        "word": "competitor",
+        "zh": "竞争对手"
+      },
+      {
+        "word": "smoothly",
+        "zh": "顺利地；平稳地"
+      },
+      {
+        "word": "branch office",
+        "zh": "分公司；分店"
+      },
+      {
+        "word": "on time",
+        "zh": "准时"
+      },
+      {
+        "word": "as scheduled",
+        "zh": "按计划；如期"
+      },
+      {
+        "word": "addition",
+        "zh": "新成员；增加的人或物；加法"
+      },
+      {
+        "word": "engaged",
+        "zh": "投入的；积极参与的；订婚的"
+      },
+      {
+        "word": "client base",
+        "zh": "客户群"
+      },
+      {
+        "word": "pack",
+        "zh": "收拾行李；打包；包"
+      },
+      {
+        "word": "relative",
+        "zh": "亲戚；相对的"
+      },
+      {
+        "word": "appoint",
+        "zh": "任命；指派"
+      },
+      {
+        "word": "department",
+        "zh": "部门"
+      },
+      {
+        "word": "human resources",
+        "zh": "人力资源部；人事部"
+      },
+      {
+        "word": "correct",
+        "zh": "更正；纠正；正确的"
+      },
+      {
+        "word": "delay",
+        "zh": "延误；推迟"
+      },
+      {
+        "word": "maintenance",
+        "zh": "维修；保养"
+      },
+      {
+        "word": "apartment complex",
+        "zh": "公寓小区；公寓楼群"
+      },
+      {
+        "word": "contractor",
+        "zh": "承包商；施工方"
+      },
+      {
+        "word": "resident",
+        "zh": "居民；住户"
+      },
+      {
+        "word": "alternate",
+        "zh": "替代的；备用的；交替"
+      },
+      {
+        "word": "opposite",
+        "zh": "在对面；相反的"
+      },
+      {
+        "word": "temporarily",
+        "zh": "暂时地；临时地"
+      },
+      {
+        "word": "highway",
+        "zh": "公路；干线公路"
+      },
+      {
+        "word": "get over with",
+        "zh": "把；麻烦事；赶紧做完"
+      },
+      {
+        "word": "entryway",
+        "zh": "入口；门厅"
+      },
+      {
+        "word": "attendant",
+        "zh": "服务员；管理员"
+      },
+      {
+        "word": "commercial",
+        "zh": "商业的；商用的；广告"
+      },
+      {
+        "word": "real estate",
+        "zh": "房地产；不动产"
+      },
+      {
+        "word": "inconvenient",
+        "zh": "不方便的"
+      },
+      {
+        "word": "proposal",
+        "zh": "提议；方案"
+      },
+      {
+        "word": "vehicle",
+        "zh": "车辆；交通工具"
+      },
+      {
+        "word": "purchase",
+        "zh": "购买；购买的东西"
+      },
+      {
+        "word": "co-owner",
+        "zh": "共同所有人；合伙老板"
+      },
+      {
+        "word": "apparel",
+        "zh": "服装；衣服"
+      },
+      {
+        "word": "family business",
+        "zh": "家族企业"
+      },
+      {
+        "word": "attire",
+        "zh": "服装；衣着"
+      },
+      {
+        "word": "professional",
+        "zh": "专业人士；职场人士；专业的"
+      },
+      {
+        "word": "committed",
+        "zh": "致力于的；坚定的"
+      },
+      {
+        "word": "loyal",
+        "zh": "忠实的；忠诚的"
+      },
+      {
+        "word": "at all times",
+        "zh": "随时；始终"
+      },
+      {
+        "word": "install",
+        "zh": "安装"
+      },
+      {
+        "word": "security alarm",
+        "zh": "安保警报器；防盗警报"
+      },
+      {
+        "word": "textile",
+        "zh": "纺织品；布料"
+      },
+      {
+        "word": "firm",
+        "zh": "公司；事务所；坚定的"
+      },
+      {
+        "word": "reduce",
+        "zh": "减少；降低"
+      },
+      {
+        "word": "uniform",
+        "zh": "制服；统一的"
+      },
+      {
+        "word": "contact list",
+        "zh": "联系人名单；通讯录"
+      },
+      {
+        "word": "storefront",
+        "zh": "店面；临街的小店"
+      },
+      {
+        "word": "gradually",
+        "zh": "逐渐地；慢慢地"
+      },
+      {
+        "word": "floor space",
+        "zh": "营业面积；店内面积"
+      },
+      {
+        "word": "selection",
+        "zh": "可供选择的商品；品种；选择"
+      },
+      {
+        "word": "acquire",
+        "zh": "获得；购得"
+      },
+      {
+        "word": "down the street",
+        "zh": "沿这条街往前；就在街那头"
+      },
+      {
+        "word": "in-house",
+        "zh": "内部的；店内的；公司内部的"
+      },
+      {
+        "word": "individual",
+        "zh": "个人；人；个别的"
+      },
+      {
+        "word": "skilled",
+        "zh": "熟练的；有技能的"
+      },
+      {
+        "word": "specialized",
+        "zh": "专门的；专业的"
+      },
+      {
+        "word": "jewelry",
+        "zh": "珠宝；首饰"
+      },
+      {
+        "word": "dealership",
+        "zh": "经销店；代理商"
+      },
+      {
+        "word": "reassure",
+        "zh": "使放心；安慰"
+      },
+      {
+        "word": "discourage",
+        "zh": "劝阻；使泄气"
+      },
+      {
+        "word": "handle",
+        "zh": "处理；负责；把手"
+      },
+      {
+        "word": "finance",
+        "zh": "财务；资金；为提供资金"
+      },
+      {
+        "word": "desirable",
+        "zh": "理想的；令人想要的"
+      },
+      {
+        "word": "aspect",
+        "zh": "方面；特点"
+      },
+      {
+        "word": "adjustable",
+        "zh": "可调节的"
+      },
+      {
+        "word": "manufacture",
+        "zh": "生产；制造"
+      },
+      {
+        "word": "dimmable",
+        "zh": "可调光的"
+      },
+      {
+        "word": "eyestrain",
+        "zh": "眼睛疲劳"
+      },
+      {
+        "word": "compact",
+        "zh": "小巧的；紧凑的"
+      },
+      {
+        "word": "narrow",
+        "zh": "窄的；缩小"
+      },
+      {
+        "word": "out of stock",
+        "zh": "缺货"
+      },
+      {
+        "word": "recognition",
+        "zh": "认可；表彰；认出"
+      },
+      {
+        "word": "worthy",
+        "zh": "值得的；配得上的"
+      },
+      {
+        "word": "mainstay",
+        "zh": "支柱；必备品；主力"
+      },
+      {
+        "word": "durability",
+        "zh": "耐用性；持久性"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep50.mp4",
+    "script_pdf": "media/ep50_script.pdf",
+    "source_video": "ep50.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep50.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep50.mp4",
+        "script_pdf": "media/ep50_script.pdf",
+        "duration_sec": 4788.1,
+        "theme": "题型精讲 · Part 3/4 综合总复习（下）：目的 · 建议 · 意图 · 身份地点",
+        "segments": [
+          {
+            "title": "1. Part 3/4 综合总复习真题（三套卷 5 组 · 混合题型 · 逐句精听）",
+            "start": 0.0,
+            "length": 2764.19
+          },
+          {
+            "title": "2. Part 7 台灯公司网页（配套精练）",
+            "start": 2764.19,
+            "length": 500.98
+          },
+          {
+            "title": "3. 本期 91 词总复习 · 拼读",
+            "start": 3265.17,
+            "length": 1522.9
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep50ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep50ja.mp4",
+        "script_pdf": "media/ep50ja_script.pdf",
+        "duration_sec": 5867.6,
+        "theme": "問題タイプ別精講 · Part 3/4 総まとめ（後編）：目的 · 提案 · 意図 · 人物と場所",
+        "segments": [
+          {
+            "title": "1. Part 3/4 総まとめ（本番 5セット · 混合タイプ · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 3615.97
+          },
+          {
+            "title": "2. Part 7 デスクライト会社のウェブページ（関連演習）",
+            "start": 3615.97,
+            "length": 623.24
+          },
+          {
+            "title": "3. 今回の 91 語総復習 · スペル",
+            "start": 4239.21,
+            "length": 1628.38
+          }
+        ],
+        "poster": "media/ep50ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "recognizable",
+            "zh": "それとわかる；見分けがつく"
+          },
+          {
+            "word": "inconvenient",
+            "zh": "不便な；都合の悪い"
+          },
+          {
+            "word": "apparel",
+            "zh": "衣料品；衣服"
+          },
+          {
+            "word": "reassure",
+            "zh": "安心させる"
+          },
+          {
+            "word": "recognition",
+            "zh": "評価；表彰；認識"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "line",
+          "humorous",
+          "stand out",
+          "greeting card",
+          "contract",
+          "recognizable",
+          "timeline",
+          "artwork",
+          "assistant",
+          "finalize",
+          "product line",
+          "consult",
+          "negotiate",
+          "bulk order",
+          "deadline",
+          "competitor",
+          "smoothly",
+          "branch office",
+          "on time",
+          "as scheduled",
+          "addition",
+          "engaged",
+          "client base",
+          "pack",
+          "relative",
+          "appoint",
+          "department",
+          "human resources",
+          "correct",
+          "delay",
+          "maintenance",
+          "apartment complex",
+          "contractor",
+          "resident",
+          "alternate",
+          "opposite",
+          "temporarily",
+          "highway",
+          "get over with",
+          "entryway",
+          "attendant",
+          "commercial",
+          "real estate",
+          "inconvenient",
+          "proposal",
+          "vehicle",
+          "purchase",
+          "co-owner",
+          "apparel",
+          "family business",
+          "attire",
+          "professional",
+          "committed",
+          "loyal",
+          "at all times",
+          "install",
+          "security alarm",
+          "textile",
+          "firm",
+          "reduce",
+          "uniform",
+          "contact list",
+          "storefront",
+          "gradually",
+          "floor space",
+          "selection",
+          "acquire",
+          "down the street",
+          "in-house",
+          "individual",
+          "skilled",
+          "specialized",
+          "jewelry",
+          "dealership",
+          "reassure",
+          "discourage",
+          "handle",
+          "finance",
+          "desirable",
+          "aspect",
+          "adjustable",
+          "manufacture",
+          "dimmable",
+          "eyestrain",
+          "compact",
+          "narrow",
+          "out of stock",
+          "recognition",
+          "worthy",
+          "mainstay",
+          "durability"
+        ],
+        "words": [
+          {
+            "word": "line",
+            "pos": "n.",
+            "zh": "製品シリーズ；線；列",
+            "ex": "I looked at the designs for our new line of birthday cards.",
+            "exzh": "誕生日カードの新シリーズのデザインを見た。",
+            "ipa": "/laɪn/",
+            "audio": "media/words/ep50/line.mp3",
+            "ex_audio": "media/words/ep50/line_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "humorous",
+            "pos": "adj.",
+            "zh": "ユーモアのある；こっけいな",
+            "ex": "The company sells humorous birthday cards.",
+            "exzh": "その会社はユーモアのある誕生日カードを売っている。",
+            "ipa": "/ˈhjumɚəs/",
+            "audio": "media/words/ep50/humorous.mp3",
+            "ex_audio": "media/words/ep50/humorous_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stand out",
+            "pos": "phr.",
+            "zh": "目立つ；際立つ",
+            "ex": "I don't think the designs will stand out.",
+            "exzh": "そのデザインは目立たないと思う。",
+            "ipa": "/stænd aʊt/",
+            "audio": "media/words/ep50/stand-out.mp3",
+            "ex_audio": "media/words/ep50/stand-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "greeting card",
+            "pos": "n.",
+            "zh": "グリーティングカード；あいさつ状",
+            "ex": "Many greeting cards are sold in this store.",
+            "exzh": "この店ではたくさんのグリーティングカードが売られている。",
+            "ipa": "/ˈɡritɪŋ kɑrd/",
+            "audio": "media/words/ep50/greeting-card.mp3",
+            "ex_audio": "media/words/ep50/greeting-card_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contract",
+            "pos": "v./n.",
+            "zh": "契約する；契約書",
+            "ex": "We could contract a well-known visual artist.",
+            "exzh": "有名なビジュアルアーティストと契約してもいい。",
+            "ipa": "/ˈkɑnˌtrækt/",
+            "audio": "media/words/ep50/contract.mp3",
+            "ex_audio": "media/words/ep50/contract_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recognizable",
+            "pos": "adj.",
+            "zh": "それとわかる；見分けがつく",
+            "ex": "Her artwork is instantly recognizable.",
+            "exzh": "彼女の作品は一目でそれとわかる。",
+            "ipa": "/ˌrɛkəɡˈnaɪzəbəl/",
+            "audio": "media/words/ep50/recognizable.mp3",
+            "ex_audio": "media/words/ep50/recognizable_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "timeline",
+            "pos": "n.",
+            "zh": "スケジュール；予定表",
+            "ex": "We're operating on a short timeline.",
+            "exzh": "私たちは短いスケジュールで動いている。",
+            "ipa": "/ˈtaɪmlaɪn/",
+            "audio": "media/words/ep50/timeline.mp3",
+            "ex_audio": "media/words/ep50/timeline_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "artwork",
+            "pos": "n.",
+            "zh": "芸術作品；イラスト",
+            "ex": "How quickly can she get the artwork done?",
+            "exzh": "彼女はどれくらい早く作品を仕上げられるか。",
+            "ipa": "/ˈɑrˌtwɝk/",
+            "audio": "media/words/ep50/artwork.mp3",
+            "ex_audio": "media/words/ep50/artwork_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assistant",
+            "pos": "n.",
+            "zh": "助手；アシスタント",
+            "ex": "She has a team of assistants.",
+            "exzh": "彼女にはアシスタントのチームがいる。",
+            "ipa": "/əˈsɪstənt/",
+            "audio": "media/words/ep50/assistant.mp3",
+            "ex_audio": "media/words/ep50/assistant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "finalize",
+            "pos": "v.",
+            "zh": "最終決定する；確定する",
+            "ex": "We need to finalize the Web site design.",
+            "exzh": "ウェブサイトのデザインを確定する必要がある。",
+            "ipa": "/ˈfaɪnəˌlaɪz/",
+            "audio": "media/words/ep50/finalize.mp3",
+            "ex_audio": "media/words/ep50/finalize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "product line",
+            "pos": "n.",
+            "zh": "製品シリーズ；製品ライン",
+            "ex": "They are discussing a new product line.",
+            "exzh": "彼らは新しい製品シリーズについて話し合っている。",
+            "ipa": "/ˈprɑdəkt laɪn/",
+            "audio": "media/words/ep50/product-line.mp3",
+            "ex_audio": "media/words/ep50/product-line_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "consult",
+            "pos": "v.",
+            "zh": "相談する；意見を聞く；調べる",
+            "ex": "You should consult with a marketing specialist.",
+            "exzh": "マーケティングの専門家に相談したほうがいい。",
+            "ipa": "/kənˈsʌlt/",
+            "audio": "media/words/ep50/consult.mp3",
+            "ex_audio": "media/words/ep50/consult_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "negotiate",
+            "pos": "v.",
+            "zh": "交渉する",
+            "ex": "We negotiated a lower price.",
+            "exzh": "私たちはもっと安い価格で交渉した。",
+            "ipa": "/nəˈɡoʊʃiˌeɪt/",
+            "audio": "media/words/ep50/negotiate.mp3",
+            "ex_audio": "media/words/ep50/negotiate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bulk order",
+            "pos": "n.",
+            "zh": "大量注文；大口注文",
+            "ex": "We offer discounts on bulk orders.",
+            "exzh": "大量注文には割引がある。",
+            "ipa": "/bʌlk ˈɔrdɚ/",
+            "audio": "media/words/ep50/bulk-order.mp3",
+            "ex_audio": "media/words/ep50/bulk-order_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deadline",
+            "pos": "n.",
+            "zh": "締め切り；期限",
+            "ex": "A deadline is approaching quickly.",
+            "exzh": "締め切りが急速に近づいている。",
+            "ipa": "/ˈdɛdˌlaɪn/",
+            "audio": "media/words/ep50/deadline.mp3",
+            "ex_audio": "media/words/ep50/deadline_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "competitor",
+            "pos": "n.",
+            "zh": "競合他社；競争相手",
+            "ex": "Our competitor's product is very popular.",
+            "exzh": "競合他社の製品はとても人気がある。",
+            "ipa": "/kəmˈpɛtətɚ/",
+            "audio": "media/words/ep50/competitor.mp3",
+            "ex_audio": "media/words/ep50/competitor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "smoothly",
+            "pos": "adv.",
+            "zh": "順調に；滑らかに",
+            "ex": "Things are going smoothly so far.",
+            "exzh": "今のところすべて順調だ。",
+            "ipa": "/ˈsmuðli/",
+            "audio": "media/words/ep50/smoothly.mp3",
+            "ex_audio": "media/words/ep50/smoothly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "branch office",
+            "pos": "n.",
+            "zh": "支社；支店",
+            "ex": "He is working at the Hamburg branch office.",
+            "exzh": "彼はハンブルク支社で働いている。",
+            "ipa": "/bræntʃ ˈɔfɪs/",
+            "audio": "media/words/ep50/branch-office.mp3",
+            "ex_audio": "media/words/ep50/branch-office_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on time",
+            "pos": "phr.",
+            "zh": "時間どおりに；定刻に",
+            "ex": "My flight arrived on time last night.",
+            "exzh": "昨夜の便は定刻に着いた。",
+            "ipa": "/ɑn taɪm/",
+            "audio": "media/words/ep50/on-time.mp3",
+            "ex_audio": "media/words/ep50/on-time_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "as scheduled",
+            "pos": "phr.",
+            "zh": "予定どおりに",
+            "ex": "The training started this morning as scheduled.",
+            "exzh": "研修は予定どおり今朝始まった。",
+            "ipa": "/æz ˈskɛdʒʊld/",
+            "audio": "media/words/ep50/as-scheduled.mp3",
+            "ex_audio": "media/words/ep50/as-scheduled_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "addition",
+            "pos": "n.",
+            "zh": "新たに加わった人・物；追加",
+            "ex": "They will be a great addition to our sales team.",
+            "exzh": "彼らは営業チームのすばらしい戦力になるだろう。",
+            "ipa": "/əˈdɪʃən/",
+            "audio": "media/words/ep50/addition.mp3",
+            "ex_audio": "media/words/ep50/addition_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "engaged",
+            "pos": "adj.",
+            "zh": "熱心な；積極的に参加している；婚約している",
+            "ex": "The new employees were all very engaged.",
+            "exzh": "新入社員はみんなとても熱心だった。",
+            "ipa": "/ɛnˈɡeɪdʒd/",
+            "audio": "media/words/ep50/engaged.mp3",
+            "ex_audio": "media/words/ep50/engaged_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "client base",
+            "pos": "n.",
+            "zh": "顧客層；顧客基盤",
+            "ex": "They asked about our target client base.",
+            "exzh": "彼らはターゲットの顧客層について質問した。",
+            "ipa": "/ˈklaɪənt beɪs/",
+            "audio": "media/words/ep50/client-base.mp3",
+            "ex_audio": "media/words/ep50/client-base_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pack",
+            "pos": "v./n.",
+            "zh": "荷造りする；詰める；包み",
+            "ex": "I didn't pack the right clothes.",
+            "exzh": "合う服を持ってこなかった。",
+            "ipa": "/pæk/",
+            "audio": "media/words/ep50/pack.mp3",
+            "ex_audio": "media/words/ep50/pack_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relative",
+            "pos": "n./adj.",
+            "zh": "親戚；相対的な",
+            "ex": "He is visiting relatives in Germany.",
+            "exzh": "彼はドイツの親戚を訪ねている。",
+            "ipa": "/ˈrɛlətɪv/",
+            "audio": "media/words/ep50/relative.mp3",
+            "ex_audio": "media/words/ep50/relative_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appoint",
+            "pos": "v.",
+            "zh": "任命する；指名する",
+            "ex": "The company will appoint a new branch manager.",
+            "exzh": "会社は新しい支店長を任命する。",
+            "ipa": "/əˈpɔɪnt/",
+            "audio": "media/words/ep50/appoint.mp3",
+            "ex_audio": "media/words/ep50/appoint_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "department",
+            "pos": "n.",
+            "zh": "部署；部門",
+            "ex": "What department does the speaker work in?",
+            "exzh": "話し手はどの部署で働いているか。",
+            "ipa": "/dɪˈpɑrtmənt/",
+            "audio": "media/words/ep50/department.mp3",
+            "ex_audio": "media/words/ep50/department_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "human resources",
+            "pos": "n.",
+            "zh": "人事部；人的資源",
+            "ex": "Please send your form to human resources.",
+            "exzh": "用紙を人事部に送ってください。",
+            "ipa": "/ˈhjumən ˈrisɔrsɪz/",
+            "audio": "media/words/ep50/human-resources.mp3",
+            "ex_audio": "media/words/ep50/human-resources_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "correct",
+            "pos": "v./adj.",
+            "zh": "訂正する；直す；正しい",
+            "ex": "I need to correct some information in the report.",
+            "exzh": "報告書の情報をいくつか訂正する必要がある。",
+            "ipa": "/kɚˈɛkt/",
+            "audio": "media/words/ep50/correct.mp3",
+            "ex_audio": "media/words/ep50/correct_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "delay",
+            "pos": "n./v.",
+            "zh": "遅れ；遅らせる；延期する",
+            "ex": "He called to explain a delay.",
+            "exzh": "彼は遅れを説明するために電話した。",
+            "ipa": "/dɪˈleɪ/",
+            "audio": "media/words/ep50/delay.mp3",
+            "ex_audio": "media/words/ep50/delay_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "maintenance",
+            "pos": "n.",
+            "zh": "保守；修理；メンテナンス",
+            "ex": "Good morning, maintenance team.",
+            "exzh": "おはようございます、保守チームの皆さん。",
+            "ipa": "/ˈmeɪntənəns/",
+            "audio": "media/words/ep50/maintenance.mp3",
+            "ex_audio": "media/words/ep50/maintenance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "apartment complex",
+            "pos": "n.",
+            "zh": "集合住宅；マンション群",
+            "ex": "We'll be closing the parking area of this apartment complex.",
+            "exzh": "このマンションの駐車場を閉鎖する。",
+            "ipa": "/əˈpɑrtmənt ˈkɑmplɛks/",
+            "audio": "media/words/ep50/apartment-complex.mp3",
+            "ex_audio": "media/words/ep50/apartment-complex_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contractor",
+            "pos": "n.",
+            "zh": "請負業者；工事業者",
+            "ex": "I've hired contractors to repaint the lines.",
+            "exzh": "線を引き直すために業者を雇った。",
+            "ipa": "/ˈkɑnˌtræktɚ/",
+            "audio": "media/words/ep50/contractor.mp3",
+            "ex_audio": "media/words/ep50/contractor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "resident",
+            "pos": "n.",
+            "zh": "居住者；住民",
+            "ex": "All residents need to use alternate parking.",
+            "exzh": "居住者は全員、別の場所に駐車する必要がある。",
+            "ipa": "/ˈrɛzɪdənt/",
+            "audio": "media/words/ep50/resident.mp3",
+            "ex_audio": "media/words/ep50/resident_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "alternate",
+            "pos": "adj./v.",
+            "zh": "代わりの；予備の；交互にする",
+            "ex": "Please use alternate parking next week.",
+            "exzh": "来週は別の場所に駐車してください。",
+            "ipa": "/ˈɔltɚnət/",
+            "audio": "media/words/ep50/alternate.mp3",
+            "ex_audio": "media/words/ep50/alternate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "opposite",
+            "pos": "prep./adj.",
+            "zh": "…の向かいに；反対の",
+            "ex": "The shopping center is just opposite us.",
+            "exzh": "ショッピングセンターはちょうど向かい側にある。",
+            "ipa": "/ˈɑpəzət/",
+            "audio": "media/words/ep50/opposite.mp3",
+            "ex_audio": "media/words/ep50/opposite_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "temporarily",
+            "pos": "adv.",
+            "zh": "一時的に；臨時に",
+            "ex": "Residents can park there temporarily.",
+            "exzh": "居住者は一時的にそこに駐車できる。",
+            "ipa": "/ˌtɛmpɚˈɛrəli/",
+            "audio": "media/words/ep50/temporarily.mp3",
+            "ex_audio": "media/words/ep50/temporarily_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "highway",
+            "pos": "n.",
+            "zh": "幹線道路；主要道路",
+            "ex": "But it's across the highway.",
+            "exzh": "ただ、幹線道路の向こう側だ。",
+            "ipa": "/ˈhaɪˌweɪ/",
+            "audio": "media/words/ep50/highway.mp3",
+            "ex_audio": "media/words/ep50/highway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "get over with",
+            "pos": "phr.",
+            "zh": "（面倒なことを）さっさと済ませる",
+            "ex": "We'll try to get this work over with as quickly as possible.",
+            "exzh": "この工事はできるだけ早く終わらせるようにする。",
+            "ipa": "/ɡɛt ˈoʊvɚ wɪð/",
+            "audio": "media/words/ep50/get-over-with.mp3",
+            "ex_audio": "media/words/ep50/get-over-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "entryway",
+            "pos": "n.",
+            "zh": "入り口；玄関",
+            "ex": "Please post the signs in the entryways.",
+            "exzh": "掲示を入り口に貼ってください。",
+            "ipa": "/ˈɛntriweɪ/",
+            "audio": "media/words/ep50/entryway.mp3",
+            "ex_audio": "media/words/ep50/entryway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attendant",
+            "pos": "n.",
+            "zh": "係員；接客係",
+            "ex": "A parking attendant showed us where to park.",
+            "exzh": "駐車場の係員が止める場所を教えてくれた。",
+            "ipa": "/əˈtɛndənt/",
+            "audio": "media/words/ep50/attendant.mp3",
+            "ex_audio": "media/words/ep50/attendant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "commercial",
+            "pos": "adj./n.",
+            "zh": "商業の；業務用の；コマーシャル",
+            "ex": "They hired commercial painters.",
+            "exzh": "彼らは業務用の塗装業者を雇った。",
+            "ipa": "/kəˈmɝʃəl/",
+            "audio": "media/words/ep50/commercial.mp3",
+            "ex_audio": "media/words/ep50/commercial_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "real estate",
+            "pos": "n.",
+            "zh": "不動産",
+            "ex": "She works as a real estate agent.",
+            "exzh": "彼女は不動産業者として働いている。",
+            "ipa": "/ril ɪˈsteɪt/",
+            "audio": "media/words/ep50/real-estate.mp3",
+            "ex_audio": "media/words/ep50/real-estate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inconvenient",
+            "pos": "adj.",
+            "zh": "不便な；都合の悪い",
+            "ex": "The new location is inconvenient for residents.",
+            "exzh": "新しい場所は居住者にとって不便だ。",
+            "ipa": "/ˌɪnkənˈvinjənt/",
+            "audio": "media/words/ep50/inconvenient.mp3",
+            "ex_audio": "media/words/ep50/inconvenient_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "proposal",
+            "pos": "n.",
+            "zh": "提案；企画",
+            "ex": "The proposal is being considered.",
+            "exzh": "その提案は検討されている。",
+            "ipa": "/prəˈpoʊzəl/",
+            "audio": "media/words/ep50/proposal.mp3",
+            "ex_audio": "media/words/ep50/proposal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "vehicle",
+            "pos": "n.",
+            "zh": "車両；乗り物",
+            "ex": "Please move your vehicle by Friday.",
+            "exzh": "金曜日までに車を移動してください。",
+            "ipa": "/ˈvihɪkəl/",
+            "audio": "media/words/ep50/vehicle.mp3",
+            "ex_audio": "media/words/ep50/vehicle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "purchase",
+            "pos": "v./n.",
+            "zh": "購入する；購入品",
+            "ex": "We need to purchase some paint.",
+            "exzh": "ペンキを購入する必要がある。",
+            "ipa": "/ˈpɝtʃəs/",
+            "audio": "media/words/ep50/purchase.mp3",
+            "ex_audio": "media/words/ep50/purchase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "co-owner",
+            "pos": "n.",
+            "zh": "共同所有者；共同経営者",
+            "ex": "I'm Kevin Williams, co-owner of this business.",
+            "exzh": "この会社の共同経営者の Kevin Williams です。",
+            "ipa": "/ˈkoʊˌoʊnɚ/",
+            "audio": "media/words/ep50/co-owner.mp3",
+            "ex_audio": "media/words/ep50/co-owner_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "apparel",
+            "pos": "n.",
+            "zh": "衣料品；衣服",
+            "ex": "He owns an apparel business.",
+            "exzh": "彼は衣料品の会社を経営している。",
+            "ipa": "/əˈpærəl/",
+            "audio": "media/words/ep50/apparel.mp3",
+            "ex_audio": "media/words/ep50/apparel_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "family business",
+            "pos": "n.",
+            "zh": "家族経営の会社；家業",
+            "ex": "This is a family business.",
+            "exzh": "ここは家族経営の会社だ。",
+            "ipa": "/ˈfæməli ˈbɪznəs/",
+            "audio": "media/words/ep50/family-business.mp3",
+            "ex_audio": "media/words/ep50/family-business_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attire",
+            "pos": "n.",
+            "zh": "服装；衣装",
+            "ex": "We provide business attire for working professionals.",
+            "exzh": "働くプロのためにビジネスウェアを提供している。",
+            "ipa": "/əˈtaɪɚ/",
+            "audio": "media/words/ep50/attire.mp3",
+            "ex_audio": "media/words/ep50/attire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "professional",
+            "pos": "n./adj.",
+            "zh": "専門家；プロ；専門的な",
+            "ex": "The store serves working professionals.",
+            "exzh": "その店は働くプロを顧客にしている。",
+            "ipa": "/prəˈfɛʃənəl/",
+            "audio": "media/words/ep50/professional.mp3",
+            "ex_audio": "media/words/ep50/professional_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "committed",
+            "pos": "adj.",
+            "zh": "…に力を注いでいる；献身的な",
+            "ex": "We're committed to maintaining a loyal customer base.",
+            "exzh": "常連客を大切にすることに力を入れている。",
+            "ipa": "/kəˈmɪtɪd/",
+            "audio": "media/words/ep50/committed.mp3",
+            "ex_audio": "media/words/ep50/committed_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loyal",
+            "pos": "adj.",
+            "zh": "忠実な；ひいきにしてくれる",
+            "ex": "The store has many loyal customers.",
+            "exzh": "その店には常連客が多い。",
+            "ipa": "/ˈlɔɪəl/",
+            "audio": "media/words/ep50/loyal.mp3",
+            "ex_audio": "media/words/ep50/loyal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "at all times",
+            "pos": "phr.",
+            "zh": "いつでも；常に",
+            "ex": "We provide quality customer service at all times.",
+            "exzh": "いつでも質の高い接客を提供している。",
+            "ipa": "/æt ɔl taɪmz/",
+            "audio": "media/words/ep50/at-all-times.mp3",
+            "ex_audio": "media/words/ep50/at-all-times_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "install",
+            "pos": "v.",
+            "zh": "設置する；取り付ける；インストールする",
+            "ex": "I recently installed a security alarm.",
+            "exzh": "最近防犯アラームを設置した。",
+            "ipa": "/ˌɪnˈstɔl/",
+            "audio": "media/words/ep50/install.mp3",
+            "ex_audio": "media/words/ep50/install_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "security alarm",
+            "pos": "n.",
+            "zh": "防犯アラーム；警報装置",
+            "ex": "I'll give you the code for the security alarm.",
+            "exzh": "防犯アラームの暗証番号を教える。",
+            "ipa": "/sɪˈkjʊrəti əˈlɑrm/",
+            "audio": "media/words/ep50/security-alarm.mp3",
+            "ex_audio": "media/words/ep50/security-alarm_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "textile",
+            "pos": "n.",
+            "zh": "織物；繊維製品",
+            "ex": "He works at a textile factory.",
+            "exzh": "彼は織物工場で働いている。",
+            "ipa": "/ˈtɛkˌstaɪl/",
+            "audio": "media/words/ep50/textile.mp3",
+            "ex_audio": "media/words/ep50/textile_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "firm",
+            "pos": "n./adj.",
+            "zh": "会社；事務所；堅い",
+            "ex": "She works for an interior design firm.",
+            "exzh": "彼女はインテリアデザイン会社で働いている。",
+            "ipa": "/fɝm/",
+            "audio": "media/words/ep50/firm.mp3",
+            "ex_audio": "media/words/ep50/firm_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reduce",
+            "pos": "v.",
+            "zh": "減らす；下げる",
+            "ex": "We need to reduce costs this year.",
+            "exzh": "今年は費用を減らす必要がある。",
+            "ipa": "/rəˈdus/",
+            "audio": "media/words/ep50/reduce.mp3",
+            "ex_audio": "media/words/ep50/reduce_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "uniform",
+            "pos": "n./adj.",
+            "zh": "制服；均一の",
+            "ex": "New employees will receive uniforms.",
+            "exzh": "新入社員は制服を受け取る。",
+            "ipa": "/ˈjunəˌfɔrm/",
+            "audio": "media/words/ep50/uniform.mp3",
+            "ex_audio": "media/words/ep50/uniform_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contact list",
+            "pos": "n.",
+            "zh": "連絡先リスト",
+            "ex": "Please check the contact list.",
+            "exzh": "連絡先リストを確認してください。",
+            "ipa": "/ˈkɑnˌtækt lɪst/",
+            "audio": "media/words/ep50/contact-list.mp3",
+            "ex_audio": "media/words/ep50/contact-list_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "storefront",
+            "pos": "n.",
+            "zh": "店舗；店先",
+            "ex": "We opened our small storefront six years ago.",
+            "exzh": "6年前に小さな店を開いた。",
+            "ipa": "/ˈstɔrˌfrɑnt/",
+            "audio": "media/words/ep50/storefront.mp3",
+            "ex_audio": "media/words/ep50/storefront_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "gradually",
+            "pos": "adv.",
+            "zh": "徐々に；少しずつ",
+            "ex": "We've gradually added men's and children's shoes.",
+            "exzh": "少しずつ紳士靴や子ども靴を加えてきた。",
+            "ipa": "/ˈɡrædʒuəli/",
+            "audio": "media/words/ep50/gradually.mp3",
+            "ex_audio": "media/words/ep50/gradually_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "floor space",
+            "pos": "n.",
+            "zh": "売り場面積；床面積",
+            "ex": "We just don't have the floor space.",
+            "exzh": "売り場の広さがどうしても足りない。",
+            "ipa": "/flɔr speɪs/",
+            "audio": "media/words/ep50/floor-space.mp3",
+            "ex_audio": "media/words/ep50/floor-space_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "selection",
+            "pos": "n.",
+            "zh": "品ぞろえ；選択",
+            "ex": "The store offers a wide selection of shoes.",
+            "exzh": "その店は靴の品ぞろえが豊富だ。",
+            "ipa": "/səˈlɛkʃən/",
+            "audio": "media/words/ep50/selection.mp3",
+            "ex_audio": "media/words/ep50/selection_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "acquire",
+            "pos": "v.",
+            "zh": "手に入れる；取得する；買収する",
+            "ex": "I've acquired a new, much larger space.",
+            "exzh": "新しい、ずっと広いスペースを手に入れた。",
+            "ipa": "/əˈkwaɪɚ/",
+            "audio": "media/words/ep50/acquire.mp3",
+            "ex_audio": "media/words/ep50/acquire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "down the street",
+            "pos": "phr.",
+            "zh": "通りの先に；同じ通りの少し先に",
+            "ex": "The new location's just down the street.",
+            "exzh": "新しい店はこの通りのすぐ先だ。",
+            "ipa": "/daʊn ðə strit/",
+            "audio": "media/words/ep50/down-the-street.mp3",
+            "ex_audio": "media/words/ep50/down-the-street_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in-house",
+            "pos": "adj./adv.",
+            "zh": "社内の；店内の",
+            "ex": "There will be an in-house repair shop.",
+            "exzh": "店内に修理コーナーができる。",
+            "ipa": "/ɪnˈhaʊs/",
+            "audio": "media/words/ep50/in-house.mp3",
+            "ex_audio": "media/words/ep50/in-house_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "individual",
+            "pos": "n./adj.",
+            "zh": "個人；人；個々の",
+            "ex": "I've just hired two experienced individuals.",
+            "exzh": "経験豊富な人を2人雇ったばかりだ。",
+            "ipa": "/ˌɪndəˈvɪdʒəwəl/",
+            "audio": "media/words/ep50/individual.mp3",
+            "ex_audio": "media/words/ep50/individual_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "skilled",
+            "pos": "adj.",
+            "zh": "熟練した；腕のいい",
+            "ex": "They are quite skilled at repairing shoes.",
+            "exzh": "彼らは靴の修理がとても得意だ。",
+            "ipa": "/skɪld/",
+            "audio": "media/words/ep50/skilled.mp3",
+            "ex_audio": "media/words/ep50/skilled_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "specialized",
+            "pos": "adj.",
+            "zh": "専門的な；特化した",
+            "ex": "Repairing shoes is specialized work.",
+            "exzh": "靴の修理は専門的な仕事だ。",
+            "ipa": "/ˈspɛʃəˌlaɪzd/",
+            "audio": "media/words/ep50/specialized.mp3",
+            "ex_audio": "media/words/ep50/specialized_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "jewelry",
+            "pos": "n.",
+            "zh": "宝石類；アクセサリー",
+            "ex": "She bought a necklace at a jewelry store.",
+            "exzh": "彼女は宝石店でネックレスを買った。",
+            "ipa": "/ˈdʒuəlri/",
+            "audio": "media/words/ep50/jewelry.mp3",
+            "ex_audio": "media/words/ep50/jewelry_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dealership",
+            "pos": "n.",
+            "zh": "販売店；特約店",
+            "ex": "He works at an automobile dealership.",
+            "exzh": "彼は自動車販売店で働いている。",
+            "ipa": "/ˈdilɚˌʃɪp/",
+            "audio": "media/words/ep50/dealership.mp3",
+            "ex_audio": "media/words/ep50/dealership_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reassure",
+            "pos": "v.",
+            "zh": "安心させる",
+            "ex": "She wanted to reassure the staff about the move.",
+            "exzh": "彼女は移転について従業員を安心させたかった。",
+            "ipa": "/ˌriəˈʃʊr/",
+            "audio": "media/words/ep50/reassure.mp3",
+            "ex_audio": "media/words/ep50/reassure_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "discourage",
+            "pos": "v.",
+            "zh": "思いとどまらせる；やる気をなくさせる",
+            "ex": "The sign discourages people from driving.",
+            "exzh": "その掲示は車で来ないよう呼びかけている。",
+            "ipa": "/dɪˈskɝɪdʒ/",
+            "audio": "media/words/ep50/discourage.mp3",
+            "ex_audio": "media/words/ep50/discourage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "handle",
+            "pos": "v./n.",
+            "zh": "扱う；担当する；取っ手",
+            "ex": "Who will handle the finances?",
+            "exzh": "誰が財務を担当するのか。",
+            "ipa": "/ˈhændəl/",
+            "audio": "media/words/ep50/handle.mp3",
+            "ex_audio": "media/words/ep50/handle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "finance",
+            "pos": "n./v.",
+            "zh": "財務；資金；資金を出す",
+            "ex": "She has worked in finance for ten years.",
+            "exzh": "彼女は10年間財務の仕事をしてきた。",
+            "ipa": "/fəˈnæns/",
+            "audio": "media/words/ep50/finance.mp3",
+            "ex_audio": "media/words/ep50/finance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "desirable",
+            "pos": "adj.",
+            "zh": "望ましい；魅力的な",
+            "ex": "The Web page describes the desirable aspects of the products.",
+            "exzh": "そのウェブページは製品の望ましい特長を説明している。",
+            "ipa": "/dɪˈzaɪrəbəl/",
+            "audio": "media/words/ep50/desirable.mp3",
+            "ex_audio": "media/words/ep50/desirable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "aspect",
+            "pos": "n.",
+            "zh": "面；側面；特徴",
+            "ex": "Price is an important aspect of any product.",
+            "exzh": "価格はどんな製品にとっても重要な面だ。",
+            "ipa": "/ˈæˌspɛkt/",
+            "audio": "media/words/ep50/aspect.mp3",
+            "ex_audio": "media/words/ep50/aspect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "adjustable",
+            "pos": "adj.",
+            "zh": "調節できる",
+            "ex": "Every lamp is fully adjustable.",
+            "exzh": "どのライトも自由に調節できる。",
+            "ipa": "/əˈdʒʌstəbəl/",
+            "audio": "media/words/ep50/adjustable.mp3",
+            "ex_audio": "media/words/ep50/adjustable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "manufacture",
+            "pos": "v./n.",
+            "zh": "製造する；製造",
+            "ex": "Every product manufactured by Taoblar is adjustable.",
+            "exzh": "Taoblar 社が製造する製品はすべて調節できる。",
+            "ipa": "/ˌmænjəˈfæktʃɚ/",
+            "audio": "media/words/ep50/manufacture.mp3",
+            "ex_audio": "media/words/ep50/manufacture_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "dimmable",
+            "pos": "adj.",
+            "zh": "調光できる",
+            "ex": "All of our lamps are dimmable.",
+            "exzh": "当社のライトはすべて調光できる。",
+            "ipa": "",
+            "audio": "media/words/ep50/dimmable.mp3",
+            "ex_audio": "media/words/ep50/dimmable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "eyestrain",
+            "pos": "n.",
+            "zh": "目の疲れ；眼精疲労",
+            "ex": "This helps avoid eyestrain and fatigue.",
+            "exzh": "これは目の疲れや疲労を防ぐのに役立つ。",
+            "ipa": "/ˈaɪˌstreɪn/",
+            "audio": "media/words/ep50/eyestrain.mp3",
+            "ex_audio": "media/words/ep50/eyestrain_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "compact",
+            "pos": "adj.",
+            "zh": "小型の；コンパクトな",
+            "ex": "The Model TT-1 is our most compact lamp.",
+            "exzh": "モデル TT-1 は当社で最もコンパクトなライトだ。",
+            "ipa": "/ˈkɑmpækt/",
+            "audio": "media/words/ep50/compact.mp3",
+            "ex_audio": "media/words/ep50/compact_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "narrow",
+            "pos": "adj./v.",
+            "zh": "狭い；狭める",
+            "ex": "It is designed for small or narrow desks.",
+            "exzh": "小さな、または狭い机向けに設計されている。",
+            "ipa": "/ˈnɛroʊ/",
+            "audio": "media/words/ep50/narrow.mp3",
+            "ex_audio": "media/words/ep50/narrow_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "out of stock",
+            "pos": "phr.",
+            "zh": "在庫切れの",
+            "ex": "The lamp is currently out of stock.",
+            "exzh": "そのライトは現在在庫切れだ。",
+            "ipa": "/aʊt əv stɑk/",
+            "audio": "media/words/ep50/out-of-stock.mp3",
+            "ex_audio": "media/words/ep50/out-of-stock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recognition",
+            "pos": "n.",
+            "zh": "評価；表彰；認識",
+            "ex": "Its products have earned industry recognition.",
+            "exzh": "同社の製品は業界で評価されている。",
+            "ipa": "/ˌrɛkəɡˈnɪʃən/",
+            "audio": "media/words/ep50/recognition.mp3",
+            "ex_audio": "media/words/ep50/recognition_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "worthy",
+            "pos": "adj.",
+            "zh": "値する；ふさわしい",
+            "ex": "The company was worthy of the design award.",
+            "exzh": "その会社はデザイン賞にふさわしかった。",
+            "ipa": "/ˈwɝði/",
+            "audio": "media/words/ep50/worthy.mp3",
+            "ex_audio": "media/words/ep50/worthy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mainstay",
+            "pos": "n.",
+            "zh": "定番；大黒柱；主力",
+            "ex": "Our lamps have become mainstays in all types of workplaces.",
+            "exzh": "当社のライトはあらゆる職場の定番になった。",
+            "ipa": "/ˈmeɪnˌsteɪ/",
+            "audio": "media/words/ep50/mainstay.mp3",
+            "ex_audio": "media/words/ep50/mainstay_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "durability",
+            "pos": "n.",
+            "zh": "耐久性",
+            "ex": "These boots are known for their durability.",
+            "exzh": "このブーツは耐久性で知られている。",
+            "ipa": "/dɚəˈbɪlɪti/",
+            "audio": "media/words/ep50/durability.mp3",
+            "ex_audio": "media/words/ep50/durability_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep50_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 3/4 総まとめ（後編）：目的 · 提案 · 意図 · 人物と場所",
+    "words": [
+      {
+        "word": "line",
+        "pos": "n.",
+        "zh": "产品系列；线；排队",
+        "ex": "I looked at the designs for our new line of birthday cards.",
+        "exzh": "我看了我们新系列生日贺卡的设计。",
+        "ipa": "/laɪn/",
+        "audio": "media/words/ep50/line.mp3",
+        "ex_audio": "media/words/ep50/line_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "humorous",
+        "pos": "adj.",
+        "zh": "幽默的；滑稽的",
+        "ex": "The company sells humorous birthday cards.",
+        "exzh": "这家公司卖幽默生日贺卡。",
+        "ipa": "/ˈhjumɚəs/",
+        "audio": "media/words/ep50/humorous.mp3",
+        "ex_audio": "media/words/ep50/humorous_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stand out",
+        "pos": "phr.",
+        "zh": "突出；显眼",
+        "ex": "I don't think the designs will stand out.",
+        "exzh": "我觉得这些设计不够显眼。",
+        "ipa": "/stænd aʊt/",
+        "audio": "media/words/ep50/stand-out.mp3",
+        "ex_audio": "media/words/ep50/stand-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "greeting card",
+        "pos": "n.",
+        "zh": "贺卡",
+        "ex": "Many greeting cards are sold in this store.",
+        "exzh": "这家店卖很多贺卡。",
+        "ipa": "/ˈɡritɪŋ kɑrd/",
+        "audio": "media/words/ep50/greeting-card.mp3",
+        "ex_audio": "media/words/ep50/greeting-card_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contract",
+        "pos": "v./n.",
+        "zh": "签约雇用；合同",
+        "ex": "We could contract a well-known visual artist.",
+        "exzh": "我们可以签一位知名的视觉艺术家。",
+        "ipa": "/ˈkɑnˌtrækt/",
+        "audio": "media/words/ep50/contract.mp3",
+        "ex_audio": "media/words/ep50/contract_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recognizable",
+        "pos": "adj.",
+        "zh": "能认出的；易于识别的",
+        "ex": "Her artwork is instantly recognizable.",
+        "exzh": "她的作品一眼就能认出来。",
+        "ipa": "/ˌrɛkəɡˈnaɪzəbəl/",
+        "audio": "media/words/ep50/recognizable.mp3",
+        "ex_audio": "media/words/ep50/recognizable_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "timeline",
+        "pos": "n.",
+        "zh": "时间表；日程",
+        "ex": "We're operating on a short timeline.",
+        "exzh": "我们的时间很紧。",
+        "ipa": "/ˈtaɪmlaɪn/",
+        "audio": "media/words/ep50/timeline.mp3",
+        "ex_audio": "media/words/ep50/timeline_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "artwork",
+        "pos": "n.",
+        "zh": "艺术作品；插画",
+        "ex": "How quickly can she get the artwork done?",
+        "exzh": "她多快能把作品完成？",
+        "ipa": "/ˈɑrˌtwɝk/",
+        "audio": "media/words/ep50/artwork.mp3",
+        "ex_audio": "media/words/ep50/artwork_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assistant",
+        "pos": "n.",
+        "zh": "助理；助手",
+        "ex": "She has a team of assistants.",
+        "exzh": "她有一个助理团队。",
+        "ipa": "/əˈsɪstənt/",
+        "audio": "media/words/ep50/assistant.mp3",
+        "ex_audio": "media/words/ep50/assistant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "finalize",
+        "pos": "v.",
+        "zh": "敲定；最终确定",
+        "ex": "We need to finalize the Web site design.",
+        "exzh": "我们需要敲定网站设计。",
+        "ipa": "/ˈfaɪnəˌlaɪz/",
+        "audio": "media/words/ep50/finalize.mp3",
+        "ex_audio": "media/words/ep50/finalize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "product line",
+        "pos": "n.",
+        "zh": "产品系列；产品线",
+        "ex": "They are discussing a new product line.",
+        "exzh": "他们在讨论一个新的产品系列。",
+        "ipa": "/ˈprɑdəkt laɪn/",
+        "audio": "media/words/ep50/product-line.mp3",
+        "ex_audio": "media/words/ep50/product-line_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "consult",
+        "pos": "v.",
+        "zh": "咨询；请教；查阅",
+        "ex": "You should consult with a marketing specialist.",
+        "exzh": "你应该咨询一下营销专家。",
+        "ipa": "/kənˈsʌlt/",
+        "audio": "media/words/ep50/consult.mp3",
+        "ex_audio": "media/words/ep50/consult_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "negotiate",
+        "pos": "v.",
+        "zh": "谈判；协商",
+        "ex": "We negotiated a lower price.",
+        "exzh": "我们谈下了一个更低的价格。",
+        "ipa": "/nəˈɡoʊʃiˌeɪt/",
+        "audio": "media/words/ep50/negotiate.mp3",
+        "ex_audio": "media/words/ep50/negotiate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bulk order",
+        "pos": "n.",
+        "zh": "大批订购；大宗订单",
+        "ex": "We offer discounts on bulk orders.",
+        "exzh": "大批订购有折扣。",
+        "ipa": "/bʌlk ˈɔrdɚ/",
+        "audio": "media/words/ep50/bulk-order.mp3",
+        "ex_audio": "media/words/ep50/bulk-order_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "zh": "截止日期；最后期限",
+        "ex": "A deadline is approaching quickly.",
+        "exzh": "截止日期很快就要到了。",
+        "ipa": "/ˈdɛdˌlaɪn/",
+        "audio": "media/words/ep50/deadline.mp3",
+        "ex_audio": "media/words/ep50/deadline_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "competitor",
+        "pos": "n.",
+        "zh": "竞争对手",
+        "ex": "Our competitor's product is very popular.",
+        "exzh": "我们竞争对手的产品很受欢迎。",
+        "ipa": "/kəmˈpɛtətɚ/",
+        "audio": "media/words/ep50/competitor.mp3",
+        "ex_audio": "media/words/ep50/competitor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "smoothly",
+        "pos": "adv.",
+        "zh": "顺利地；平稳地",
+        "ex": "Things are going smoothly so far.",
+        "exzh": "到目前为止一切都很顺利。",
+        "ipa": "/ˈsmuðli/",
+        "audio": "media/words/ep50/smoothly.mp3",
+        "ex_audio": "media/words/ep50/smoothly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "branch office",
+        "pos": "n.",
+        "zh": "分公司；分店",
+        "ex": "He is working at the Hamburg branch office.",
+        "exzh": "他在汉堡分公司工作。",
+        "ipa": "/bræntʃ ˈɔfɪs/",
+        "audio": "media/words/ep50/branch-office.mp3",
+        "ex_audio": "media/words/ep50/branch-office_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on time",
+        "pos": "phr.",
+        "zh": "准时",
+        "ex": "My flight arrived on time last night.",
+        "exzh": "我的航班昨晚准时到达。",
+        "ipa": "/ɑn taɪm/",
+        "audio": "media/words/ep50/on-time.mp3",
+        "ex_audio": "media/words/ep50/on-time_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "as scheduled",
+        "pos": "phr.",
+        "zh": "按计划；如期",
+        "ex": "The training started this morning as scheduled.",
+        "exzh": "培训今天早上按计划开始了。",
+        "ipa": "/æz ˈskɛdʒʊld/",
+        "audio": "media/words/ep50/as-scheduled.mp3",
+        "ex_audio": "media/words/ep50/as-scheduled_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "addition",
+        "pos": "n.",
+        "zh": "新成员；增加的人或物；加法",
+        "ex": "They will be a great addition to our sales team.",
+        "exzh": "他们会是我们销售团队很棒的新成员。",
+        "ipa": "/əˈdɪʃən/",
+        "audio": "media/words/ep50/addition.mp3",
+        "ex_audio": "media/words/ep50/addition_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "engaged",
+        "pos": "adj.",
+        "zh": "投入的；积极参与的；订婚的",
+        "ex": "The new employees were all very engaged.",
+        "exzh": "新员工们都很投入。",
+        "ipa": "/ɛnˈɡeɪdʒd/",
+        "audio": "media/words/ep50/engaged.mp3",
+        "ex_audio": "media/words/ep50/engaged_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "client base",
+        "pos": "n.",
+        "zh": "客户群",
+        "ex": "They asked about our target client base.",
+        "exzh": "他们问了我们的目标客户群。",
+        "ipa": "/ˈklaɪənt beɪs/",
+        "audio": "media/words/ep50/client-base.mp3",
+        "ex_audio": "media/words/ep50/client-base_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pack",
+        "pos": "v./n.",
+        "zh": "收拾行李；打包；包",
+        "ex": "I didn't pack the right clothes.",
+        "exzh": "我没带对衣服。",
+        "ipa": "/pæk/",
+        "audio": "media/words/ep50/pack.mp3",
+        "ex_audio": "media/words/ep50/pack_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relative",
+        "pos": "n./adj.",
+        "zh": "亲戚；相对的",
+        "ex": "He is visiting relatives in Germany.",
+        "exzh": "他在德国探亲。",
+        "ipa": "/ˈrɛlətɪv/",
+        "audio": "media/words/ep50/relative.mp3",
+        "ex_audio": "media/words/ep50/relative_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appoint",
+        "pos": "v.",
+        "zh": "任命；指派",
+        "ex": "The company will appoint a new branch manager.",
+        "exzh": "公司将任命一位新的分公司经理。",
+        "ipa": "/əˈpɔɪnt/",
+        "audio": "media/words/ep50/appoint.mp3",
+        "ex_audio": "media/words/ep50/appoint_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "department",
+        "pos": "n.",
+        "zh": "部门",
+        "ex": "What department does the speaker work in?",
+        "exzh": "说话人在哪个部门工作？",
+        "ipa": "/dɪˈpɑrtmənt/",
+        "audio": "media/words/ep50/department.mp3",
+        "ex_audio": "media/words/ep50/department_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "human resources",
+        "pos": "n.",
+        "zh": "人力资源部；人事部",
+        "ex": "Please send your form to human resources.",
+        "exzh": "请把表格交给人事部。",
+        "ipa": "/ˈhjumən ˈrisɔrsɪz/",
+        "audio": "media/words/ep50/human-resources.mp3",
+        "ex_audio": "media/words/ep50/human-resources_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "correct",
+        "pos": "v./adj.",
+        "zh": "更正；纠正；正确的",
+        "ex": "I need to correct some information in the report.",
+        "exzh": "我需要更正报告里的一些信息。",
+        "ipa": "/kɚˈɛkt/",
+        "audio": "media/words/ep50/correct.mp3",
+        "ex_audio": "media/words/ep50/correct_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "delay",
+        "pos": "n./v.",
+        "zh": "延误；推迟",
+        "ex": "He called to explain a delay.",
+        "exzh": "他打电话来解释延误。",
+        "ipa": "/dɪˈleɪ/",
+        "audio": "media/words/ep50/delay.mp3",
+        "ex_audio": "media/words/ep50/delay_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "maintenance",
+        "pos": "n.",
+        "zh": "维修；保养",
+        "ex": "Good morning, maintenance team.",
+        "exzh": "早上好，维修团队的各位。",
+        "ipa": "/ˈmeɪntənəns/",
+        "audio": "media/words/ep50/maintenance.mp3",
+        "ex_audio": "media/words/ep50/maintenance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "apartment complex",
+        "pos": "n.",
+        "zh": "公寓小区；公寓楼群",
+        "ex": "We'll be closing the parking area of this apartment complex.",
+        "exzh": "我们要关闭这个公寓小区的停车场。",
+        "ipa": "/əˈpɑrtmənt ˈkɑmplɛks/",
+        "audio": "media/words/ep50/apartment-complex.mp3",
+        "ex_audio": "media/words/ep50/apartment-complex_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contractor",
+        "pos": "n.",
+        "zh": "承包商；施工方",
+        "ex": "I've hired contractors to repaint the lines.",
+        "exzh": "我请了承包商来重新画线。",
+        "ipa": "/ˈkɑnˌtræktɚ/",
+        "audio": "media/words/ep50/contractor.mp3",
+        "ex_audio": "media/words/ep50/contractor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "zh": "居民；住户",
+        "ex": "All residents need to use alternate parking.",
+        "exzh": "所有住户都需要换个地方停车。",
+        "ipa": "/ˈrɛzɪdənt/",
+        "audio": "media/words/ep50/resident.mp3",
+        "ex_audio": "media/words/ep50/resident_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "alternate",
+        "pos": "adj./v.",
+        "zh": "替代的；备用的；交替",
+        "ex": "Please use alternate parking next week.",
+        "exzh": "下周请到别处停车。",
+        "ipa": "/ˈɔltɚnət/",
+        "audio": "media/words/ep50/alternate.mp3",
+        "ex_audio": "media/words/ep50/alternate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "opposite",
+        "pos": "prep./adj.",
+        "zh": "在……对面；相反的",
+        "ex": "The shopping center is just opposite us.",
+        "exzh": "购物中心就在我们正对面。",
+        "ipa": "/ˈɑpəzət/",
+        "audio": "media/words/ep50/opposite.mp3",
+        "ex_audio": "media/words/ep50/opposite_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "temporarily",
+        "pos": "adv.",
+        "zh": "暂时地；临时地",
+        "ex": "Residents can park there temporarily.",
+        "exzh": "住户可以暂时停在那里。",
+        "ipa": "/ˌtɛmpɚˈɛrəli/",
+        "audio": "media/words/ep50/temporarily.mp3",
+        "ex_audio": "media/words/ep50/temporarily_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "highway",
+        "pos": "n.",
+        "zh": "公路；干线公路",
+        "ex": "But it's across the highway.",
+        "exzh": "不过它在公路的另一侧。",
+        "ipa": "/ˈhaɪˌweɪ/",
+        "audio": "media/words/ep50/highway.mp3",
+        "ex_audio": "media/words/ep50/highway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "get over with",
+        "pos": "phr.",
+        "zh": "把（麻烦事）赶紧做完",
+        "ex": "We'll try to get this work over with as quickly as possible.",
+        "exzh": "我们会尽量尽快把这项工程做完。",
+        "ipa": "/ɡɛt ˈoʊvɚ wɪð/",
+        "audio": "media/words/ep50/get-over-with.mp3",
+        "ex_audio": "media/words/ep50/get-over-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "entryway",
+        "pos": "n.",
+        "zh": "入口；门厅",
+        "ex": "Please post the signs in the entryways.",
+        "exzh": "请把告示贴在入口处。",
+        "ipa": "/ˈɛntriweɪ/",
+        "audio": "media/words/ep50/entryway.mp3",
+        "ex_audio": "media/words/ep50/entryway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attendant",
+        "pos": "n.",
+        "zh": "服务员；管理员",
+        "ex": "A parking attendant showed us where to park.",
+        "exzh": "停车场管理员告诉我们停在哪里。",
+        "ipa": "/əˈtɛndənt/",
+        "audio": "media/words/ep50/attendant.mp3",
+        "ex_audio": "media/words/ep50/attendant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "commercial",
+        "pos": "adj./n.",
+        "zh": "商业的；商用的；广告",
+        "ex": "They hired commercial painters.",
+        "exzh": "他们请了商业油漆工。",
+        "ipa": "/kəˈmɝʃəl/",
+        "audio": "media/words/ep50/commercial.mp3",
+        "ex_audio": "media/words/ep50/commercial_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "real estate",
+        "pos": "n.",
+        "zh": "房地产；不动产",
+        "ex": "She works as a real estate agent.",
+        "exzh": "她是一名房地产经纪人。",
+        "ipa": "/ril ɪˈsteɪt/",
+        "audio": "media/words/ep50/real-estate.mp3",
+        "ex_audio": "media/words/ep50/real-estate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inconvenient",
+        "pos": "adj.",
+        "zh": "不方便的",
+        "ex": "The new location is inconvenient for residents.",
+        "exzh": "新地点对住户来说不方便。",
+        "ipa": "/ˌɪnkənˈvinjənt/",
+        "audio": "media/words/ep50/inconvenient.mp3",
+        "ex_audio": "media/words/ep50/inconvenient_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提议；方案",
+        "ex": "The proposal is being considered.",
+        "exzh": "这个提议正在考虑中。",
+        "ipa": "/prəˈpoʊzəl/",
+        "audio": "media/words/ep50/proposal.mp3",
+        "ex_audio": "media/words/ep50/proposal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "vehicle",
+        "pos": "n.",
+        "zh": "车辆；交通工具",
+        "ex": "Please move your vehicle by Friday.",
+        "exzh": "请在周五前把车挪走。",
+        "ipa": "/ˈvihɪkəl/",
+        "audio": "media/words/ep50/vehicle.mp3",
+        "ex_audio": "media/words/ep50/vehicle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "purchase",
+        "pos": "v./n.",
+        "zh": "购买；购买的东西",
+        "ex": "We need to purchase some paint.",
+        "exzh": "我们需要买一些油漆。",
+        "ipa": "/ˈpɝtʃəs/",
+        "audio": "media/words/ep50/purchase.mp3",
+        "ex_audio": "media/words/ep50/purchase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "co-owner",
+        "pos": "n.",
+        "zh": "共同所有人；合伙老板",
+        "ex": "I'm Kevin Williams, co-owner of this business.",
+        "exzh": "我是 Kevin Williams，这家公司的共同所有人。",
+        "ipa": "/ˈkoʊˌoʊnɚ/",
+        "audio": "media/words/ep50/co-owner.mp3",
+        "ex_audio": "media/words/ep50/co-owner_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "apparel",
+        "pos": "n.",
+        "zh": "服装；衣服",
+        "ex": "He owns an apparel business.",
+        "exzh": "他经营一家服装公司。",
+        "ipa": "/əˈpærəl/",
+        "audio": "media/words/ep50/apparel.mp3",
+        "ex_audio": "media/words/ep50/apparel_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "family business",
+        "pos": "n.",
+        "zh": "家族企业",
+        "ex": "This is a family business.",
+        "exzh": "这是一家家族企业。",
+        "ipa": "/ˈfæməli ˈbɪznəs/",
+        "audio": "media/words/ep50/family-business.mp3",
+        "ex_audio": "media/words/ep50/family-business_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attire",
+        "pos": "n.",
+        "zh": "服装；衣着",
+        "ex": "We provide business attire for working professionals.",
+        "exzh": "我们为职场人士提供商务服装。",
+        "ipa": "/əˈtaɪɚ/",
+        "audio": "media/words/ep50/attire.mp3",
+        "ex_audio": "media/words/ep50/attire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "professional",
+        "pos": "n./adj.",
+        "zh": "专业人士；职场人士；专业的",
+        "ex": "The store serves working professionals.",
+        "exzh": "这家店服务职场人士。",
+        "ipa": "/prəˈfɛʃənəl/",
+        "audio": "media/words/ep50/professional.mp3",
+        "ex_audio": "media/words/ep50/professional_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "committed",
+        "pos": "adj.",
+        "zh": "致力于……的；坚定的",
+        "ex": "We're committed to maintaining a loyal customer base.",
+        "exzh": "我们致力于留住忠实的顾客群。",
+        "ipa": "/kəˈmɪtɪd/",
+        "audio": "media/words/ep50/committed.mp3",
+        "ex_audio": "media/words/ep50/committed_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loyal",
+        "pos": "adj.",
+        "zh": "忠实的；忠诚的",
+        "ex": "The store has many loyal customers.",
+        "exzh": "这家店有很多忠实的老顾客。",
+        "ipa": "/ˈlɔɪəl/",
+        "audio": "media/words/ep50/loyal.mp3",
+        "ex_audio": "media/words/ep50/loyal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "at all times",
+        "pos": "phr.",
+        "zh": "随时；始终",
+        "ex": "We provide quality customer service at all times.",
+        "exzh": "我们随时提供优质的客户服务。",
+        "ipa": "/æt ɔl taɪmz/",
+        "audio": "media/words/ep50/at-all-times.mp3",
+        "ex_audio": "media/words/ep50/at-all-times_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "install",
+        "pos": "v.",
+        "zh": "安装",
+        "ex": "I recently installed a security alarm.",
+        "exzh": "我最近装了一套安保警报系统。",
+        "ipa": "/ˌɪnˈstɔl/",
+        "audio": "media/words/ep50/install.mp3",
+        "ex_audio": "media/words/ep50/install_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "security alarm",
+        "pos": "n.",
+        "zh": "安保警报器；防盗警报",
+        "ex": "I'll give you the code for the security alarm.",
+        "exzh": "我会把安保警报的密码给你们。",
+        "ipa": "/sɪˈkjʊrəti əˈlɑrm/",
+        "audio": "media/words/ep50/security-alarm.mp3",
+        "ex_audio": "media/words/ep50/security-alarm_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "textile",
+        "pos": "n.",
+        "zh": "纺织品；布料",
+        "ex": "He works at a textile factory.",
+        "exzh": "他在一家纺织厂工作。",
+        "ipa": "/ˈtɛkˌstaɪl/",
+        "audio": "media/words/ep50/textile.mp3",
+        "ex_audio": "media/words/ep50/textile_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "firm",
+        "pos": "n./adj.",
+        "zh": "公司；事务所；坚定的",
+        "ex": "She works for an interior design firm.",
+        "exzh": "她在一家室内设计公司工作。",
+        "ipa": "/fɝm/",
+        "audio": "media/words/ep50/firm.mp3",
+        "ex_audio": "media/words/ep50/firm_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reduce",
+        "pos": "v.",
+        "zh": "减少；降低",
+        "ex": "We need to reduce costs this year.",
+        "exzh": "今年我们需要降低成本。",
+        "ipa": "/rəˈdus/",
+        "audio": "media/words/ep50/reduce.mp3",
+        "ex_audio": "media/words/ep50/reduce_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "uniform",
+        "pos": "n./adj.",
+        "zh": "制服；统一的",
+        "ex": "New employees will receive uniforms.",
+        "exzh": "新员工会拿到制服。",
+        "ipa": "/ˈjunəˌfɔrm/",
+        "audio": "media/words/ep50/uniform.mp3",
+        "ex_audio": "media/words/ep50/uniform_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contact list",
+        "pos": "n.",
+        "zh": "联系人名单；通讯录",
+        "ex": "Please check the contact list.",
+        "exzh": "请查看联系人名单。",
+        "ipa": "/ˈkɑnˌtækt lɪst/",
+        "audio": "media/words/ep50/contact-list.mp3",
+        "ex_audio": "media/words/ep50/contact-list_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "storefront",
+        "pos": "n.",
+        "zh": "店面；临街的小店",
+        "ex": "We opened our small storefront six years ago.",
+        "exzh": "六年前我们开了这家小店面。",
+        "ipa": "/ˈstɔrˌfrɑnt/",
+        "audio": "media/words/ep50/storefront.mp3",
+        "ex_audio": "media/words/ep50/storefront_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "gradually",
+        "pos": "adv.",
+        "zh": "逐渐地；慢慢地",
+        "ex": "We've gradually added men's and children's shoes.",
+        "exzh": "我们慢慢加了一些男鞋和童鞋。",
+        "ipa": "/ˈɡrædʒuəli/",
+        "audio": "media/words/ep50/gradually.mp3",
+        "ex_audio": "media/words/ep50/gradually_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "floor space",
+        "pos": "n.",
+        "zh": "营业面积；店内面积",
+        "ex": "We just don't have the floor space.",
+        "exzh": "我们的店面实在不够大。",
+        "ipa": "/flɔr speɪs/",
+        "audio": "media/words/ep50/floor-space.mp3",
+        "ex_audio": "media/words/ep50/floor-space_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "selection",
+        "pos": "n.",
+        "zh": "可供选择的商品；品种；选择",
+        "ex": "The store offers a wide selection of shoes.",
+        "exzh": "这家店的鞋品种很多。",
+        "ipa": "/səˈlɛkʃən/",
+        "audio": "media/words/ep50/selection.mp3",
+        "ex_audio": "media/words/ep50/selection_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "acquire",
+        "pos": "v.",
+        "zh": "获得；购得",
+        "ex": "I've acquired a new, much larger space.",
+        "exzh": "我已经买下了一个新的、大得多的地方。",
+        "ipa": "/əˈkwaɪɚ/",
+        "audio": "media/words/ep50/acquire.mp3",
+        "ex_audio": "media/words/ep50/acquire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "down the street",
+        "pos": "phr.",
+        "zh": "沿这条街往前；就在街那头",
+        "ex": "The new location's just down the street.",
+        "exzh": "新店就在这条街前面不远处。",
+        "ipa": "/daʊn ðə strit/",
+        "audio": "media/words/ep50/down-the-street.mp3",
+        "ex_audio": "media/words/ep50/down-the-street_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in-house",
+        "pos": "adj./adv.",
+        "zh": "内部的；店内的；公司内部的",
+        "ex": "There will be an in-house repair shop.",
+        "exzh": "会有一个店内的修理铺。",
+        "ipa": "/ɪnˈhaʊs/",
+        "audio": "media/words/ep50/in-house.mp3",
+        "ex_audio": "media/words/ep50/in-house_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "individual",
+        "pos": "n./adj.",
+        "zh": "个人；人；个别的",
+        "ex": "I've just hired two experienced individuals.",
+        "exzh": "我刚请了两位有经验的人。",
+        "ipa": "/ˌɪndəˈvɪdʒəwəl/",
+        "audio": "media/words/ep50/individual.mp3",
+        "ex_audio": "media/words/ep50/individual_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "skilled",
+        "pos": "adj.",
+        "zh": "熟练的；有技能的",
+        "ex": "They are quite skilled at repairing shoes.",
+        "exzh": "他们很擅长修鞋。",
+        "ipa": "/skɪld/",
+        "audio": "media/words/ep50/skilled.mp3",
+        "ex_audio": "media/words/ep50/skilled_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "specialized",
+        "pos": "adj.",
+        "zh": "专门的；专业的",
+        "ex": "Repairing shoes is specialized work.",
+        "exzh": "修鞋是一项专门的工作。",
+        "ipa": "/ˈspɛʃəˌlaɪzd/",
+        "audio": "media/words/ep50/specialized.mp3",
+        "ex_audio": "media/words/ep50/specialized_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "jewelry",
+        "pos": "n.",
+        "zh": "珠宝；首饰",
+        "ex": "She bought a necklace at a jewelry store.",
+        "exzh": "她在珠宝店买了一条项链。",
+        "ipa": "/ˈdʒuəlri/",
+        "audio": "media/words/ep50/jewelry.mp3",
+        "ex_audio": "media/words/ep50/jewelry_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dealership",
+        "pos": "n.",
+        "zh": "经销店；代理商",
+        "ex": "He works at an automobile dealership.",
+        "exzh": "他在一家汽车经销店工作。",
+        "ipa": "/ˈdilɚˌʃɪp/",
+        "audio": "media/words/ep50/dealership.mp3",
+        "ex_audio": "media/words/ep50/dealership_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reassure",
+        "pos": "v.",
+        "zh": "使放心；安慰",
+        "ex": "She wanted to reassure the staff about the move.",
+        "exzh": "她想让员工对搬迁放心。",
+        "ipa": "/ˌriəˈʃʊr/",
+        "audio": "media/words/ep50/reassure.mp3",
+        "ex_audio": "media/words/ep50/reassure_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "discourage",
+        "pos": "v.",
+        "zh": "劝阻；使泄气",
+        "ex": "The sign discourages people from driving.",
+        "exzh": "这个告示劝人们不要开车。",
+        "ipa": "/dɪˈskɝɪdʒ/",
+        "audio": "media/words/ep50/discourage.mp3",
+        "ex_audio": "media/words/ep50/discourage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "handle",
+        "pos": "v./n.",
+        "zh": "处理；负责；把手",
+        "ex": "Who will handle the finances?",
+        "exzh": "谁来负责财务？",
+        "ipa": "/ˈhændəl/",
+        "audio": "media/words/ep50/handle.mp3",
+        "ex_audio": "media/words/ep50/handle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "finance",
+        "pos": "n./v.",
+        "zh": "财务；资金；为……提供资金",
+        "ex": "She has worked in finance for ten years.",
+        "exzh": "她在财务部门工作了十年。",
+        "ipa": "/fəˈnæns/",
+        "audio": "media/words/ep50/finance.mp3",
+        "ex_audio": "media/words/ep50/finance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "desirable",
+        "pos": "adj.",
+        "zh": "理想的；令人想要的",
+        "ex": "The Web page describes the desirable aspects of the products.",
+        "exzh": "网页介绍了产品的理想特点。",
+        "ipa": "/dɪˈzaɪrəbəl/",
+        "audio": "media/words/ep50/desirable.mp3",
+        "ex_audio": "media/words/ep50/desirable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "aspect",
+        "pos": "n.",
+        "zh": "方面；特点",
+        "ex": "Price is an important aspect of any product.",
+        "exzh": "价格是任何产品的一个重要方面。",
+        "ipa": "/ˈæˌspɛkt/",
+        "audio": "media/words/ep50/aspect.mp3",
+        "ex_audio": "media/words/ep50/aspect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "adjustable",
+        "pos": "adj.",
+        "zh": "可调节的",
+        "ex": "Every lamp is fully adjustable.",
+        "exzh": "每盏台灯都可以完全调节。",
+        "ipa": "/əˈdʒʌstəbəl/",
+        "audio": "media/words/ep50/adjustable.mp3",
+        "ex_audio": "media/words/ep50/adjustable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "manufacture",
+        "pos": "v./n.",
+        "zh": "生产；制造",
+        "ex": "Every product manufactured by Taoblar is adjustable.",
+        "exzh": "Taoblar 生产的每件产品都可以调节。",
+        "ipa": "/ˌmænjəˈfæktʃɚ/",
+        "audio": "media/words/ep50/manufacture.mp3",
+        "ex_audio": "media/words/ep50/manufacture_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "dimmable",
+        "pos": "adj.",
+        "zh": "可调光的",
+        "ex": "All of our lamps are dimmable.",
+        "exzh": "我们所有的台灯都可以调光。",
+        "ipa": "",
+        "audio": "media/words/ep50/dimmable.mp3",
+        "ex_audio": "media/words/ep50/dimmable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "eyestrain",
+        "pos": "n.",
+        "zh": "眼睛疲劳",
+        "ex": "This helps avoid eyestrain and fatigue.",
+        "exzh": "这有助于避免眼睛疲劳和身体疲倦。",
+        "ipa": "/ˈaɪˌstreɪn/",
+        "audio": "media/words/ep50/eyestrain.mp3",
+        "ex_audio": "media/words/ep50/eyestrain_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "compact",
+        "pos": "adj.",
+        "zh": "小巧的；紧凑的",
+        "ex": "The Model TT-1 is our most compact lamp.",
+        "exzh": "TT-1 型是我们最小巧的台灯。",
+        "ipa": "/ˈkɑmpækt/",
+        "audio": "media/words/ep50/compact.mp3",
+        "ex_audio": "media/words/ep50/compact_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "narrow",
+        "pos": "adj./v.",
+        "zh": "窄的；缩小",
+        "ex": "It is designed for small or narrow desks.",
+        "exzh": "它是为小的或窄的桌子设计的。",
+        "ipa": "/ˈnɛroʊ/",
+        "audio": "media/words/ep50/narrow.mp3",
+        "ex_audio": "media/words/ep50/narrow_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "out of stock",
+        "pos": "phr.",
+        "zh": "缺货",
+        "ex": "The lamp is currently out of stock.",
+        "exzh": "这款台灯目前缺货。",
+        "ipa": "/aʊt əv stɑk/",
+        "audio": "media/words/ep50/out-of-stock.mp3",
+        "ex_audio": "media/words/ep50/out-of-stock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recognition",
+        "pos": "n.",
+        "zh": "认可；表彰；认出",
+        "ex": "Its products have earned industry recognition.",
+        "exzh": "它的产品获得了行业认可。",
+        "ipa": "/ˌrɛkəɡˈnɪʃən/",
+        "audio": "media/words/ep50/recognition.mp3",
+        "ex_audio": "media/words/ep50/recognition_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "worthy",
+        "pos": "adj.",
+        "zh": "值得的；配得上的",
+        "ex": "The company was worthy of the design award.",
+        "exzh": "这家公司配得上这个设计奖。",
+        "ipa": "/ˈwɝði/",
+        "audio": "media/words/ep50/worthy.mp3",
+        "ex_audio": "media/words/ep50/worthy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mainstay",
+        "pos": "n.",
+        "zh": "支柱；必备品；主力",
+        "ex": "Our lamps have become mainstays in all types of workplaces.",
+        "exzh": "我们的台灯已经成为各种工作场所的必备品。",
+        "ipa": "/ˈmeɪnˌsteɪ/",
+        "audio": "media/words/ep50/mainstay.mp3",
+        "ex_audio": "media/words/ep50/mainstay_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "durability",
+        "pos": "n.",
+        "zh": "耐用性；持久性",
+        "ex": "These boots are known for their durability.",
+        "exzh": "这双靴子以耐用著称。",
+        "ipa": "/dɚəˈbɪlɪti/",
+        "audio": "media/words/ep50/durability.mp3",
+        "ex_audio": "media/words/ep50/durability_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 49,
     "theme": "题型精讲 · Part 3/4 综合总复习（上）：地点身份 · 意图 · 接下来做什么",
     "date": "2026-10-31",
