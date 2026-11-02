@@ -1,5 +1,1388 @@
 [
   {
+    "number": 52,
+    "theme": "题型精讲 · Part 5 时态与语态：主动还是被动 · 时间标志词 · 已有谓语用非谓语",
+    "date": "2026-11-03",
+    "duration_sec": 2232.3,
+    "segments": [
+      {
+        "title": "1. Part 5 时态与语态真题（三套卷全部 8 题 · 主动被动 / 时态 / 非谓语）",
+        "start": 0.0,
+        "length": 910.46
+      },
+      {
+        "title": "2. Part 7 长期休假备忘录（配套精练 · 含句子插入题）",
+        "start": 910.46,
+        "length": 584.24
+      },
+      {
+        "title": "3. 本期 43 词总复习 · 拼读",
+        "start": 1494.7,
+        "length": 737.64
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "submit",
+        "zh": "提交；呈递"
+      },
+      {
+        "word": "distribute",
+        "zh": "分发；分配；分销"
+      },
+      {
+        "word": "reveal",
+        "zh": "揭示；显示；透露"
+      },
+      {
+        "word": "eligible",
+        "zh": "有资格的；符合条件的"
+      },
+      {
+        "word": "prior to",
+        "zh": "在……之前"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "track",
+        "zh": "追踪；记录；轨道"
+      },
+      {
+        "word": "heart rate",
+        "zh": "心率"
+      },
+      {
+        "word": "accurately",
+        "zh": "准确地；精确地"
+      },
+      {
+        "word": "recharge",
+        "zh": "充电；再充电"
+      },
+      {
+        "word": "application",
+        "zh": "申请；申请书；应用程序"
+      },
+      {
+        "word": "position",
+        "zh": "职位；位置"
+      },
+      {
+        "word": "submit",
+        "zh": "提交；呈递"
+      },
+      {
+        "word": "return",
+        "zh": "退货；归还；返回"
+      },
+      {
+        "word": "process",
+        "zh": "处理；办理；过程"
+      },
+      {
+        "word": "customer service desk",
+        "zh": "客服台；服务台"
+      },
+      {
+        "word": "entrance",
+        "zh": "入口；进入"
+      },
+      {
+        "word": "acoustical",
+        "zh": "声学的；音响的"
+      },
+      {
+        "word": "adjust",
+        "zh": "调整；调节"
+      },
+      {
+        "word": "audience",
+        "zh": "观众；听众"
+      },
+      {
+        "word": "staff directory",
+        "zh": "员工通讯录；职员名录"
+      },
+      {
+        "word": "distribute",
+        "zh": "分发；分配；分销"
+      },
+      {
+        "word": "as expected",
+        "zh": "正如预料的那样；不出所料"
+      },
+      {
+        "word": "internal audit",
+        "zh": "内部审计"
+      },
+      {
+        "word": "reveal",
+        "zh": "揭示；显示；透露"
+      },
+      {
+        "word": "overpay",
+        "zh": "多付；付款过多"
+      },
+      {
+        "word": "travel expenses",
+        "zh": "差旅费；出差费用"
+      },
+      {
+        "word": "silverware",
+        "zh": "银器；金属餐具"
+      },
+      {
+        "word": "place an order",
+        "zh": "下订单；订购"
+      },
+      {
+        "word": "free of charge",
+        "zh": "免费"
+      },
+      {
+        "word": "earn",
+        "zh": "挣得；赚；赢得"
+      },
+      {
+        "word": "salary",
+        "zh": "薪水；工资"
+      },
+      {
+        "word": "relieved",
+        "zh": "松了一口气的；宽慰的"
+      },
+      {
+        "word": "raise",
+        "zh": "加薪；提高；举起"
+      },
+      {
+        "word": "sabbatical",
+        "zh": "长期休假；；带薪；进修假"
+      },
+      {
+        "word": "eligible",
+        "zh": "有资格的；符合条件的"
+      },
+      {
+        "word": "reduced pay",
+        "zh": "减少的工资；减薪"
+      },
+      {
+        "word": "pursue",
+        "zh": "从事；追求"
+      },
+      {
+        "word": "volunteer",
+        "zh": "做志愿者；志愿者"
+      },
+      {
+        "word": "relevance",
+        "zh": "相关性；关联"
+      },
+      {
+        "word": "advance",
+        "zh": "推进；提升；预先的"
+      },
+      {
+        "word": "appreciation",
+        "zh": "感谢；欣赏"
+      },
+      {
+        "word": "veteran",
+        "zh": "资深的；老练的；老手"
+      },
+      {
+        "word": "reward",
+        "zh": "奖励；回报"
+      },
+      {
+        "word": "turnover",
+        "zh": "人员流动；离职率；营业额"
+      },
+      {
+        "word": "prior to",
+        "zh": "在之前"
+      },
+      {
+        "word": "coverage",
+        "zh": "替班；顶岗；覆盖范围；报道"
+      },
+      {
+        "word": "supervisor",
+        "zh": "主管；上司"
+      },
+      {
+        "word": "intranet",
+        "zh": "；公司；内网；内联网"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep52.mp4",
+    "script_pdf": "media/ep52_script.pdf",
+    "source_video": "ep52.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep52.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep52.mp4",
+        "script_pdf": "media/ep52_script.pdf",
+        "duration_sec": 2232.3,
+        "theme": "题型精讲 · Part 5 时态与语态：主动还是被动 · 时间标志词 · 已有谓语用非谓语",
+        "segments": [
+          {
+            "title": "1. Part 5 时态与语态真题（三套卷全部 8 题 · 主动被动 / 时态 / 非谓语）",
+            "start": 0.0,
+            "length": 910.46
+          },
+          {
+            "title": "2. Part 7 长期休假备忘录（配套精练 · 含句子插入题）",
+            "start": 910.46,
+            "length": 584.24
+          },
+          {
+            "title": "3. 本期 43 词总复习 · 拼读",
+            "start": 1494.7,
+            "length": 737.64
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep52ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep52ja.mp4",
+        "script_pdf": "media/ep52ja_script.pdf",
+        "duration_sec": 2633.2,
+        "theme": "問題タイプ別精講 · Part 5 時制と態：能動か受動か · 時を表す語 · 述語があれば準動詞",
+        "segments": [
+          {
+            "title": "1. Part 5 時制と態の問題（本番 全8問 · 能動・受動 / 時制 / 準動詞）",
+            "start": 0.0,
+            "length": 1144.98
+          },
+          {
+            "title": "2. Part 7 長期休暇の社内メモ（関連演習 · 文の挿入問題あり）",
+            "start": 1144.98,
+            "length": 706.55
+          },
+          {
+            "title": "3. 今回の 43 語総復習 · スペル",
+            "start": 1851.53,
+            "length": 781.68
+          }
+        ],
+        "poster": "media/ep52ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "submit",
+            "zh": "提出する"
+          },
+          {
+            "word": "distribute",
+            "zh": "配布する；配る；流通させる"
+          },
+          {
+            "word": "reveal",
+            "zh": "明らかにする；示す"
+          },
+          {
+            "word": "eligible",
+            "zh": "資格のある；対象となる"
+          },
+          {
+            "word": "prior to",
+            "zh": "…より前に"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "track",
+          "heart rate",
+          "accurately",
+          "recharge",
+          "application",
+          "position",
+          "submit",
+          "return",
+          "process",
+          "customer service desk",
+          "entrance",
+          "acoustical",
+          "adjust",
+          "audience",
+          "staff directory",
+          "distribute",
+          "as expected",
+          "internal audit",
+          "reveal",
+          "overpay",
+          "travel expenses",
+          "silverware",
+          "place an order",
+          "free of charge",
+          "earn",
+          "salary",
+          "relieved",
+          "raise",
+          "sabbatical",
+          "eligible",
+          "reduced pay",
+          "pursue",
+          "volunteer",
+          "relevance",
+          "advance",
+          "appreciation",
+          "veteran",
+          "reward",
+          "turnover",
+          "prior to",
+          "coverage",
+          "supervisor",
+          "intranet"
+        ],
+        "words": [
+          {
+            "word": "track",
+            "pos": "v./n.",
+            "zh": "記録する；追跡する；線路",
+            "ex": "The smartwatch tracks heart rate accurately.",
+            "exzh": "このスマートウォッチは心拍数を正確に記録する。",
+            "ipa": "/træk/",
+            "audio": "media/words/ep52/track.mp3",
+            "ex_audio": "media/words/ep52/track_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "heart rate",
+            "pos": "n.",
+            "zh": "心拍数",
+            "ex": "My heart rate goes up when I run.",
+            "exzh": "走ると心拍数が上がる。",
+            "ipa": "/hɑrt reɪt/",
+            "audio": "media/words/ep52/heart-rate.mp3",
+            "ex_audio": "media/words/ep52/heart-rate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "accurately",
+            "pos": "adv.",
+            "zh": "正確に",
+            "ex": "Please fill out the form accurately.",
+            "exzh": "用紙に正確に記入してください。",
+            "ipa": "/ˈækjɚətli/",
+            "audio": "media/words/ep52/accurately.mp3",
+            "ex_audio": "media/words/ep52/accurately_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recharge",
+            "pos": "v.",
+            "zh": "充電する",
+            "ex": "The watch must be recharged every 48 hours.",
+            "exzh": "その時計は48時間ごとに充電しなければならない。",
+            "ipa": "/riˈtʃɑrdʒ/",
+            "audio": "media/words/ep52/recharge.mp3",
+            "ex_audio": "media/words/ep52/recharge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "application",
+            "pos": "n.",
+            "zh": "応募；申込書；アプリ",
+            "ex": "Applications must be submitted online.",
+            "exzh": "応募書類はオンラインで提出しなければならない。",
+            "ipa": "/ˌæpləˈkeɪʃən/",
+            "audio": "media/words/ep52/application.mp3",
+            "ex_audio": "media/words/ep52/application_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "position",
+            "pos": "n.",
+            "zh": "職；ポジション；位置",
+            "ex": "She applied for the software engineer position.",
+            "exzh": "彼女はソフトウェアエンジニア職に応募した。",
+            "ipa": "/pəˈzɪʃən/",
+            "audio": "media/words/ep52/position.mp3",
+            "ex_audio": "media/words/ep52/position_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "submit",
+            "pos": "v.",
+            "zh": "提出する",
+            "ex": "Please submit your report by Friday.",
+            "exzh": "金曜日までに報告書を提出してください。",
+            "ipa": "/səbˈmɪt/",
+            "audio": "media/words/ep52/submit.mp3",
+            "ex_audio": "media/words/ep52/submit_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "return",
+            "pos": "n./v.",
+            "zh": "返品；返す；戻る",
+            "ex": "Returns are processed at the customer service desk.",
+            "exzh": "返品はカスタマーサービスカウンターで受け付けている。",
+            "ipa": "/rɪˈtɝn/",
+            "audio": "media/words/ep52/return.mp3",
+            "ex_audio": "media/words/ep52/return_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "process",
+            "pos": "v./n.",
+            "zh": "処理する；手続きする；過程",
+            "ex": "Your order will be processed within two days.",
+            "exzh": "ご注文は2日以内に処理されます。",
+            "ipa": "/ˈprɑˌsɛs/",
+            "audio": "media/words/ep52/process.mp3",
+            "ex_audio": "media/words/ep52/process_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "customer service desk",
+            "pos": "n.",
+            "zh": "カスタマーサービスカウンター",
+            "ex": "Please ask at the customer service desk.",
+            "exzh": "カスタマーサービスカウンターでお尋ねください。",
+            "ipa": "/ˈkʌstəmɚ ˈsɝvəs dɛsk/",
+            "audio": "media/words/ep52/customer-service-desk.mp3",
+            "ex_audio": "media/words/ep52/customer-service-desk_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "entrance",
+            "pos": "n.",
+            "zh": "入り口；入場",
+            "ex": "The desk is near the entrance.",
+            "exzh": "カウンターは入り口の近くにある。",
+            "ipa": "/ˈɛntrəns/",
+            "audio": "media/words/ep52/entrance.mp3",
+            "ex_audio": "media/words/ep52/entrance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "acoustical",
+            "pos": "adj.",
+            "zh": "音響の",
+            "ex": "The hall's acoustical design is being adjusted.",
+            "exzh": "ホールの音響設計は調整中だ。",
+            "ipa": "/əˈkustɪkəl/",
+            "audio": "media/words/ep52/acoustical.mp3",
+            "ex_audio": "media/words/ep52/acoustical_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "adjust",
+            "pos": "v.",
+            "zh": "調整する；調節する",
+            "ex": "You can adjust the height of the chair.",
+            "exzh": "椅子の高さを調節できる。",
+            "ipa": "/əˈdʒʌst/",
+            "audio": "media/words/ep52/adjust.mp3",
+            "ex_audio": "media/words/ep52/adjust_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "audience",
+            "pos": "n.",
+            "zh": "観客；聴衆",
+            "ex": "The audience enjoyed the concert.",
+            "exzh": "観客はコンサートを楽しんだ。",
+            "ipa": "/ˈɑdiəns/",
+            "audio": "media/words/ep52/audience.mp3",
+            "ex_audio": "media/words/ep52/audience_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "staff directory",
+            "pos": "n.",
+            "zh": "社員名簿；職員名簿",
+            "ex": "A copy of the staff directory was distributed last week.",
+            "exzh": "社員名簿は先週配布された。",
+            "ipa": "/stæf dɚˈɛktɚi/",
+            "audio": "media/words/ep52/staff-directory.mp3",
+            "ex_audio": "media/words/ep52/staff-directory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "distribute",
+            "pos": "v.",
+            "zh": "配布する；配る；流通させる",
+            "ex": "Please distribute these handouts to everyone.",
+            "exzh": "この資料を全員に配ってください。",
+            "ipa": "/dɪˈstrɪbjut/",
+            "audio": "media/words/ep52/distribute.mp3",
+            "ex_audio": "media/words/ep52/distribute_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "as expected",
+            "pos": "phr.",
+            "zh": "予想どおり",
+            "ex": "As expected, the meeting ran late.",
+            "exzh": "予想どおり、会議は長引いた。",
+            "ipa": "/æz ɪkˈspɛktəd/",
+            "audio": "media/words/ep52/as-expected.mp3",
+            "ex_audio": "media/words/ep52/as-expected_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "internal audit",
+            "pos": "n.",
+            "zh": "内部監査",
+            "ex": "The internal audit revealed a small mistake.",
+            "exzh": "内部監査で小さなミスが見つかった。",
+            "ipa": "/ˌɪnˈtɝnəl ˈɔdɪt/",
+            "audio": "media/words/ep52/internal-audit.mp3",
+            "ex_audio": "media/words/ep52/internal-audit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reveal",
+            "pos": "v.",
+            "zh": "明らかにする；示す",
+            "ex": "The survey revealed that customers want lower prices.",
+            "exzh": "調査で顧客がもっと安い価格を望んでいることがわかった。",
+            "ipa": "/rɪˈvil/",
+            "audio": "media/words/ep52/reveal.mp3",
+            "ex_audio": "media/words/ep52/reveal_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "overpay",
+            "pos": "v.",
+            "zh": "払いすぎる",
+            "ex": "The company had overpaid for travel expenses.",
+            "exzh": "会社は出張費を払いすぎていた。",
+            "ipa": "/ˈoʊvɚˌpeɪ/",
+            "audio": "media/words/ep52/overpay.mp3",
+            "ex_audio": "media/words/ep52/overpay_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "travel expenses",
+            "pos": "n.",
+            "zh": "出張費；旅費",
+            "ex": "Keep your receipts for travel expenses.",
+            "exzh": "出張費の領収書を保管してください。",
+            "ipa": "/ˈtrævəl ɪkˈspɛnsəz/",
+            "audio": "media/words/ep52/travel-expenses.mp3",
+            "ex_audio": "media/words/ep52/travel-expenses_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "silverware",
+            "pos": "n.",
+            "zh": "銀食器；金属製の食器",
+            "ex": "All silverware orders will be shipped free of charge.",
+            "exzh": "銀食器の注文はすべて送料無料で発送される。",
+            "ipa": "/ˈsɪlvɚˌwɛr/",
+            "audio": "media/words/ep52/silverware.mp3",
+            "ex_audio": "media/words/ep52/silverware_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "place an order",
+            "pos": "phr.",
+            "zh": "注文する",
+            "ex": "Orders placed before midnight ship today.",
+            "exzh": "0時までに出された注文は今日発送される。",
+            "ipa": "/pleɪs æn ˈɔrdɚ/",
+            "audio": "media/words/ep52/place-an-order.mp3",
+            "ex_audio": "media/words/ep52/place-an-order_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "free of charge",
+            "pos": "phr.",
+            "zh": "無料で",
+            "ex": "Delivery is free of charge.",
+            "exzh": "配送は無料です。",
+            "ipa": "/fri əv tʃɑrdʒ/",
+            "audio": "media/words/ep52/free-of-charge.mp3",
+            "ex_audio": "media/words/ep52/free-of-charge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "earn",
+            "pos": "v.",
+            "zh": "稼ぐ；得る",
+            "ex": "He has earned the same salary for three years.",
+            "exzh": "彼は3年間同じ給料をもらってきた。",
+            "ipa": "/ɝn/",
+            "audio": "media/words/ep52/earn.mp3",
+            "ex_audio": "media/words/ep52/earn_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "salary",
+            "pos": "n.",
+            "zh": "給料；給与",
+            "ex": "Staff receive 50 percent of their usual salary.",
+            "exzh": "社員は通常の給与の50パーセントを受け取る。",
+            "ipa": "/ˈsælɚi/",
+            "audio": "media/words/ep52/salary.mp3",
+            "ex_audio": "media/words/ep52/salary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relieved",
+            "pos": "adj.",
+            "zh": "ほっとした；安心した",
+            "ex": "He will be relieved to learn he is getting a raise.",
+            "exzh": "昇給すると知って彼はほっとするだろう。",
+            "ipa": "/rɪˈlivd/",
+            "audio": "media/words/ep52/relieved.mp3",
+            "ex_audio": "media/words/ep52/relieved_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "raise",
+            "pos": "n./v.",
+            "zh": "昇給；上げる；挙げる",
+            "ex": "She asked her manager for a raise.",
+            "exzh": "彼女は上司に昇給を求めた。",
+            "ipa": "/reɪz/",
+            "audio": "media/words/ep52/raise.mp3",
+            "ex_audio": "media/words/ep52/raise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sabbatical",
+            "pos": "n./adj.",
+            "zh": "長期休暇；サバティカル",
+            "ex": "Employees can apply for up to six weeks of sabbatical.",
+            "exzh": "社員は最長6週間の長期休暇を申請できる。",
+            "ipa": "/səˈbætɪkəl/",
+            "audio": "media/words/ep52/sabbatical.mp3",
+            "ex_audio": "media/words/ep52/sabbatical_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "eligible",
+            "pos": "adj.",
+            "zh": "資格のある；対象となる",
+            "ex": "Employees become eligible after ten years of service.",
+            "exzh": "社員は勤続10年で資格が得られる。",
+            "ipa": "/ˈɛlədʒəbəl/",
+            "audio": "media/words/ep52/eligible.mp3",
+            "ex_audio": "media/words/ep52/eligible_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "reduced pay",
+            "pos": "n.",
+            "zh": "減額された給与；減給",
+            "ex": "Staff on sabbatical receive reduced pay.",
+            "exzh": "長期休暇中の社員は減額された給与を受け取る。",
+            "ipa": "/rəˈdust peɪ/",
+            "audio": "media/words/ep52/reduced-pay.mp3",
+            "ex_audio": "media/words/ep52/reduced-pay_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pursue",
+            "pos": "v.",
+            "zh": "取り組む；追求する",
+            "ex": "Sabbaticals let employees pursue new activities.",
+            "exzh": "長期休暇で社員は新しい活動に取り組める。",
+            "ipa": "/pɚˈsu/",
+            "audio": "media/words/ep52/pursue.mp3",
+            "ex_audio": "media/words/ep52/pursue_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "volunteer",
+            "pos": "v./n.",
+            "zh": "ボランティアをする；ボランティア",
+            "ex": "She volunteers at the library on weekends.",
+            "exzh": "彼女は週末に図書館でボランティアをしている。",
+            "ipa": "/ˌvɑlənˈtɪr/",
+            "audio": "media/words/ep52/volunteer.mp3",
+            "ex_audio": "media/words/ep52/volunteer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relevance",
+            "pos": "n.",
+            "zh": "関連性；重要性",
+            "ex": "Choose topics of relevance to your career.",
+            "exzh": "自分の仕事に関連するテーマを選んでください。",
+            "ipa": "/ˈrɛləvəns/",
+            "audio": "media/words/ep52/relevance.mp3",
+            "ex_audio": "media/words/ep52/relevance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "advance",
+            "pos": "v./n./adj.",
+            "zh": "進める；向上させる；事前の",
+            "ex": "Training can help you advance your career.",
+            "exzh": "研修はキャリアアップに役立つ。",
+            "ipa": "/ədˈvæns/",
+            "audio": "media/words/ep52/advance.mp3",
+            "ex_audio": "media/words/ep52/advance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appreciation",
+            "pos": "n.",
+            "zh": "感謝；評価",
+            "ex": "This benefit shows our appreciation for veteran employees.",
+            "exzh": "この制度はベテラン社員への感謝を示すものだ。",
+            "ipa": "/əˌpriʃiˈeɪʃən/",
+            "audio": "media/words/ep52/appreciation.mp3",
+            "ex_audio": "media/words/ep52/appreciation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "veteran",
+            "pos": "adj./n.",
+            "zh": "ベテランの；ベテラン",
+            "ex": "Veteran employees can apply for sabbatical leave.",
+            "exzh": "ベテラン社員は長期休暇を申請できる。",
+            "ipa": "/ˈvɛtɚən/",
+            "audio": "media/words/ep52/veteran.mp3",
+            "ex_audio": "media/words/ep52/veteran_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reward",
+            "pos": "v./n.",
+            "zh": "報いる；報酬",
+            "ex": "The company wants to reward long-term employees.",
+            "exzh": "会社は長く勤める社員に報いたいと考えている。",
+            "ipa": "/rɪˈwɔrd/",
+            "audio": "media/words/ep52/reward.mp3",
+            "ex_audio": "media/words/ep52/reward_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "turnover",
+            "pos": "n.",
+            "zh": "離職；離職率；売上高",
+            "ex": "Better benefits can reduce employee turnover.",
+            "exzh": "よい福利厚生は離職率を下げられる。",
+            "ipa": "/ˈtɝˌnoʊvɚ/",
+            "audio": "media/words/ep52/turnover.mp3",
+            "ex_audio": "media/words/ep52/turnover_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prior to",
+            "pos": "prep.",
+            "zh": "…より前に",
+            "ex": "Leave must be requested three months prior to the start date.",
+            "exzh": "休暇は開始日の3か月前までに申請しなければならない。",
+            "ipa": "/ˈpraɪɚ tu/",
+            "audio": "media/words/ep52/prior-to.mp3",
+            "ex_audio": "media/words/ep52/prior-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "coverage",
+            "pos": "n.",
+            "zh": "代わりの人員の手配；補償範囲；報道",
+            "ex": "Your supervisor will arrange coverage for your job.",
+            "exzh": "上司があなたの仕事の代わりの人員を手配する。",
+            "ipa": "/ˈkʌvɚədʒ/",
+            "audio": "media/words/ep52/coverage.mp3",
+            "ex_audio": "media/words/ep52/coverage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "supervisor",
+            "pos": "n.",
+            "zh": "上司；監督者",
+            "ex": "Please ask your supervisor first.",
+            "exzh": "まず上司に聞いてください。",
+            "ipa": "/ˈsupɚˌvaɪzɚ/",
+            "audio": "media/words/ep52/supervisor.mp3",
+            "ex_audio": "media/words/ep52/supervisor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "intranet",
+            "pos": "n.",
+            "zh": "社内ネットワーク；イントラネット",
+            "ex": "The request form is on the employee intranet.",
+            "exzh": "申請書は社員用イントラネットにある。",
+            "ipa": "",
+            "audio": "media/words/ep52/intranet.mp3",
+            "ex_audio": "media/words/ep52/intranet_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep52_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 5 時制と態：能動か受動か · 時を表す語 · 述語があれば準動詞",
+    "words": [
+      {
+        "word": "track",
+        "pos": "v./n.",
+        "zh": "追踪；记录；轨道",
+        "ex": "The smartwatch tracks heart rate accurately.",
+        "exzh": "这款智能手表能准确追踪心率。",
+        "ipa": "/træk/",
+        "audio": "media/words/ep52/track.mp3",
+        "ex_audio": "media/words/ep52/track_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "heart rate",
+        "pos": "n.",
+        "zh": "心率",
+        "ex": "My heart rate goes up when I run.",
+        "exzh": "我跑步时心率会升高。",
+        "ipa": "/hɑrt reɪt/",
+        "audio": "media/words/ep52/heart-rate.mp3",
+        "ex_audio": "media/words/ep52/heart-rate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "accurately",
+        "pos": "adv.",
+        "zh": "准确地；精确地",
+        "ex": "Please fill out the form accurately.",
+        "exzh": "请准确填写表格。",
+        "ipa": "/ˈækjɚətli/",
+        "audio": "media/words/ep52/accurately.mp3",
+        "ex_audio": "media/words/ep52/accurately_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recharge",
+        "pos": "v.",
+        "zh": "充电；再充电",
+        "ex": "The watch must be recharged every 48 hours.",
+        "exzh": "这块手表每四十八小时必须充一次电。",
+        "ipa": "/riˈtʃɑrdʒ/",
+        "audio": "media/words/ep52/recharge.mp3",
+        "ex_audio": "media/words/ep52/recharge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "application",
+        "pos": "n.",
+        "zh": "申请；申请书；应用程序",
+        "ex": "Applications must be submitted online.",
+        "exzh": "申请必须在网上提交。",
+        "ipa": "/ˌæpləˈkeɪʃən/",
+        "audio": "media/words/ep52/application.mp3",
+        "ex_audio": "media/words/ep52/application_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "position",
+        "pos": "n.",
+        "zh": "职位；位置",
+        "ex": "She applied for the software engineer position.",
+        "exzh": "她申请了软件工程师职位。",
+        "ipa": "/pəˈzɪʃən/",
+        "audio": "media/words/ep52/position.mp3",
+        "ex_audio": "media/words/ep52/position_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "submit",
+        "pos": "v.",
+        "zh": "提交；呈递",
+        "ex": "Please submit your report by Friday.",
+        "exzh": "请在周五前提交报告。",
+        "ipa": "/səbˈmɪt/",
+        "audio": "media/words/ep52/submit.mp3",
+        "ex_audio": "media/words/ep52/submit_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "return",
+        "pos": "n./v.",
+        "zh": "退货；归还；返回",
+        "ex": "Returns are processed at the customer service desk.",
+        "exzh": "退货在客服台办理。",
+        "ipa": "/rɪˈtɝn/",
+        "audio": "media/words/ep52/return.mp3",
+        "ex_audio": "media/words/ep52/return_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "process",
+        "pos": "v./n.",
+        "zh": "处理；办理；过程",
+        "ex": "Your order will be processed within two days.",
+        "exzh": "您的订单会在两天内处理。",
+        "ipa": "/ˈprɑˌsɛs/",
+        "audio": "media/words/ep52/process.mp3",
+        "ex_audio": "media/words/ep52/process_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "customer service desk",
+        "pos": "n.",
+        "zh": "客服台；服务台",
+        "ex": "Please ask at the customer service desk.",
+        "exzh": "请到客服台询问。",
+        "ipa": "/ˈkʌstəmɚ ˈsɝvəs dɛsk/",
+        "audio": "media/words/ep52/customer-service-desk.mp3",
+        "ex_audio": "media/words/ep52/customer-service-desk_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "zh": "入口；进入",
+        "ex": "The desk is near the entrance.",
+        "exzh": "服务台在入口附近。",
+        "ipa": "/ˈɛntrəns/",
+        "audio": "media/words/ep52/entrance.mp3",
+        "ex_audio": "media/words/ep52/entrance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "acoustical",
+        "pos": "adj.",
+        "zh": "声学的；音响的",
+        "ex": "The hall's acoustical design is being adjusted.",
+        "exzh": "音乐厅的声学设计正在调整。",
+        "ipa": "/əˈkustɪkəl/",
+        "audio": "media/words/ep52/acoustical.mp3",
+        "ex_audio": "media/words/ep52/acoustical_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "adjust",
+        "pos": "v.",
+        "zh": "调整；调节",
+        "ex": "You can adjust the height of the chair.",
+        "exzh": "你可以调整椅子的高度。",
+        "ipa": "/əˈdʒʌst/",
+        "audio": "media/words/ep52/adjust.mp3",
+        "ex_audio": "media/words/ep52/adjust_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "audience",
+        "pos": "n.",
+        "zh": "观众；听众",
+        "ex": "The audience enjoyed the concert.",
+        "exzh": "观众很喜欢这场音乐会。",
+        "ipa": "/ˈɑdiəns/",
+        "audio": "media/words/ep52/audience.mp3",
+        "ex_audio": "media/words/ep52/audience_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "staff directory",
+        "pos": "n.",
+        "zh": "员工通讯录；职员名录",
+        "ex": "A copy of the staff directory was distributed last week.",
+        "exzh": "员工通讯录上周已经发下去了。",
+        "ipa": "/stæf dɚˈɛktɚi/",
+        "audio": "media/words/ep52/staff-directory.mp3",
+        "ex_audio": "media/words/ep52/staff-directory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "distribute",
+        "pos": "v.",
+        "zh": "分发；分配；分销",
+        "ex": "Please distribute these handouts to everyone.",
+        "exzh": "请把这些资料发给每个人。",
+        "ipa": "/dɪˈstrɪbjut/",
+        "audio": "media/words/ep52/distribute.mp3",
+        "ex_audio": "media/words/ep52/distribute_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "as expected",
+        "pos": "phr.",
+        "zh": "正如预料的那样；不出所料",
+        "ex": "As expected, the meeting ran late.",
+        "exzh": "不出所料，会议拖延了。",
+        "ipa": "/æz ɪkˈspɛktəd/",
+        "audio": "media/words/ep52/as-expected.mp3",
+        "ex_audio": "media/words/ep52/as-expected_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "internal audit",
+        "pos": "n.",
+        "zh": "内部审计",
+        "ex": "The internal audit revealed a small mistake.",
+        "exzh": "内部审计发现了一个小错误。",
+        "ipa": "/ˌɪnˈtɝnəl ˈɔdɪt/",
+        "audio": "media/words/ep52/internal-audit.mp3",
+        "ex_audio": "media/words/ep52/internal-audit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reveal",
+        "pos": "v.",
+        "zh": "揭示；显示；透露",
+        "ex": "The survey revealed that customers want lower prices.",
+        "exzh": "调查显示顾客希望价格更低。",
+        "ipa": "/rɪˈvil/",
+        "audio": "media/words/ep52/reveal.mp3",
+        "ex_audio": "media/words/ep52/reveal_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "overpay",
+        "pos": "v.",
+        "zh": "多付；付款过多",
+        "ex": "The company had overpaid for travel expenses.",
+        "exzh": "公司在差旅费上多付了钱。",
+        "ipa": "/ˈoʊvɚˌpeɪ/",
+        "audio": "media/words/ep52/overpay.mp3",
+        "ex_audio": "media/words/ep52/overpay_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "travel expenses",
+        "pos": "n.",
+        "zh": "差旅费；出差费用",
+        "ex": "Keep your receipts for travel expenses.",
+        "exzh": "请保留差旅费的收据。",
+        "ipa": "/ˈtrævəl ɪkˈspɛnsəz/",
+        "audio": "media/words/ep52/travel-expenses.mp3",
+        "ex_audio": "media/words/ep52/travel-expenses_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "silverware",
+        "pos": "n.",
+        "zh": "银器；金属餐具",
+        "ex": "All silverware orders will be shipped free of charge.",
+        "exzh": "所有银餐具订单都免运费。",
+        "ipa": "/ˈsɪlvɚˌwɛr/",
+        "audio": "media/words/ep52/silverware.mp3",
+        "ex_audio": "media/words/ep52/silverware_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "place an order",
+        "pos": "phr.",
+        "zh": "下订单；订购",
+        "ex": "Orders placed before midnight ship today.",
+        "exzh": "午夜前下的订单今天发货。",
+        "ipa": "/pleɪs æn ˈɔrdɚ/",
+        "audio": "media/words/ep52/place-an-order.mp3",
+        "ex_audio": "media/words/ep52/place-an-order_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "free of charge",
+        "pos": "phr.",
+        "zh": "免费",
+        "ex": "Delivery is free of charge.",
+        "exzh": "送货免费。",
+        "ipa": "/fri əv tʃɑrdʒ/",
+        "audio": "media/words/ep52/free-of-charge.mp3",
+        "ex_audio": "media/words/ep52/free-of-charge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "earn",
+        "pos": "v.",
+        "zh": "挣得；赚；赢得",
+        "ex": "He has earned the same salary for three years.",
+        "exzh": "他三年来一直拿同样的工资。",
+        "ipa": "/ɝn/",
+        "audio": "media/words/ep52/earn.mp3",
+        "ex_audio": "media/words/ep52/earn_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "salary",
+        "pos": "n.",
+        "zh": "薪水；工资",
+        "ex": "Staff receive 50 percent of their usual salary.",
+        "exzh": "员工领取平时工资的百分之五十。",
+        "ipa": "/ˈsælɚi/",
+        "audio": "media/words/ep52/salary.mp3",
+        "ex_audio": "media/words/ep52/salary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relieved",
+        "pos": "adj.",
+        "zh": "松了一口气的；宽慰的",
+        "ex": "He will be relieved to learn he is getting a raise.",
+        "exzh": "得知要涨工资，他会松一口气。",
+        "ipa": "/rɪˈlivd/",
+        "audio": "media/words/ep52/relieved.mp3",
+        "ex_audio": "media/words/ep52/relieved_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "raise",
+        "pos": "n./v.",
+        "zh": "加薪；提高；举起",
+        "ex": "She asked her manager for a raise.",
+        "exzh": "她向经理提出加薪。",
+        "ipa": "/reɪz/",
+        "audio": "media/words/ep52/raise.mp3",
+        "ex_audio": "media/words/ep52/raise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sabbatical",
+        "pos": "n./adj.",
+        "zh": "长期休假；（带薪）进修假",
+        "ex": "Employees can apply for up to six weeks of sabbatical.",
+        "exzh": "员工最多可以申请六周的长期休假。",
+        "ipa": "/səˈbætɪkəl/",
+        "audio": "media/words/ep52/sabbatical.mp3",
+        "ex_audio": "media/words/ep52/sabbatical_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "eligible",
+        "pos": "adj.",
+        "zh": "有资格的；符合条件的",
+        "ex": "Employees become eligible after ten years of service.",
+        "exzh": "员工工作满十年就有资格。",
+        "ipa": "/ˈɛlədʒəbəl/",
+        "audio": "media/words/ep52/eligible.mp3",
+        "ex_audio": "media/words/ep52/eligible_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "reduced pay",
+        "pos": "n.",
+        "zh": "减少的工资；减薪",
+        "ex": "Staff on sabbatical receive reduced pay.",
+        "exzh": "长期休假的员工领取减少的工资。",
+        "ipa": "/rəˈdust peɪ/",
+        "audio": "media/words/ep52/reduced-pay.mp3",
+        "ex_audio": "media/words/ep52/reduced-pay_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pursue",
+        "pos": "v.",
+        "zh": "从事；追求",
+        "ex": "Sabbaticals let employees pursue new activities.",
+        "exzh": "长期休假让员工能去做新的事情。",
+        "ipa": "/pɚˈsu/",
+        "audio": "media/words/ep52/pursue.mp3",
+        "ex_audio": "media/words/ep52/pursue_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "volunteer",
+        "pos": "v./n.",
+        "zh": "做志愿者；志愿者",
+        "ex": "She volunteers at the library on weekends.",
+        "exzh": "她周末在图书馆做志愿者。",
+        "ipa": "/ˌvɑlənˈtɪr/",
+        "audio": "media/words/ep52/volunteer.mp3",
+        "ex_audio": "media/words/ep52/volunteer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relevance",
+        "pos": "n.",
+        "zh": "相关性；关联",
+        "ex": "Choose topics of relevance to your career.",
+        "exzh": "选择和你职业相关的课题。",
+        "ipa": "/ˈrɛləvəns/",
+        "audio": "media/words/ep52/relevance.mp3",
+        "ex_audio": "media/words/ep52/relevance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "advance",
+        "pos": "v./n./adj.",
+        "zh": "推进；提升；预先的",
+        "ex": "Training can help you advance your career.",
+        "exzh": "培训能帮你在职业上更进一步。",
+        "ipa": "/ədˈvæns/",
+        "audio": "media/words/ep52/advance.mp3",
+        "ex_audio": "media/words/ep52/advance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appreciation",
+        "pos": "n.",
+        "zh": "感谢；欣赏",
+        "ex": "This benefit shows our appreciation for veteran employees.",
+        "exzh": "这项福利表达了我们对资深员工的感谢。",
+        "ipa": "/əˌpriʃiˈeɪʃən/",
+        "audio": "media/words/ep52/appreciation.mp3",
+        "ex_audio": "media/words/ep52/appreciation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "veteran",
+        "pos": "adj./n.",
+        "zh": "资深的；老练的；老手",
+        "ex": "Veteran employees can apply for sabbatical leave.",
+        "exzh": "资深员工可以申请长期休假。",
+        "ipa": "/ˈvɛtɚən/",
+        "audio": "media/words/ep52/veteran.mp3",
+        "ex_audio": "media/words/ep52/veteran_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reward",
+        "pos": "v./n.",
+        "zh": "奖励；回报",
+        "ex": "The company wants to reward long-term employees.",
+        "exzh": "公司想奖励长期工作的员工。",
+        "ipa": "/rɪˈwɔrd/",
+        "audio": "media/words/ep52/reward.mp3",
+        "ex_audio": "media/words/ep52/reward_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "turnover",
+        "pos": "n.",
+        "zh": "人员流动；离职率；营业额",
+        "ex": "Better benefits can reduce employee turnover.",
+        "exzh": "更好的福利可以降低员工离职率。",
+        "ipa": "/ˈtɝˌnoʊvɚ/",
+        "audio": "media/words/ep52/turnover.mp3",
+        "ex_audio": "media/words/ep52/turnover_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prior to",
+        "pos": "prep.",
+        "zh": "在……之前",
+        "ex": "Leave must be requested three months prior to the start date.",
+        "exzh": "休假必须在开始日期前三个月申请。",
+        "ipa": "/ˈpraɪɚ tu/",
+        "audio": "media/words/ep52/prior-to.mp3",
+        "ex_audio": "media/words/ep52/prior-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "coverage",
+        "pos": "n.",
+        "zh": "替班；顶岗；覆盖范围；报道",
+        "ex": "Your supervisor will arrange coverage for your job.",
+        "exzh": "你的主管会安排人替你的工作。",
+        "ipa": "/ˈkʌvɚədʒ/",
+        "audio": "media/words/ep52/coverage.mp3",
+        "ex_audio": "media/words/ep52/coverage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "supervisor",
+        "pos": "n.",
+        "zh": "主管；上司",
+        "ex": "Please ask your supervisor first.",
+        "exzh": "请先问一下你的主管。",
+        "ipa": "/ˈsupɚˌvaɪzɚ/",
+        "audio": "media/words/ep52/supervisor.mp3",
+        "ex_audio": "media/words/ep52/supervisor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "intranet",
+        "pos": "n.",
+        "zh": "（公司）内网；内联网",
+        "ex": "The request form is on the employee intranet.",
+        "exzh": "申请表在员工内网上。",
+        "ipa": "",
+        "audio": "media/words/ep52/intranet.mp3",
+        "ex_audio": "media/words/ep52/intranet_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 51,
     "theme": "题型精讲 · Part 5 词性题：动词位 · 名词位 · 形容词位 · 副词位",
     "date": "2026-11-02",
