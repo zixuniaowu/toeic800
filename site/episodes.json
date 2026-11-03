@@ -1,5 +1,1446 @@
 [
   {
+    "number": 53,
+    "theme": "题型精讲 · Part 5 介词与连词：后面是名词还是句子 · 并列连词 · 成对连词",
+    "date": "2026-11-04",
+    "duration_sec": 2459.7,
+    "segments": [
+      {
+        "title": "1. Part 5 介词与连词真题（三套卷 13 题 · 并列连词 / 介词 / 从属连词）",
+        "start": 0.0,
+        "length": 1228.97
+      },
+      {
+        "title": "2. Part 7 IT 经理招聘启事（配套精练 · 三道细节题）",
+        "start": 1228.97,
+        "length": 421.25
+      },
+      {
+        "title": "3. 本期 45 词总复习 · 拼读",
+        "start": 1650.22,
+        "length": 809.5
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "on account of",
+        "zh": "因为；由于（= because of）"
+      },
+      {
+        "word": "in the event of",
+        "zh": "万一发生……；如果遇到……"
+      },
+      {
+        "word": "whether",
+        "zh": "是否"
+      },
+      {
+        "word": "eligible",
+        "zh": "有资格的；符合条件的"
+      },
+      {
+        "word": "relevant",
+        "zh": "相关的；有关的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "partner",
+        "zh": "合伙人；伙伴；合作方"
+      },
+      {
+        "word": "special interest",
+        "zh": "特别的兴趣；特殊爱好"
+      },
+      {
+        "word": "rehabilitative",
+        "zh": "康复的；复健的"
+      },
+      {
+        "word": "parking garage",
+        "zh": "室内停车场；停车楼"
+      },
+      {
+        "word": "be limited to",
+        "zh": "仅限于；限于"
+      },
+      {
+        "word": "resident",
+        "zh": "居民；住户"
+      },
+      {
+        "word": "audiobook",
+        "zh": "有声书"
+      },
+      {
+        "word": "not mind",
+        "zh": "不介意；不在乎"
+      },
+      {
+        "word": "commute",
+        "zh": "通勤；上下班往返"
+      },
+      {
+        "word": "contact",
+        "zh": "联系；联络；联系人"
+      },
+      {
+        "word": "activate",
+        "zh": "开通；激活；启动"
+      },
+      {
+        "word": "look forward to",
+        "zh": "期待；盼望；to 后接名词或动名词"
+      },
+      {
+        "word": "renovation",
+        "zh": "翻修；装修；改造"
+      },
+      {
+        "word": "guidelines",
+        "zh": "指南；须知；准则"
+      },
+      {
+        "word": "cover letter",
+        "zh": "求职信；附信"
+      },
+      {
+        "word": "notify",
+        "zh": "通知；告知"
+      },
+      {
+        "word": "human resources",
+        "zh": "人力资源；部；；人事部"
+      },
+      {
+        "word": "within",
+        "zh": "在之内"
+      },
+      {
+        "word": "on account of",
+        "zh": "因为；由于；= because of"
+      },
+      {
+        "word": "sensitive",
+        "zh": "敏感的；机密的；需谨慎处理的"
+      },
+      {
+        "word": "in the event of",
+        "zh": "万一发生；如果遇到"
+      },
+      {
+        "word": "cancel",
+        "zh": "取消"
+      },
+      {
+        "word": "contract",
+        "zh": "合同；契约；签约"
+      },
+      {
+        "word": "award",
+        "zh": "授予；颁发；奖"
+      },
+      {
+        "word": "once",
+        "zh": "一旦就；一次；曾经"
+      },
+      {
+        "word": "repurposed",
+        "zh": "改作他用的；再利用的"
+      },
+      {
+        "word": "component",
+        "zh": "部件；构件；组成部分"
+      },
+      {
+        "word": "recommend",
+        "zh": "推荐；建议"
+      },
+      {
+        "word": "whether",
+        "zh": "是否"
+      },
+      {
+        "word": "eligible",
+        "zh": "有资格的；符合条件的"
+      },
+      {
+        "word": "purchase",
+        "zh": "购买；购买的东西；购买"
+      },
+      {
+        "word": "confident",
+        "zh": "确信的；有信心的"
+      },
+      {
+        "word": "brand awareness",
+        "zh": "品牌知名度；品牌认知度"
+      },
+      {
+        "word": "region",
+        "zh": "地区；区域"
+      },
+      {
+        "word": "infrastructure",
+        "zh": "基础设施；基础架构"
+      },
+      {
+        "word": "maintain",
+        "zh": "维护；保养；保持"
+      },
+      {
+        "word": "optimize",
+        "zh": "优化；英式拼写 optimise"
+      },
+      {
+        "word": "in a timely manner",
+        "zh": "及时地"
+      },
+      {
+        "word": "report to",
+        "zh": "向汇报；归管"
+      },
+      {
+        "word": "determine",
+        "zh": "决定；确定；查明"
+      },
+      {
+        "word": "procedure",
+        "zh": "流程；程序；手续"
+      },
+      {
+        "word": "evaluate",
+        "zh": "评估；评价"
+      },
+      {
+        "word": "qualification",
+        "zh": "资格；任职条件；学历证书"
+      },
+      {
+        "word": "relevant",
+        "zh": "相关的；有关的"
+      },
+      {
+        "word": "requirement",
+        "zh": "要求；必要条件"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep53.mp4",
+    "script_pdf": "media/ep53_script.pdf",
+    "source_video": "ep53.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep53.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep53.mp4",
+        "script_pdf": "media/ep53_script.pdf",
+        "duration_sec": 2459.7,
+        "theme": "题型精讲 · Part 5 介词与连词：后面是名词还是句子 · 并列连词 · 成对连词",
+        "segments": [
+          {
+            "title": "1. Part 5 介词与连词真题（三套卷 13 题 · 并列连词 / 介词 / 从属连词）",
+            "start": 0.0,
+            "length": 1228.97
+          },
+          {
+            "title": "2. Part 7 IT 经理招聘启事（配套精练 · 三道细节题）",
+            "start": 1228.97,
+            "length": 421.25
+          },
+          {
+            "title": "3. 本期 45 词总复习 · 拼读",
+            "start": 1650.22,
+            "length": 809.5
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep53ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep53ja.mp4",
+        "script_pdf": "media/ep53ja_script.pdf",
+        "duration_sec": 2878.3,
+        "theme": "問題タイプ別精講 · Part 5 前置詞と接続詞：後ろは名詞か文か · 等位接続詞 · 相関接続詞",
+        "segments": [
+          {
+            "title": "1. Part 5 前置詞と接続詞の問題（本番 13問 · 等位接続詞 / 前置詞 / 従属接続詞）",
+            "start": 0.0,
+            "length": 1522.52
+          },
+          {
+            "title": "2. Part 7 IT 管理者の求人広告（関連演習 · 詳細問題3問）",
+            "start": 1522.52,
+            "length": 501.14
+          },
+          {
+            "title": "3. 今回の 45 語総復習 · スペル",
+            "start": 2023.66,
+            "length": 854.6
+          }
+        ],
+        "poster": "media/ep53ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "on account of",
+            "zh": "…のために；…が理由で（= because of）"
+          },
+          {
+            "word": "in the event of",
+            "zh": "万一…の場合には"
+          },
+          {
+            "word": "whether",
+            "zh": "…かどうか"
+          },
+          {
+            "word": "eligible",
+            "zh": "資格がある；条件を満たす"
+          },
+          {
+            "word": "relevant",
+            "zh": "関連のある"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "partner",
+          "special interest",
+          "rehabilitative",
+          "parking garage",
+          "be limited to",
+          "resident",
+          "audiobook",
+          "not mind",
+          "commute",
+          "contact",
+          "activate",
+          "look forward to",
+          "renovation",
+          "guidelines",
+          "cover letter",
+          "notify",
+          "human resources",
+          "within",
+          "on account of",
+          "sensitive",
+          "in the event of",
+          "cancel",
+          "contract",
+          "award",
+          "once",
+          "repurposed",
+          "component",
+          "recommend",
+          "whether",
+          "eligible",
+          "purchase",
+          "confident",
+          "brand awareness",
+          "region",
+          "infrastructure",
+          "maintain",
+          "optimize",
+          "in a timely manner",
+          "report to",
+          "determine",
+          "procedure",
+          "evaluate",
+          "qualification",
+          "relevant",
+          "requirement"
+        ],
+        "words": [
+          {
+            "word": "partner",
+            "pos": "n.",
+            "zh": "共同経営者；パートナー；提携先",
+            "ex": "Dr. Ko and his partners run the clinic together.",
+            "exzh": "コウ医師と共同経営者たちは一緒に診療所を経営している。",
+            "ipa": "/ˈpɑrtnɚ/",
+            "audio": "media/words/ep53/partner.mp3",
+            "ex_audio": "media/words/ep53/partner_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "special interest",
+            "pos": "n.",
+            "zh": "特別な関心",
+            "ex": "She has a special interest in modern art.",
+            "exzh": "彼女は現代美術に特別な関心を持っている。",
+            "ipa": "/ˈspɛʃəl ˈɪntrəst/",
+            "audio": "media/words/ep53/special-interest.mp3",
+            "ex_audio": "media/words/ep53/special-interest_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rehabilitative",
+            "pos": "adj.",
+            "zh": "リハビリの；回復のための",
+            "ex": "He works in rehabilitative medicine.",
+            "exzh": "彼はリハビリテーション医学の分野で働いている。",
+            "ipa": "/ˌrihəˈbɪləˌteɪtɪv/",
+            "audio": "media/words/ep53/rehabilitative.mp3",
+            "ex_audio": "media/words/ep53/rehabilitative_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "parking garage",
+            "pos": "n.",
+            "zh": "屋内駐車場；立体駐車場",
+            "ex": "The parking garage is next to the store.",
+            "exzh": "立体駐車場は店の隣にある。",
+            "ipa": "/ˈpɑrkɪŋ ɡɚˈɑʒ/",
+            "audio": "media/words/ep53/parking-garage.mp3",
+            "ex_audio": "media/words/ep53/parking-garage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be limited to",
+            "pos": "phr.",
+            "zh": "…に限られる",
+            "ex": "Use of the room is limited to staff.",
+            "exzh": "この部屋の利用はスタッフに限られる。",
+            "ipa": "/bi ˈlɪmətəd tu/",
+            "audio": "media/words/ep53/be-limited-to.mp3",
+            "ex_audio": "media/words/ep53/be-limited-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "resident",
+            "pos": "n.",
+            "zh": "住民；居住者",
+            "ex": "Building residents can use the gym for free.",
+            "exzh": "建物の居住者はジムを無料で使える。",
+            "ipa": "/ˈrɛzɪdənt/",
+            "audio": "media/words/ep53/resident.mp3",
+            "ex_audio": "media/words/ep53/resident_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "audiobook",
+            "pos": "n.",
+            "zh": "オーディオブック",
+            "ex": "I listen to audiobooks on the train.",
+            "exzh": "私は電車でオーディオブックを聞く。",
+            "ipa": "",
+            "audio": "media/words/ep53/audiobook.mp3",
+            "ex_audio": "media/words/ep53/audiobook_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "not mind",
+            "pos": "phr.",
+            "zh": "気にしない；かまわない",
+            "ex": "He does not mind the long commute.",
+            "exzh": "彼は長い通勤を気にしない。",
+            "ipa": "/nɑt maɪnd/",
+            "audio": "media/words/ep53/not-mind.mp3",
+            "ex_audio": "media/words/ep53/not-mind_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "commute",
+            "pos": "n./v.",
+            "zh": "通勤；通勤する",
+            "ex": "My commute to work takes an hour.",
+            "exzh": "私の通勤には1時間かかる。",
+            "ipa": "/kəˈmjut/",
+            "audio": "media/words/ep53/commute.mp3",
+            "ex_audio": "media/words/ep53/commute_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contact",
+            "pos": "v./n.",
+            "zh": "連絡する；連絡；連絡先",
+            "ex": "Please contact the Water Department by phone.",
+            "exzh": "水道局に電話で連絡してください。",
+            "ipa": "/ˈkɑnˌtækt/",
+            "audio": "media/words/ep53/contact.mp3",
+            "ex_audio": "media/words/ep53/contact_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "activate",
+            "pos": "v.",
+            "zh": "有効にする；起動する",
+            "ex": "You need to activate your account first.",
+            "exzh": "まずアカウントを有効にする必要がある。",
+            "ipa": "/ˈæktəˌveɪt/",
+            "audio": "media/words/ep53/activate.mp3",
+            "ex_audio": "media/words/ep53/activate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "look forward to",
+            "pos": "phr.",
+            "zh": "…を楽しみにする（to の後は名詞か動名詞）",
+            "ex": "We look forward to welcoming you back.",
+            "exzh": "再びお迎えできるのを楽しみにしております。",
+            "ipa": "/lʊk ˈfɔrwɚd tu/",
+            "audio": "media/words/ep53/look-forward-to.mp3",
+            "ex_audio": "media/words/ep53/look-forward-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "renovation",
+            "pos": "n.",
+            "zh": "改装；改修",
+            "ex": "The café reopened after a two-month renovation.",
+            "exzh": "カフェは2か月の改装の後、営業を再開した。",
+            "ipa": "/ˌrɛnəˈveɪʃən/",
+            "audio": "media/words/ep53/renovation.mp3",
+            "ex_audio": "media/words/ep53/renovation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "guidelines",
+            "pos": "n.",
+            "zh": "指針；要項；ガイドライン",
+            "ex": "Read the guidelines before you apply.",
+            "exzh": "応募する前に要項を読んでください。",
+            "ipa": "/ˈɡaɪdˌlaɪnz/",
+            "audio": "media/words/ep53/guidelines.mp3",
+            "ex_audio": "media/words/ep53/guidelines_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cover letter",
+            "pos": "n.",
+            "zh": "カバーレター；添え状",
+            "ex": "Send your résumé with a cover letter.",
+            "exzh": "履歴書をカバーレターと一緒に送ってください。",
+            "ipa": "/ˈkʌvɚ ˈlɛtɚ/",
+            "audio": "media/words/ep53/cover-letter.mp3",
+            "ex_audio": "media/words/ep53/cover-letter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "notify",
+            "pos": "v.",
+            "zh": "知らせる；通知する",
+            "ex": "Please notify us of any address changes.",
+            "exzh": "住所に変更があればお知らせください。",
+            "ipa": "/ˈnoʊtəˌfaɪ/",
+            "audio": "media/words/ep53/notify.mp3",
+            "ex_audio": "media/words/ep53/notify_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "human resources",
+            "pos": "n.",
+            "zh": "人事（部）",
+            "ex": "Ask the human resources department about vacation days.",
+            "exzh": "休暇日数については人事部に聞いてください。",
+            "ipa": "/ˈhjumən ˈrisɔrsɪz/",
+            "audio": "media/words/ep53/human-resources.mp3",
+            "ex_audio": "media/words/ep53/human-resources_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "within",
+            "pos": "prep.",
+            "zh": "…以内に",
+            "ex": "Reply within ten days of receiving this letter.",
+            "exzh": "この手紙を受け取ってから10日以内に返信してください。",
+            "ipa": "/wɪˈðɪn/",
+            "audio": "media/words/ep53/within.mp3",
+            "ex_audio": "media/words/ep53/within_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on account of",
+            "pos": "prep.",
+            "zh": "…のために；…が理由で（= because of）",
+            "ex": "The game was stopped on account of the rain.",
+            "exzh": "試合は雨のため中止された。",
+            "ipa": "/ɑn əˈkaʊnt əv/",
+            "audio": "media/words/ep53/on-account-of.mp3",
+            "ex_audio": "media/words/ep53/on-account-of_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "sensitive",
+            "pos": "adj.",
+            "zh": "機密の；扱いに注意が必要な；敏感な",
+            "ex": "Do not send sensitive information by e-mail.",
+            "exzh": "機密情報をメールで送らないでください。",
+            "ipa": "/ˈsɛnsətɪv/",
+            "audio": "media/words/ep53/sensitive.mp3",
+            "ex_audio": "media/words/ep53/sensitive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in the event of",
+            "pos": "prep.",
+            "zh": "万一…の場合には",
+            "ex": "In the event of rain, the event will be held indoors.",
+            "exzh": "雨の場合、イベントは屋内で行われる。",
+            "ipa": "/ɪn ðə ɪˈvɛnt əv/",
+            "audio": "media/words/ep53/in-the-event-of.mp3",
+            "ex_audio": "media/words/ep53/in-the-event-of_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "cancel",
+            "pos": "v.",
+            "zh": "中止する；取り消す",
+            "ex": "The bus may be canceled because of snow.",
+            "exzh": "バスは雪で運休になるかもしれない。",
+            "ipa": "/ˈkænsəl/",
+            "audio": "media/words/ep53/cancel.mp3",
+            "ex_audio": "media/words/ep53/cancel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contract",
+            "pos": "n./v.",
+            "zh": "契約；契約書；契約する",
+            "ex": "The contract will be signed next week.",
+            "exzh": "契約は来週結ばれる。",
+            "ipa": "/ˈkɑnˌtrækt/",
+            "audio": "media/words/ep53/contract.mp3",
+            "ex_audio": "media/words/ep53/contract_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "award",
+            "pos": "v./n.",
+            "zh": "与える；授与する；賞",
+            "ex": "The contract was awarded to a local company.",
+            "exzh": "その契約は地元の会社に与えられた。",
+            "ipa": "/əˈwɔrd/",
+            "audio": "media/words/ep53/award.mp3",
+            "ex_audio": "media/words/ep53/award_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "once",
+            "pos": "conj./adv.",
+            "zh": "いったん…すれば；1回；かつて",
+            "ex": "Once the documents arrive, we will start.",
+            "exzh": "書類が届き次第、始めます。",
+            "ipa": "/wʌns/",
+            "audio": "media/words/ep53/once.mp3",
+            "ex_audio": "media/words/ep53/once_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "repurposed",
+            "pos": "adj.",
+            "zh": "別の用途に転用された；再利用された",
+            "ex": "The table is made of repurposed wood.",
+            "exzh": "このテーブルは再利用された木材でできている。",
+            "ipa": "",
+            "audio": "media/words/ep53/repurposed.mp3",
+            "ex_audio": "media/words/ep53/repurposed_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "component",
+            "pos": "n.",
+            "zh": "部品；構成要素",
+            "ex": "This store sells used construction components.",
+            "exzh": "この店は中古の建築部材を売っている。",
+            "ipa": "/kəmˈpoʊnənt/",
+            "audio": "media/words/ep53/component.mp3",
+            "ex_audio": "media/words/ep53/component_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recommend",
+            "pos": "v.",
+            "zh": "勧める；推薦する",
+            "ex": "I recommend the fish soup.",
+            "exzh": "魚のスープがおすすめです。",
+            "ipa": "/ˌrɛkəˈmɛnd/",
+            "audio": "media/words/ep53/recommend.mp3",
+            "ex_audio": "media/words/ep53/recommend_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "whether",
+            "pos": "conj.",
+            "zh": "…かどうか",
+            "ex": "Let me know whether you can come.",
+            "exzh": "来られるかどうか教えてください。",
+            "ipa": "/ˈwɛðɚ/",
+            "audio": "media/words/ep53/whether.mp3",
+            "ex_audio": "media/words/ep53/whether_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "eligible",
+            "pos": "adj.",
+            "zh": "資格がある；条件を満たす",
+            "ex": "You are eligible to receive a discount.",
+            "exzh": "あなたは割引を受ける資格がある。",
+            "ipa": "/ˈɛlədʒəbəl/",
+            "audio": "media/words/ep53/eligible.mp3",
+            "ex_audio": "media/words/ep53/eligible_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "purchase",
+            "pos": "n./v.",
+            "zh": "購入；購入品；購入する",
+            "ex": "Keep the receipt for your purchase.",
+            "exzh": "ご購入のレシートを保管してください。",
+            "ipa": "/ˈpɝtʃəs/",
+            "audio": "media/words/ep53/purchase.mp3",
+            "ex_audio": "media/words/ep53/purchase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "confident",
+            "pos": "adj.",
+            "zh": "確信している；自信がある",
+            "ex": "I am confident that sales will grow.",
+            "exzh": "売り上げは伸びると確信している。",
+            "ipa": "/ˈkɑnfədənt/",
+            "audio": "media/words/ep53/confident.mp3",
+            "ex_audio": "media/words/ep53/confident_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "brand awareness",
+            "pos": "n.",
+            "zh": "ブランド認知度",
+            "ex": "The ads raised our brand awareness.",
+            "exzh": "その広告で当社のブランド認知度が上がった。",
+            "ipa": "/brænd əˈwɛrnəs/",
+            "audio": "media/words/ep53/brand-awareness.mp3",
+            "ex_audio": "media/words/ep53/brand-awareness_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "region",
+            "pos": "n.",
+            "zh": "地域；地方",
+            "ex": "Sales are growing in the eastern region.",
+            "exzh": "東部地域で売り上げが伸びている。",
+            "ipa": "/ˈridʒən/",
+            "audio": "media/words/ep53/region.mp3",
+            "ex_audio": "media/words/ep53/region_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "infrastructure",
+            "pos": "n.",
+            "zh": "インフラ；基盤",
+            "ex": "He manages the company's IT infrastructure.",
+            "exzh": "彼は会社の IT インフラを管理している。",
+            "ipa": "/ˌɪnfrəˈstrʌktʃɚ/",
+            "audio": "media/words/ep53/infrastructure.mp3",
+            "ex_audio": "media/words/ep53/infrastructure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "maintain",
+            "pos": "v.",
+            "zh": "保守する；維持する",
+            "ex": "The team maintains the telephone system.",
+            "exzh": "そのチームが電話システムを保守している。",
+            "ipa": "/meɪnˈteɪn/",
+            "audio": "media/words/ep53/maintain.mp3",
+            "ex_audio": "media/words/ep53/maintain_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "optimize",
+            "pos": "v.",
+            "zh": "最適化する（イギリス式つづり optimise）",
+            "ex": "We need to optimize our servers.",
+            "exzh": "サーバーを最適化する必要がある。",
+            "ipa": "/ˈɑptəˌmaɪz/",
+            "audio": "media/words/ep53/optimize.mp3",
+            "ex_audio": "media/words/ep53/optimize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in a timely manner",
+            "pos": "phr.",
+            "zh": "迅速に；適時に",
+            "ex": "Problems should be resolved in a timely manner.",
+            "exzh": "問題は迅速に解決されるべきだ。",
+            "ipa": "/ɪn ə ˈtaɪmli ˈmænɚ/",
+            "audio": "media/words/ep53/in-a-timely-manner.mp3",
+            "ex_audio": "media/words/ep53/in-a-timely-manner_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "report to",
+            "pos": "phr.",
+            "zh": "…の直属である；…に報告する",
+            "ex": "The manager reports to the director.",
+            "exzh": "その管理者は部長の直属だ。",
+            "ipa": "/riˈpɔrt tu/",
+            "audio": "media/words/ep53/report-to.mp3",
+            "ex_audio": "media/words/ep53/report-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "determine",
+            "pos": "v.",
+            "zh": "決定する；突き止める",
+            "ex": "The director determines the policies.",
+            "exzh": "部長が方針を決定する。",
+            "ipa": "/dəˈtɝmən/",
+            "audio": "media/words/ep53/determine.mp3",
+            "ex_audio": "media/words/ep53/determine_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "procedure",
+            "pos": "n.",
+            "zh": "手順；手続き",
+            "ex": "Please follow the safety procedures.",
+            "exzh": "安全手順に従ってください。",
+            "ipa": "/prəˈsidʒɚ/",
+            "audio": "media/words/ep53/procedure.mp3",
+            "ex_audio": "media/words/ep53/procedure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "evaluate",
+            "pos": "v.",
+            "zh": "評価する",
+            "ex": "The director evaluates the manager's performance.",
+            "exzh": "部長が管理者の業績を評価する。",
+            "ipa": "/ɪˈvæljuˌeɪt/",
+            "audio": "media/words/ep53/evaluate.mp3",
+            "ex_audio": "media/words/ep53/evaluate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "qualification",
+            "pos": "n.",
+            "zh": "資格；応募条件",
+            "ex": "What are the qualifications for this job?",
+            "exzh": "この仕事の応募資格は何ですか。",
+            "ipa": "/ˌkwɑləfəˈkeɪʃən/",
+            "audio": "media/words/ep53/qualification.mp3",
+            "ex_audio": "media/words/ep53/qualification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relevant",
+            "pos": "adj.",
+            "zh": "関連のある",
+            "ex": "You need five years of relevant experience.",
+            "exzh": "5年の関連経験が必要だ。",
+            "ipa": "/ˈrɛləvənt/",
+            "audio": "media/words/ep53/relevant.mp3",
+            "ex_audio": "media/words/ep53/relevant_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "requirement",
+            "pos": "n.",
+            "zh": "条件；必要事項",
+            "ex": "A university degree is a requirement for the position.",
+            "exzh": "大学の学位がこの職の条件だ。",
+            "ipa": "/rɪˈkwaɪrmənt/",
+            "audio": "media/words/ep53/requirement.mp3",
+            "ex_audio": "media/words/ep53/requirement_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep53_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 5 前置詞と接続詞：後ろは名詞か文か · 等位接続詞 · 相関接続詞",
+    "words": [
+      {
+        "word": "partner",
+        "pos": "n.",
+        "zh": "合伙人；伙伴；合作方",
+        "ex": "Dr. Ko and his partners run the clinic together.",
+        "exzh": "高医生和他的合伙人一起经营诊所。",
+        "ipa": "/ˈpɑrtnɚ/",
+        "audio": "media/words/ep53/partner.mp3",
+        "ex_audio": "media/words/ep53/partner_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "special interest",
+        "pos": "n.",
+        "zh": "特别的兴趣；特殊爱好",
+        "ex": "She has a special interest in modern art.",
+        "exzh": "她对现代艺术特别感兴趣。",
+        "ipa": "/ˈspɛʃəl ˈɪntrəst/",
+        "audio": "media/words/ep53/special-interest.mp3",
+        "ex_audio": "media/words/ep53/special-interest_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rehabilitative",
+        "pos": "adj.",
+        "zh": "康复的；复健的",
+        "ex": "He works in rehabilitative medicine.",
+        "exzh": "他从事康复医学工作。",
+        "ipa": "/ˌrihəˈbɪləˌteɪtɪv/",
+        "audio": "media/words/ep53/rehabilitative.mp3",
+        "ex_audio": "media/words/ep53/rehabilitative_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "parking garage",
+        "pos": "n.",
+        "zh": "室内停车场；停车楼",
+        "ex": "The parking garage is next to the store.",
+        "exzh": "停车楼就在商店旁边。",
+        "ipa": "/ˈpɑrkɪŋ ɡɚˈɑʒ/",
+        "audio": "media/words/ep53/parking-garage.mp3",
+        "ex_audio": "media/words/ep53/parking-garage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be limited to",
+        "pos": "phr.",
+        "zh": "仅限于；限于",
+        "ex": "Use of the room is limited to staff.",
+        "exzh": "这个房间仅限员工使用。",
+        "ipa": "/bi ˈlɪmətəd tu/",
+        "audio": "media/words/ep53/be-limited-to.mp3",
+        "ex_audio": "media/words/ep53/be-limited-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "zh": "居民；住户",
+        "ex": "Building residents can use the gym for free.",
+        "exzh": "楼里的住户可以免费使用健身房。",
+        "ipa": "/ˈrɛzɪdənt/",
+        "audio": "media/words/ep53/resident.mp3",
+        "ex_audio": "media/words/ep53/resident_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "audiobook",
+        "pos": "n.",
+        "zh": "有声书",
+        "ex": "I listen to audiobooks on the train.",
+        "exzh": "我在电车上听有声书。",
+        "ipa": "",
+        "audio": "media/words/ep53/audiobook.mp3",
+        "ex_audio": "media/words/ep53/audiobook_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "not mind",
+        "pos": "phr.",
+        "zh": "不介意；不在乎",
+        "ex": "He does not mind the long commute.",
+        "exzh": "他不介意通勤时间长。",
+        "ipa": "/nɑt maɪnd/",
+        "audio": "media/words/ep53/not-mind.mp3",
+        "ex_audio": "media/words/ep53/not-mind_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "commute",
+        "pos": "n./v.",
+        "zh": "通勤；上下班往返",
+        "ex": "My commute to work takes an hour.",
+        "exzh": "我上班通勤要一个小时。",
+        "ipa": "/kəˈmjut/",
+        "audio": "media/words/ep53/commute.mp3",
+        "ex_audio": "media/words/ep53/commute_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contact",
+        "pos": "v./n.",
+        "zh": "联系；联络；联系人",
+        "ex": "Please contact the Water Department by phone.",
+        "exzh": "请打电话联系自来水部门。",
+        "ipa": "/ˈkɑnˌtækt/",
+        "audio": "media/words/ep53/contact.mp3",
+        "ex_audio": "media/words/ep53/contact_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "activate",
+        "pos": "v.",
+        "zh": "开通；激活；启动",
+        "ex": "You need to activate your account first.",
+        "exzh": "你需要先开通账户。",
+        "ipa": "/ˈæktəˌveɪt/",
+        "audio": "media/words/ep53/activate.mp3",
+        "ex_audio": "media/words/ep53/activate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "look forward to",
+        "pos": "phr.",
+        "zh": "期待；盼望（to 后接名词或动名词）",
+        "ex": "We look forward to welcoming you back.",
+        "exzh": "我们期待再次欢迎您。",
+        "ipa": "/lʊk ˈfɔrwɚd tu/",
+        "audio": "media/words/ep53/look-forward-to.mp3",
+        "ex_audio": "media/words/ep53/look-forward-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "renovation",
+        "pos": "n.",
+        "zh": "翻修；装修；改造",
+        "ex": "The café reopened after a two-month renovation.",
+        "exzh": "咖啡馆翻修两个月后重新开业了。",
+        "ipa": "/ˌrɛnəˈveɪʃən/",
+        "audio": "media/words/ep53/renovation.mp3",
+        "ex_audio": "media/words/ep53/renovation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "guidelines",
+        "pos": "n.",
+        "zh": "指南；须知；准则",
+        "ex": "Read the guidelines before you apply.",
+        "exzh": "申请前请阅读须知。",
+        "ipa": "/ˈɡaɪdˌlaɪnz/",
+        "audio": "media/words/ep53/guidelines.mp3",
+        "ex_audio": "media/words/ep53/guidelines_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cover letter",
+        "pos": "n.",
+        "zh": "求职信；附信",
+        "ex": "Send your résumé with a cover letter.",
+        "exzh": "请把简历和求职信一起寄来。",
+        "ipa": "/ˈkʌvɚ ˈlɛtɚ/",
+        "audio": "media/words/ep53/cover-letter.mp3",
+        "ex_audio": "media/words/ep53/cover-letter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "notify",
+        "pos": "v.",
+        "zh": "通知；告知",
+        "ex": "Please notify us of any address changes.",
+        "exzh": "如有地址变更请通知我们。",
+        "ipa": "/ˈnoʊtəˌfaɪ/",
+        "audio": "media/words/ep53/notify.mp3",
+        "ex_audio": "media/words/ep53/notify_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "human resources",
+        "pos": "n.",
+        "zh": "人力资源（部）；人事部",
+        "ex": "Ask the human resources department about vacation days.",
+        "exzh": "休假天数的事请问人力资源部。",
+        "ipa": "/ˈhjumən ˈrisɔrsɪz/",
+        "audio": "media/words/ep53/human-resources.mp3",
+        "ex_audio": "media/words/ep53/human-resources_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "within",
+        "pos": "prep.",
+        "zh": "在……之内",
+        "ex": "Reply within ten days of receiving this letter.",
+        "exzh": "请在收到此信后十天内回复。",
+        "ipa": "/wɪˈðɪn/",
+        "audio": "media/words/ep53/within.mp3",
+        "ex_audio": "media/words/ep53/within_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on account of",
+        "pos": "prep.",
+        "zh": "因为；由于（= because of）",
+        "ex": "The game was stopped on account of the rain.",
+        "exzh": "比赛因为下雨中止了。",
+        "ipa": "/ɑn əˈkaʊnt əv/",
+        "audio": "media/words/ep53/on-account-of.mp3",
+        "ex_audio": "media/words/ep53/on-account-of_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "sensitive",
+        "pos": "adj.",
+        "zh": "敏感的；机密的；需谨慎处理的",
+        "ex": "Do not send sensitive information by e-mail.",
+        "exzh": "不要用电子邮件发送敏感信息。",
+        "ipa": "/ˈsɛnsətɪv/",
+        "audio": "media/words/ep53/sensitive.mp3",
+        "ex_audio": "media/words/ep53/sensitive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in the event of",
+        "pos": "prep.",
+        "zh": "万一发生……；如果遇到……",
+        "ex": "In the event of rain, the event will be held indoors.",
+        "exzh": "万一下雨，活动将在室内举行。",
+        "ipa": "/ɪn ðə ɪˈvɛnt əv/",
+        "audio": "media/words/ep53/in-the-event-of.mp3",
+        "ex_audio": "media/words/ep53/in-the-event-of_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "cancel",
+        "pos": "v.",
+        "zh": "取消",
+        "ex": "The bus may be canceled because of snow.",
+        "exzh": "公交可能会因为下雪而取消。",
+        "ipa": "/ˈkænsəl/",
+        "audio": "media/words/ep53/cancel.mp3",
+        "ex_audio": "media/words/ep53/cancel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contract",
+        "pos": "n./v.",
+        "zh": "合同；契约；签约",
+        "ex": "The contract will be signed next week.",
+        "exzh": "合同将在下周签署。",
+        "ipa": "/ˈkɑnˌtrækt/",
+        "audio": "media/words/ep53/contract.mp3",
+        "ex_audio": "media/words/ep53/contract_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "award",
+        "pos": "v./n.",
+        "zh": "授予；颁发；奖",
+        "ex": "The contract was awarded to a local company.",
+        "exzh": "这份合同授予了一家本地公司。",
+        "ipa": "/əˈwɔrd/",
+        "audio": "media/words/ep53/award.mp3",
+        "ex_audio": "media/words/ep53/award_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "once",
+        "pos": "conj./adv.",
+        "zh": "一旦……就；一次；曾经",
+        "ex": "Once the documents arrive, we will start.",
+        "exzh": "文件一到我们就开始。",
+        "ipa": "/wʌns/",
+        "audio": "media/words/ep53/once.mp3",
+        "ex_audio": "media/words/ep53/once_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "repurposed",
+        "pos": "adj.",
+        "zh": "改作他用的；再利用的",
+        "ex": "The table is made of repurposed wood.",
+        "exzh": "这张桌子是用再利用的木材做的。",
+        "ipa": "",
+        "audio": "media/words/ep53/repurposed.mp3",
+        "ex_audio": "media/words/ep53/repurposed_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "component",
+        "pos": "n.",
+        "zh": "部件；构件；组成部分",
+        "ex": "This store sells used construction components.",
+        "exzh": "这家店卖二手建筑构件。",
+        "ipa": "/kəmˈpoʊnənt/",
+        "audio": "media/words/ep53/component.mp3",
+        "ex_audio": "media/words/ep53/component_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recommend",
+        "pos": "v.",
+        "zh": "推荐；建议",
+        "ex": "I recommend the fish soup.",
+        "exzh": "我推荐鱼汤。",
+        "ipa": "/ˌrɛkəˈmɛnd/",
+        "audio": "media/words/ep53/recommend.mp3",
+        "ex_audio": "media/words/ep53/recommend_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "whether",
+        "pos": "conj.",
+        "zh": "是否",
+        "ex": "Let me know whether you can come.",
+        "exzh": "请告诉我你能不能来。",
+        "ipa": "/ˈwɛðɚ/",
+        "audio": "media/words/ep53/whether.mp3",
+        "ex_audio": "media/words/ep53/whether_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "eligible",
+        "pos": "adj.",
+        "zh": "有资格的；符合条件的",
+        "ex": "You are eligible to receive a discount.",
+        "exzh": "您有资格享受折扣。",
+        "ipa": "/ˈɛlədʒəbəl/",
+        "audio": "media/words/ep53/eligible.mp3",
+        "ex_audio": "media/words/ep53/eligible_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "purchase",
+        "pos": "n./v.",
+        "zh": "购买；购买的东西；购买",
+        "ex": "Keep the receipt for your purchase.",
+        "exzh": "请保留购物收据。",
+        "ipa": "/ˈpɝtʃəs/",
+        "audio": "media/words/ep53/purchase.mp3",
+        "ex_audio": "media/words/ep53/purchase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "confident",
+        "pos": "adj.",
+        "zh": "确信的；有信心的",
+        "ex": "I am confident that sales will grow.",
+        "exzh": "我确信销售额会增长。",
+        "ipa": "/ˈkɑnfədənt/",
+        "audio": "media/words/ep53/confident.mp3",
+        "ex_audio": "media/words/ep53/confident_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "brand awareness",
+        "pos": "n.",
+        "zh": "品牌知名度；品牌认知度",
+        "ex": "The ads raised our brand awareness.",
+        "exzh": "这些广告提高了我们的品牌知名度。",
+        "ipa": "/brænd əˈwɛrnəs/",
+        "audio": "media/words/ep53/brand-awareness.mp3",
+        "ex_audio": "media/words/ep53/brand-awareness_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "region",
+        "pos": "n.",
+        "zh": "地区；区域",
+        "ex": "Sales are growing in the eastern region.",
+        "exzh": "东部地区的销售额在增长。",
+        "ipa": "/ˈridʒən/",
+        "audio": "media/words/ep53/region.mp3",
+        "ex_audio": "media/words/ep53/region_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "infrastructure",
+        "pos": "n.",
+        "zh": "基础设施；基础架构",
+        "ex": "He manages the company's IT infrastructure.",
+        "exzh": "他负责管理公司的 IT 基础设施。",
+        "ipa": "/ˌɪnfrəˈstrʌktʃɚ/",
+        "audio": "media/words/ep53/infrastructure.mp3",
+        "ex_audio": "media/words/ep53/infrastructure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "maintain",
+        "pos": "v.",
+        "zh": "维护；保养；保持",
+        "ex": "The team maintains the telephone system.",
+        "exzh": "这个团队负责维护电话系统。",
+        "ipa": "/meɪnˈteɪn/",
+        "audio": "media/words/ep53/maintain.mp3",
+        "ex_audio": "media/words/ep53/maintain_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "optimize",
+        "pos": "v.",
+        "zh": "优化（英式拼写 optimise）",
+        "ex": "We need to optimize our servers.",
+        "exzh": "我们需要优化服务器。",
+        "ipa": "/ˈɑptəˌmaɪz/",
+        "audio": "media/words/ep53/optimize.mp3",
+        "ex_audio": "media/words/ep53/optimize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in a timely manner",
+        "pos": "phr.",
+        "zh": "及时地",
+        "ex": "Problems should be resolved in a timely manner.",
+        "exzh": "问题应该及时解决。",
+        "ipa": "/ɪn ə ˈtaɪmli ˈmænɚ/",
+        "audio": "media/words/ep53/in-a-timely-manner.mp3",
+        "ex_audio": "media/words/ep53/in-a-timely-manner_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "report to",
+        "pos": "phr.",
+        "zh": "向……汇报；归……管",
+        "ex": "The manager reports to the director.",
+        "exzh": "经理向总监汇报。",
+        "ipa": "/riˈpɔrt tu/",
+        "audio": "media/words/ep53/report-to.mp3",
+        "ex_audio": "media/words/ep53/report-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "determine",
+        "pos": "v.",
+        "zh": "决定；确定；查明",
+        "ex": "The director determines the policies.",
+        "exzh": "总监决定政策。",
+        "ipa": "/dəˈtɝmən/",
+        "audio": "media/words/ep53/determine.mp3",
+        "ex_audio": "media/words/ep53/determine_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "procedure",
+        "pos": "n.",
+        "zh": "流程；程序；手续",
+        "ex": "Please follow the safety procedures.",
+        "exzh": "请遵守安全流程。",
+        "ipa": "/prəˈsidʒɚ/",
+        "audio": "media/words/ep53/procedure.mp3",
+        "ex_audio": "media/words/ep53/procedure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "evaluate",
+        "pos": "v.",
+        "zh": "评估；评价",
+        "ex": "The director evaluates the manager's performance.",
+        "exzh": "总监评估经理的工作表现。",
+        "ipa": "/ɪˈvæljuˌeɪt/",
+        "audio": "media/words/ep53/evaluate.mp3",
+        "ex_audio": "media/words/ep53/evaluate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "qualification",
+        "pos": "n.",
+        "zh": "资格；任职条件；学历证书",
+        "ex": "What are the qualifications for this job?",
+        "exzh": "这份工作的任职资格是什么？",
+        "ipa": "/ˌkwɑləfəˈkeɪʃən/",
+        "audio": "media/words/ep53/qualification.mp3",
+        "ex_audio": "media/words/ep53/qualification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relevant",
+        "pos": "adj.",
+        "zh": "相关的；有关的",
+        "ex": "You need five years of relevant experience.",
+        "exzh": "你需要五年的相关经验。",
+        "ipa": "/ˈrɛləvənt/",
+        "audio": "media/words/ep53/relevant.mp3",
+        "ex_audio": "media/words/ep53/relevant_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "requirement",
+        "pos": "n.",
+        "zh": "要求；必要条件",
+        "ex": "A university degree is a requirement for the position.",
+        "exzh": "大学学历是这个职位的要求。",
+        "ipa": "/rɪˈkwaɪrmənt/",
+        "audio": "media/words/ep53/requirement.mp3",
+        "ex_audio": "media/words/ep53/requirement_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 52,
     "theme": "题型精讲 · Part 5 时态与语态：主动还是被动 · 时间标志词 · 已有谓语用非谓语",
     "date": "2026-11-03",
