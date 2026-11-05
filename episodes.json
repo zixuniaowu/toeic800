@@ -1,5 +1,1388 @@
 [
   {
+    "number": 55,
+    "theme": "题型精讲 · Part 5 词汇：词义选择 · 固定搭配 · 形容词 / 动词 / 名词 / 副词",
+    "date": "2026-11-06",
+    "duration_sec": 2436.8,
+    "segments": [
+      {
+        "title": "1. Part 5 词汇真题（三套卷 14 题 · 形容词 / 动词 / 名词 / 副词）",
+        "start": 0.0,
+        "length": 1239.5
+      },
+      {
+        "title": "2. Part 7 同伴导师欢迎邮件（配套精练 · 三题含句子插入）",
+        "start": 1239.5,
+        "length": 469.44
+      },
+      {
+        "title": "3. 本期 43 词总复习 · 拼读",
+        "start": 1708.93,
+        "length": 727.82
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "popular",
+        "zh": "受欢迎的；流行的"
+      },
+      {
+        "word": "tight",
+        "zh": "紧张的；紧的；严格的"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；库存清单；盘点"
+      },
+      {
+        "word": "inspiration",
+        "zh": "灵感；鼓舞；启发"
+      },
+      {
+        "word": "peer mentor",
+        "zh": "同伴导师；同辈导师"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "popular",
+        "zh": "受欢迎的；流行的"
+      },
+      {
+        "word": "amphitheater",
+        "zh": "露天剧场；圆形剧场"
+      },
+      {
+        "word": "resident",
+        "zh": "居民；住户"
+      },
+      {
+        "word": "tight",
+        "zh": "紧张的；紧的；严格的"
+      },
+      {
+        "word": "budget",
+        "zh": "预算；把编入预算"
+      },
+      {
+        "word": "coordinator",
+        "zh": "协调人；统筹者"
+      },
+      {
+        "word": "hearty",
+        "zh": "丰盛的；衷心的；强健的"
+      },
+      {
+        "word": "hospitality",
+        "zh": "热情好客；酒店餐饮业"
+      },
+      {
+        "word": "lasting",
+        "zh": "持久的；耐久的"
+      },
+      {
+        "word": "temporary",
+        "zh": "临时的；暂时的"
+      },
+      {
+        "word": "contribution",
+        "zh": "贡献；捐助；投稿"
+      },
+      {
+        "word": "full",
+        "zh": "满的；完全的；满负荷的"
+      },
+      {
+        "word": "capacity",
+        "zh": "产能；容量；能力"
+      },
+      {
+        "word": "refinery",
+        "zh": "精炼厂；提炼厂"
+      },
+      {
+        "word": "come with",
+        "zh": "附带；配有；伴随"
+      },
+      {
+        "word": "guarantee",
+        "zh": "保证；保修；担保"
+      },
+      {
+        "word": "survey",
+        "zh": "调查；问卷；勘测"
+      },
+      {
+        "word": "commute",
+        "zh": "通勤；上下班路程；通勤往返"
+      },
+      {
+        "word": "follow",
+        "zh": "跟随；按照；遵循"
+      },
+      {
+        "word": "instruction",
+        "zh": "说明；指示；用法"
+      },
+      {
+        "word": "purchase",
+        "zh": "购买；采购"
+      },
+      {
+        "word": "honor",
+        "zh": "表彰；尊敬；荣誉"
+      },
+      {
+        "word": "sales call",
+        "zh": "销售电话；推销拜访"
+      },
+      {
+        "word": "policy",
+        "zh": "政策；规定；保险单"
+      },
+      {
+        "word": "regarding",
+        "zh": "关于；至于"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；库存清单；盘点"
+      },
+      {
+        "word": "in stock",
+        "zh": "有现货；有库存"
+      },
+      {
+        "word": "holiday rush",
+        "zh": "假日高峰；旺季抢购期"
+      },
+      {
+        "word": "inspiration",
+        "zh": "灵感；鼓舞；启发"
+      },
+      {
+        "word": "landscape",
+        "zh": "风景；景观；山水画"
+      },
+      {
+        "word": "especially",
+        "zh": "尤其；特别"
+      },
+      {
+        "word": "sector",
+        "zh": "行业；部门；领域"
+      },
+      {
+        "word": "cooperatively",
+        "zh": "合作地；协作地"
+      },
+      {
+        "word": "state-of-the-art",
+        "zh": "最先进的；顶尖的"
+      },
+      {
+        "word": "peer mentor",
+        "zh": "同伴导师；同辈导师"
+      },
+      {
+        "word": "new hire",
+        "zh": "新员工；新录用者"
+      },
+      {
+        "word": "get settled",
+        "zh": "安顿下来；适应；安居"
+      },
+      {
+        "word": "firsthand",
+        "zh": "第一手的；亲身的；直接地"
+      },
+      {
+        "word": "production",
+        "zh": "生产；制作；产量"
+      },
+      {
+        "word": "take on",
+        "zh": "承担；就任；雇用；接受挑战"
+      },
+      {
+        "word": "paperwork",
+        "zh": "文件；文书工作；手续"
+      },
+      {
+        "word": "employee ID",
+        "zh": "员工证；工号牌"
+      },
+      {
+        "word": "tour",
+        "zh": "参观；巡视；巡回演出"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep55.mp4",
+    "script_pdf": "media/ep55_script.pdf",
+    "source_video": "ep55.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep55.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep55.mp4",
+        "script_pdf": "media/ep55_script.pdf",
+        "duration_sec": 2436.8,
+        "theme": "题型精讲 · Part 5 词汇：词义选择 · 固定搭配 · 形容词 / 动词 / 名词 / 副词",
+        "segments": [
+          {
+            "title": "1. Part 5 词汇真题（三套卷 14 题 · 形容词 / 动词 / 名词 / 副词）",
+            "start": 0.0,
+            "length": 1239.5
+          },
+          {
+            "title": "2. Part 7 同伴导师欢迎邮件（配套精练 · 三题含句子插入）",
+            "start": 1239.5,
+            "length": 469.44
+          },
+          {
+            "title": "3. 本期 43 词总复习 · 拼读",
+            "start": 1708.93,
+            "length": 727.82
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep55ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep55ja.mp4",
+        "script_pdf": "media/ep55ja_script.pdf",
+        "duration_sec": 2799.4,
+        "theme": "問題タイプ別精講 · Part 5 語彙：意味の選択 · 決まりのコロケーション · 形容詞 / 動詞 / 名詞 / 副詞",
+        "segments": [
+          {
+            "title": "1. Part 5 語彙の問題（本番 14問 · 形容詞 / 動詞 / 名詞 / 副詞）",
+            "start": 0.0,
+            "length": 1514.94
+          },
+          {
+            "title": "2. Part 7 ピアメンターの歓迎メール（関連演習 · 文の挿入を含む3問）",
+            "start": 1514.94,
+            "length": 516.21
+          },
+          {
+            "title": "3. 今回の 43 語総復習 · スペル",
+            "start": 2031.16,
+            "length": 768.24
+          }
+        ],
+        "poster": "media/ep55ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "popular",
+            "zh": "人気のある；流行の"
+          },
+          {
+            "word": "tight",
+            "zh": "厳しい；きつい；ぎっしりした"
+          },
+          {
+            "word": "inventory",
+            "zh": "在庫；在庫一覧；棚卸し"
+          },
+          {
+            "word": "inspiration",
+            "zh": "インスピレーション；着想；刺激"
+          },
+          {
+            "word": "peer mentor",
+            "zh": "ピアメンター；同僚の指導役"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "popular",
+          "amphitheater",
+          "resident",
+          "tight",
+          "budget",
+          "coordinator",
+          "hearty",
+          "hospitality",
+          "lasting",
+          "temporary",
+          "contribution",
+          "full",
+          "capacity",
+          "refinery",
+          "come with",
+          "guarantee",
+          "survey",
+          "commute",
+          "follow",
+          "instruction",
+          "purchase",
+          "honor",
+          "sales call",
+          "policy",
+          "regarding",
+          "inventory",
+          "in stock",
+          "holiday rush",
+          "inspiration",
+          "landscape",
+          "especially",
+          "sector",
+          "cooperatively",
+          "state-of-the-art",
+          "peer mentor",
+          "new hire",
+          "get settled",
+          "firsthand",
+          "production",
+          "take on",
+          "paperwork",
+          "employee ID",
+          "tour"
+        ],
+        "words": [
+          {
+            "word": "popular",
+            "pos": "adj.",
+            "zh": "人気のある；流行の",
+            "ex": "The festival is popular with local residents.",
+            "exzh": "その祭りは地元の住民に人気がある。",
+            "ipa": "/ˈpɑpjəlɚ/",
+            "audio": "media/words/ep55/popular.mp3",
+            "ex_audio": "media/words/ep55/popular_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "amphitheater",
+            "pos": "n.",
+            "zh": "野外劇場；円形劇場",
+            "ex": "The amphitheater hosts outdoor concerts.",
+            "exzh": "その野外劇場では屋外コンサートが開かれる。",
+            "ipa": "/ˈæmfəθiˈeɪtɚ/",
+            "audio": "media/words/ep55/amphitheater.mp3",
+            "ex_audio": "media/words/ep55/amphitheater_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "resident",
+            "pos": "n.",
+            "zh": "住民；居住者",
+            "ex": "City residents can use the library for free.",
+            "exzh": "市の住民は図書館を無料で利用できる。",
+            "ipa": "/ˈrɛzɪdənt/",
+            "audio": "media/words/ep55/resident.mp3",
+            "ex_audio": "media/words/ep55/resident_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tight",
+            "pos": "adj.",
+            "zh": "厳しい；きつい；ぎっしりした",
+            "ex": "The project budget is very tight this year.",
+            "exzh": "今年のプロジェクト予算はとても厳しい。",
+            "ipa": "/taɪt/",
+            "audio": "media/words/ep55/tight.mp3",
+            "ex_audio": "media/words/ep55/tight_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "budget",
+            "pos": "n./v.",
+            "zh": "予算；予算を組む",
+            "ex": "We need to stay within the budget.",
+            "exzh": "予算内に収める必要がある。",
+            "ipa": "/ˈbʌdʒɪt/",
+            "audio": "media/words/ep55/budget.mp3",
+            "ex_audio": "media/words/ep55/budget_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "coordinator",
+            "pos": "n.",
+            "zh": "調整役；コーディネーター",
+            "ex": "The conference coordinator planned the schedule.",
+            "exzh": "会議のコーディネーターが日程を計画した。",
+            "ipa": "/koʊˈɔrdəˌneɪtɚ/",
+            "audio": "media/words/ep55/coordinator.mp3",
+            "ex_audio": "media/words/ep55/coordinator_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hearty",
+            "pos": "adj.",
+            "zh": "ボリュームのある；心からの",
+            "ex": "The hotel serves a hearty breakfast.",
+            "exzh": "そのホテルはボリュームのある朝食を出す。",
+            "ipa": "/ˈhɑrti/",
+            "audio": "media/words/ep55/hearty.mp3",
+            "ex_audio": "media/words/ep55/hearty_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "hospitality",
+            "pos": "n.",
+            "zh": "もてなし；接客業",
+            "ex": "She works in the hospitality industry.",
+            "exzh": "彼女はホスピタリティ業界で働いている。",
+            "ipa": "/ˌhɑspəˈtæləti/",
+            "audio": "media/words/ep55/hospitality.mp3",
+            "ex_audio": "media/words/ep55/hospitality_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lasting",
+            "pos": "adj.",
+            "zh": "持続する；永続的な",
+            "ex": "The training had a lasting effect on the staff.",
+            "exzh": "研修はスタッフに持続的な影響を与えた。",
+            "ipa": "/ˈlæstɪŋ/",
+            "audio": "media/words/ep55/lasting.mp3",
+            "ex_audio": "media/words/ep55/lasting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "temporary",
+            "pos": "adj.",
+            "zh": "一時的な；仮の",
+            "ex": "This is only a temporary position.",
+            "exzh": "これは一時的な職位にすぎない。",
+            "ipa": "/ˈtɛmpɚˌɛri/",
+            "audio": "media/words/ep55/temporary.mp3",
+            "ex_audio": "media/words/ep55/temporary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contribution",
+            "pos": "n.",
+            "zh": "貢献；寄付；寄稿",
+            "ex": "Thank you for your contribution to the project.",
+            "exzh": "プロジェクトへの貢献に感謝します。",
+            "ipa": "/ˌkɑntrəˈbjuʃən/",
+            "audio": "media/words/ep55/contribution.mp3",
+            "ex_audio": "media/words/ep55/contribution_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "full",
+            "pos": "adj.",
+            "zh": "いっぱいの；完全な；フルの",
+            "ex": "The factory is running at full capacity.",
+            "exzh": "工場はフル稼働している。",
+            "ipa": "/fʊl/",
+            "audio": "media/words/ep55/full.mp3",
+            "ex_audio": "media/words/ep55/full_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "capacity",
+            "pos": "n.",
+            "zh": "生産能力；容量；能力",
+            "ex": "The plant operates at full capacity in summer.",
+            "exzh": "その工場は夏にフル稼働する。",
+            "ipa": "/kəˈpæsəti/",
+            "audio": "media/words/ep55/capacity.mp3",
+            "ex_audio": "media/words/ep55/capacity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "refinery",
+            "pos": "n.",
+            "zh": "精製所；精錬所",
+            "ex": "The oil refinery is near the port.",
+            "exzh": "石油精製所は港の近くにある。",
+            "ipa": "/rɪˈfaɪnɚi/",
+            "audio": "media/words/ep55/refinery.mp3",
+            "ex_audio": "media/words/ep55/refinery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "come with",
+            "pos": "phr.",
+            "zh": "…が付いている；伴う",
+            "ex": "Each pan comes with a twelve-year guarantee.",
+            "exzh": "フライパンにはそれぞれ12年保証が付いている。",
+            "ipa": "/kʌm wɪð/",
+            "audio": "media/words/ep55/come-with.mp3",
+            "ex_audio": "media/words/ep55/come-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "guarantee",
+            "pos": "n./v.",
+            "zh": "保証；保証する",
+            "ex": "The product comes with a two-year guarantee.",
+            "exzh": "その製品には2年保証が付いている。",
+            "ipa": "/ˌɡɛrənˈti/",
+            "audio": "media/words/ep55/guarantee.mp3",
+            "ex_audio": "media/words/ep55/guarantee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "survey",
+            "pos": "n./v.",
+            "zh": "調査；アンケート；測量する",
+            "ex": "The survey found that many staff commute far.",
+            "exzh": "調査で多くの職員の通勤が遠いことが分かった。",
+            "ipa": "/sɚˈveɪ/",
+            "audio": "media/words/ep55/survey.mp3",
+            "ex_audio": "media/words/ep55/survey_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "commute",
+            "pos": "n./v.",
+            "zh": "通勤；通勤する",
+            "ex": "She has a long commute to the office.",
+            "exzh": "彼女の通勤は長い。",
+            "ipa": "/kəˈmjut/",
+            "audio": "media/words/ep55/commute.mp3",
+            "ex_audio": "media/words/ep55/commute_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "follow",
+            "pos": "v.",
+            "zh": "従う；ついていく",
+            "ex": "Please follow the on-screen instructions.",
+            "exzh": "画面上の指示に従ってください。",
+            "ipa": "/ˈfɑloʊ/",
+            "audio": "media/words/ep55/follow.mp3",
+            "ex_audio": "media/words/ep55/follow_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "instruction",
+            "pos": "n.",
+            "zh": "指示；説明；用法",
+            "ex": "Read the instructions before you begin.",
+            "exzh": "始める前に説明を読んでください。",
+            "ipa": "/ˌɪnˈstrʌkʃən/",
+            "audio": "media/words/ep55/instruction.mp3",
+            "ex_audio": "media/words/ep55/instruction_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "purchase",
+            "pos": "n./v.",
+            "zh": "購入；購入する",
+            "ex": "Please complete the survey after your purchase.",
+            "exzh": "購入後にアンケートに答えてください。",
+            "ipa": "/ˈpɝtʃəs/",
+            "audio": "media/words/ep55/purchase.mp3",
+            "ex_audio": "media/words/ep55/purchase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "honor",
+            "pos": "v./n.",
+            "zh": "表彰する；たたえる；名誉",
+            "ex": "The company honors the top salesperson each quarter.",
+            "exzh": "会社は毎四半期、トップ営業を表彰する。",
+            "ipa": "/ˈɑnɚ/",
+            "audio": "media/words/ep55/honor.mp3",
+            "ex_audio": "media/words/ep55/honor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sales call",
+            "pos": "n.",
+            "zh": "営業電話；売り込み訪問",
+            "ex": "She made the most sales calls this month.",
+            "exzh": "彼女は今月最も多くの営業電話をした。",
+            "ipa": "/seɪlz kɔl/",
+            "audio": "media/words/ep55/sales-call.mp3",
+            "ex_audio": "media/words/ep55/sales-call_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "policy",
+            "pos": "n.",
+            "zh": "方針；規定；保険証券",
+            "ex": "The company updated its social media policy.",
+            "exzh": "会社はソーシャルメディア方針を更新した。",
+            "ipa": "/ˈpɑləsi/",
+            "audio": "media/words/ep55/policy.mp3",
+            "ex_audio": "media/words/ep55/policy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regarding",
+            "pos": "prep.",
+            "zh": "…に関して",
+            "ex": "We received many questions regarding the new rule.",
+            "exzh": "新しい規則に関する質問を多く受けた。",
+            "ipa": "/rɪˈɡɑrdɪŋ/",
+            "audio": "media/words/ep55/regarding.mp3",
+            "ex_audio": "media/words/ep55/regarding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inventory",
+            "pos": "n.",
+            "zh": "在庫；在庫一覧；棚卸し",
+            "ex": "The latest inventory shows we are ready for the rush.",
+            "exzh": "最新の在庫一覧では繁忙期の準備ができている。",
+            "ipa": "/ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep55/inventory.mp3",
+            "ex_audio": "media/words/ep55/inventory_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "in stock",
+            "pos": "phr.",
+            "zh": "在庫がある",
+            "ex": "These decorations are still in stock.",
+            "exzh": "これらの装飾品はまだ在庫がある。",
+            "ipa": "/ɪn stɑk/",
+            "audio": "media/words/ep55/in-stock.mp3",
+            "ex_audio": "media/words/ep55/in-stock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "holiday rush",
+            "pos": "n.",
+            "zh": "ホリデーの繁忙期",
+            "ex": "Stores hire extra staff for the holiday rush.",
+            "exzh": "店はホリデーの繁忙期に臨時スタッフを雇う。",
+            "ipa": "/ˈhɑləˌdeɪ rʌʃ/",
+            "audio": "media/words/ep55/holiday-rush.mp3",
+            "ex_audio": "media/words/ep55/holiday-rush_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inspiration",
+            "pos": "n.",
+            "zh": "インスピレーション；着想；刺激",
+            "ex": "The coastal village was the inspiration for her paintings.",
+            "exzh": "その沿岸の村が彼女の絵の着想だった。",
+            "ipa": "/ˌɪnspɚˈeɪʃən/",
+            "audio": "media/words/ep55/inspiration.mp3",
+            "ex_audio": "media/words/ep55/inspiration_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "landscape",
+            "pos": "n.",
+            "zh": "風景；景観；風景画",
+            "ex": "She is a well-known landscape artist.",
+            "exzh": "彼女は有名な風景画家だ。",
+            "ipa": "/ˈlændˌskeɪp/",
+            "audio": "media/words/ep55/landscape.mp3",
+            "ex_audio": "media/words/ep55/landscape_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "especially",
+            "pos": "adv.",
+            "zh": "とくに；とりわけ",
+            "ex": "We need new members, especially people with tech experience.",
+            "exzh": "新しいメンバーが必要だ。とくに技術経験のある人が。",
+            "ipa": "/əˈspɛʃli/",
+            "audio": "media/words/ep55/especially.mp3",
+            "ex_audio": "media/words/ep55/especially_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sector",
+            "pos": "n.",
+            "zh": "分野；部門；セクター",
+            "ex": "She has experience in the technology sector.",
+            "exzh": "彼女は技術分野の経験がある。",
+            "ipa": "/ˈsɛktɚ/",
+            "audio": "media/words/ep55/sector.mp3",
+            "ex_audio": "media/words/ep55/sector_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cooperatively",
+            "pos": "adv.",
+            "zh": "協力して",
+            "ex": "The two firms are working cooperatively on the project.",
+            "exzh": "2社はそのプロジェクトで協力して取り組んでいる。",
+            "ipa": "/koʊˈɑprətɪvli/",
+            "audio": "media/words/ep55/cooperatively.mp3",
+            "ex_audio": "media/words/ep55/cooperatively_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "state-of-the-art",
+            "pos": "adj.",
+            "zh": "最先端の",
+            "ex": "They are building a state-of-the-art office.",
+            "exzh": "彼らは最先端のオフィスを建設している。",
+            "ipa": "/ˌsteɪtəvðɪˈɑrt/",
+            "audio": "media/words/ep55/state-of-the-art.mp3",
+            "ex_audio": "media/words/ep55/state-of-the-art_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "peer mentor",
+            "pos": "n.",
+            "zh": "ピアメンター；同僚の指導役",
+            "ex": "Every new hire is paired with a peer mentor.",
+            "exzh": "新入社員は皆ピアメンターと組む。",
+            "ipa": "/pɪr ˈmɛnˌtɔr/",
+            "audio": "media/words/ep55/peer-mentor.mp3",
+            "ex_audio": "media/words/ep55/peer-mentor_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "new hire",
+            "pos": "n.",
+            "zh": "新入社員；新規採用者",
+            "ex": "All new hires attend an orientation.",
+            "exzh": "新入社員は皆オリエンテーションに参加する。",
+            "ipa": "/nu ˈhaɪɚ/",
+            "audio": "media/words/ep55/new-hire.mp3",
+            "ex_audio": "media/words/ep55/new-hire_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "get settled",
+            "pos": "phr.",
+            "zh": "落ち着く；慣れる",
+            "ex": "A mentor helps new staff get settled.",
+            "exzh": "メンターが新しい職員が落ち着けるよう手伝う。",
+            "ipa": "/ɡɛt ˈsɛtəld/",
+            "audio": "media/words/ep55/get-settled.mp3",
+            "ex_audio": "media/words/ep55/get-settled_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "firsthand",
+            "pos": "adj./adv.",
+            "zh": "実地の；直接の",
+            "ex": "She has firsthand knowledge of the role.",
+            "exzh": "彼女はその役割について実地の知識がある。",
+            "ipa": "/fɚstˈhænd/",
+            "audio": "media/words/ep55/firsthand.mp3",
+            "ex_audio": "media/words/ep55/firsthand_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "production",
+            "pos": "n.",
+            "zh": "生産；制作；生産量",
+            "ex": "He works in the production department.",
+            "exzh": "彼は生産部門で働いている。",
+            "ipa": "/prəˈdʌkʃən/",
+            "audio": "media/words/ep55/production.mp3",
+            "ex_audio": "media/words/ep55/production_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take on",
+            "pos": "phr.",
+            "zh": "引き受ける；就く；雇う",
+            "ex": "She is about to take on a new role.",
+            "exzh": "彼女は新しい役割に就こうとしている。",
+            "ipa": "/teɪk ɑn/",
+            "audio": "media/words/ep55/take-on.mp3",
+            "ex_audio": "media/words/ep55/take-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "paperwork",
+            "pos": "n.",
+            "zh": "書類；書類手続き",
+            "ex": "HR will help you with the paperwork.",
+            "exzh": "人事が書類手続きを手伝ってくれる。",
+            "ipa": "/ˈpeɪpɚˌwɝk/",
+            "audio": "media/words/ep55/paperwork.mp3",
+            "ex_audio": "media/words/ep55/paperwork_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "employee ID",
+            "pos": "n.",
+            "zh": "社員証",
+            "ex": "You will receive an employee ID on day one.",
+            "exzh": "初日に社員証を受け取る。",
+            "ipa": "/ɛmˈplɔɪi ɪd/",
+            "audio": "media/words/ep55/employee-id.mp3",
+            "ex_audio": "media/words/ep55/employee-id_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tour",
+            "pos": "n./v.",
+            "zh": "見学；ツアー；巡回する",
+            "ex": "I will give you a tour of the offices.",
+            "exzh": "オフィスを案内します。",
+            "ipa": "/tʊr/",
+            "audio": "media/words/ep55/tour.mp3",
+            "ex_audio": "media/words/ep55/tour_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep55_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 5 語彙：意味の選択 · 決まりのコロケーション · 形容詞 / 動詞 / 名詞 / 副詞",
+    "words": [
+      {
+        "word": "popular",
+        "pos": "adj.",
+        "zh": "受欢迎的；流行的",
+        "ex": "The festival is popular with local residents.",
+        "exzh": "这个节日深受当地居民欢迎。",
+        "ipa": "/ˈpɑpjəlɚ/",
+        "audio": "media/words/ep55/popular.mp3",
+        "ex_audio": "media/words/ep55/popular_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "amphitheater",
+        "pos": "n.",
+        "zh": "露天剧场；圆形剧场",
+        "ex": "The amphitheater hosts outdoor concerts.",
+        "exzh": "这座露天剧场举办户外音乐会。",
+        "ipa": "/ˈæmfəθiˈeɪtɚ/",
+        "audio": "media/words/ep55/amphitheater.mp3",
+        "ex_audio": "media/words/ep55/amphitheater_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "zh": "居民；住户",
+        "ex": "City residents can use the library for free.",
+        "exzh": "本市居民可以免费使用图书馆。",
+        "ipa": "/ˈrɛzɪdənt/",
+        "audio": "media/words/ep55/resident.mp3",
+        "ex_audio": "media/words/ep55/resident_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tight",
+        "pos": "adj.",
+        "zh": "紧张的；紧的；严格的",
+        "ex": "The project budget is very tight this year.",
+        "exzh": "今年这个项目的预算非常紧张。",
+        "ipa": "/taɪt/",
+        "audio": "media/words/ep55/tight.mp3",
+        "ex_audio": "media/words/ep55/tight_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "budget",
+        "pos": "n./v.",
+        "zh": "预算；把……编入预算",
+        "ex": "We need to stay within the budget.",
+        "exzh": "我们需要把开支控制在预算内。",
+        "ipa": "/ˈbʌdʒɪt/",
+        "audio": "media/words/ep55/budget.mp3",
+        "ex_audio": "media/words/ep55/budget_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "coordinator",
+        "pos": "n.",
+        "zh": "协调人；统筹者",
+        "ex": "The conference coordinator planned the schedule.",
+        "exzh": "会议协调人安排了日程。",
+        "ipa": "/koʊˈɔrdəˌneɪtɚ/",
+        "audio": "media/words/ep55/coordinator.mp3",
+        "ex_audio": "media/words/ep55/coordinator_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hearty",
+        "pos": "adj.",
+        "zh": "丰盛的；衷心的；强健的",
+        "ex": "The hotel serves a hearty breakfast.",
+        "exzh": "酒店提供丰盛的早餐。",
+        "ipa": "/ˈhɑrti/",
+        "audio": "media/words/ep55/hearty.mp3",
+        "ex_audio": "media/words/ep55/hearty_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "hospitality",
+        "pos": "n.",
+        "zh": "热情好客；酒店餐饮业",
+        "ex": "She works in the hospitality industry.",
+        "exzh": "她在酒店餐饮业工作。",
+        "ipa": "/ˌhɑspəˈtæləti/",
+        "audio": "media/words/ep55/hospitality.mp3",
+        "ex_audio": "media/words/ep55/hospitality_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lasting",
+        "pos": "adj.",
+        "zh": "持久的；耐久的",
+        "ex": "The training had a lasting effect on the staff.",
+        "exzh": "培训对员工产生了持久影响。",
+        "ipa": "/ˈlæstɪŋ/",
+        "audio": "media/words/ep55/lasting.mp3",
+        "ex_audio": "media/words/ep55/lasting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "temporary",
+        "pos": "adj.",
+        "zh": "临时的；暂时的",
+        "ex": "This is only a temporary position.",
+        "exzh": "这只是一个临时职位。",
+        "ipa": "/ˈtɛmpɚˌɛri/",
+        "audio": "media/words/ep55/temporary.mp3",
+        "ex_audio": "media/words/ep55/temporary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contribution",
+        "pos": "n.",
+        "zh": "贡献；捐助；投稿",
+        "ex": "Thank you for your contribution to the project.",
+        "exzh": "感谢你对本项目的贡献。",
+        "ipa": "/ˌkɑntrəˈbjuʃən/",
+        "audio": "media/words/ep55/contribution.mp3",
+        "ex_audio": "media/words/ep55/contribution_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "full",
+        "pos": "adj.",
+        "zh": "满的；完全的；满负荷的",
+        "ex": "The factory is running at full capacity.",
+        "exzh": "工厂正在满负荷运转。",
+        "ipa": "/fʊl/",
+        "audio": "media/words/ep55/full.mp3",
+        "ex_audio": "media/words/ep55/full_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "capacity",
+        "pos": "n.",
+        "zh": "产能；容量；能力",
+        "ex": "The plant operates at full capacity in summer.",
+        "exzh": "这家工厂夏天满负荷运转。",
+        "ipa": "/kəˈpæsəti/",
+        "audio": "media/words/ep55/capacity.mp3",
+        "ex_audio": "media/words/ep55/capacity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "refinery",
+        "pos": "n.",
+        "zh": "精炼厂；提炼厂",
+        "ex": "The oil refinery is near the port.",
+        "exzh": "石油精炼厂在港口附近。",
+        "ipa": "/rɪˈfaɪnɚi/",
+        "audio": "media/words/ep55/refinery.mp3",
+        "ex_audio": "media/words/ep55/refinery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "come with",
+        "pos": "phr.",
+        "zh": "附带；配有；伴随",
+        "ex": "Each pan comes with a twelve-year guarantee.",
+        "exzh": "每只锅都附带十二年保修。",
+        "ipa": "/kʌm wɪð/",
+        "audio": "media/words/ep55/come-with.mp3",
+        "ex_audio": "media/words/ep55/come-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "guarantee",
+        "pos": "n./v.",
+        "zh": "保证；保修；担保",
+        "ex": "The product comes with a two-year guarantee.",
+        "exzh": "该产品附带两年保修。",
+        "ipa": "/ˌɡɛrənˈti/",
+        "audio": "media/words/ep55/guarantee.mp3",
+        "ex_audio": "media/words/ep55/guarantee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "survey",
+        "pos": "n./v.",
+        "zh": "调查；问卷；勘测",
+        "ex": "The survey found that many staff commute far.",
+        "exzh": "调查发现很多员工通勤很远。",
+        "ipa": "/sɚˈveɪ/",
+        "audio": "media/words/ep55/survey.mp3",
+        "ex_audio": "media/words/ep55/survey_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "commute",
+        "pos": "n./v.",
+        "zh": "通勤；上下班路程；通勤往返",
+        "ex": "She has a long commute to the office.",
+        "exzh": "她上班通勤路程很长。",
+        "ipa": "/kəˈmjut/",
+        "audio": "media/words/ep55/commute.mp3",
+        "ex_audio": "media/words/ep55/commute_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "follow",
+        "pos": "v.",
+        "zh": "跟随；按照；遵循",
+        "ex": "Please follow the on-screen instructions.",
+        "exzh": "请按照屏幕上的说明操作。",
+        "ipa": "/ˈfɑloʊ/",
+        "audio": "media/words/ep55/follow.mp3",
+        "ex_audio": "media/words/ep55/follow_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "instruction",
+        "pos": "n.",
+        "zh": "说明；指示；用法",
+        "ex": "Read the instructions before you begin.",
+        "exzh": "开始前请先阅读说明。",
+        "ipa": "/ˌɪnˈstrʌkʃən/",
+        "audio": "media/words/ep55/instruction.mp3",
+        "ex_audio": "media/words/ep55/instruction_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "purchase",
+        "pos": "n./v.",
+        "zh": "购买；采购",
+        "ex": "Please complete the survey after your purchase.",
+        "exzh": "购买后请填写问卷。",
+        "ipa": "/ˈpɝtʃəs/",
+        "audio": "media/words/ep55/purchase.mp3",
+        "ex_audio": "media/words/ep55/purchase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "honor",
+        "pos": "v./n.",
+        "zh": "表彰；尊敬；荣誉",
+        "ex": "The company honors the top salesperson each quarter.",
+        "exzh": "公司每个季度表彰销售冠军。",
+        "ipa": "/ˈɑnɚ/",
+        "audio": "media/words/ep55/honor.mp3",
+        "ex_audio": "media/words/ep55/honor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sales call",
+        "pos": "n.",
+        "zh": "销售电话；推销拜访",
+        "ex": "She made the most sales calls this month.",
+        "exzh": "她这个月打了最多销售电话。",
+        "ipa": "/seɪlz kɔl/",
+        "audio": "media/words/ep55/sales-call.mp3",
+        "ex_audio": "media/words/ep55/sales-call_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "policy",
+        "pos": "n.",
+        "zh": "政策；规定；保险单",
+        "ex": "The company updated its social media policy.",
+        "exzh": "公司更新了社交媒体政策。",
+        "ipa": "/ˈpɑləsi/",
+        "audio": "media/words/ep55/policy.mp3",
+        "ex_audio": "media/words/ep55/policy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regarding",
+        "pos": "prep.",
+        "zh": "关于；至于",
+        "ex": "We received many questions regarding the new rule.",
+        "exzh": "我们收到很多关于新规定的问题。",
+        "ipa": "/rɪˈɡɑrdɪŋ/",
+        "audio": "media/words/ep55/regarding.mp3",
+        "ex_audio": "media/words/ep55/regarding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "zh": "库存；库存清单；盘点",
+        "ex": "The latest inventory shows we are ready for the rush.",
+        "exzh": "最新库存显示我们已为旺季做好准备。",
+        "ipa": "/ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep55/inventory.mp3",
+        "ex_audio": "media/words/ep55/inventory_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "in stock",
+        "pos": "phr.",
+        "zh": "有现货；有库存",
+        "ex": "These decorations are still in stock.",
+        "exzh": "这些装饰品还有现货。",
+        "ipa": "/ɪn stɑk/",
+        "audio": "media/words/ep55/in-stock.mp3",
+        "ex_audio": "media/words/ep55/in-stock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "holiday rush",
+        "pos": "n.",
+        "zh": "假日高峰；旺季抢购期",
+        "ex": "Stores hire extra staff for the holiday rush.",
+        "exzh": "商店会为假日高峰多雇人手。",
+        "ipa": "/ˈhɑləˌdeɪ rʌʃ/",
+        "audio": "media/words/ep55/holiday-rush.mp3",
+        "ex_audio": "media/words/ep55/holiday-rush_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inspiration",
+        "pos": "n.",
+        "zh": "灵感；鼓舞；启发",
+        "ex": "The coastal village was the inspiration for her paintings.",
+        "exzh": "那座海滨村庄是她画作的灵感来源。",
+        "ipa": "/ˌɪnspɚˈeɪʃən/",
+        "audio": "media/words/ep55/inspiration.mp3",
+        "ex_audio": "media/words/ep55/inspiration_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "landscape",
+        "pos": "n.",
+        "zh": "风景；景观；山水画",
+        "ex": "She is a well-known landscape artist.",
+        "exzh": "她是一位知名风景画家。",
+        "ipa": "/ˈlændˌskeɪp/",
+        "audio": "media/words/ep55/landscape.mp3",
+        "ex_audio": "media/words/ep55/landscape_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "especially",
+        "pos": "adv.",
+        "zh": "尤其；特别",
+        "ex": "We need new members, especially people with tech experience.",
+        "exzh": "我们需要新成员，尤其是有技术经验的人。",
+        "ipa": "/əˈspɛʃli/",
+        "audio": "media/words/ep55/especially.mp3",
+        "ex_audio": "media/words/ep55/especially_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sector",
+        "pos": "n.",
+        "zh": "行业；部门；领域",
+        "ex": "She has experience in the technology sector.",
+        "exzh": "她有技术行业的经验。",
+        "ipa": "/ˈsɛktɚ/",
+        "audio": "media/words/ep55/sector.mp3",
+        "ex_audio": "media/words/ep55/sector_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cooperatively",
+        "pos": "adv.",
+        "zh": "合作地；协作地",
+        "ex": "The two firms are working cooperatively on the project.",
+        "exzh": "两家公司正合作做这个项目。",
+        "ipa": "/koʊˈɑprətɪvli/",
+        "audio": "media/words/ep55/cooperatively.mp3",
+        "ex_audio": "media/words/ep55/cooperatively_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "state-of-the-art",
+        "pos": "adj.",
+        "zh": "最先进的；顶尖的",
+        "ex": "They are building a state-of-the-art office.",
+        "exzh": "他们正在建造一座最先进的办公楼。",
+        "ipa": "/ˌsteɪtəvðɪˈɑrt/",
+        "audio": "media/words/ep55/state-of-the-art.mp3",
+        "ex_audio": "media/words/ep55/state-of-the-art_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "peer mentor",
+        "pos": "n.",
+        "zh": "同伴导师；同辈导师",
+        "ex": "Every new hire is paired with a peer mentor.",
+        "exzh": "每位新员工都会配对一位同伴导师。",
+        "ipa": "/pɪr ˈmɛnˌtɔr/",
+        "audio": "media/words/ep55/peer-mentor.mp3",
+        "ex_audio": "media/words/ep55/peer-mentor_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "new hire",
+        "pos": "n.",
+        "zh": "新员工；新录用者",
+        "ex": "All new hires attend an orientation.",
+        "exzh": "所有新员工都要参加入职培训。",
+        "ipa": "/nu ˈhaɪɚ/",
+        "audio": "media/words/ep55/new-hire.mp3",
+        "ex_audio": "media/words/ep55/new-hire_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "get settled",
+        "pos": "phr.",
+        "zh": "安顿下来；适应；安居",
+        "ex": "A mentor helps new staff get settled.",
+        "exzh": "导师帮助新员工适应环境。",
+        "ipa": "/ɡɛt ˈsɛtəld/",
+        "audio": "media/words/ep55/get-settled.mp3",
+        "ex_audio": "media/words/ep55/get-settled_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "firsthand",
+        "pos": "adj./adv.",
+        "zh": "第一手的；亲身的；直接地",
+        "ex": "She has firsthand knowledge of the role.",
+        "exzh": "她对这个职位有第一手了解。",
+        "ipa": "/fɚstˈhænd/",
+        "audio": "media/words/ep55/firsthand.mp3",
+        "ex_audio": "media/words/ep55/firsthand_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "production",
+        "pos": "n.",
+        "zh": "生产；制作；产量",
+        "ex": "He works in the production department.",
+        "exzh": "他在生产部门工作。",
+        "ipa": "/prəˈdʌkʃən/",
+        "audio": "media/words/ep55/production.mp3",
+        "ex_audio": "media/words/ep55/production_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take on",
+        "pos": "phr.",
+        "zh": "承担；就任；雇用；接受挑战",
+        "ex": "She is about to take on a new role.",
+        "exzh": "她即将就任一个新职位。",
+        "ipa": "/teɪk ɑn/",
+        "audio": "media/words/ep55/take-on.mp3",
+        "ex_audio": "media/words/ep55/take-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "paperwork",
+        "pos": "n.",
+        "zh": "文件；文书工作；手续",
+        "ex": "HR will help you with the paperwork.",
+        "exzh": "人事部会帮你办手续。",
+        "ipa": "/ˈpeɪpɚˌwɝk/",
+        "audio": "media/words/ep55/paperwork.mp3",
+        "ex_audio": "media/words/ep55/paperwork_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "employee ID",
+        "pos": "n.",
+        "zh": "员工证；工号牌",
+        "ex": "You will receive an employee ID on day one.",
+        "exzh": "入职第一天你会拿到员工证。",
+        "ipa": "/ɛmˈplɔɪi ɪd/",
+        "audio": "media/words/ep55/employee-id.mp3",
+        "ex_audio": "media/words/ep55/employee-id_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tour",
+        "pos": "n./v.",
+        "zh": "参观；巡视；巡回演出",
+        "ex": "I will give you a tour of the offices.",
+        "exzh": "我会带你参观各个办公室。",
+        "ipa": "/tʊr/",
+        "audio": "media/words/ep55/tour.mp3",
+        "ex_audio": "media/words/ep55/tour_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 54,
     "theme": "题型精讲 · Part 5 关系代词与代词：先行词 + 缺什么成分 · 所有格 / 反身代词 · one / few / both",
     "date": "2026-11-05",
