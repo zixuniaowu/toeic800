@@ -1,5 +1,1591 @@
 [
   {
+    "number": 56,
+    "theme": "题型精讲 · Part 5 词汇剩余：副词 · 动词 · 名词 · 形容词",
+    "date": "2026-11-07",
+    "duration_sec": 2618.4,
+    "segments": [
+      {
+        "title": "1. Part 5 词汇剩余真题（三套卷 14 题 · 副词 / 动词 / 名词 / 形容词）",
+        "start": 0.0,
+        "length": 1214.51
+      },
+      {
+        "title": "2. Part 7 书店夏季精选双篇（配套精练 · 五题含关联题）",
+        "start": 1214.51,
+        "length": 600.33
+      },
+      {
+        "title": "3. 本期 50 词总复习 · 拼读",
+        "start": 1814.84,
+        "length": 803.61
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "clearly",
+        "zh": "清楚地；显然；明显地"
+      },
+      {
+        "word": "evenly",
+        "zh": "平均地；均衡地；均匀地"
+      },
+      {
+        "word": "career",
+        "zh": "职业；事业；生涯"
+      },
+      {
+        "word": "subject",
+        "zh": "须经受的；主题；科目"
+      },
+      {
+        "word": "workshop",
+        "zh": "研讨班；工作坊；车间"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "clearly",
+        "zh": "清楚地；显然；明显地"
+      },
+      {
+        "word": "qualified",
+        "zh": "有资格的；合格的"
+      },
+      {
+        "word": "résumé",
+        "zh": "简历；履历"
+      },
+      {
+        "word": "frequently",
+        "zh": "经常；频繁地"
+      },
+      {
+        "word": "consultation",
+        "zh": "咨询；顾问服务；磋商"
+      },
+      {
+        "word": "automation",
+        "zh": "自动化"
+      },
+      {
+        "word": "evenly",
+        "zh": "平均地；均衡地；均匀地"
+      },
+      {
+        "word": "overtime",
+        "zh": "加班；加班时间；超时地"
+      },
+      {
+        "word": "meet demand",
+        "zh": "满足需求"
+      },
+      {
+        "word": "closely",
+        "zh": "紧密地；仔细地；接近地"
+      },
+      {
+        "word": "deform",
+        "zh": "使变形；损坏外形"
+      },
+      {
+        "word": "binding",
+        "zh": "；书的；装订；书脊；约束"
+      },
+      {
+        "word": "leaving",
+        "zh": "离开；leave 的现在分词 / 动名词"
+      },
+      {
+        "word": "document",
+        "zh": "文件；证件；公文"
+      },
+      {
+        "word": "ensure",
+        "zh": "确保；保证"
+      },
+      {
+        "word": "mixing",
+        "zh": "搅拌；混合；mix 的现在分词 / 动名词"
+      },
+      {
+        "word": "batter",
+        "zh": "面糊；击球手"
+      },
+      {
+        "word": "ingredient",
+        "zh": "材料；配料；成分"
+      },
+      {
+        "word": "start",
+        "zh": "开始；开端；启动"
+      },
+      {
+        "word": "lubricate",
+        "zh": "上润滑油；使润滑"
+      },
+      {
+        "word": "shift",
+        "zh": "轮班；班次；转移；变动"
+      },
+      {
+        "word": "description",
+        "zh": "说明；描述；描写"
+      },
+      {
+        "word": "catalog",
+        "zh": "目录；产品目录"
+      },
+      {
+        "word": "career",
+        "zh": "职业；事业；生涯"
+      },
+      {
+        "word": "broadcasting",
+        "zh": "广播电视业；播送"
+      },
+      {
+        "word": "modification",
+        "zh": "修改；改动；变更"
+      },
+      {
+        "word": "banquet",
+        "zh": "宴会；酒席"
+      },
+      {
+        "word": "workshop",
+        "zh": "研讨班；工作坊；车间"
+      },
+      {
+        "word": "conduct",
+        "zh": "举办；进行；行为"
+      },
+      {
+        "word": "effective",
+        "zh": "有效的；生效的"
+      },
+      {
+        "word": "subject",
+        "zh": "须经受的；主题；科目"
+      },
+      {
+        "word": "transfer",
+        "zh": "转账；转移；调动"
+      },
+      {
+        "word": "identify",
+        "zh": "发现；识别；确认身份"
+      },
+      {
+        "word": "completed",
+        "zh": "已完成的；已填写完毕的"
+      },
+      {
+        "word": "loan",
+        "zh": "贷款；借出"
+      },
+      {
+        "word": "envelope",
+        "zh": "信封；封皮"
+      },
+      {
+        "word": "final",
+        "zh": "最后的；最终的"
+      },
+      {
+        "word": "paycheck",
+        "zh": "工资；薪水支票"
+      },
+      {
+        "word": "seasonal",
+        "zh": "季节性的；季节的"
+      },
+      {
+        "word": "season",
+        "zh": "季节；赛季；旺季"
+      },
+      {
+        "word": "new release",
+        "zh": "新出版的书 / 作品；新发行"
+      },
+      {
+        "word": "at least",
+        "zh": "至少；起码"
+      },
+      {
+        "word": "discount",
+        "zh": "折扣；打折"
+      },
+      {
+        "word": "explorer",
+        "zh": "探险者；勘探者"
+      },
+      {
+        "word": "galaxy",
+        "zh": "星系；银河系"
+      },
+      {
+        "word": "inhabited",
+        "zh": "有人居住的"
+      },
+      {
+        "word": "suspenseful",
+        "zh": "充满悬念的；扣人心弦的"
+      },
+      {
+        "word": "voyage",
+        "zh": "航行；旅程；航海"
+      },
+      {
+        "word": "look forward to",
+        "zh": "期待；盼望；后接名词 / 动名词"
+      },
+      {
+        "word": "selection",
+        "zh": "精选；选择；选书"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep56.mp4",
+    "script_pdf": "media/ep56_script.pdf",
+    "source_video": "ep56.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep56.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep56.mp4",
+        "script_pdf": "media/ep56_script.pdf",
+        "duration_sec": 2618.4,
+        "theme": "题型精讲 · Part 5 词汇剩余：副词 · 动词 · 名词 · 形容词",
+        "segments": [
+          {
+            "title": "1. Part 5 词汇剩余真题（三套卷 14 题 · 副词 / 动词 / 名词 / 形容词）",
+            "start": 0.0,
+            "length": 1214.51
+          },
+          {
+            "title": "2. Part 7 书店夏季精选双篇（配套精练 · 五题含关联题）",
+            "start": 1214.51,
+            "length": 600.33
+          },
+          {
+            "title": "3. 本期 50 词总复习 · 拼读",
+            "start": 1814.84,
+            "length": 803.61
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep56ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep56ja.mp4",
+        "script_pdf": "media/ep56ja_script.pdf",
+        "duration_sec": 3014.5,
+        "theme": "問題タイプ別精講 · Part 5 語彙の残り：副詞 · 動詞 · 名詞 · 形容詞",
+        "segments": [
+          {
+            "title": "1. Part 5 語彙の残りの問題（本番 14問 · 副詞 / 動詞 / 名詞 / 形容詞）",
+            "start": 0.0,
+            "length": 1485.64
+          },
+          {
+            "title": "2. Part 7 書店の夏の選書ダブル（関連演習 · 文書結びつけを含む5問）",
+            "start": 1485.64,
+            "length": 688.72
+          },
+          {
+            "title": "3. 今回の 50 語総復習 · スペル",
+            "start": 2174.36,
+            "length": 840.09
+          }
+        ],
+        "poster": "media/ep56ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "clearly",
+            "zh": "はっきりと；明らかに"
+          },
+          {
+            "word": "evenly",
+            "zh": "均等に；均一に"
+          },
+          {
+            "word": "career",
+            "zh": "キャリア；職業"
+          },
+          {
+            "word": "subject",
+            "zh": "…の対象になる；主題；科目"
+          },
+          {
+            "word": "workshop",
+            "zh": "ワークショップ；研修会；作業場"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "clearly",
+          "qualified",
+          "résumé",
+          "frequently",
+          "consultation",
+          "automation",
+          "evenly",
+          "overtime",
+          "meet demand",
+          "closely",
+          "deform",
+          "binding",
+          "leaving",
+          "document",
+          "ensure",
+          "mixing",
+          "batter",
+          "ingredient",
+          "start",
+          "lubricate",
+          "shift",
+          "description",
+          "catalog",
+          "career",
+          "broadcasting",
+          "modification",
+          "banquet",
+          "workshop",
+          "conduct",
+          "effective",
+          "subject",
+          "transfer",
+          "identify",
+          "completed",
+          "loan",
+          "envelope",
+          "final",
+          "paycheck",
+          "seasonal",
+          "season",
+          "new release",
+          "at least",
+          "discount",
+          "explorer",
+          "galaxy",
+          "inhabited",
+          "suspenseful",
+          "voyage",
+          "look forward to",
+          "selection"
+        ],
+        "words": [
+          {
+            "word": "clearly",
+            "pos": "adv.",
+            "zh": "はっきりと；明らかに",
+            "ex": "She was clearly the most qualified candidate.",
+            "exzh": "彼女は明らかに最も適格な候補者だった。",
+            "ipa": "/ˈklɪrli/",
+            "audio": "media/words/ep56/clearly.mp3",
+            "ex_audio": "media/words/ep56/clearly_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "qualified",
+            "pos": "adj.",
+            "zh": "資格のある；適格な",
+            "ex": "He is the most qualified individual for the job.",
+            "exzh": "彼はその仕事に最も適格な人物だ。",
+            "ipa": "/ˈkwɑləˌfaɪd/",
+            "audio": "media/words/ep56/qualified.mp3",
+            "ex_audio": "media/words/ep56/qualified_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "résumé",
+            "pos": "n.",
+            "zh": "履歴書",
+            "ex": "Please submit your résumé by Friday.",
+            "exzh": "金曜日までに履歴書を提出してください。",
+            "ipa": "",
+            "audio": "media/words/ep56/r-sum.mp3",
+            "ex_audio": "media/words/ep56/r-sum_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "frequently",
+            "pos": "adv.",
+            "zh": "しばしば；頻繁に",
+            "ex": "He frequently provides consultation services.",
+            "exzh": "彼はしばしばコンサルティングを提供する。",
+            "ipa": "/ˈfrikwəntli/",
+            "audio": "media/words/ep56/frequently.mp3",
+            "ex_audio": "media/words/ep56/frequently_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "consultation",
+            "pos": "n.",
+            "zh": "コンサルティング；相談",
+            "ex": "The firm offers consultation to factories.",
+            "exzh": "その会社は工場にコンサルティングを提供する。",
+            "ipa": "/ˌkɑnsəlˈteɪʃən/",
+            "audio": "media/words/ep56/consultation.mp3",
+            "ex_audio": "media/words/ep56/consultation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "automation",
+            "pos": "n.",
+            "zh": "自動化；オートメーション",
+            "ex": "Many plants invest in industrial automation.",
+            "exzh": "多くの工場が産業オートメーションに投資する。",
+            "ipa": "/ɔtəˈmeɪʃən/",
+            "audio": "media/words/ep56/automation.mp3",
+            "ex_audio": "media/words/ep56/automation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "evenly",
+            "pos": "adv.",
+            "zh": "均等に；均一に",
+            "ex": "Overtime will be evenly required across teams.",
+            "exzh": "各チームで均等に残業が求められる。",
+            "ipa": "/ˈivənli/",
+            "audio": "media/words/ep56/evenly.mp3",
+            "ex_audio": "media/words/ep56/evenly_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "overtime",
+            "pos": "n./adv.",
+            "zh": "残業；時間外",
+            "ex": "Staff will work overtime this week.",
+            "exzh": "職員は今週残業する。",
+            "ipa": "/ˈoʊvɚˌtaɪm/",
+            "audio": "media/words/ep56/overtime.mp3",
+            "ex_audio": "media/words/ep56/overtime_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "meet demand",
+            "pos": "phr.",
+            "zh": "需要を満たす",
+            "ex": "Extra shifts help us meet shipping demand.",
+            "exzh": "追加シフトで出荷需要に応える。",
+            "ipa": "/mit dɪˈmænd/",
+            "audio": "media/words/ep56/meet-demand.mp3",
+            "ex_audio": "media/words/ep56/meet-demand_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "closely",
+            "pos": "adv.",
+            "zh": "密に；ぎっしりと；注意深く",
+            "ex": "Do not pack the books too closely.",
+            "exzh": "本を詰めすぎないでください。",
+            "ipa": "/ˈkloʊsli/",
+            "audio": "media/words/ep56/closely.mp3",
+            "ex_audio": "media/words/ep56/closely_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deform",
+            "pos": "v.",
+            "zh": "変形させる",
+            "ex": "Strong pressure can deform the bindings.",
+            "exzh": "強い圧力で製本がゆがむことがある。",
+            "ipa": "/ˌdiˈfɔrm/",
+            "audio": "media/words/ep56/deform.mp3",
+            "ex_audio": "media/words/ep56/deform_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "binding",
+            "pos": "n.",
+            "zh": "製本；とじ；拘束",
+            "ex": "The binding of this book is damaged.",
+            "exzh": "この本は製本が傷んでいる。",
+            "ipa": "/ˈbaɪndɪŋ/",
+            "audio": "media/words/ep56/binding.mp3",
+            "ex_audio": "media/words/ep56/binding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "leaving",
+            "pos": "v.",
+            "zh": "去る；出発する（leave の動名詞）",
+            "ex": "Check your documents before leaving home.",
+            "exzh": "家を出る前に書類を確認してください。",
+            "ipa": "/ˈlivɪŋ/",
+            "audio": "media/words/ep56/leaving.mp3",
+            "ex_audio": "media/words/ep56/leaving_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "document",
+            "pos": "n.",
+            "zh": "書類；文書；証明書",
+            "ex": "Bring all required documents with you.",
+            "exzh": "必要な書類をすべて持参してください。",
+            "ipa": "/ˈdɑkjəmɛnt/",
+            "audio": "media/words/ep56/document.mp3",
+            "ex_audio": "media/words/ep56/document_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ensure",
+            "pos": "v.",
+            "zh": "確実にする；保証する",
+            "ex": "Please ensure the form is complete.",
+            "exzh": "用紙が記入済みか確認してください。",
+            "ipa": "/ɛnˈʃʊr/",
+            "audio": "media/words/ep56/ensure.mp3",
+            "ex_audio": "media/words/ep56/ensure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mixing",
+            "pos": "v.",
+            "zh": "混ぜる（mix の動名詞）",
+            "ex": "Mixing the batter well combines the ingredients.",
+            "exzh": "生地をよく混ぜると材料が混ざる。",
+            "ipa": "/ˈmɪksɪŋ/",
+            "audio": "media/words/ep56/mixing.mp3",
+            "ex_audio": "media/words/ep56/mixing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "batter",
+            "pos": "n.",
+            "zh": "生地；バッター",
+            "ex": "Beat the batter for three minutes.",
+            "exzh": "生地を3分間混ぜる。",
+            "ipa": "/ˈbætɚ/",
+            "audio": "media/words/ep56/batter.mp3",
+            "ex_audio": "media/words/ep56/batter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ingredient",
+            "pos": "n.",
+            "zh": "材料；成分",
+            "ex": "All the ingredients must be well combined.",
+            "exzh": "すべての材料をよく混ぜ合わせる。",
+            "ipa": "/ˌɪnˈɡridiənt/",
+            "audio": "media/words/ep56/ingredient.mp3",
+            "ex_audio": "media/words/ep56/ingredient_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "start",
+            "pos": "n./v.",
+            "zh": "開始；始まり；始める",
+            "ex": "Lubricate the parts at the start of the shift.",
+            "exzh": "シフト開始時に部品に注油する。",
+            "ipa": "/stɑrt/",
+            "audio": "media/words/ep56/start.mp3",
+            "ex_audio": "media/words/ep56/start_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lubricate",
+            "pos": "v.",
+            "zh": "注油する；潤滑する",
+            "ex": "Which parts must be lubricated each shift?",
+            "exzh": "毎シフトどの部品に注油が必要か。",
+            "ipa": "/ˈlubrɪˌkeɪt/",
+            "audio": "media/words/ep56/lubricate.mp3",
+            "ex_audio": "media/words/ep56/lubricate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shift",
+            "pos": "n./v.",
+            "zh": "シフト；勤務時間帯；移す",
+            "ex": "She works the night shift.",
+            "exzh": "彼女は夜勤のシフトだ。",
+            "ipa": "/ʃɪft/",
+            "audio": "media/words/ep56/shift.mp3",
+            "ex_audio": "media/words/ep56/shift_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "description",
+            "pos": "n.",
+            "zh": "説明；記述；描写",
+            "ex": "The catalog has detailed descriptions of each product.",
+            "exzh": "カタログには各製品の詳しい説明がある。",
+            "ipa": "/dɪˈskrɪpʃən/",
+            "audio": "media/words/ep56/description.mp3",
+            "ex_audio": "media/words/ep56/description_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "catalog",
+            "pos": "n.",
+            "zh": "カタログ；目録",
+            "ex": "Browse our online catalog for software.",
+            "exzh": "オンラインカタログでソフトウェアを見てください。",
+            "ipa": "/ˈkætəlɔɡ/",
+            "audio": "media/words/ep56/catalog.mp3",
+            "ex_audio": "media/words/ep56/catalog_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "career",
+            "pos": "n.",
+            "zh": "キャリア；職業",
+            "ex": "He hopes to pursue a career in broadcasting.",
+            "exzh": "彼は放送業界でキャリアを積みたいと思っている。",
+            "ipa": "/kɚˈɪr/",
+            "audio": "media/words/ep56/career.mp3",
+            "ex_audio": "media/words/ep56/career_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "broadcasting",
+            "pos": "n.",
+            "zh": "放送；放送業界",
+            "ex": "She works in broadcasting as a reporter.",
+            "exzh": "彼女は放送業界で記者として働いている。",
+            "ipa": "/ˈbrɔdˌkæstɪŋ/",
+            "audio": "media/words/ep56/broadcasting.mp3",
+            "ex_audio": "media/words/ep56/broadcasting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "modification",
+            "pos": "n.",
+            "zh": "変更；修正",
+            "ex": "Any modification to the menu needs approval.",
+            "exzh": "メニューへのいかなる変更も承認が必要だ。",
+            "ipa": "/ˌmɑdəfəˈkeɪʃən/",
+            "audio": "media/words/ep56/modification.mp3",
+            "ex_audio": "media/words/ep56/modification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "banquet",
+            "pos": "n.",
+            "zh": "晩餐会；宴会",
+            "ex": "The awards banquet menu must be approved.",
+            "exzh": "授賞式の晩餐会メニューは承認が必要だ。",
+            "ipa": "/ˈbæŋkwət/",
+            "audio": "media/words/ep56/banquet.mp3",
+            "ex_audio": "media/words/ep56/banquet_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "workshop",
+            "pos": "n.",
+            "zh": "ワークショップ；研修会；作業場",
+            "ex": "Management will conduct a workshop on meetings.",
+            "exzh": "幹部が会議についてのワークショップを行う。",
+            "ipa": "/ˈwɝkˌʃɑp/",
+            "audio": "media/words/ep56/workshop.mp3",
+            "ex_audio": "media/words/ep56/workshop_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "conduct",
+            "pos": "v./n.",
+            "zh": "行う；実施する；行為",
+            "ex": "They will conduct a workshop next Monday.",
+            "exzh": "彼らは来週月曜にワークショップを行う。",
+            "ipa": "/ˈkɑndəkt/",
+            "audio": "media/words/ep56/conduct.mp3",
+            "ex_audio": "media/words/ep56/conduct_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "effective",
+            "pos": "adj.",
+            "zh": "効果的な；有効な",
+            "ex": "How do you lead effective meetings?",
+            "exzh": "効果的な会議をどう進めるか。",
+            "ipa": "/ɪˈfɛktɪv/",
+            "audio": "media/words/ep56/effective.mp3",
+            "ex_audio": "media/words/ep56/effective_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "subject",
+            "pos": "adj./n.",
+            "zh": "…の対象になる；主題；科目",
+            "ex": "All transfers are subject to review.",
+            "exzh": "すべての送金は審査の対象になる。",
+            "ipa": "/səbˈdʒɛkt/",
+            "audio": "media/words/ep56/subject.mp3",
+            "ex_audio": "media/words/ep56/subject_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "transfer",
+            "pos": "n./v.",
+            "zh": "送金；移転；異動",
+            "ex": "Bank transfers may be delayed for review.",
+            "exzh": "銀行送金は審査で遅れることがある。",
+            "ipa": "/trænsˈfɝ/",
+            "audio": "media/words/ep56/transfer.mp3",
+            "ex_audio": "media/words/ep56/transfer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "identify",
+            "pos": "v.",
+            "zh": "見つける；特定する；身元を確認する",
+            "ex": "The delay happens if an issue is identified.",
+            "exzh": "問題が見つかると遅れる。",
+            "ipa": "/aɪˈdɛntəˌfaɪ/",
+            "audio": "media/words/ep56/identify.mp3",
+            "ex_audio": "media/words/ep56/identify_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "completed",
+            "pos": "adj.",
+            "zh": "完了した；記入済みの",
+            "ex": "He left the completed loan documents on the desk.",
+            "exzh": "彼は記入済みのローン書類を机に置いた。",
+            "ipa": "/kəmˈplitəd/",
+            "audio": "media/words/ep56/completed.mp3",
+            "ex_audio": "media/words/ep56/completed_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loan",
+            "pos": "n./v.",
+            "zh": "ローン；融資；貸す",
+            "ex": "The loan documents are in the envelope.",
+            "exzh": "ローン書類は封筒の中にある。",
+            "ipa": "/loʊn/",
+            "audio": "media/words/ep56/loan.mp3",
+            "ex_audio": "media/words/ep56/loan_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "envelope",
+            "pos": "n.",
+            "zh": "封筒",
+            "ex": "Please put the forms in an envelope.",
+            "exzh": "用紙を封筒に入れてください。",
+            "ipa": "/ˈɛnvəˌloʊp/",
+            "audio": "media/words/ep56/envelope.mp3",
+            "ex_audio": "media/words/ep56/envelope_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "final",
+            "pos": "adj.",
+            "zh": "最後の；最終の",
+            "ex": "Seasonal staff receive their final paycheck later.",
+            "exzh": "季節労働者は後で最後の給与を受け取る。",
+            "ipa": "/ˈfaɪnəl/",
+            "audio": "media/words/ep56/final.mp3",
+            "ex_audio": "media/words/ep56/final_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "paycheck",
+            "pos": "n.",
+            "zh": "給与；給与小切手",
+            "ex": "Her final paycheck arrives next week.",
+            "exzh": "彼女の最後の給与は来週届く。",
+            "ipa": "/ˈpeɪˌtʃɛk/",
+            "audio": "media/words/ep56/paycheck.mp3",
+            "ex_audio": "media/words/ep56/paycheck_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "seasonal",
+            "pos": "adj.",
+            "zh": "季節の；季節限定の",
+            "ex": "Seasonal employees work only in summer.",
+            "exzh": "季節労働者は夏だけ働く。",
+            "ipa": "/ˈsizənəl/",
+            "audio": "media/words/ep56/seasonal.mp3",
+            "ex_audio": "media/words/ep56/seasonal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "season",
+            "pos": "n.",
+            "zh": "季節；シーズン",
+            "ex": "Colette's picks top books every season.",
+            "exzh": "Colette's は毎シーズン本を選ぶ。",
+            "ipa": "/ˈsizən/",
+            "audio": "media/words/ep56/season.mp3",
+            "ex_audio": "media/words/ep56/season_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "new release",
+            "pos": "n.",
+            "zh": "新刊；新作；新発売",
+            "ex": "Shoppers love the summer new releases.",
+            "exzh": "客は夏の新刊が好きだ。",
+            "ipa": "/nu riˈlis/",
+            "audio": "media/words/ep56/new-release.mp3",
+            "ex_audio": "media/words/ep56/new-release_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "at least",
+            "pos": "phr.",
+            "zh": "少なくとも",
+            "ex": "Buy at least three books for a discount.",
+            "exzh": "少なくとも3冊買うと割引になる。",
+            "ipa": "/æt list/",
+            "audio": "media/words/ep56/at-least.mp3",
+            "ex_audio": "media/words/ep56/at-least_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "discount",
+            "pos": "n./v.",
+            "zh": "割引；値引きする",
+            "ex": "You get a 15% discount on three books.",
+            "exzh": "3冊で15%割引になる。",
+            "ipa": "/dɪˈskaʊnt/",
+            "audio": "media/words/ep56/discount.mp3",
+            "ex_audio": "media/words/ep56/discount_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "explorer",
+            "pos": "n.",
+            "zh": "探検家",
+            "ex": "Explorers land on a distant planet.",
+            "exzh": "探検家が遠い惑星に降り立つ。",
+            "ipa": "/ɪkˈsplɔrɚ/",
+            "audio": "media/words/ep56/explorer.mp3",
+            "ex_audio": "media/words/ep56/explorer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "galaxy",
+            "pos": "n.",
+            "zh": "銀河",
+            "ex": "The planet is in a nearby galaxy.",
+            "exzh": "その惑星は近くの銀河にある。",
+            "ipa": "/ˈɡæləksi/",
+            "audio": "media/words/ep56/galaxy.mp3",
+            "ex_audio": "media/words/ep56/galaxy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inhabited",
+            "pos": "adj.",
+            "zh": "人が住んでいる",
+            "ex": "They discover the planet is already inhabited.",
+            "exzh": "その惑星にはすでに人が住んでいるとわかる。",
+            "ipa": "/ˌɪnˈhæbətəd/",
+            "audio": "media/words/ep56/inhabited.mp3",
+            "ex_audio": "media/words/ep56/inhabited_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "suspenseful",
+            "pos": "adj.",
+            "zh": "サスペンスに満ちた",
+            "ex": "The novel tells a suspenseful story.",
+            "exzh": "その小説はサスペンスに満ちた物語だ。",
+            "ipa": "/səˈspɛnsfəl/",
+            "audio": "media/words/ep56/suspenseful.mp3",
+            "ex_audio": "media/words/ep56/suspenseful_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "voyage",
+            "pos": "n.",
+            "zh": "航海；旅",
+            "ex": "The voyage across the Atlantic was long.",
+            "exzh": "大西洋横断の航海は長かった。",
+            "ipa": "/ˈvɔɪədʒ/",
+            "audio": "media/words/ep56/voyage.mp3",
+            "ex_audio": "media/words/ep56/voyage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "look forward to",
+            "pos": "phr.",
+            "zh": "楽しみにする",
+            "ex": "I look forward to reading more books.",
+            "exzh": "もっと本を読むのを楽しみにしている。",
+            "ipa": "/lʊk ˈfɔrwɚd tu/",
+            "audio": "media/words/ep56/look-forward-to.mp3",
+            "ex_audio": "media/words/ep56/look-forward-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "selection",
+            "pos": "n.",
+            "zh": "選書；選択；セレクション",
+            "ex": "I will read more of the summer selections.",
+            "exzh": "夏の選書をもっと読む。",
+            "ipa": "/səˈlɛkʃən/",
+            "audio": "media/words/ep56/selection.mp3",
+            "ex_audio": "media/words/ep56/selection_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep56_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 5 語彙の残り：副詞 · 動詞 · 名詞 · 形容詞",
+    "words": [
+      {
+        "word": "clearly",
+        "pos": "adv.",
+        "zh": "清楚地；显然；明显地",
+        "ex": "She was clearly the most qualified candidate.",
+        "exzh": "她显然是最合格的候选人。",
+        "ipa": "/ˈklɪrli/",
+        "audio": "media/words/ep56/clearly.mp3",
+        "ex_audio": "media/words/ep56/clearly_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "qualified",
+        "pos": "adj.",
+        "zh": "有资格的；合格的",
+        "ex": "He is the most qualified individual for the job.",
+        "exzh": "他是这份工作最合格的人选。",
+        "ipa": "/ˈkwɑləˌfaɪd/",
+        "audio": "media/words/ep56/qualified.mp3",
+        "ex_audio": "media/words/ep56/qualified_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "résumé",
+        "pos": "n.",
+        "zh": "简历；履历",
+        "ex": "Please submit your résumé by Friday.",
+        "exzh": "请在周五前提交简历。",
+        "ipa": "",
+        "audio": "media/words/ep56/r-sum.mp3",
+        "ex_audio": "media/words/ep56/r-sum_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "frequently",
+        "pos": "adv.",
+        "zh": "经常；频繁地",
+        "ex": "He frequently provides consultation services.",
+        "exzh": "他经常提供咨询服务。",
+        "ipa": "/ˈfrikwəntli/",
+        "audio": "media/words/ep56/frequently.mp3",
+        "ex_audio": "media/words/ep56/frequently_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "consultation",
+        "pos": "n.",
+        "zh": "咨询；顾问服务；磋商",
+        "ex": "The firm offers consultation to factories.",
+        "exzh": "这家公司为工厂提供咨询。",
+        "ipa": "/ˌkɑnsəlˈteɪʃən/",
+        "audio": "media/words/ep56/consultation.mp3",
+        "ex_audio": "media/words/ep56/consultation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "automation",
+        "pos": "n.",
+        "zh": "自动化",
+        "ex": "Many plants invest in industrial automation.",
+        "exzh": "许多工厂投资工业自动化。",
+        "ipa": "/ɔtəˈmeɪʃən/",
+        "audio": "media/words/ep56/automation.mp3",
+        "ex_audio": "media/words/ep56/automation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "evenly",
+        "pos": "adv.",
+        "zh": "平均地；均衡地；均匀地",
+        "ex": "Overtime will be evenly required across teams.",
+        "exzh": "各团队将被均衡地要求加班。",
+        "ipa": "/ˈivənli/",
+        "audio": "media/words/ep56/evenly.mp3",
+        "ex_audio": "media/words/ep56/evenly_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "overtime",
+        "pos": "n./adv.",
+        "zh": "加班；加班时间；超时地",
+        "ex": "Staff will work overtime this week.",
+        "exzh": "员工这周要加班。",
+        "ipa": "/ˈoʊvɚˌtaɪm/",
+        "audio": "media/words/ep56/overtime.mp3",
+        "ex_audio": "media/words/ep56/overtime_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "meet demand",
+        "pos": "phr.",
+        "zh": "满足需求",
+        "ex": "Extra shifts help us meet shipping demand.",
+        "exzh": "加班有助于我们满足发货需求。",
+        "ipa": "/mit dɪˈmænd/",
+        "audio": "media/words/ep56/meet-demand.mp3",
+        "ex_audio": "media/words/ep56/meet-demand_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "closely",
+        "pos": "adv.",
+        "zh": "紧密地；仔细地；接近地",
+        "ex": "Do not pack the books too closely.",
+        "exzh": "不要把书装得太紧。",
+        "ipa": "/ˈkloʊsli/",
+        "audio": "media/words/ep56/closely.mp3",
+        "ex_audio": "media/words/ep56/closely_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deform",
+        "pos": "v.",
+        "zh": "使变形；损坏外形",
+        "ex": "Strong pressure can deform the bindings.",
+        "exzh": "强大的压力会让书脊变形。",
+        "ipa": "/ˌdiˈfɔrm/",
+        "audio": "media/words/ep56/deform.mp3",
+        "ex_audio": "media/words/ep56/deform_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "binding",
+        "pos": "n.",
+        "zh": "（书的）装订；书脊；约束",
+        "ex": "The binding of this book is damaged.",
+        "exzh": "这本书的装订坏了。",
+        "ipa": "/ˈbaɪndɪŋ/",
+        "audio": "media/words/ep56/binding.mp3",
+        "ex_audio": "media/words/ep56/binding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "leaving",
+        "pos": "v.",
+        "zh": "离开（leave 的现在分词 / 动名词）",
+        "ex": "Check your documents before leaving home.",
+        "exzh": "离家前检查你的文件。",
+        "ipa": "/ˈlivɪŋ/",
+        "audio": "media/words/ep56/leaving.mp3",
+        "ex_audio": "media/words/ep56/leaving_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "document",
+        "pos": "n.",
+        "zh": "文件；证件；公文",
+        "ex": "Bring all required documents with you.",
+        "exzh": "请带上所有所需文件。",
+        "ipa": "/ˈdɑkjəmɛnt/",
+        "audio": "media/words/ep56/document.mp3",
+        "ex_audio": "media/words/ep56/document_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ensure",
+        "pos": "v.",
+        "zh": "确保；保证",
+        "ex": "Please ensure the form is complete.",
+        "exzh": "请确保表格填写完整。",
+        "ipa": "/ɛnˈʃʊr/",
+        "audio": "media/words/ep56/ensure.mp3",
+        "ex_audio": "media/words/ep56/ensure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mixing",
+        "pos": "v.",
+        "zh": "搅拌；混合（mix 的现在分词 / 动名词）",
+        "ex": "Mixing the batter well combines the ingredients.",
+        "exzh": "充分搅拌面糊能让材料混合。",
+        "ipa": "/ˈmɪksɪŋ/",
+        "audio": "media/words/ep56/mixing.mp3",
+        "ex_audio": "media/words/ep56/mixing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "batter",
+        "pos": "n.",
+        "zh": "面糊；击球手",
+        "ex": "Beat the batter for three minutes.",
+        "exzh": "把面糊搅拌三分钟。",
+        "ipa": "/ˈbætɚ/",
+        "audio": "media/words/ep56/batter.mp3",
+        "ex_audio": "media/words/ep56/batter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ingredient",
+        "pos": "n.",
+        "zh": "材料；配料；成分",
+        "ex": "All the ingredients must be well combined.",
+        "exzh": "所有材料必须充分混合。",
+        "ipa": "/ˌɪnˈɡridiənt/",
+        "audio": "media/words/ep56/ingredient.mp3",
+        "ex_audio": "media/words/ep56/ingredient_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "start",
+        "pos": "n./v.",
+        "zh": "开始；开端；启动",
+        "ex": "Lubricate the parts at the start of the shift.",
+        "exzh": "在轮班开始时给零件上油。",
+        "ipa": "/stɑrt/",
+        "audio": "media/words/ep56/start.mp3",
+        "ex_audio": "media/words/ep56/start_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lubricate",
+        "pos": "v.",
+        "zh": "上润滑油；使润滑",
+        "ex": "Which parts must be lubricated each shift?",
+        "exzh": "每班必须给哪些零件上油？",
+        "ipa": "/ˈlubrɪˌkeɪt/",
+        "audio": "media/words/ep56/lubricate.mp3",
+        "ex_audio": "media/words/ep56/lubricate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shift",
+        "pos": "n./v.",
+        "zh": "轮班；班次；转移；变动",
+        "ex": "She works the night shift.",
+        "exzh": "她上夜班。",
+        "ipa": "/ʃɪft/",
+        "audio": "media/words/ep56/shift.mp3",
+        "ex_audio": "media/words/ep56/shift_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "description",
+        "pos": "n.",
+        "zh": "说明；描述；描写",
+        "ex": "The catalog has detailed descriptions of each product.",
+        "exzh": "目录有每件产品的详细说明。",
+        "ipa": "/dɪˈskrɪpʃən/",
+        "audio": "media/words/ep56/description.mp3",
+        "ex_audio": "media/words/ep56/description_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "catalog",
+        "pos": "n.",
+        "zh": "目录；产品目录",
+        "ex": "Browse our online catalog for software.",
+        "exzh": "浏览我们的在线软件目录。",
+        "ipa": "/ˈkætəlɔɡ/",
+        "audio": "media/words/ep56/catalog.mp3",
+        "ex_audio": "media/words/ep56/catalog_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "career",
+        "pos": "n.",
+        "zh": "职业；事业；生涯",
+        "ex": "He hopes to pursue a career in broadcasting.",
+        "exzh": "他希望在广播电视业发展。",
+        "ipa": "/kɚˈɪr/",
+        "audio": "media/words/ep56/career.mp3",
+        "ex_audio": "media/words/ep56/career_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "broadcasting",
+        "pos": "n.",
+        "zh": "广播电视业；播送",
+        "ex": "She works in broadcasting as a reporter.",
+        "exzh": "她在广播电视业当记者。",
+        "ipa": "/ˈbrɔdˌkæstɪŋ/",
+        "audio": "media/words/ep56/broadcasting.mp3",
+        "ex_audio": "media/words/ep56/broadcasting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "modification",
+        "pos": "n.",
+        "zh": "修改；改动；变更",
+        "ex": "Any modification to the menu needs approval.",
+        "exzh": "对菜单的任何修改都需要批准。",
+        "ipa": "/ˌmɑdəfəˈkeɪʃən/",
+        "audio": "media/words/ep56/modification.mp3",
+        "ex_audio": "media/words/ep56/modification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "banquet",
+        "pos": "n.",
+        "zh": "宴会；酒席",
+        "ex": "The awards banquet menu must be approved.",
+        "exzh": "颁奖宴会的菜单必须获批。",
+        "ipa": "/ˈbæŋkwət/",
+        "audio": "media/words/ep56/banquet.mp3",
+        "ex_audio": "media/words/ep56/banquet_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "workshop",
+        "pos": "n.",
+        "zh": "研讨班；工作坊；车间",
+        "ex": "Management will conduct a workshop on meetings.",
+        "exzh": "管理层将举办一场关于会议的研讨班。",
+        "ipa": "/ˈwɝkˌʃɑp/",
+        "audio": "media/words/ep56/workshop.mp3",
+        "ex_audio": "media/words/ep56/workshop_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "conduct",
+        "pos": "v./n.",
+        "zh": "举办；进行；行为",
+        "ex": "They will conduct a workshop next Monday.",
+        "exzh": "他们下周一将举办研讨班。",
+        "ipa": "/ˈkɑndəkt/",
+        "audio": "media/words/ep56/conduct.mp3",
+        "ex_audio": "media/words/ep56/conduct_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "effective",
+        "pos": "adj.",
+        "zh": "有效的；生效的",
+        "ex": "How do you lead effective meetings?",
+        "exzh": "你如何主持高效会议？",
+        "ipa": "/ɪˈfɛktɪv/",
+        "audio": "media/words/ep56/effective.mp3",
+        "ex_audio": "media/words/ep56/effective_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "subject",
+        "pos": "adj./n.",
+        "zh": "须经受的；主题；科目",
+        "ex": "All transfers are subject to review.",
+        "exzh": "所有转账都须经过审查。",
+        "ipa": "/səbˈdʒɛkt/",
+        "audio": "media/words/ep56/subject.mp3",
+        "ex_audio": "media/words/ep56/subject_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "transfer",
+        "pos": "n./v.",
+        "zh": "转账；转移；调动",
+        "ex": "Bank transfers may be delayed for review.",
+        "exzh": "银行转账可能因审查而延迟。",
+        "ipa": "/trænsˈfɝ/",
+        "audio": "media/words/ep56/transfer.mp3",
+        "ex_audio": "media/words/ep56/transfer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "identify",
+        "pos": "v.",
+        "zh": "发现；识别；确认身份",
+        "ex": "The delay happens if an issue is identified.",
+        "exzh": "如果发现问题就会延迟。",
+        "ipa": "/aɪˈdɛntəˌfaɪ/",
+        "audio": "media/words/ep56/identify.mp3",
+        "ex_audio": "media/words/ep56/identify_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "completed",
+        "pos": "adj.",
+        "zh": "已完成的；已填写完毕的",
+        "ex": "He left the completed loan documents on the desk.",
+        "exzh": "他把已填好的贷款文件留在桌上。",
+        "ipa": "/kəmˈplitəd/",
+        "audio": "media/words/ep56/completed.mp3",
+        "ex_audio": "media/words/ep56/completed_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loan",
+        "pos": "n./v.",
+        "zh": "贷款；借出",
+        "ex": "The loan documents are in the envelope.",
+        "exzh": "贷款文件在信封里。",
+        "ipa": "/loʊn/",
+        "audio": "media/words/ep56/loan.mp3",
+        "ex_audio": "media/words/ep56/loan_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "envelope",
+        "pos": "n.",
+        "zh": "信封；封皮",
+        "ex": "Please put the forms in an envelope.",
+        "exzh": "请把表格放进信封。",
+        "ipa": "/ˈɛnvəˌloʊp/",
+        "audio": "media/words/ep56/envelope.mp3",
+        "ex_audio": "media/words/ep56/envelope_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "final",
+        "pos": "adj.",
+        "zh": "最后的；最终的",
+        "ex": "Seasonal staff receive their final paycheck later.",
+        "exzh": "季节工稍后收到最后一笔工资。",
+        "ipa": "/ˈfaɪnəl/",
+        "audio": "media/words/ep56/final.mp3",
+        "ex_audio": "media/words/ep56/final_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "paycheck",
+        "pos": "n.",
+        "zh": "工资；薪水支票",
+        "ex": "Her final paycheck arrives next week.",
+        "exzh": "她的最后一笔工资下周到。",
+        "ipa": "/ˈpeɪˌtʃɛk/",
+        "audio": "media/words/ep56/paycheck.mp3",
+        "ex_audio": "media/words/ep56/paycheck_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "seasonal",
+        "pos": "adj.",
+        "zh": "季节性的；季节的",
+        "ex": "Seasonal employees work only in summer.",
+        "exzh": "季节工只在夏天工作。",
+        "ipa": "/ˈsizənəl/",
+        "audio": "media/words/ep56/seasonal.mp3",
+        "ex_audio": "media/words/ep56/seasonal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "season",
+        "pos": "n.",
+        "zh": "季节；赛季；旺季",
+        "ex": "Colette's picks top books every season.",
+        "exzh": "Colette's 每季精选图书。",
+        "ipa": "/ˈsizən/",
+        "audio": "media/words/ep56/season.mp3",
+        "ex_audio": "media/words/ep56/season_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "new release",
+        "pos": "n.",
+        "zh": "新出版的书 / 作品；新发行",
+        "ex": "Shoppers love the summer new releases.",
+        "exzh": "顾客喜欢夏季新书。",
+        "ipa": "/nu riˈlis/",
+        "audio": "media/words/ep56/new-release.mp3",
+        "ex_audio": "media/words/ep56/new-release_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "at least",
+        "pos": "phr.",
+        "zh": "至少；起码",
+        "ex": "Buy at least three books for a discount.",
+        "exzh": "至少买三本可享折扣。",
+        "ipa": "/æt list/",
+        "audio": "media/words/ep56/at-least.mp3",
+        "ex_audio": "media/words/ep56/at-least_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "discount",
+        "pos": "n./v.",
+        "zh": "折扣；打折",
+        "ex": "You get a 15% discount on three books.",
+        "exzh": "买三本可享八五折。",
+        "ipa": "/dɪˈskaʊnt/",
+        "audio": "media/words/ep56/discount.mp3",
+        "ex_audio": "media/words/ep56/discount_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "explorer",
+        "pos": "n.",
+        "zh": "探险者；勘探者",
+        "ex": "Explorers land on a distant planet.",
+        "exzh": "探险者登陆一颗遥远的行星。",
+        "ipa": "/ɪkˈsplɔrɚ/",
+        "audio": "media/words/ep56/explorer.mp3",
+        "ex_audio": "media/words/ep56/explorer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "galaxy",
+        "pos": "n.",
+        "zh": "星系；银河系",
+        "ex": "The planet is in a nearby galaxy.",
+        "exzh": "那颗行星在邻近星系。",
+        "ipa": "/ˈɡæləksi/",
+        "audio": "media/words/ep56/galaxy.mp3",
+        "ex_audio": "media/words/ep56/galaxy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inhabited",
+        "pos": "adj.",
+        "zh": "有人居住的",
+        "ex": "They discover the planet is already inhabited.",
+        "exzh": "他们发现那颗行星已有人居住。",
+        "ipa": "/ˌɪnˈhæbətəd/",
+        "audio": "media/words/ep56/inhabited.mp3",
+        "ex_audio": "media/words/ep56/inhabited_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "suspenseful",
+        "pos": "adj.",
+        "zh": "充满悬念的；扣人心弦的",
+        "ex": "The novel tells a suspenseful story.",
+        "exzh": "这部小说讲述了一个充满悬念的故事。",
+        "ipa": "/səˈspɛnsfəl/",
+        "audio": "media/words/ep56/suspenseful.mp3",
+        "ex_audio": "media/words/ep56/suspenseful_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "voyage",
+        "pos": "n.",
+        "zh": "航行；旅程；航海",
+        "ex": "The voyage across the Atlantic was long.",
+        "exzh": "横渡大西洋的航行很长。",
+        "ipa": "/ˈvɔɪədʒ/",
+        "audio": "media/words/ep56/voyage.mp3",
+        "ex_audio": "media/words/ep56/voyage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "look forward to",
+        "pos": "phr.",
+        "zh": "期待；盼望（后接名词 / 动名词）",
+        "ex": "I look forward to reading more books.",
+        "exzh": "我期待读更多书。",
+        "ipa": "/lʊk ˈfɔrwɚd tu/",
+        "audio": "media/words/ep56/look-forward-to.mp3",
+        "ex_audio": "media/words/ep56/look-forward-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "selection",
+        "pos": "n.",
+        "zh": "精选；选择；选书",
+        "ex": "I will read more of the summer selections.",
+        "exzh": "我会继续读夏季精选。",
+        "ipa": "/səˈlɛkʃən/",
+        "audio": "media/words/ep56/selection.mp3",
+        "ex_audio": "media/words/ep56/selection_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 55,
     "theme": "题型精讲 · Part 5 词汇：词义选择 · 固定搭配 · 形容词 / 动词 / 名词 / 副词",
     "date": "2026-11-06",
