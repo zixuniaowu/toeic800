@@ -1,5 +1,1533 @@
 [
   {
+    "number": 57,
+    "theme": "题型精讲 · Part 5 收官：介词 · 副词 · 连接表达 · 词性补漏",
+    "date": "2026-11-08",
+    "duration_sec": 2580.6,
+    "segments": [
+      {
+        "title": "1. Part 5 收官真题（三套卷 12 题 · 介词 / 副词 / 连接表达 / 补语与词性）",
+        "start": 0.0,
+        "length": 1225.17
+      },
+      {
+        "title": "2. Part 7 电影制作日程与导演访谈双篇（配套精练 · 五题含关联题）",
+        "start": 1225.17,
+        "length": 550.06
+      },
+      {
+        "title": "3. 本期 48 词总复习 · 拼读",
+        "start": 1775.22,
+        "length": 805.35
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "between",
+        "zh": "在……之间"
+      },
+      {
+        "word": "each time",
+        "zh": "每当；每次"
+      },
+      {
+        "word": "as a result",
+        "zh": "因此；结果"
+      },
+      {
+        "word": "residential",
+        "zh": "住宅的；居住的"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "freshly",
+        "zh": "新鲜地；刚刚；新近"
+      },
+      {
+        "word": "rear",
+        "zh": "后部；后面；后面的"
+      },
+      {
+        "word": "parking lot",
+        "zh": "停车场"
+      },
+      {
+        "word": "processing plant",
+        "zh": "加工厂"
+      },
+      {
+        "word": "upgrade",
+        "zh": "升级；改良；升级版"
+      },
+      {
+        "word": "equipment",
+        "zh": "设备；器材；不可数"
+      },
+      {
+        "word": "anniversary",
+        "zh": "周年纪念；周年纪念日"
+      },
+      {
+        "word": "mark",
+        "zh": "纪念；庆祝；标记；记号"
+      },
+      {
+        "word": "naval",
+        "zh": "海军的"
+      },
+      {
+        "word": "through",
+        "zh": "直到；包括在内；；穿过；通过"
+      },
+      {
+        "word": "between",
+        "zh": "在之间"
+      },
+      {
+        "word": "charge",
+        "zh": "收费；要价；费用；负责"
+      },
+      {
+        "word": "fee",
+        "zh": "费用；手续费"
+      },
+      {
+        "word": "put back",
+        "zh": "放回原处"
+      },
+      {
+        "word": "polisher",
+        "zh": "抛光机；打蜡机"
+      },
+      {
+        "word": "maintenance",
+        "zh": "维护；保养；维修"
+      },
+      {
+        "word": "about",
+        "zh": "大约；关于"
+      },
+      {
+        "word": "county",
+        "zh": "县；郡"
+      },
+      {
+        "word": "each time",
+        "zh": "每当；每次"
+      },
+      {
+        "word": "portion",
+        "zh": "一部分；份额"
+      },
+      {
+        "word": "transaction",
+        "zh": "交易；一笔买卖"
+      },
+      {
+        "word": "charity",
+        "zh": "慈善机构；慈善"
+      },
+      {
+        "word": "as a result",
+        "zh": "因此；结果"
+      },
+      {
+        "word": "quarterly",
+        "zh": "季度的；每季度的；按季度"
+      },
+      {
+        "word": "disappointing",
+        "zh": "令人失望的"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；存货；清单"
+      },
+      {
+        "word": "switch to",
+        "zh": "转向；改用"
+      },
+      {
+        "word": "competitor",
+        "zh": "竞争对手；竞争者"
+      },
+      {
+        "word": "failure",
+        "zh": "故障；失败；未能"
+      },
+      {
+        "word": "take steps",
+        "zh": "采取措施"
+      },
+      {
+        "word": "extraordinary",
+        "zh": "非凡的；非同寻常的；特别的"
+      },
+      {
+        "word": "residential",
+        "zh": "住宅的；居住的"
+      },
+      {
+        "word": "facility",
+        "zh": "设施；场所；设备"
+      },
+      {
+        "word": "affordable",
+        "zh": "负担得起的；价格实惠的"
+      },
+      {
+        "word": "investor",
+        "zh": "投资者"
+      },
+      {
+        "word": "projection",
+        "zh": "预测；预估；投影"
+      },
+      {
+        "word": "interim",
+        "zh": "中期的；临时的；过渡期"
+      },
+      {
+        "word": "setback",
+        "zh": "挫折；阻碍；倒退"
+      },
+      {
+        "word": "endure",
+        "zh": "忍受；经历；困难；；持续"
+      },
+      {
+        "word": "encounter",
+        "zh": "遇到；碰到；遭遇"
+      },
+      {
+        "word": "interruption",
+        "zh": "中断；打断；干扰"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "impassable",
+        "zh": "无法通行的；不能通过的"
+      },
+      {
+        "word": "take on",
+        "zh": "承担；接受；工作、角色；；雇用"
+      },
+      {
+        "word": "phase",
+        "zh": "阶段；时期"
+      },
+      {
+        "word": "indication",
+        "zh": "迹象；指示；参考"
+      },
+      {
+        "word": "backer",
+        "zh": "出资人；支持者"
+      },
+      {
+        "word": "return on investment",
+        "zh": "投资回报；ROI"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep57.mp4",
+    "script_pdf": "media/ep57_script.pdf",
+    "source_video": "ep57.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep57.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep57.mp4",
+        "script_pdf": "media/ep57_script.pdf",
+        "duration_sec": 2580.6,
+        "theme": "题型精讲 · Part 5 收官：介词 · 副词 · 连接表达 · 词性补漏",
+        "segments": [
+          {
+            "title": "1. Part 5 收官真题（三套卷 12 题 · 介词 / 副词 / 连接表达 / 补语与词性）",
+            "start": 0.0,
+            "length": 1225.17
+          },
+          {
+            "title": "2. Part 7 电影制作日程与导演访谈双篇（配套精练 · 五题含关联题）",
+            "start": 1225.17,
+            "length": 550.06
+          },
+          {
+            "title": "3. 本期 48 词总复习 · 拼读",
+            "start": 1775.22,
+            "length": 805.35
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep57ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep57ja.mp4",
+        "script_pdf": "media/ep57ja_script.pdf",
+        "duration_sec": 2978.5,
+        "theme": "問題タイプ別精講 · Part 5 総仕上げ：前置詞 · 副詞 · つなぎの表現 · 品詞の補足",
+        "segments": [
+          {
+            "title": "1. Part 5 総仕上げの問題（本番 12問 · 前置詞 / 副詞 / つなぎの表現 / 補語と品詞）",
+            "start": 0.0,
+            "length": 1523.13
+          },
+          {
+            "title": "2. Part 7 映画の制作スケジュールと監督の記事のダブル（関連演習 · 文書結びつけを含む5問）",
+            "start": 1523.13,
+            "length": 612.67
+          },
+          {
+            "title": "3. 今回の 48 語総復習 · スペル",
+            "start": 2135.8,
+            "length": 842.74
+          }
+        ],
+        "poster": "media/ep57ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "between",
+            "zh": "…の間で；…の間に"
+          },
+          {
+            "word": "each time",
+            "zh": "…するたびに"
+          },
+          {
+            "word": "as a result",
+            "zh": "その結果"
+          },
+          {
+            "word": "residential",
+            "zh": "住宅の；居住の"
+          },
+          {
+            "word": "postpone",
+            "zh": "延期する"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "freshly",
+          "rear",
+          "parking lot",
+          "processing plant",
+          "upgrade",
+          "equipment",
+          "anniversary",
+          "mark",
+          "naval",
+          "through",
+          "between",
+          "charge",
+          "fee",
+          "put back",
+          "polisher",
+          "maintenance",
+          "about",
+          "county",
+          "each time",
+          "portion",
+          "transaction",
+          "charity",
+          "as a result",
+          "quarterly",
+          "disappointing",
+          "inventory",
+          "switch to",
+          "competitor",
+          "failure",
+          "take steps",
+          "extraordinary",
+          "residential",
+          "facility",
+          "affordable",
+          "investor",
+          "projection",
+          "interim",
+          "setback",
+          "endure",
+          "encounter",
+          "interruption",
+          "postpone",
+          "impassable",
+          "take on",
+          "phase",
+          "indication",
+          "backer",
+          "return on investment"
+        ],
+        "words": [
+          {
+            "word": "freshly",
+            "pos": "adv.",
+            "zh": "新しく；…したての",
+            "ex": "Freshly made sandwiches are sold here.",
+            "exzh": "ここでは作りたてのサンドイッチを売っている。",
+            "ipa": "/ˈfrɛʃli/",
+            "audio": "media/words/ep57/freshly.mp3",
+            "ex_audio": "media/words/ep57/freshly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rear",
+            "pos": "n./adj.",
+            "zh": "後ろ；後部；後方の",
+            "ex": "The food truck is at the rear of the lot.",
+            "exzh": "フードトラックは駐車場の奥にある。",
+            "ipa": "/rɪr/",
+            "audio": "media/words/ep57/rear.mp3",
+            "ex_audio": "media/words/ep57/rear_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "parking lot",
+            "pos": "n.",
+            "zh": "駐車場",
+            "ex": "The parking lot is full on weekends.",
+            "exzh": "週末は駐車場が満車だ。",
+            "ipa": "/ˈpɑrkɪŋ lɑt/",
+            "audio": "media/words/ep57/parking-lot.mp3",
+            "ex_audio": "media/words/ep57/parking-lot_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "processing plant",
+            "pos": "n.",
+            "zh": "加工工場",
+            "ex": "The processing plant in Nelson City is new.",
+            "exzh": "ネルソン市の加工工場は新しい。",
+            "ipa": "/ˈprɑsɛsɪŋ plænt/",
+            "audio": "media/words/ep57/processing-plant.mp3",
+            "ex_audio": "media/words/ep57/processing-plant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "upgrade",
+            "pos": "v./n.",
+            "zh": "更新する；改良する；アップグレード",
+            "ex": "The plant upgraded its equipment.",
+            "exzh": "その工場は設備を更新した。",
+            "ipa": "/ʌpˈɡreɪd/",
+            "audio": "media/words/ep57/upgrade.mp3",
+            "ex_audio": "media/words/ep57/upgrade_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "equipment",
+            "pos": "n.",
+            "zh": "設備；機器（不可算）",
+            "ex": "New equipment allows faster production.",
+            "exzh": "新しい設備で生産が速くなる。",
+            "ipa": "/ɪˈkwɪpmənt/",
+            "audio": "media/words/ep57/equipment.mp3",
+            "ex_audio": "media/words/ep57/equipment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "anniversary",
+            "pos": "n.",
+            "zh": "記念日；周年",
+            "ex": "The company marks its 25-year anniversary in May.",
+            "exzh": "会社は5月に創立25周年を迎える。",
+            "ipa": "/ˌænəˈvɝsɚi/",
+            "audio": "media/words/ep57/anniversary.mp3",
+            "ex_audio": "media/words/ep57/anniversary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mark",
+            "pos": "v./n.",
+            "zh": "記念する；祝う；印をつける；印",
+            "ex": "We will mark the anniversary with a party.",
+            "exzh": "パーティーで周年を祝う予定だ。",
+            "ipa": "/mɑrk/",
+            "audio": "media/words/ep57/mark.mp3",
+            "ex_audio": "media/words/ep57/mark_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "naval",
+            "pos": "adj.",
+            "zh": "海軍の",
+            "ex": "The naval museum opens at 10 A.M.",
+            "exzh": "海軍博物館は午前10時に開館する。",
+            "ipa": "/ˈneɪvəl/",
+            "audio": "media/words/ep57/naval.mp3",
+            "ex_audio": "media/words/ep57/naval_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "through",
+            "pos": "prep./adv.",
+            "zh": "…まで（含めて）；…を通って",
+            "ex": "The office is open Monday through Friday.",
+            "exzh": "事務所は月曜から金曜まで開いている。",
+            "ipa": "/θru/",
+            "audio": "media/words/ep57/through.mp3",
+            "ex_audio": "media/words/ep57/through_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "between",
+            "pos": "prep.",
+            "zh": "…の間で；…の間に",
+            "ex": "You can move money between accounts for free.",
+            "exzh": "口座間で無料でお金を移せる。",
+            "ipa": "/bɪˈtwin/",
+            "audio": "media/words/ep57/between.mp3",
+            "ex_audio": "media/words/ep57/between_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "charge",
+            "pos": "v./n.",
+            "zh": "請求する；料金；担当",
+            "ex": "The bank does not charge fees for transfers.",
+            "exzh": "その銀行は送金に手数料を取らない。",
+            "ipa": "/tʃɑrdʒ/",
+            "audio": "media/words/ep57/charge.mp3",
+            "ex_audio": "media/words/ep57/charge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fee",
+            "pos": "n.",
+            "zh": "料金；手数料",
+            "ex": "There is no fee for this service.",
+            "exzh": "このサービスには手数料がかからない。",
+            "ipa": "/fi/",
+            "audio": "media/words/ep57/fee.mp3",
+            "ex_audio": "media/words/ep57/fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "put back",
+            "pos": "phr.",
+            "zh": "元の場所に戻す",
+            "ex": "Please put the polisher back in the closet.",
+            "exzh": "ポリッシャーを用具入れに戻してください。",
+            "ipa": "/pʊt bæk/",
+            "audio": "media/words/ep57/put-back.mp3",
+            "ex_audio": "media/words/ep57/put-back_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "polisher",
+            "pos": "n.",
+            "zh": "磨き機；ポリッシャー",
+            "ex": "The floor polisher is in the closet.",
+            "exzh": "床磨き機は用具入れにある。",
+            "ipa": "",
+            "audio": "media/words/ep57/polisher.mp3",
+            "ex_audio": "media/words/ep57/polisher_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "maintenance",
+            "pos": "n.",
+            "zh": "保守；整備；メンテナンス",
+            "ex": "The maintenance closet is next to the elevator.",
+            "exzh": "清掃用具入れはエレベーターの隣にある。",
+            "ipa": "/ˈmeɪntənəns/",
+            "audio": "media/words/ep57/maintenance.mp3",
+            "ex_audio": "media/words/ep57/maintenance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "about",
+            "pos": "adv./prep.",
+            "zh": "約；およそ；…について",
+            "ex": "About 40 percent of the county has Internet service.",
+            "exzh": "郡の約40パーセントでインターネットが使える。",
+            "ipa": "/əˈbaʊt/",
+            "audio": "media/words/ep57/about.mp3",
+            "ex_audio": "media/words/ep57/about_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "county",
+            "pos": "n.",
+            "zh": "郡",
+            "ex": "Monroe County is in the north of the state.",
+            "exzh": "モンロー郡は州の北部にある。",
+            "ipa": "/ˈkaʊnti/",
+            "audio": "media/words/ep57/county.mp3",
+            "ex_audio": "media/words/ep57/county_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "each time",
+            "pos": "conj. phr.",
+            "zh": "…するたびに",
+            "ex": "Each time you shop, we donate to charity.",
+            "exzh": "買い物をするたびに慈善団体に寄付します。",
+            "ipa": "/itʃ taɪm/",
+            "audio": "media/words/ep57/each-time.mp3",
+            "ex_audio": "media/words/ep57/each-time_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "portion",
+            "pos": "n.",
+            "zh": "一部；部分",
+            "ex": "A portion of each sale goes to charity.",
+            "exzh": "売上の一部が慈善団体に寄付される。",
+            "ipa": "/ˈpɔrʃən/",
+            "audio": "media/words/ep57/portion.mp3",
+            "ex_audio": "media/words/ep57/portion_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "transaction",
+            "pos": "n.",
+            "zh": "取引；売買",
+            "ex": "Each transaction is recorded on your card.",
+            "exzh": "すべての取引がカードに記録される。",
+            "ipa": "/trænˈzækʃən/",
+            "audio": "media/words/ep57/transaction.mp3",
+            "ex_audio": "media/words/ep57/transaction_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "charity",
+            "pos": "n.",
+            "zh": "慈善団体；慈善",
+            "ex": "You can choose the charity you want to support.",
+            "exzh": "支援したい慈善団体を選べる。",
+            "ipa": "/ˈtʃɛrɪti/",
+            "audio": "media/words/ep57/charity.mp3",
+            "ex_audio": "media/words/ep57/charity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "as a result",
+            "pos": "phr.",
+            "zh": "その結果",
+            "ex": "Profits fell; as a result, the company cut costs.",
+            "exzh": "利益が減り、その結果、会社は経費を削った。",
+            "ipa": "/æz ə rɪˈzʌlt/",
+            "audio": "media/words/ep57/as-a-result.mp3",
+            "ex_audio": "media/words/ep57/as-a-result_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "quarterly",
+            "pos": "adj./adv.",
+            "zh": "四半期の；年4回の",
+            "ex": "The quarterly profits were disappointing.",
+            "exzh": "四半期の利益は期待外れだった。",
+            "ipa": "/ˈkwɔrtɚli/",
+            "audio": "media/words/ep57/quarterly.mp3",
+            "ex_audio": "media/words/ep57/quarterly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "disappointing",
+            "pos": "adj.",
+            "zh": "期待外れの；がっかりさせる",
+            "ex": "The sales results were disappointing.",
+            "exzh": "販売実績は期待外れだった。",
+            "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+            "audio": "media/words/ep57/disappointing.mp3",
+            "ex_audio": "media/words/ep57/disappointing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inventory",
+            "pos": "n.",
+            "zh": "在庫；棚卸し；目録",
+            "ex": "The company had to sell off its inventory.",
+            "exzh": "会社は在庫を売り払わなければならなかった。",
+            "ipa": "/ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep57/inventory.mp3",
+            "ex_audio": "media/words/ep57/inventory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "switch to",
+            "pos": "phr.",
+            "zh": "…に切り替える；…に乗り換える",
+            "ex": "Many businesses switched to the new service.",
+            "exzh": "多くの企業が新しいサービスに乗り換えた。",
+            "ipa": "/swɪtʃ tu/",
+            "audio": "media/words/ep57/switch-to.mp3",
+            "ex_audio": "media/words/ep57/switch-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "competitor",
+            "pos": "n.",
+            "zh": "競合他社；競争相手",
+            "ex": "Our closest competitor lowered its prices.",
+            "exzh": "最大のライバルが値下げした。",
+            "ipa": "/kəmˈpɛtətɚ/",
+            "audio": "media/words/ep57/competitor.mp3",
+            "ex_audio": "media/words/ep57/competitor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "failure",
+            "pos": "n.",
+            "zh": "故障；失敗；…しないこと",
+            "ex": "A server failure stopped the website.",
+            "exzh": "サーバー障害でウェブサイトが止まった。",
+            "ipa": "/ˈfeɪljɚ/",
+            "audio": "media/words/ep57/failure.mp3",
+            "ex_audio": "media/words/ep57/failure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take steps",
+            "pos": "phr.",
+            "zh": "措置を講じる",
+            "ex": "The bank takes steps to protect your data.",
+            "exzh": "銀行はデータを守るための措置を講じている。",
+            "ipa": "/teɪk stɛps/",
+            "audio": "media/words/ep57/take-steps.mp3",
+            "ex_audio": "media/words/ep57/take-steps_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "extraordinary",
+            "pos": "adj.",
+            "zh": "並外れた；特別な；異例の",
+            "ex": "They made an extraordinary effort.",
+            "exzh": "彼らは並外れた努力をした。",
+            "ipa": "/ˌɛkstrəˈɔrdəˌnɛri/",
+            "audio": "media/words/ep57/extraordinary.mp3",
+            "ex_audio": "media/words/ep57/extraordinary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "residential",
+            "pos": "adj.",
+            "zh": "住宅の；居住の",
+            "ex": "We offer residential storage at low rates.",
+            "exzh": "家庭用の保管サービスを低料金で提供します。",
+            "ipa": "/ˌrɛzɪˈdɛnʃəl/",
+            "audio": "media/words/ep57/residential.mp3",
+            "ex_audio": "media/words/ep57/residential_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "facility",
+            "pos": "n.",
+            "zh": "施設；設備",
+            "ex": "The storage facility is open 24 hours.",
+            "exzh": "その保管施設は24時間開いている。",
+            "ipa": "/fəˈsɪlɪti/",
+            "audio": "media/words/ep57/facility.mp3",
+            "ex_audio": "media/words/ep57/facility_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "affordable",
+            "pos": "adj.",
+            "zh": "手頃な；無理なく払える",
+            "ex": "They rent units at affordable rates.",
+            "exzh": "手頃な料金で保管スペースを貸している。",
+            "ipa": "/əˈfɔrdəbəl/",
+            "audio": "media/words/ep57/affordable.mp3",
+            "ex_audio": "media/words/ep57/affordable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "investor",
+            "pos": "n.",
+            "zh": "投資家",
+            "ex": "The investors received a financial report.",
+            "exzh": "投資家は財務報告を受け取った。",
+            "ipa": "/ˌɪnˈvɛstɚ/",
+            "audio": "media/words/ep57/investor.mp3",
+            "ex_audio": "media/words/ep57/investor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "projection",
+            "pos": "n.",
+            "zh": "予測；見積もり；投影",
+            "ex": "The financial projection looks positive.",
+            "exzh": "財務予測は明るい見通しだ。",
+            "ipa": "/prəˈdʒɛkʃən/",
+            "audio": "media/words/ep57/projection.mp3",
+            "ex_audio": "media/words/ep57/projection_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "interim",
+            "pos": "adj./n.",
+            "zh": "中間の；暫定の；当座",
+            "ex": "An interim report is due in May.",
+            "exzh": "中間報告は5月が期限だ。",
+            "ipa": "/ˈɪntɚəm/",
+            "audio": "media/words/ep57/interim.mp3",
+            "ex_audio": "media/words/ep57/interim_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "setback",
+            "pos": "n.",
+            "zh": "挫折；つまずき；後退",
+            "ex": "The film crew faced several setbacks.",
+            "exzh": "撮影チームはいくつかのつまずきに直面した。",
+            "ipa": "/ˈsɛtˌbæk/",
+            "audio": "media/words/ep57/setback.mp3",
+            "ex_audio": "media/words/ep57/setback_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "endure",
+            "pos": "v.",
+            "zh": "耐える；（困難を）経験する；持続する",
+            "ex": "The team endured a long, cold winter.",
+            "exzh": "チームは長く寒い冬に耐えた。",
+            "ipa": "/ɛndˈjʊr/",
+            "audio": "media/words/ep57/endure.mp3",
+            "ex_audio": "media/words/ep57/endure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "encounter",
+            "pos": "v./n.",
+            "zh": "出くわす；直面する；遭遇",
+            "ex": "We encountered problems during filming.",
+            "exzh": "撮影中に問題に直面した。",
+            "ipa": "/ɪnˈkaʊntɚ/",
+            "audio": "media/words/ep57/encounter.mp3",
+            "ex_audio": "media/words/ep57/encounter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "interruption",
+            "pos": "n.",
+            "zh": "中断；妨げ",
+            "ex": "The snow caused an interruption in filming.",
+            "exzh": "大雪で撮影が中断した。",
+            "ipa": "/ˌɪntɚˈʌpʃən/",
+            "audio": "media/words/ep57/interruption.mp3",
+            "ex_audio": "media/words/ep57/interruption_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する",
+            "ex": "Filming was postponed for six weeks.",
+            "exzh": "撮影は6週間延期された。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep57/postpone.mp3",
+            "ex_audio": "media/words/ep57/postpone_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "impassable",
+            "pos": "adj.",
+            "zh": "通行できない",
+            "ex": "Heavy snow made the roads impassable.",
+            "exzh": "大雪で道路が通れなくなった。",
+            "ipa": "/ˌɪmˈpæsəbəl/",
+            "audio": "media/words/ep57/impassable.mp3",
+            "ex_audio": "media/words/ep57/impassable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take on",
+            "pos": "phr.",
+            "zh": "（仕事や役を）引き受ける；雇う",
+            "ex": "Mark Tobel agreed to take on the role.",
+            "exzh": "マーク・トーベルはその役を引き受けることに同意した。",
+            "ipa": "/teɪk ɑn/",
+            "audio": "media/words/ep57/take-on.mp3",
+            "ex_audio": "media/words/ep57/take-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "phase",
+            "pos": "n.",
+            "zh": "段階；局面",
+            "ex": "Filming is the second phase of the schedule.",
+            "exzh": "撮影はスケジュールの第2段階だ。",
+            "ipa": "/feɪz/",
+            "audio": "media/words/ep57/phase.mp3",
+            "ex_audio": "media/words/ep57/phase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "indication",
+            "pos": "n.",
+            "zh": "兆し；目安；指示",
+            "ex": "Early sales are a good indication of success.",
+            "exzh": "初期の売れ行きは成功の良い兆しだ。",
+            "ipa": "/ˌɪndəˈkeɪʃən/",
+            "audio": "media/words/ep57/indication.mp3",
+            "ex_audio": "media/words/ep57/indication_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "backer",
+            "pos": "n.",
+            "zh": "出資者；支援者",
+            "ex": "The film's backers were pleased.",
+            "exzh": "映画の出資者は満足した。",
+            "ipa": "/ˈbækɚ/",
+            "audio": "media/words/ep57/backer.mp3",
+            "ex_audio": "media/words/ep57/backer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "return on investment",
+            "pos": "phr.",
+            "zh": "投資収益；投資利益率（ROI）",
+            "ex": "Investors expect a good return on investment.",
+            "exzh": "投資家は高い投資収益を期待している。",
+            "ipa": "/rɪˈtɝn ɑn ˌɪnˈvɛstmənt/",
+            "audio": "media/words/ep57/return-on-investment.mp3",
+            "ex_audio": "media/words/ep57/return-on-investment_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep57_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 5 総仕上げ：前置詞 · 副詞 · つなぎの表現 · 品詞の補足",
+    "words": [
+      {
+        "word": "freshly",
+        "pos": "adv.",
+        "zh": "新鲜地；刚刚；新近",
+        "ex": "Freshly made sandwiches are sold here.",
+        "exzh": "这里卖现做的三明治。",
+        "ipa": "/ˈfrɛʃli/",
+        "audio": "media/words/ep57/freshly.mp3",
+        "ex_audio": "media/words/ep57/freshly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rear",
+        "pos": "n./adj.",
+        "zh": "后部；后面；后面的",
+        "ex": "The food truck is at the rear of the lot.",
+        "exzh": "餐车在停车场的后部。",
+        "ipa": "/rɪr/",
+        "audio": "media/words/ep57/rear.mp3",
+        "ex_audio": "media/words/ep57/rear_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "parking lot",
+        "pos": "n.",
+        "zh": "停车场",
+        "ex": "The parking lot is full on weekends.",
+        "exzh": "周末停车场是满的。",
+        "ipa": "/ˈpɑrkɪŋ lɑt/",
+        "audio": "media/words/ep57/parking-lot.mp3",
+        "ex_audio": "media/words/ep57/parking-lot_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "processing plant",
+        "pos": "n.",
+        "zh": "加工厂",
+        "ex": "The processing plant in Nelson City is new.",
+        "exzh": "Nelson City 的加工厂是新的。",
+        "ipa": "/ˈprɑsɛsɪŋ plænt/",
+        "audio": "media/words/ep57/processing-plant.mp3",
+        "ex_audio": "media/words/ep57/processing-plant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "upgrade",
+        "pos": "v./n.",
+        "zh": "升级；改良；升级版",
+        "ex": "The plant upgraded its equipment.",
+        "exzh": "这家工厂升级了设备。",
+        "ipa": "/ʌpˈɡreɪd/",
+        "audio": "media/words/ep57/upgrade.mp3",
+        "ex_audio": "media/words/ep57/upgrade_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "equipment",
+        "pos": "n.",
+        "zh": "设备；器材（不可数）",
+        "ex": "New equipment allows faster production.",
+        "exzh": "新设备能加快生产。",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "audio": "media/words/ep57/equipment.mp3",
+        "ex_audio": "media/words/ep57/equipment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "anniversary",
+        "pos": "n.",
+        "zh": "周年纪念；周年纪念日",
+        "ex": "The company marks its 25-year anniversary in May.",
+        "exzh": "公司五月迎来二十五周年。",
+        "ipa": "/ˌænəˈvɝsɚi/",
+        "audio": "media/words/ep57/anniversary.mp3",
+        "ex_audio": "media/words/ep57/anniversary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mark",
+        "pos": "v./n.",
+        "zh": "纪念；庆祝；标记；记号",
+        "ex": "We will mark the anniversary with a party.",
+        "exzh": "我们将举办派对纪念周年。",
+        "ipa": "/mɑrk/",
+        "audio": "media/words/ep57/mark.mp3",
+        "ex_audio": "media/words/ep57/mark_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "naval",
+        "pos": "adj.",
+        "zh": "海军的",
+        "ex": "The naval museum opens at 10 A.M.",
+        "exzh": "海军博物馆上午十点开门。",
+        "ipa": "/ˈneɪvəl/",
+        "audio": "media/words/ep57/naval.mp3",
+        "ex_audio": "media/words/ep57/naval_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "through",
+        "pos": "prep./adv.",
+        "zh": "直到……（包括在内）；穿过；通过",
+        "ex": "The office is open Monday through Friday.",
+        "exzh": "办公室周一到周五营业。",
+        "ipa": "/θru/",
+        "audio": "media/words/ep57/through.mp3",
+        "ex_audio": "media/words/ep57/through_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "between",
+        "pos": "prep.",
+        "zh": "在……之间",
+        "ex": "You can move money between accounts for free.",
+        "exzh": "你可以免费在账户之间转账。",
+        "ipa": "/bɪˈtwin/",
+        "audio": "media/words/ep57/between.mp3",
+        "ex_audio": "media/words/ep57/between_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "charge",
+        "pos": "v./n.",
+        "zh": "收费；要价；费用；负责",
+        "ex": "The bank does not charge fees for transfers.",
+        "exzh": "这家银行转账不收费。",
+        "ipa": "/tʃɑrdʒ/",
+        "audio": "media/words/ep57/charge.mp3",
+        "ex_audio": "media/words/ep57/charge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fee",
+        "pos": "n.",
+        "zh": "费用；手续费",
+        "ex": "There is no fee for this service.",
+        "exzh": "这项服务不收费。",
+        "ipa": "/fi/",
+        "audio": "media/words/ep57/fee.mp3",
+        "ex_audio": "media/words/ep57/fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "put back",
+        "pos": "phr.",
+        "zh": "放回原处",
+        "ex": "Please put the polisher back in the closet.",
+        "exzh": "请把抛光机放回储物间。",
+        "ipa": "/pʊt bæk/",
+        "audio": "media/words/ep57/put-back.mp3",
+        "ex_audio": "media/words/ep57/put-back_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "polisher",
+        "pos": "n.",
+        "zh": "抛光机；打蜡机",
+        "ex": "The floor polisher is in the closet.",
+        "exzh": "地板抛光机在储物间里。",
+        "ipa": "",
+        "audio": "media/words/ep57/polisher.mp3",
+        "ex_audio": "media/words/ep57/polisher_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "maintenance",
+        "pos": "n.",
+        "zh": "维护；保养；维修",
+        "ex": "The maintenance closet is next to the elevator.",
+        "exzh": "清洁用具储物间在电梯旁边。",
+        "ipa": "/ˈmeɪntənəns/",
+        "audio": "media/words/ep57/maintenance.mp3",
+        "ex_audio": "media/words/ep57/maintenance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "about",
+        "pos": "adv./prep.",
+        "zh": "大约；关于",
+        "ex": "About 40 percent of the county has Internet service.",
+        "exzh": "这个县大约百分之四十的地区有互联网服务。",
+        "ipa": "/əˈbaʊt/",
+        "audio": "media/words/ep57/about.mp3",
+        "ex_audio": "media/words/ep57/about_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "county",
+        "pos": "n.",
+        "zh": "县；郡",
+        "ex": "Monroe County is in the north of the state.",
+        "exzh": "Monroe 县在州的北部。",
+        "ipa": "/ˈkaʊnti/",
+        "audio": "media/words/ep57/county.mp3",
+        "ex_audio": "media/words/ep57/county_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "each time",
+        "pos": "conj. phr.",
+        "zh": "每当；每次",
+        "ex": "Each time you shop, we donate to charity.",
+        "exzh": "你每次购物，我们都会向慈善机构捐款。",
+        "ipa": "/itʃ taɪm/",
+        "audio": "media/words/ep57/each-time.mp3",
+        "ex_audio": "media/words/ep57/each-time_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "portion",
+        "pos": "n.",
+        "zh": "一部分；份额",
+        "ex": "A portion of each sale goes to charity.",
+        "exzh": "每笔销售的一部分会捐给慈善机构。",
+        "ipa": "/ˈpɔrʃən/",
+        "audio": "media/words/ep57/portion.mp3",
+        "ex_audio": "media/words/ep57/portion_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "transaction",
+        "pos": "n.",
+        "zh": "交易；一笔买卖",
+        "ex": "Each transaction is recorded on your card.",
+        "exzh": "每笔交易都会记录在你的卡上。",
+        "ipa": "/trænˈzækʃən/",
+        "audio": "media/words/ep57/transaction.mp3",
+        "ex_audio": "media/words/ep57/transaction_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "charity",
+        "pos": "n.",
+        "zh": "慈善机构；慈善",
+        "ex": "You can choose the charity you want to support.",
+        "exzh": "你可以选择想支持的慈善机构。",
+        "ipa": "/ˈtʃɛrɪti/",
+        "audio": "media/words/ep57/charity.mp3",
+        "ex_audio": "media/words/ep57/charity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "as a result",
+        "pos": "phr.",
+        "zh": "因此；结果",
+        "ex": "Profits fell; as a result, the company cut costs.",
+        "exzh": "利润下降，因此公司削减了成本。",
+        "ipa": "/æz ə rɪˈzʌlt/",
+        "audio": "media/words/ep57/as-a-result.mp3",
+        "ex_audio": "media/words/ep57/as-a-result_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "quarterly",
+        "pos": "adj./adv.",
+        "zh": "季度的；每季度的；按季度",
+        "ex": "The quarterly profits were disappointing.",
+        "exzh": "季度利润令人失望。",
+        "ipa": "/ˈkwɔrtɚli/",
+        "audio": "media/words/ep57/quarterly.mp3",
+        "ex_audio": "media/words/ep57/quarterly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "disappointing",
+        "pos": "adj.",
+        "zh": "令人失望的",
+        "ex": "The sales results were disappointing.",
+        "exzh": "销售结果令人失望。",
+        "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+        "audio": "media/words/ep57/disappointing.mp3",
+        "ex_audio": "media/words/ep57/disappointing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "zh": "库存；存货；清单",
+        "ex": "The company had to sell off its inventory.",
+        "exzh": "公司不得不抛售库存。",
+        "ipa": "/ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep57/inventory.mp3",
+        "ex_audio": "media/words/ep57/inventory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "switch to",
+        "pos": "phr.",
+        "zh": "转向；改用",
+        "ex": "Many businesses switched to the new service.",
+        "exzh": "许多企业改用了新服务。",
+        "ipa": "/swɪtʃ tu/",
+        "audio": "media/words/ep57/switch-to.mp3",
+        "ex_audio": "media/words/ep57/switch-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "competitor",
+        "pos": "n.",
+        "zh": "竞争对手；竞争者",
+        "ex": "Our closest competitor lowered its prices.",
+        "exzh": "我们最强劲的竞争对手降价了。",
+        "ipa": "/kəmˈpɛtətɚ/",
+        "audio": "media/words/ep57/competitor.mp3",
+        "ex_audio": "media/words/ep57/competitor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "failure",
+        "pos": "n.",
+        "zh": "故障；失败；未能",
+        "ex": "A server failure stopped the website.",
+        "exzh": "服务器故障让网站停了。",
+        "ipa": "/ˈfeɪljɚ/",
+        "audio": "media/words/ep57/failure.mp3",
+        "ex_audio": "media/words/ep57/failure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take steps",
+        "pos": "phr.",
+        "zh": "采取措施",
+        "ex": "The bank takes steps to protect your data.",
+        "exzh": "银行采取措施保护你的数据。",
+        "ipa": "/teɪk stɛps/",
+        "audio": "media/words/ep57/take-steps.mp3",
+        "ex_audio": "media/words/ep57/take-steps_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "extraordinary",
+        "pos": "adj.",
+        "zh": "非凡的；非同寻常的；特别的",
+        "ex": "They made an extraordinary effort.",
+        "exzh": "他们付出了非凡的努力。",
+        "ipa": "/ˌɛkstrəˈɔrdəˌnɛri/",
+        "audio": "media/words/ep57/extraordinary.mp3",
+        "ex_audio": "media/words/ep57/extraordinary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "residential",
+        "pos": "adj.",
+        "zh": "住宅的；居住的",
+        "ex": "We offer residential storage at low rates.",
+        "exzh": "我们以低价提供居家储物服务。",
+        "ipa": "/ˌrɛzɪˈdɛnʃəl/",
+        "audio": "media/words/ep57/residential.mp3",
+        "ex_audio": "media/words/ep57/residential_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "facility",
+        "pos": "n.",
+        "zh": "设施；场所；设备",
+        "ex": "The storage facility is open 24 hours.",
+        "exzh": "这个储物设施二十四小时开放。",
+        "ipa": "/fəˈsɪlɪti/",
+        "audio": "media/words/ep57/facility.mp3",
+        "ex_audio": "media/words/ep57/facility_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "affordable",
+        "pos": "adj.",
+        "zh": "负担得起的；价格实惠的",
+        "ex": "They rent units at affordable rates.",
+        "exzh": "他们以实惠的价格出租储物间。",
+        "ipa": "/əˈfɔrdəbəl/",
+        "audio": "media/words/ep57/affordable.mp3",
+        "ex_audio": "media/words/ep57/affordable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "investor",
+        "pos": "n.",
+        "zh": "投资者",
+        "ex": "The investors received a financial report.",
+        "exzh": "投资者收到了财务报告。",
+        "ipa": "/ˌɪnˈvɛstɚ/",
+        "audio": "media/words/ep57/investor.mp3",
+        "ex_audio": "media/words/ep57/investor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "projection",
+        "pos": "n.",
+        "zh": "预测；预估；投影",
+        "ex": "The financial projection looks positive.",
+        "exzh": "财务预测看起来不错。",
+        "ipa": "/prəˈdʒɛkʃən/",
+        "audio": "media/words/ep57/projection.mp3",
+        "ex_audio": "media/words/ep57/projection_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "interim",
+        "pos": "adj./n.",
+        "zh": "中期的；临时的；过渡期",
+        "ex": "An interim report is due in May.",
+        "exzh": "中期报告五月到期。",
+        "ipa": "/ˈɪntɚəm/",
+        "audio": "media/words/ep57/interim.mp3",
+        "ex_audio": "media/words/ep57/interim_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "setback",
+        "pos": "n.",
+        "zh": "挫折；阻碍；倒退",
+        "ex": "The film crew faced several setbacks.",
+        "exzh": "剧组遇到了几次挫折。",
+        "ipa": "/ˈsɛtˌbæk/",
+        "audio": "media/words/ep57/setback.mp3",
+        "ex_audio": "media/words/ep57/setback_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "endure",
+        "pos": "v.",
+        "zh": "忍受；经历（困难）；持续",
+        "ex": "The team endured a long, cold winter.",
+        "exzh": "团队熬过了一个漫长寒冷的冬天。",
+        "ipa": "/ɛndˈjʊr/",
+        "audio": "media/words/ep57/endure.mp3",
+        "ex_audio": "media/words/ep57/endure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "encounter",
+        "pos": "v./n.",
+        "zh": "遇到；碰到；遭遇",
+        "ex": "We encountered problems during filming.",
+        "exzh": "我们在拍摄期间遇到了问题。",
+        "ipa": "/ɪnˈkaʊntɚ/",
+        "audio": "media/words/ep57/encounter.mp3",
+        "ex_audio": "media/words/ep57/encounter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "interruption",
+        "pos": "n.",
+        "zh": "中断；打断；干扰",
+        "ex": "The snow caused an interruption in filming.",
+        "exzh": "大雪导致拍摄中断。",
+        "ipa": "/ˌɪntɚˈʌpʃən/",
+        "audio": "media/words/ep57/interruption.mp3",
+        "ex_audio": "media/words/ep57/interruption_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟；延期",
+        "ex": "Filming was postponed for six weeks.",
+        "exzh": "拍摄推迟了六周。",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep57/postpone.mp3",
+        "ex_audio": "media/words/ep57/postpone_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "impassable",
+        "pos": "adj.",
+        "zh": "无法通行的；不能通过的",
+        "ex": "Heavy snow made the roads impassable.",
+        "exzh": "大雪让道路无法通行。",
+        "ipa": "/ˌɪmˈpæsəbəl/",
+        "audio": "media/words/ep57/impassable.mp3",
+        "ex_audio": "media/words/ep57/impassable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take on",
+        "pos": "phr.",
+        "zh": "承担；接受（工作、角色）；雇用",
+        "ex": "Mark Tobel agreed to take on the role.",
+        "exzh": "Mark Tobel 同意接演这个角色。",
+        "ipa": "/teɪk ɑn/",
+        "audio": "media/words/ep57/take-on.mp3",
+        "ex_audio": "media/words/ep57/take-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "phase",
+        "pos": "n.",
+        "zh": "阶段；时期",
+        "ex": "Filming is the second phase of the schedule.",
+        "exzh": "拍摄是日程的第二个阶段。",
+        "ipa": "/feɪz/",
+        "audio": "media/words/ep57/phase.mp3",
+        "ex_audio": "media/words/ep57/phase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "indication",
+        "pos": "n.",
+        "zh": "迹象；指示；参考",
+        "ex": "Early sales are a good indication of success.",
+        "exzh": "早期销量是成功的好迹象。",
+        "ipa": "/ˌɪndəˈkeɪʃən/",
+        "audio": "media/words/ep57/indication.mp3",
+        "ex_audio": "media/words/ep57/indication_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "backer",
+        "pos": "n.",
+        "zh": "出资人；支持者",
+        "ex": "The film's backers were pleased.",
+        "exzh": "电影的出资人很满意。",
+        "ipa": "/ˈbækɚ/",
+        "audio": "media/words/ep57/backer.mp3",
+        "ex_audio": "media/words/ep57/backer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "return on investment",
+        "pos": "phr.",
+        "zh": "投资回报（ROI）",
+        "ex": "Investors expect a good return on investment.",
+        "exzh": "投资者期待良好的投资回报。",
+        "ipa": "/rɪˈtɝn ɑn ˌɪnˈvɛstmənt/",
+        "audio": "media/words/ep57/return-on-investment.mp3",
+        "ex_audio": "media/words/ep57/return-on-investment_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 56,
     "theme": "题型精讲 · Part 5 词汇剩余：副词 · 动词 · 名词 · 形容词",
     "date": "2026-11-07",
