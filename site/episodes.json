@@ -1,5 +1,764 @@
 [
   {
+    "number": 58,
+    "theme": "题型精讲 · Part 6 句子插入（上）：承接上文 · 引出下文",
+    "date": "2026-11-09",
+    "duration_sec": 1874.3,
+    "segments": [
+      {
+        "title": "1. Part 6 句子插入 4 篇 + Part 7 三篇阅读（邮件 · 日程表 · 平面图）",
+        "start": 0.0,
+        "length": 1450.64
+      },
+      {
+        "title": "2. 本期 22 词总复习 · 拼读",
+        "start": 1450.64,
+        "length": 423.67
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "figure",
+        "zh": "数字；数据；人物；图形"
+      },
+      {
+        "word": "decline",
+        "zh": "婉拒；谢绝；下降"
+      },
+      {
+        "word": "municipal",
+        "zh": "市政的；市的"
+      },
+      {
+        "word": "adjacent to",
+        "zh": "邻近；毗邻"
+      },
+      {
+        "word": "pedestrian",
+        "zh": "行人；步行的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "outdated",
+        "zh": "过时的；陈旧的"
+      },
+      {
+        "word": "annually",
+        "zh": "每年；按年"
+      },
+      {
+        "word": "figure",
+        "zh": "数字；数据；人物；图形"
+      },
+      {
+        "word": "loan",
+        "zh": "贷款；借出"
+      },
+      {
+        "word": "operate",
+        "zh": "经营；运营；操作；运转"
+      },
+      {
+        "word": "attach",
+        "zh": "附上；附加；连接"
+      },
+      {
+        "word": "decline",
+        "zh": "婉拒；谢绝；下降"
+      },
+      {
+        "word": "given",
+        "zh": "考虑到；鉴于"
+      },
+      {
+        "word": "reference",
+        "zh": "推荐人；推荐信；参考"
+      },
+      {
+        "word": "municipal",
+        "zh": "市政的；市的"
+      },
+      {
+        "word": "proposal",
+        "zh": "提案；方案；建议书"
+      },
+      {
+        "word": "pedestrian",
+        "zh": "行人；步行的"
+      },
+      {
+        "word": "let in",
+        "zh": "让进来；放进入"
+      },
+      {
+        "word": "staff meeting",
+        "zh": "员工会议"
+      },
+      {
+        "word": "closed to the public",
+        "zh": "不对公众开放"
+      },
+      {
+        "word": "once a week",
+        "zh": "每周一次"
+      },
+      {
+        "word": "showtime",
+        "zh": "放映时间；开演时间"
+      },
+      {
+        "word": "noon",
+        "zh": "中午；正午"
+      },
+      {
+        "word": "gallery",
+        "zh": "展厅；画廊；美术馆"
+      },
+      {
+        "word": "frequently",
+        "zh": "经常；频繁地"
+      },
+      {
+        "word": "adjacent to",
+        "zh": "邻近；毗邻"
+      },
+      {
+        "word": "directly across from",
+        "zh": "正对面；就在对面"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep58.mp4",
+    "script_pdf": "media/ep58_script.pdf",
+    "source_video": "ep58.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep58.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep58.mp4",
+        "script_pdf": "media/ep58_script.pdf",
+        "duration_sec": 1874.3,
+        "theme": "题型精讲 · Part 6 句子插入（上）：承接上文 · 引出下文",
+        "segments": [
+          {
+            "title": "1. Part 6 句子插入 4 篇 + Part 7 三篇阅读（邮件 · 日程表 · 平面图）",
+            "start": 0.0,
+            "length": 1450.64
+          },
+          {
+            "title": "2. 本期 22 词总复习 · 拼读",
+            "start": 1450.64,
+            "length": 423.67
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep58ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep58ja.mp4",
+        "script_pdf": "media/ep58ja_script.pdf",
+        "duration_sec": 2193.9,
+        "theme": "問題タイプ別精講 · Part 6 文の挿入（上）：前を受けて、後ろへつなぐ",
+        "segments": [
+          {
+            "title": "1. Part 6 文の挿入 4つの文章 + Part 7 3文書の読解（メール · スケジュール · 平面図）",
+            "start": 0.0,
+            "length": 1735.42
+          },
+          {
+            "title": "2. 今回の 22 語総復習 · スペル",
+            "start": 1735.42,
+            "length": 458.47
+          }
+        ],
+        "poster": "media/ep58ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "figure",
+            "zh": "数字；数値；人物；図"
+          },
+          {
+            "word": "decline",
+            "zh": "辞退する；断る；減少"
+          },
+          {
+            "word": "municipal",
+            "zh": "市の；市営の"
+          },
+          {
+            "word": "adjacent to",
+            "zh": "…に隣接した"
+          },
+          {
+            "word": "pedestrian",
+            "zh": "歩行者；歩行者用の"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "outdated",
+          "annually",
+          "figure",
+          "loan",
+          "operate",
+          "attach",
+          "decline",
+          "given",
+          "reference",
+          "municipal",
+          "proposal",
+          "pedestrian",
+          "let in",
+          "staff meeting",
+          "closed to the public",
+          "once a week",
+          "showtime",
+          "noon",
+          "gallery",
+          "frequently",
+          "adjacent to",
+          "directly across from"
+        ],
+        "words": [
+          {
+            "word": "outdated",
+            "pos": "adj.",
+            "zh": "時代遅れの；旧式の",
+            "ex": "The new plant replaces an outdated facility.",
+            "exzh": "新工場は時代遅れの施設に取って代わる。",
+            "ipa": "/ˈaʊtˌdeɪtɪd/",
+            "audio": "media/words/ep58/outdated.mp3",
+            "ex_audio": "media/words/ep58/outdated_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "annually",
+            "pos": "adv.",
+            "zh": "毎年；年に1回",
+            "ex": "The plant can process 10 million kilos annually.",
+            "exzh": "その工場は年間1,000万キロを加工できる。",
+            "ipa": "/ˈænjuəli/",
+            "audio": "media/words/ep58/annually.mp3",
+            "ex_audio": "media/words/ep58/annually_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "figure",
+            "pos": "n.",
+            "zh": "数字；数値；人物；図",
+            "ex": "This figure is higher than last year.",
+            "exzh": "この数字は昨年より高い。",
+            "ipa": "/ˈfɪɡjɚ/",
+            "audio": "media/words/ep58/figure.mp3",
+            "ex_audio": "media/words/ep58/figure_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "loan",
+            "pos": "n./v.",
+            "zh": "融資；ローン；貸す",
+            "ex": "I need to request a loan from the bank.",
+            "exzh": "銀行に融資を申し込む必要がある。",
+            "ipa": "/loʊn/",
+            "audio": "media/words/ep58/loan.mp3",
+            "ex_audio": "media/words/ep58/loan_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "operate",
+            "pos": "v.",
+            "zh": "経営する；運営する；操作する",
+            "ex": "She owns and operates a local bakery.",
+            "exzh": "彼女は地元のパン店を所有し経営している。",
+            "ipa": "/ˈɑpɚˌeɪt/",
+            "audio": "media/words/ep58/operate.mp3",
+            "ex_audio": "media/words/ep58/operate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attach",
+            "pos": "v.",
+            "zh": "添付する；取り付ける",
+            "ex": "I have attached my business plan to this e-mail.",
+            "exzh": "このメールに事業計画書を添付しました。",
+            "ipa": "/əˈtætʃ/",
+            "audio": "media/words/ep58/attach.mp3",
+            "ex_audio": "media/words/ep58/attach_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "decline",
+            "pos": "v./n.",
+            "zh": "辞退する；断る；減少",
+            "ex": "He had to decline the job offer.",
+            "exzh": "彼は仕事のオファーを断らなければならなかった。",
+            "ipa": "/dɪˈklaɪn/",
+            "audio": "media/words/ep58/decline.mp3",
+            "ex_audio": "media/words/ep58/decline_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "given",
+            "pos": "prep.",
+            "zh": "…を考えると；…を考慮すると",
+            "ex": "Given my interest, the decision was difficult.",
+            "exzh": "私の関心を考えると、決断は難しかった。",
+            "ipa": "/ˈɡɪvən/",
+            "audio": "media/words/ep58/given.mp3",
+            "ex_audio": "media/words/ep58/given_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reference",
+            "pos": "n.",
+            "zh": "推薦者；身元保証；参照",
+            "ex": "I can provide additional references.",
+            "exzh": "推薦者をさらに提供できます。",
+            "ipa": "/ˈrɛfɚəns/",
+            "audio": "media/words/ep58/reference.mp3",
+            "ex_audio": "media/words/ep58/reference_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "municipal",
+            "pos": "adj.",
+            "zh": "市の；市営の",
+            "ex": "Details are on the municipal Web site.",
+            "exzh": "詳細は市のウェブサイトにある。",
+            "ipa": "/mjuˈnɪsəpəl/",
+            "audio": "media/words/ep58/municipal.mp3",
+            "ex_audio": "media/words/ep58/municipal_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "proposal",
+            "pos": "n.",
+            "zh": "提案；企画案",
+            "ex": "The council reviewed the proposal.",
+            "exzh": "議会は提案を検討した。",
+            "ipa": "/prəˈpoʊzəl/",
+            "audio": "media/words/ep58/proposal.mp3",
+            "ex_audio": "media/words/ep58/proposal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pedestrian",
+            "pos": "n./adj.",
+            "zh": "歩行者；歩行者用の",
+            "ex": "The road will be safer for pedestrians.",
+            "exzh": "この道は歩行者にとってより安全になる。",
+            "ipa": "/pəˈdɛstriən/",
+            "audio": "media/words/ep58/pedestrian.mp3",
+            "ex_audio": "media/words/ep58/pedestrian_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "let in",
+            "pos": "phr.",
+            "zh": "…を中に入れる",
+            "ex": "Please let the cleaners in at 8:00 a.m.",
+            "exzh": "朝8時に清掃員を中に入れてください。",
+            "ipa": "/lɛt ɪn/",
+            "audio": "media/words/ep58/let-in.mp3",
+            "ex_audio": "media/words/ep58/let-in_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "staff meeting",
+            "pos": "n.",
+            "zh": "職員会議；社内ミーティング",
+            "ex": "You can ask me at tomorrow's staff meeting.",
+            "exzh": "明日の職員会議で聞いてください。",
+            "ipa": "/stæf ˈmitɪŋ/",
+            "audio": "media/words/ep58/staff-meeting.mp3",
+            "ex_audio": "media/words/ep58/staff-meeting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "closed to the public",
+            "pos": "phr.",
+            "zh": "一般公開されていない",
+            "ex": "The museum is closed to the public on Tuesdays.",
+            "exzh": "博物館は火曜日は一般公開されていない。",
+            "ipa": "/kloʊzd tu ðə ˈpʌblɪk/",
+            "audio": "media/words/ep58/closed-to-the-public.mp3",
+            "ex_audio": "media/words/ep58/closed-to-the-public_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "once a week",
+            "pos": "phr.",
+            "zh": "週に1回",
+            "ex": "The cleaning service comes once a week.",
+            "exzh": "清掃サービスは週に1回来る。",
+            "ipa": "/wʌns ə wik/",
+            "audio": "media/words/ep58/once-a-week.mp3",
+            "ex_audio": "media/words/ep58/once-a-week_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "showtime",
+            "pos": "n.",
+            "zh": "上映時間；開演時間",
+            "ex": "The showtimes are 10 A.M. and 2 P.M.",
+            "exzh": "上映時間は午前10時と午後2時だ。",
+            "ipa": "/ˈʃoʊˌtaɪm/",
+            "audio": "media/words/ep58/showtime.mp3",
+            "ex_audio": "media/words/ep58/showtime_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "noon",
+            "pos": "n.",
+            "zh": "正午",
+            "ex": "The film starts at noon.",
+            "exzh": "映画は正午に始まる。",
+            "ipa": "/nun/",
+            "audio": "media/words/ep58/noon.mp3",
+            "ex_audio": "media/words/ep58/noon_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "gallery",
+            "pos": "n.",
+            "zh": "展示室；ギャラリー",
+            "ex": "The windows in the pottery gallery need cleaning.",
+            "exzh": "陶芸展示室の窓は掃除が必要だ。",
+            "ipa": "/ˈɡælɚi/",
+            "audio": "media/words/ep58/gallery.mp3",
+            "ex_audio": "media/words/ep58/gallery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "frequently",
+            "pos": "adv.",
+            "zh": "頻繁に；よく",
+            "ex": "These windows are frequently missed.",
+            "exzh": "この窓はよく見落とされる。",
+            "ipa": "/ˈfrikwəntli/",
+            "audio": "media/words/ep58/frequently.mp3",
+            "ex_audio": "media/words/ep58/frequently_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "adjacent to",
+            "pos": "phr.",
+            "zh": "…に隣接した",
+            "ex": "The store is adjacent to the gallery.",
+            "exzh": "店は展示室に隣接している。",
+            "ipa": "/əˈdʒeɪsənt tu/",
+            "audio": "media/words/ep58/adjacent-to.mp3",
+            "ex_audio": "media/words/ep58/adjacent-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "directly across from",
+            "pos": "phr.",
+            "zh": "…の真向かいに",
+            "ex": "The cafe is directly across from the museum.",
+            "exzh": "カフェは博物館の真向かいにある。",
+            "ipa": "/dɚˈɛktli əˈkrɔs frʌm/",
+            "audio": "media/words/ep58/directly-across-from.mp3",
+            "ex_audio": "media/words/ep58/directly-across-from_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep58_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 6 文の挿入（上）：前を受けて、後ろへつなぐ",
+    "words": [
+      {
+        "word": "outdated",
+        "pos": "adj.",
+        "zh": "过时的；陈旧的",
+        "ex": "The new plant replaces an outdated facility.",
+        "exzh": "新工厂取代了一个老旧的设施。",
+        "ipa": "/ˈaʊtˌdeɪtɪd/",
+        "audio": "media/words/ep58/outdated.mp3",
+        "ex_audio": "media/words/ep58/outdated_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "annually",
+        "pos": "adv.",
+        "zh": "每年；按年",
+        "ex": "The plant can process 10 million kilos annually.",
+        "exzh": "这家工厂每年能加工一千万公斤。",
+        "ipa": "/ˈænjuəli/",
+        "audio": "media/words/ep58/annually.mp3",
+        "ex_audio": "media/words/ep58/annually_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "figure",
+        "pos": "n.",
+        "zh": "数字；数据；人物；图形",
+        "ex": "This figure is higher than last year.",
+        "exzh": "这个数字比去年高。",
+        "ipa": "/ˈfɪɡjɚ/",
+        "audio": "media/words/ep58/figure.mp3",
+        "ex_audio": "media/words/ep58/figure_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "loan",
+        "pos": "n./v.",
+        "zh": "贷款；借出",
+        "ex": "I need to request a loan from the bank.",
+        "exzh": "我需要向银行申请贷款。",
+        "ipa": "/loʊn/",
+        "audio": "media/words/ep58/loan.mp3",
+        "ex_audio": "media/words/ep58/loan_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "operate",
+        "pos": "v.",
+        "zh": "经营；运营；操作；运转",
+        "ex": "She owns and operates a local bakery.",
+        "exzh": "她拥有并经营一家本地面包店。",
+        "ipa": "/ˈɑpɚˌeɪt/",
+        "audio": "media/words/ep58/operate.mp3",
+        "ex_audio": "media/words/ep58/operate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attach",
+        "pos": "v.",
+        "zh": "附上；附加；连接",
+        "ex": "I have attached my business plan to this e-mail.",
+        "exzh": "我在这封邮件里附上了商业计划书。",
+        "ipa": "/əˈtætʃ/",
+        "audio": "media/words/ep58/attach.mp3",
+        "ex_audio": "media/words/ep58/attach_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "decline",
+        "pos": "v./n.",
+        "zh": "婉拒；谢绝；下降",
+        "ex": "He had to decline the job offer.",
+        "exzh": "他只好婉拒这份工作邀请。",
+        "ipa": "/dɪˈklaɪn/",
+        "audio": "media/words/ep58/decline.mp3",
+        "ex_audio": "media/words/ep58/decline_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "given",
+        "pos": "prep.",
+        "zh": "考虑到；鉴于",
+        "ex": "Given my interest, the decision was difficult.",
+        "exzh": "考虑到我的兴趣，这个决定很艰难。",
+        "ipa": "/ˈɡɪvən/",
+        "audio": "media/words/ep58/given.mp3",
+        "ex_audio": "media/words/ep58/given_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reference",
+        "pos": "n.",
+        "zh": "推荐人；推荐信；参考",
+        "ex": "I can provide additional references.",
+        "exzh": "我可以提供更多推荐人。",
+        "ipa": "/ˈrɛfɚəns/",
+        "audio": "media/words/ep58/reference.mp3",
+        "ex_audio": "media/words/ep58/reference_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "municipal",
+        "pos": "adj.",
+        "zh": "市政的；市的",
+        "ex": "Details are on the municipal Web site.",
+        "exzh": "详情在市政网站上。",
+        "ipa": "/mjuˈnɪsəpəl/",
+        "audio": "media/words/ep58/municipal.mp3",
+        "ex_audio": "media/words/ep58/municipal_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案；方案；建议书",
+        "ex": "The council reviewed the proposal.",
+        "exzh": "市议会审阅了这份提案。",
+        "ipa": "/prəˈpoʊzəl/",
+        "audio": "media/words/ep58/proposal.mp3",
+        "ex_audio": "media/words/ep58/proposal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pedestrian",
+        "pos": "n./adj.",
+        "zh": "行人；步行的",
+        "ex": "The road will be safer for pedestrians.",
+        "exzh": "这条路对行人会更安全。",
+        "ipa": "/pəˈdɛstriən/",
+        "audio": "media/words/ep58/pedestrian.mp3",
+        "ex_audio": "media/words/ep58/pedestrian_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "let in",
+        "pos": "phr.",
+        "zh": "让……进来；放……进入",
+        "ex": "Please let the cleaners in at 8:00 a.m.",
+        "exzh": "请在早上八点让清洁工进来。",
+        "ipa": "/lɛt ɪn/",
+        "audio": "media/words/ep58/let-in.mp3",
+        "ex_audio": "media/words/ep58/let-in_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "staff meeting",
+        "pos": "n.",
+        "zh": "员工会议",
+        "ex": "You can ask me at tomorrow's staff meeting.",
+        "exzh": "你可以在明天的员工会议上问我。",
+        "ipa": "/stæf ˈmitɪŋ/",
+        "audio": "media/words/ep58/staff-meeting.mp3",
+        "ex_audio": "media/words/ep58/staff-meeting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "closed to the public",
+        "pos": "phr.",
+        "zh": "不对公众开放",
+        "ex": "The museum is closed to the public on Tuesdays.",
+        "exzh": "博物馆星期二不对公众开放。",
+        "ipa": "/kloʊzd tu ðə ˈpʌblɪk/",
+        "audio": "media/words/ep58/closed-to-the-public.mp3",
+        "ex_audio": "media/words/ep58/closed-to-the-public_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "once a week",
+        "pos": "phr.",
+        "zh": "每周一次",
+        "ex": "The cleaning service comes once a week.",
+        "exzh": "清洁服务每周来一次。",
+        "ipa": "/wʌns ə wik/",
+        "audio": "media/words/ep58/once-a-week.mp3",
+        "ex_audio": "media/words/ep58/once-a-week_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "showtime",
+        "pos": "n.",
+        "zh": "放映时间；开演时间",
+        "ex": "The showtimes are 10 A.M. and 2 P.M.",
+        "exzh": "放映时间是上午十点和下午两点。",
+        "ipa": "/ˈʃoʊˌtaɪm/",
+        "audio": "media/words/ep58/showtime.mp3",
+        "ex_audio": "media/words/ep58/showtime_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "noon",
+        "pos": "n.",
+        "zh": "中午；正午",
+        "ex": "The film starts at noon.",
+        "exzh": "影片中午开始放映。",
+        "ipa": "/nun/",
+        "audio": "media/words/ep58/noon.mp3",
+        "ex_audio": "media/words/ep58/noon_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "gallery",
+        "pos": "n.",
+        "zh": "展厅；画廊；美术馆",
+        "ex": "The windows in the pottery gallery need cleaning.",
+        "exzh": "陶艺展厅的窗户需要清洗。",
+        "ipa": "/ˈɡælɚi/",
+        "audio": "media/words/ep58/gallery.mp3",
+        "ex_audio": "media/words/ep58/gallery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "frequently",
+        "pos": "adv.",
+        "zh": "经常；频繁地",
+        "ex": "These windows are frequently missed.",
+        "exzh": "这些窗户经常被漏掉。",
+        "ipa": "/ˈfrikwəntli/",
+        "audio": "media/words/ep58/frequently.mp3",
+        "ex_audio": "media/words/ep58/frequently_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "adjacent to",
+        "pos": "phr.",
+        "zh": "邻近；毗邻",
+        "ex": "The store is adjacent to the gallery.",
+        "exzh": "商店紧邻展厅。",
+        "ipa": "/əˈdʒeɪsənt tu/",
+        "audio": "media/words/ep58/adjacent-to.mp3",
+        "ex_audio": "media/words/ep58/adjacent-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "directly across from",
+        "pos": "phr.",
+        "zh": "正对面；就在……对面",
+        "ex": "The cafe is directly across from the museum.",
+        "exzh": "咖啡馆就在博物馆正对面。",
+        "ipa": "/dɚˈɛktli əˈkrɔs frʌm/",
+        "audio": "media/words/ep58/directly-across-from.mp3",
+        "ex_audio": "media/words/ep58/directly-across-from_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 57,
     "theme": "题型精讲 · Part 5 收官：介词 · 副词 · 连接表达 · 词性补漏",
     "date": "2026-11-08",
