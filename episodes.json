@@ -1,5 +1,996 @@
 [
   {
+    "number": 59,
+    "theme": "题型精讲 · Part 6 语法 · 词汇 · 连接词：线索在前后句",
+    "date": "2026-11-10",
+    "duration_sec": 2567.3,
+    "segments": [
+      {
+        "title": "1. Part 6 语法 · 词汇 · 连接词 12 题 + Part 7 三篇阅读（顾客邮件 · 经理邮件 · 员工通讯）",
+        "start": 0.0,
+        "length": 1996.84
+      },
+      {
+        "title": "2. 本期 30 词总复习 · 拼读",
+        "start": 1996.84,
+        "length": 570.46
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "facility",
+        "zh": "设施；场所；工厂"
+      },
+      {
+        "word": "ensure",
+        "zh": "确保；保证"
+      },
+      {
+        "word": "precisely",
+        "zh": "准确地；确切地"
+      },
+      {
+        "word": "modification",
+        "zh": "修改；改动"
+      },
+      {
+        "word": "implement",
+        "zh": "实施；执行"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "facility",
+        "zh": "设施；场所；工厂"
+      },
+      {
+        "word": "replace",
+        "zh": "取代；替换"
+      },
+      {
+        "word": "ensure",
+        "zh": "确保；保证"
+      },
+      {
+        "word": "supplier",
+        "zh": "供应商"
+      },
+      {
+        "word": "ripe",
+        "zh": "成熟的；熟的"
+      },
+      {
+        "word": "increasingly",
+        "zh": "越来越；日益"
+      },
+      {
+        "word": "successful",
+        "zh": "成功的；生意好的"
+      },
+      {
+        "word": "in fact",
+        "zh": "事实上；实际上"
+      },
+      {
+        "word": "baked goods",
+        "zh": "烘焙食品"
+      },
+      {
+        "word": "precisely",
+        "zh": "准确地；确切地"
+      },
+      {
+        "word": "regarding",
+        "zh": "关于"
+      },
+      {
+        "word": "opportunity",
+        "zh": "机会"
+      },
+      {
+        "word": "mechanical engineer",
+        "zh": "机械工程师"
+      },
+      {
+        "word": "thoroughly",
+        "zh": "非常；彻底地"
+      },
+      {
+        "word": "technician",
+        "zh": "技术人员"
+      },
+      {
+        "word": "agricultural",
+        "zh": "农业的"
+      },
+      {
+        "word": "widen",
+        "zh": "拓宽；加宽"
+      },
+      {
+        "word": "primary",
+        "zh": "主要的；首要的"
+      },
+      {
+        "word": "secondary",
+        "zh": "次要的；第二位的"
+      },
+      {
+        "word": "aim",
+        "zh": "目标；旨在"
+      },
+      {
+        "word": "modification",
+        "zh": "修改；改动"
+      },
+      {
+        "word": "existing",
+        "zh": "现有的"
+      },
+      {
+        "word": "competitive",
+        "zh": "有竞争力的；；价格；实惠的"
+      },
+      {
+        "word": "curbside pickup",
+        "zh": "路边取货；网上下单；店员把商品送到车上"
+      },
+      {
+        "word": "be willing to",
+        "zh": "愿意；做"
+      },
+      {
+        "word": "competitor",
+        "zh": "竞争对手"
+      },
+      {
+        "word": "customer base",
+        "zh": "客户群；顾客基础"
+      },
+      {
+        "word": "enhancement",
+        "zh": "改进；增强；的功能"
+      },
+      {
+        "word": "implement",
+        "zh": "实施；执行"
+      },
+      {
+        "word": "designated",
+        "zh": "指定的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep59.mp4",
+    "script_pdf": "media/ep59_script.pdf",
+    "source_video": "ep59.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep59.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep59.mp4",
+        "script_pdf": "media/ep59_script.pdf",
+        "duration_sec": 2567.3,
+        "theme": "题型精讲 · Part 6 语法 · 词汇 · 连接词：线索在前后句",
+        "segments": [
+          {
+            "title": "1. Part 6 语法 · 词汇 · 连接词 12 题 + Part 7 三篇阅读（顾客邮件 · 经理邮件 · 员工通讯）",
+            "start": 0.0,
+            "length": 1996.84
+          },
+          {
+            "title": "2. 本期 30 词总复习 · 拼读",
+            "start": 1996.84,
+            "length": 570.46
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep59ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep59ja.mp4",
+        "script_pdf": "media/ep59ja_script.pdf",
+        "duration_sec": 3095.0,
+        "theme": "問題タイプ別精講 · Part 6 文法 · 語彙 · 接続の語：手がかりは前後の文に",
+        "segments": [
+          {
+            "title": "1. Part 6 文法 · 語彙 · 接続の語 12問 + Part 7 3文書の読解（客のメール · 責任者のメール · 社員向けニュースレター）",
+            "start": 0.0,
+            "length": 2469.44
+          },
+          {
+            "title": "2. 今回の 30 語総復習 · スペル",
+            "start": 2469.44,
+            "length": 625.54
+          }
+        ],
+        "poster": "media/ep59ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "facility",
+            "zh": "施設；設備；工場"
+          },
+          {
+            "word": "ensure",
+            "zh": "確実にする；保証する"
+          },
+          {
+            "word": "precisely",
+            "zh": "正確に；まさに"
+          },
+          {
+            "word": "modification",
+            "zh": "変更；修正"
+          },
+          {
+            "word": "implement",
+            "zh": "実施する；導入する"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "facility",
+          "replace",
+          "ensure",
+          "supplier",
+          "ripe",
+          "increasingly",
+          "successful",
+          "in fact",
+          "baked goods",
+          "precisely",
+          "regarding",
+          "opportunity",
+          "mechanical engineer",
+          "thoroughly",
+          "technician",
+          "agricultural",
+          "widen",
+          "primary",
+          "secondary",
+          "aim",
+          "modification",
+          "existing",
+          "competitive",
+          "curbside pickup",
+          "be willing to",
+          "competitor",
+          "customer base",
+          "enhancement",
+          "implement",
+          "designated"
+        ],
+        "words": [
+          {
+            "word": "facility",
+            "pos": "n.",
+            "zh": "施設；設備；工場",
+            "ex": "It replaces an outdated facility located nearby.",
+            "exzh": "それは近くにある時代遅れの施設に取って代わる。",
+            "ipa": "/fəˈsɪlɪti/",
+            "audio": "media/words/ep59/facility.mp3",
+            "ex_audio": "media/words/ep59/facility_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "replace",
+            "pos": "v.",
+            "zh": "取って代わる；取り替える",
+            "ex": "The new plant replaces the old one.",
+            "exzh": "新工場が古い工場に取って代わる。",
+            "ipa": "/ˌriˈpleɪs/",
+            "audio": "media/words/ep59/replace.mp3",
+            "ex_audio": "media/words/ep59/replace_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ensure",
+            "pos": "v.",
+            "zh": "確実にする；保証する",
+            "ex": "We work closely with suppliers to ensure quality.",
+            "exzh": "品質を確実にするため、供給業者と緊密に協力している。",
+            "ipa": "/ɛnˈʃʊr/",
+            "audio": "media/words/ep59/ensure.mp3",
+            "ex_audio": "media/words/ep59/ensure_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "supplier",
+            "pos": "n.",
+            "zh": "供給業者；仕入れ先",
+            "ex": "Norlich works with its local network of suppliers.",
+            "exzh": "Norlich は地元の供給業者のネットワークと協力している。",
+            "ipa": "/səˈplaɪɚ/",
+            "audio": "media/words/ep59/supplier.mp3",
+            "ex_audio": "media/words/ep59/supplier_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ripe",
+            "pos": "adj.",
+            "zh": "熟した",
+            "ex": "Vegetables are picked when they are ripest.",
+            "exzh": "野菜は最も熟したときに収穫される。",
+            "ipa": "/raɪp/",
+            "audio": "media/words/ep59/ripe.mp3",
+            "ex_audio": "media/words/ep59/ripe_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "increasingly",
+            "pos": "adv.",
+            "zh": "ますます；いっそう",
+            "ex": "The bakery has become increasingly successful.",
+            "exzh": "そのパン店はますます成功している。",
+            "ipa": "/ɪnˈkrisɪŋli/",
+            "audio": "media/words/ep59/increasingly.mp3",
+            "ex_audio": "media/words/ep59/increasingly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "successful",
+            "pos": "adj.",
+            "zh": "成功した；好調な",
+            "ex": "Her new business is very successful.",
+            "exzh": "彼女の新しい事業はとても好調だ。",
+            "ipa": "/səkˈsɛsfəl/",
+            "audio": "media/words/ep59/successful.mp3",
+            "ex_audio": "media/words/ep59/successful_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in fact",
+            "pos": "phr.",
+            "zh": "実際に；実は",
+            "ex": "In fact, my bakery is doing so well.",
+            "exzh": "実際、私のパン店はとても好調だ。",
+            "ipa": "/ɪn fækt/",
+            "audio": "media/words/ep59/in-fact.mp3",
+            "ex_audio": "media/words/ep59/in-fact_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "baked goods",
+            "pos": "n.",
+            "zh": "焼き菓子；パン類",
+            "ex": "The coffee shop will also sell baked goods.",
+            "exzh": "そのカフェでは焼き菓子も売る。",
+            "ipa": "/beɪkt ɡʊdz/",
+            "audio": "media/words/ep59/baked-goods.mp3",
+            "ex_audio": "media/words/ep59/baked-goods_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "precisely",
+            "pos": "adv.",
+            "zh": "正確に；まさに",
+            "ex": "You can see precisely how I plan to use the loan.",
+            "exzh": "融資をどう使う予定か、正確にわかります。",
+            "ipa": "/prɪˈsaɪsli/",
+            "audio": "media/words/ep59/precisely.mp3",
+            "ex_audio": "media/words/ep59/precisely_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "regarding",
+            "pos": "prep.",
+            "zh": "…に関して",
+            "ex": "Please contact me regarding the next steps.",
+            "exzh": "次の手順に関してご連絡ください。",
+            "ipa": "/rɪˈɡɑrdɪŋ/",
+            "audio": "media/words/ep59/regarding.mp3",
+            "ex_audio": "media/words/ep59/regarding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "opportunity",
+            "pos": "n.",
+            "zh": "機会",
+            "ex": "Thank you for the opportunity to work with you.",
+            "exzh": "一緒に働く機会をいただき、ありがとうございます。",
+            "ipa": "/ˌɑpɚˈtunəti/",
+            "audio": "media/words/ep59/opportunity.mp3",
+            "ex_audio": "media/words/ep59/opportunity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mechanical engineer",
+            "pos": "n.",
+            "zh": "機械技師",
+            "ex": "He was offered a job as a mechanical engineer.",
+            "exzh": "彼は機械技師としての仕事のオファーを受けた。",
+            "ipa": "/məˈkænɪkəl ˈɛndʒəˈnɪr/",
+            "audio": "media/words/ep59/mechanical-engineer.mp3",
+            "ex_audio": "media/words/ep59/mechanical-engineer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "thoroughly",
+            "pos": "adv.",
+            "zh": "心から；徹底的に",
+            "ex": "I thoroughly enjoyed meeting you.",
+            "exzh": "お会いできて本当に楽しかったです。",
+            "ipa": "/ˈθɝoʊli/",
+            "audio": "media/words/ep59/thoroughly.mp3",
+            "ex_audio": "media/words/ep59/thoroughly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "technician",
+            "pos": "n.",
+            "zh": "技術者",
+            "ex": "The technicians showed me the farm equipment.",
+            "exzh": "技術者たちが農場の機械を見せてくれた。",
+            "ipa": "/tɛkˈnɪʃən/",
+            "audio": "media/words/ep59/technician.mp3",
+            "ex_audio": "media/words/ep59/technician_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "agricultural",
+            "pos": "adj.",
+            "zh": "農業の",
+            "ex": "We may meet again at an agricultural event.",
+            "exzh": "農業のイベントでまた会えるかもしれない。",
+            "ipa": "/ˌæɡrəˈkʌltʃɚəl/",
+            "audio": "media/words/ep59/agricultural.mp3",
+            "ex_audio": "media/words/ep59/agricultural_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "widen",
+            "pos": "v.",
+            "zh": "広げる；拡幅する",
+            "ex": "The town plans to widen Clifton Road.",
+            "exzh": "町は Clifton Road を拡幅する予定だ。",
+            "ipa": "/ˈwaɪdən/",
+            "audio": "media/words/ep59/widen.mp3",
+            "ex_audio": "media/words/ep59/widen_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "primary",
+            "pos": "adj.",
+            "zh": "主な；第一の",
+            "ex": "The primary goal is to make the road safer.",
+            "exzh": "主な目的は道路をより安全にすることだ。",
+            "ipa": "/ˈpraɪˌmɛri/",
+            "audio": "media/words/ep59/primary.mp3",
+            "ex_audio": "media/words/ep59/primary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "secondary",
+            "pos": "adj.",
+            "zh": "二次的な；第二の",
+            "ex": "A secondary aim is to reduce traffic jams.",
+            "exzh": "第二の目的は交通渋滞を減らすことだ。",
+            "ipa": "/ˈsɛkənˌdɛri/",
+            "audio": "media/words/ep59/secondary.mp3",
+            "ex_audio": "media/words/ep59/secondary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "aim",
+            "pos": "n./v.",
+            "zh": "目的；目指す",
+            "ex": "The aim of the project is to reduce traffic.",
+            "exzh": "そのプロジェクトの目的は交通量を減らすことだ。",
+            "ipa": "/eɪm/",
+            "audio": "media/words/ep59/aim.mp3",
+            "ex_audio": "media/words/ep59/aim_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "modification",
+            "pos": "n.",
+            "zh": "変更；修正",
+            "ex": "Any modifications made must allow easy access.",
+            "exzh": "行われる変更はすべて、出入りしやすいものでなければならない。",
+            "ipa": "/ˌmɑdəfəˈkeɪʃən/",
+            "audio": "media/words/ep59/modification.mp3",
+            "ex_audio": "media/words/ep59/modification_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "existing",
+            "pos": "adj.",
+            "zh": "既存の；現在の",
+            "ex": "Existing sidewalks will be extended.",
+            "exzh": "既存の歩道は延長される。",
+            "ipa": "/ɪɡˈzɪstɪŋ/",
+            "audio": "media/words/ep59/existing.mp3",
+            "ex_audio": "media/words/ep59/existing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "competitive",
+            "pos": "adj.",
+            "zh": "競争力のある；（価格が）安い",
+            "ex": "Prices at your store are very competitive.",
+            "exzh": "御社の店の価格はとても競争力がある。",
+            "ipa": "/kəmˈpɛtətɪv/",
+            "audio": "media/words/ep59/competitive.mp3",
+            "ex_audio": "media/words/ep59/competitive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "curbside pickup",
+            "pos": "n.",
+            "zh": "店頭での車受け取り（ネット注文、店員が車まで届ける）",
+            "ex": "Curbside pickup will begin on August 1.",
+            "exzh": "車での受け取りサービスは8月1日に始まる。",
+            "ipa": "/ˈkɝbˌsaɪd ˈpɪˌkʌp/",
+            "audio": "media/words/ep59/curbside-pickup.mp3",
+            "ex_audio": "media/words/ep59/curbside-pickup_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be willing to",
+            "pos": "phr.",
+            "zh": "…してもかまわない；進んで…する",
+            "ex": "I would be willing to pay a small fee.",
+            "exzh": "少額の料金なら払ってもかまわない。",
+            "ipa": "/bi ˈwɪlɪŋ tu/",
+            "audio": "media/words/ep59/be-willing-to.mp3",
+            "ex_audio": "media/words/ep59/be-willing-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "competitor",
+            "pos": "n.",
+            "zh": "競合相手；ライバル",
+            "ex": "We are losing customers to our closest competitor.",
+            "exzh": "最も近い競合店に客を奪われている。",
+            "ipa": "/kəmˈpɛtətɚ/",
+            "audio": "media/words/ep59/competitor.mp3",
+            "ex_audio": "media/words/ep59/competitor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "customer base",
+            "pos": "n.",
+            "zh": "顧客層；顧客基盤",
+            "ex": "The new service could increase our customer base.",
+            "exzh": "新しいサービスで顧客層を広げられる。",
+            "ipa": "/ˈkʌstəmɚ beɪs/",
+            "audio": "media/words/ep59/customer-base.mp3",
+            "ex_audio": "media/words/ep59/customer-base_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "enhancement",
+            "pos": "n.",
+            "zh": "改良；機能の強化",
+            "ex": "He offered to add an enhancement to the Web site.",
+            "exzh": "彼はウェブサイトに機能を追加すると申し出た。",
+            "ipa": "/ɛnˈhænsmənt/",
+            "audio": "media/words/ep59/enhancement.mp3",
+            "ex_audio": "media/words/ep59/enhancement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "implement",
+            "pos": "v.",
+            "zh": "実施する；導入する",
+            "ex": "The store is implementing curbside pickup.",
+            "exzh": "その店は車での受け取りサービスを導入している。",
+            "ipa": "/ˈɪmpləmənt/",
+            "audio": "media/words/ep59/implement.mp3",
+            "ex_audio": "media/words/ep59/implement_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "designated",
+            "pos": "adj.",
+            "zh": "指定された",
+            "ex": "Customers wait in a designated parking space.",
+            "exzh": "客は指定された駐車スペースで待つ。",
+            "ipa": "/ˈdɛzɪɡˌneɪtɪd/",
+            "audio": "media/words/ep59/designated.mp3",
+            "ex_audio": "media/words/ep59/designated_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep59_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 6 文法 · 語彙 · 接続の語：手がかりは前後の文に",
+    "words": [
+      {
+        "word": "facility",
+        "pos": "n.",
+        "zh": "设施；场所；工厂",
+        "ex": "It replaces an outdated facility located nearby.",
+        "exzh": "它取代了附近一个老旧的设施。",
+        "ipa": "/fəˈsɪlɪti/",
+        "audio": "media/words/ep59/facility.mp3",
+        "ex_audio": "media/words/ep59/facility_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "replace",
+        "pos": "v.",
+        "zh": "取代；替换",
+        "ex": "The new plant replaces the old one.",
+        "exzh": "新工厂取代了旧工厂。",
+        "ipa": "/ˌriˈpleɪs/",
+        "audio": "media/words/ep59/replace.mp3",
+        "ex_audio": "media/words/ep59/replace_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ensure",
+        "pos": "v.",
+        "zh": "确保；保证",
+        "ex": "We work closely with suppliers to ensure quality.",
+        "exzh": "我们和供应商密切合作，以确保质量。",
+        "ipa": "/ɛnˈʃʊr/",
+        "audio": "media/words/ep59/ensure.mp3",
+        "ex_audio": "media/words/ep59/ensure_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "supplier",
+        "pos": "n.",
+        "zh": "供应商",
+        "ex": "Norlich works with its local network of suppliers.",
+        "exzh": "Norlich 和本地的供应商网络合作。",
+        "ipa": "/səˈplaɪɚ/",
+        "audio": "media/words/ep59/supplier.mp3",
+        "ex_audio": "media/words/ep59/supplier_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ripe",
+        "pos": "adj.",
+        "zh": "成熟的；熟的",
+        "ex": "Vegetables are picked when they are ripest.",
+        "exzh": "蔬菜在最成熟的时候采摘。",
+        "ipa": "/raɪp/",
+        "audio": "media/words/ep59/ripe.mp3",
+        "ex_audio": "media/words/ep59/ripe_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "increasingly",
+        "pos": "adv.",
+        "zh": "越来越；日益",
+        "ex": "The bakery has become increasingly successful.",
+        "exzh": "这家面包店越来越成功。",
+        "ipa": "/ɪnˈkrisɪŋli/",
+        "audio": "media/words/ep59/increasingly.mp3",
+        "ex_audio": "media/words/ep59/increasingly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "successful",
+        "pos": "adj.",
+        "zh": "成功的；生意好的",
+        "ex": "Her new business is very successful.",
+        "exzh": "她的新生意非常成功。",
+        "ipa": "/səkˈsɛsfəl/",
+        "audio": "media/words/ep59/successful.mp3",
+        "ex_audio": "media/words/ep59/successful_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in fact",
+        "pos": "phr.",
+        "zh": "事实上；实际上",
+        "ex": "In fact, my bakery is doing so well.",
+        "exzh": "事实上，我的面包店生意非常好。",
+        "ipa": "/ɪn fækt/",
+        "audio": "media/words/ep59/in-fact.mp3",
+        "ex_audio": "media/words/ep59/in-fact_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "baked goods",
+        "pos": "n.",
+        "zh": "烘焙食品",
+        "ex": "The coffee shop will also sell baked goods.",
+        "exzh": "这家咖啡店也会卖烘焙食品。",
+        "ipa": "/beɪkt ɡʊdz/",
+        "audio": "media/words/ep59/baked-goods.mp3",
+        "ex_audio": "media/words/ep59/baked-goods_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "precisely",
+        "pos": "adv.",
+        "zh": "准确地；确切地",
+        "ex": "You can see precisely how I plan to use the loan.",
+        "exzh": "您可以准确地看到我打算怎样使用贷款。",
+        "ipa": "/prɪˈsaɪsli/",
+        "audio": "media/words/ep59/precisely.mp3",
+        "ex_audio": "media/words/ep59/precisely_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "regarding",
+        "pos": "prep.",
+        "zh": "关于",
+        "ex": "Please contact me regarding the next steps.",
+        "exzh": "请就下一步和我联系。",
+        "ipa": "/rɪˈɡɑrdɪŋ/",
+        "audio": "media/words/ep59/regarding.mp3",
+        "ex_audio": "media/words/ep59/regarding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "opportunity",
+        "pos": "n.",
+        "zh": "机会",
+        "ex": "Thank you for the opportunity to work with you.",
+        "exzh": "感谢您给我和您共事的机会。",
+        "ipa": "/ˌɑpɚˈtunəti/",
+        "audio": "media/words/ep59/opportunity.mp3",
+        "ex_audio": "media/words/ep59/opportunity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mechanical engineer",
+        "pos": "n.",
+        "zh": "机械工程师",
+        "ex": "He was offered a job as a mechanical engineer.",
+        "exzh": "他收到了机械工程师职位的录用通知。",
+        "ipa": "/məˈkænɪkəl ˈɛndʒəˈnɪr/",
+        "audio": "media/words/ep59/mechanical-engineer.mp3",
+        "ex_audio": "media/words/ep59/mechanical-engineer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "thoroughly",
+        "pos": "adv.",
+        "zh": "非常；彻底地",
+        "ex": "I thoroughly enjoyed meeting you.",
+        "exzh": "和您见面我非常愉快。",
+        "ipa": "/ˈθɝoʊli/",
+        "audio": "media/words/ep59/thoroughly.mp3",
+        "ex_audio": "media/words/ep59/thoroughly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "technician",
+        "pos": "n.",
+        "zh": "技术人员",
+        "ex": "The technicians showed me the farm equipment.",
+        "exzh": "技术人员给我看了农场设备。",
+        "ipa": "/tɛkˈnɪʃən/",
+        "audio": "media/words/ep59/technician.mp3",
+        "ex_audio": "media/words/ep59/technician_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "agricultural",
+        "pos": "adj.",
+        "zh": "农业的",
+        "ex": "We may meet again at an agricultural event.",
+        "exzh": "我们也许会在农业活动上再见。",
+        "ipa": "/ˌæɡrəˈkʌltʃɚəl/",
+        "audio": "media/words/ep59/agricultural.mp3",
+        "ex_audio": "media/words/ep59/agricultural_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "widen",
+        "pos": "v.",
+        "zh": "拓宽；加宽",
+        "ex": "The town plans to widen Clifton Road.",
+        "exzh": "市里计划拓宽 Clifton 路。",
+        "ipa": "/ˈwaɪdən/",
+        "audio": "media/words/ep59/widen.mp3",
+        "ex_audio": "media/words/ep59/widen_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "primary",
+        "pos": "adj.",
+        "zh": "主要的；首要的",
+        "ex": "The primary goal is to make the road safer.",
+        "exzh": "主要目标是让道路更安全。",
+        "ipa": "/ˈpraɪˌmɛri/",
+        "audio": "media/words/ep59/primary.mp3",
+        "ex_audio": "media/words/ep59/primary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "secondary",
+        "pos": "adj.",
+        "zh": "次要的；第二位的",
+        "ex": "A secondary aim is to reduce traffic jams.",
+        "exzh": "第二个目标是减少交通堵塞。",
+        "ipa": "/ˈsɛkənˌdɛri/",
+        "audio": "media/words/ep59/secondary.mp3",
+        "ex_audio": "media/words/ep59/secondary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "aim",
+        "pos": "n./v.",
+        "zh": "目标；旨在",
+        "ex": "The aim of the project is to reduce traffic.",
+        "exzh": "这个项目的目标是减少交通流量。",
+        "ipa": "/eɪm/",
+        "audio": "media/words/ep59/aim.mp3",
+        "ex_audio": "media/words/ep59/aim_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "modification",
+        "pos": "n.",
+        "zh": "修改；改动",
+        "ex": "Any modifications made must allow easy access.",
+        "exzh": "所做的任何改动都必须方便进出。",
+        "ipa": "/ˌmɑdəfəˈkeɪʃən/",
+        "audio": "media/words/ep59/modification.mp3",
+        "ex_audio": "media/words/ep59/modification_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "existing",
+        "pos": "adj.",
+        "zh": "现有的",
+        "ex": "Existing sidewalks will be extended.",
+        "exzh": "现有的人行道将被延长。",
+        "ipa": "/ɪɡˈzɪstɪŋ/",
+        "audio": "media/words/ep59/existing.mp3",
+        "ex_audio": "media/words/ep59/existing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "competitive",
+        "pos": "adj.",
+        "zh": "有竞争力的；（价格）实惠的",
+        "ex": "Prices at your store are very competitive.",
+        "exzh": "你们店的价格很有竞争力。",
+        "ipa": "/kəmˈpɛtətɪv/",
+        "audio": "media/words/ep59/competitive.mp3",
+        "ex_audio": "media/words/ep59/competitive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "curbside pickup",
+        "pos": "n.",
+        "zh": "路边取货（网上下单，店员把商品送到车上）",
+        "ex": "Curbside pickup will begin on August 1.",
+        "exzh": "路边取货服务将于八月一日开始。",
+        "ipa": "/ˈkɝbˌsaɪd ˈpɪˌkʌp/",
+        "audio": "media/words/ep59/curbside-pickup.mp3",
+        "ex_audio": "media/words/ep59/curbside-pickup_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be willing to",
+        "pos": "phr.",
+        "zh": "愿意（做）",
+        "ex": "I would be willing to pay a small fee.",
+        "exzh": "我愿意付一点手续费。",
+        "ipa": "/bi ˈwɪlɪŋ tu/",
+        "audio": "media/words/ep59/be-willing-to.mp3",
+        "ex_audio": "media/words/ep59/be-willing-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "competitor",
+        "pos": "n.",
+        "zh": "竞争对手",
+        "ex": "We are losing customers to our closest competitor.",
+        "exzh": "我们的顾客正在流向最近的竞争对手。",
+        "ipa": "/kəmˈpɛtətɚ/",
+        "audio": "media/words/ep59/competitor.mp3",
+        "ex_audio": "media/words/ep59/competitor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "customer base",
+        "pos": "n.",
+        "zh": "客户群；顾客基础",
+        "ex": "The new service could increase our customer base.",
+        "exzh": "这项新服务能扩大我们的客户群。",
+        "ipa": "/ˈkʌstəmɚ beɪs/",
+        "audio": "media/words/ep59/customer-base.mp3",
+        "ex_audio": "media/words/ep59/customer-base_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "enhancement",
+        "pos": "n.",
+        "zh": "改进；增强（的功能）",
+        "ex": "He offered to add an enhancement to the Web site.",
+        "exzh": "他主动提出给网站增加一项改进功能。",
+        "ipa": "/ɛnˈhænsmənt/",
+        "audio": "media/words/ep59/enhancement.mp3",
+        "ex_audio": "media/words/ep59/enhancement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "implement",
+        "pos": "v.",
+        "zh": "实施；执行",
+        "ex": "The store is implementing curbside pickup.",
+        "exzh": "这家店正在实施路边取货服务。",
+        "ipa": "/ˈɪmpləmənt/",
+        "audio": "media/words/ep59/implement.mp3",
+        "ex_audio": "media/words/ep59/implement_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "designated",
+        "pos": "adj.",
+        "zh": "指定的",
+        "ex": "Customers wait in a designated parking space.",
+        "exzh": "顾客在指定的停车位等候。",
+        "ipa": "/ˈdɛzɪɡˌneɪtɪd/",
+        "audio": "media/words/ep59/designated.mp3",
+        "ex_audio": "media/words/ep59/designated_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 58,
     "theme": "题型精讲 · Part 6 句子插入（上）：承接上文 · 引出下文",
     "date": "2026-11-09",
