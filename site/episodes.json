@@ -1,5 +1,1025 @@
 [
   {
+    "number": 60,
+    "theme": "题型精讲 · Part 6 句子插入（Test 2 · Test 3）：代词、关键词、逻辑关系",
+    "date": "2026-11-11",
+    "duration_sec": 2899.1,
+    "segments": [
+      {
+        "title": "1. Part 6 句子插入 8 题（Test 2 · Test 3）+ Part 7 三篇阅读（报告 · 邮件 · 便条）",
+        "start": 0.0,
+        "length": 2302.25
+      },
+      {
+        "title": "2. 本期 31 词总复习 · 拼读",
+        "start": 2302.25,
+        "length": 596.83
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "warranty",
+        "zh": "保修；保修单"
+      },
+      {
+        "word": "congestion",
+        "zh": "拥堵；拥挤"
+      },
+      {
+        "word": "skeptical",
+        "zh": "怀疑的"
+      },
+      {
+        "word": "staple",
+        "zh": "常见必需品；主要产品；主要的"
+      },
+      {
+        "word": "fill in for",
+        "zh": "替……做工作；代班"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "warranty",
+        "zh": "保修；保修单"
+      },
+      {
+        "word": "defect",
+        "zh": "缺陷；毛病"
+      },
+      {
+        "word": "void",
+        "zh": "使无效；作废；无效的"
+      },
+      {
+        "word": "shipment",
+        "zh": "运送的货物；一批货；运输"
+      },
+      {
+        "word": "courier",
+        "zh": "快递；快递员；快递公司"
+      },
+      {
+        "word": "load",
+        "zh": "装载的货物；负荷；装载"
+      },
+      {
+        "word": "motorist",
+        "zh": "开车的人；驾车者"
+      },
+      {
+        "word": "congestion",
+        "zh": "拥堵；拥挤"
+      },
+      {
+        "word": "submit",
+        "zh": "提交；递交"
+      },
+      {
+        "word": "concern",
+        "zh": "担心；顾虑；使担心"
+      },
+      {
+        "word": "skeptical",
+        "zh": "怀疑的"
+      },
+      {
+        "word": "costly",
+        "zh": "昂贵的；代价高的"
+      },
+      {
+        "word": "agent",
+        "zh": "工作人员；代理人；代理商"
+      },
+      {
+        "word": "valid",
+        "zh": "有效的；合理的"
+      },
+      {
+        "word": "assist",
+        "zh": "协助；帮助"
+      },
+      {
+        "word": "convenience",
+        "zh": "方便；便利"
+      },
+      {
+        "word": "look forward to",
+        "zh": "期待；盼望"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "track",
+        "zh": "追踪；记录；轨道"
+      },
+      {
+        "word": "range from",
+        "zh": "在之间；范围从"
+      },
+      {
+        "word": "referral",
+        "zh": "推荐；介绍；转介"
+      },
+      {
+        "word": "staple",
+        "zh": "常见必需品；主要产品；主要的"
+      },
+      {
+        "word": "franchise",
+        "zh": "加盟店；特许经营"
+      },
+      {
+        "word": "expand",
+        "zh": "扩张；扩大"
+      },
+      {
+        "word": "harvest",
+        "zh": "收获；收割；收成"
+      },
+      {
+        "word": "ferment",
+        "zh": "发酵"
+      },
+      {
+        "word": "touch base",
+        "zh": "碰头；联系一下"
+      },
+      {
+        "word": "alternative",
+        "zh": "替代的；另一种的；替代方案"
+      },
+      {
+        "word": "procurement",
+        "zh": "采购；获得"
+      },
+      {
+        "word": "fill in for",
+        "zh": "替做工作；代班"
+      },
+      {
+        "word": "sold out",
+        "zh": "卖光的；售罄的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep60.mp4",
+    "script_pdf": "media/ep60_script.pdf",
+    "source_video": "ep60.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep60.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep60.mp4",
+        "script_pdf": "media/ep60_script.pdf",
+        "duration_sec": 2899.1,
+        "theme": "题型精讲 · Part 6 句子插入（Test 2 · Test 3）：代词、关键词、逻辑关系",
+        "segments": [
+          {
+            "title": "1. Part 6 句子插入 8 题（Test 2 · Test 3）+ Part 7 三篇阅读（报告 · 邮件 · 便条）",
+            "start": 0.0,
+            "length": 2302.25
+          },
+          {
+            "title": "2. 本期 31 词总复习 · 拼读",
+            "start": 2302.25,
+            "length": 596.83
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep60ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep60ja.mp4",
+        "script_pdf": "media/ep60ja_script.pdf",
+        "duration_sec": 3415.6,
+        "theme": "問題タイプ別精講 · Part 6 文の挿入（Test 2 · Test 3）：代名詞、キーワード、論理関係",
+        "segments": [
+          {
+            "title": "1. Part 6 文の挿入 8問（Test 2 · Test 3）+ Part 7 3文書の読解（報告書 · メール · メモ）",
+            "start": 0.0,
+            "length": 2739.21
+          },
+          {
+            "title": "2. 今回の 31 語総復習 · スペル",
+            "start": 2739.21,
+            "length": 676.42
+          }
+        ],
+        "poster": "media/ep60ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "warranty",
+            "zh": "保証；保証書"
+          },
+          {
+            "word": "congestion",
+            "zh": "渋滞；混雑"
+          },
+          {
+            "word": "skeptical",
+            "zh": "疑わしく思う；懐疑的な"
+          },
+          {
+            "word": "staple",
+            "zh": "定番；主要産物；主要な"
+          },
+          {
+            "word": "fill in for",
+            "zh": "…の代わりを務める"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "warranty",
+          "defect",
+          "void",
+          "shipment",
+          "courier",
+          "load",
+          "motorist",
+          "congestion",
+          "submit",
+          "concern",
+          "skeptical",
+          "costly",
+          "agent",
+          "valid",
+          "assist",
+          "convenience",
+          "look forward to",
+          "postpone",
+          "track",
+          "range from",
+          "referral",
+          "staple",
+          "franchise",
+          "expand",
+          "harvest",
+          "ferment",
+          "touch base",
+          "alternative",
+          "procurement",
+          "fill in for",
+          "sold out"
+        ],
+        "words": [
+          {
+            "word": "warranty",
+            "pos": "n.",
+            "zh": "保証；保証書",
+            "ex": "The B10 model is backed by a one-year warranty.",
+            "exzh": "B10 型には1年保証が付いている。",
+            "ipa": "/ˈwɔrənti/",
+            "audio": "media/words/ep60/warranty.mp3",
+            "ex_audio": "media/words/ep60/warranty_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "defect",
+            "pos": "n.",
+            "zh": "欠陥；不具合",
+            "ex": "Brantmerr will replace the unit if there are any manufacturing defects.",
+            "exzh": "製造上の欠陥があれば、Brantmerr が本体を交換する。",
+            "ipa": "/ˈdifɛkt/",
+            "audio": "media/words/ep60/defect.mp3",
+            "ex_audio": "media/words/ep60/defect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "void",
+            "pos": "v./adj.",
+            "zh": "無効にする；無効の",
+            "ex": "Evidence of improper usage will void this guarantee.",
+            "exzh": "不適切な使用の形跡があれば、この保証は無効になる。",
+            "ipa": "/vɔɪd/",
+            "audio": "media/words/ep60/void.mp3",
+            "ex_audio": "media/words/ep60/void_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shipment",
+            "pos": "n.",
+            "zh": "発送品；貨物；出荷",
+            "ex": "Large shipments will be delivered by truck.",
+            "exzh": "大きな貨物はトラックで配送される。",
+            "ipa": "/ˈʃɪpmənt/",
+            "audio": "media/words/ep60/shipment.mp3",
+            "ex_audio": "media/words/ep60/shipment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "courier",
+            "pos": "n.",
+            "zh": "宅配便；配達業者",
+            "ex": "Heavy items will go by our courier truck service.",
+            "exzh": "重い品物は当社の宅配トラックで送られる。",
+            "ipa": "/ˈkɝiɚ/",
+            "audio": "media/words/ep60/courier.mp3",
+            "ex_audio": "media/words/ep60/courier_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "load",
+            "pos": "n./v.",
+            "zh": "積み荷；荷物；積む",
+            "ex": "The drones can only carry small loads.",
+            "exzh": "ドローンは小さな荷物しか運べない。",
+            "ipa": "/loʊd/",
+            "audio": "media/words/ep60/load.mp3",
+            "ex_audio": "media/words/ep60/load_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "motorist",
+            "pos": "n.",
+            "zh": "車を運転する人；ドライバー",
+            "ex": "More motorists are using Elm Avenue.",
+            "exzh": "Elm 通りを使うドライバーが増えている。",
+            "ipa": "/ˈmoʊtɚɪst/",
+            "audio": "media/words/ep60/motorist.mp3",
+            "ex_audio": "media/words/ep60/motorist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "congestion",
+            "pos": "n.",
+            "zh": "渋滞；混雑",
+            "ex": "Drivers want to avoid the congestion on the highway.",
+            "exzh": "ドライバーは高速道路の渋滞を避けたがっている。",
+            "ipa": "/kənˈdʒɛstʃən/",
+            "audio": "media/words/ep60/congestion.mp3",
+            "ex_audio": "media/words/ep60/congestion_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "submit",
+            "pos": "v.",
+            "zh": "提出する",
+            "ex": "Several neighbors have submitted comments.",
+            "exzh": "近所の人が何人か意見を提出した。",
+            "ipa": "/səbˈmɪt/",
+            "audio": "media/words/ep60/submit.mp3",
+            "ex_audio": "media/words/ep60/submit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "concern",
+            "pos": "n./v.",
+            "zh": "心配；懸念；心配させる",
+            "ex": "I had two concerns about the cordless model.",
+            "exzh": "コードレス機には2つの心配があった。",
+            "ipa": "/kənˈsɝn/",
+            "audio": "media/words/ep60/concern.mp3",
+            "ex_audio": "media/words/ep60/concern_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "skeptical",
+            "pos": "adj.",
+            "zh": "疑わしく思う；懐疑的な",
+            "ex": "I was skeptical that it would be strong enough.",
+            "exzh": "十分なパワーがあるのか疑問だった。",
+            "ipa": "/ˈskɛptəkəl/",
+            "audio": "media/words/ep60/skeptical.mp3",
+            "ex_audio": "media/words/ep60/skeptical_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "costly",
+            "pos": "adj.",
+            "zh": "高価な；費用のかかる",
+            "ex": "I feared that a cordless vacuum would be too costly.",
+            "exzh": "コードレス掃除機は高すぎると心配した。",
+            "ipa": "/ˈkɑstli/",
+            "audio": "media/words/ep60/costly.mp3",
+            "ex_audio": "media/words/ep60/costly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "agent",
+            "pos": "n.",
+            "zh": "担当者；代理人；代理店",
+            "ex": "An agent will contact you by phone.",
+            "exzh": "担当者からお電話でご連絡します。",
+            "ipa": "/ˈeɪdʒənt/",
+            "audio": "media/words/ep60/agent.mp3",
+            "ex_audio": "media/words/ep60/agent_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "valid",
+            "pos": "adj.",
+            "zh": "有効な；妥当な",
+            "ex": "Please leave a valid phone number.",
+            "exzh": "有効な電話番号を残してください。",
+            "ipa": "/ˈvælɪd/",
+            "audio": "media/words/ep60/valid.mp3",
+            "ex_audio": "media/words/ep60/valid_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assist",
+            "pos": "v.",
+            "zh": "手伝う；支援する",
+            "ex": "Additional agents will assist with the calls.",
+            "exzh": "担当者を増やして電話の対応にあたる。",
+            "ipa": "/əˈsɪst/",
+            "audio": "media/words/ep60/assist.mp3",
+            "ex_audio": "media/words/ep60/assist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "convenience",
+            "pos": "n.",
+            "zh": "便利さ；都合",
+            "ex": "Many people enjoy the convenience of home delivery.",
+            "exzh": "多くの人が宅配の便利さを楽しんでいる。",
+            "ipa": "/kənˈvinjəns/",
+            "audio": "media/words/ep60/convenience.mp3",
+            "ex_audio": "media/words/ep60/convenience_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "look forward to",
+            "pos": "phr.",
+            "zh": "…を楽しみにする；心待ちにする",
+            "ex": "We look forward to continuing to serve you.",
+            "exzh": "今後ともご利用をお待ちしております。",
+            "ipa": "/lʊk ˈfɔrwɚd tu/",
+            "audio": "media/words/ep60/look-forward-to.mp3",
+            "ex_audio": "media/words/ep60/look-forward-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する；先に延ばす",
+            "ex": "You can postpone a delivery online.",
+            "exzh": "配達はオンラインで延期できる。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep60/postpone.mp3",
+            "ex_audio": "media/words/ep60/postpone_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "track",
+            "pos": "v./n.",
+            "zh": "記録する；追跡する；進路",
+            "ex": "Track your progress in different skills.",
+            "exzh": "さまざまなスキルの上達を記録しよう。",
+            "ipa": "/træk/",
+            "audio": "media/words/ep60/track.mp3",
+            "ex_audio": "media/words/ep60/track_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "range from",
+            "pos": "phr.",
+            "zh": "…から…の範囲にわたる",
+            "ex": "The scores range from 400 to 800.",
+            "exzh": "スコアは400から800の範囲だ。",
+            "ipa": "/reɪndʒ frʌm/",
+            "audio": "media/words/ep60/range-from.mp3",
+            "ex_audio": "media/words/ep60/range-from_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "referral",
+            "pos": "n.",
+            "zh": "紹介；推薦",
+            "ex": "The referral bonus is limited to one per user.",
+            "exzh": "紹介特典はユーザー1人につき1回までだ。",
+            "ipa": "/rɪˈfɝəl/",
+            "audio": "media/words/ep60/referral.mp3",
+            "ex_audio": "media/words/ep60/referral_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "staple",
+            "pos": "n./adj.",
+            "zh": "定番；主要産物；主要な",
+            "ex": "The chain has been a Canadian staple for ten years.",
+            "exzh": "そのチェーンは10年にわたりカナダの定番だ。",
+            "ipa": "/ˈsteɪpəl/",
+            "audio": "media/words/ep60/staple.mp3",
+            "ex_audio": "media/words/ep60/staple_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "franchise",
+            "pos": "n.",
+            "zh": "フランチャイズ店；営業権",
+            "ex": "It will open its first franchise in Seattle.",
+            "exzh": "シアトルに最初のフランチャイズ店を開く。",
+            "ipa": "/ˈfrænˌtʃaɪz/",
+            "audio": "media/words/ep60/franchise.mp3",
+            "ex_audio": "media/words/ep60/franchise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expand",
+            "pos": "v.",
+            "zh": "拡大する；進出する",
+            "ex": "The company is expanding internationally.",
+            "exzh": "その会社は海外に進出している。",
+            "ipa": "/ɪkˈspænd/",
+            "audio": "media/words/ep60/expand.mp3",
+            "ex_audio": "media/words/ep60/expand_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "harvest",
+            "pos": "v./n.",
+            "zh": "収穫する；収穫",
+            "ex": "Cocoa beans are harvested and then covered.",
+            "exzh": "カカオ豆は収穫されてから覆いをかけられる。",
+            "ipa": "/ˈhɑrvəst/",
+            "audio": "media/words/ep60/harvest.mp3",
+            "ex_audio": "media/words/ep60/harvest_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ferment",
+            "pos": "v.",
+            "zh": "発酵する；発酵させる",
+            "ex": "The beans are covered for a few days to ferment.",
+            "exzh": "豆は数日間覆いをかけて発酵させる。",
+            "ipa": "/fɚˈmɛnt/",
+            "audio": "media/words/ep60/ferment.mp3",
+            "ex_audio": "media/words/ep60/ferment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "touch base",
+            "pos": "phr.",
+            "zh": "連絡を取る；打ち合わせる",
+            "ex": "We should touch base tomorrow.",
+            "exzh": "明日、打ち合わせをしましょう。",
+            "ipa": "/tʌtʃ beɪs/",
+            "audio": "media/words/ep60/touch-base.mp3",
+            "ex_audio": "media/words/ep60/touch-base_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "alternative",
+            "pos": "adj./n.",
+            "zh": "代わりの；別の；代案",
+            "ex": "The team evaluated an alternative process.",
+            "exzh": "チームは代わりの方法を評価した。",
+            "ipa": "/ɔlˈtɝnətɪv/",
+            "audio": "media/words/ep60/alternative.mp3",
+            "ex_audio": "media/words/ep60/alternative_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "procurement",
+            "pos": "n.",
+            "zh": "調達；購入",
+            "ex": "We must increase the procurement of ingredients.",
+            "exzh": "材料の調達を増やさなければならない。",
+            "ipa": "/proʊˈkjʊrmənt/",
+            "audio": "media/words/ep60/procurement.mp3",
+            "ex_audio": "media/words/ep60/procurement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fill in for",
+            "pos": "phr.",
+            "zh": "…の代わりを務める",
+            "ex": "Thank you for filling in for me while I was on vacation.",
+            "exzh": "休暇中に代わりを務めてくれてありがとう。",
+            "ipa": "/fɪl ɪn fɔr/",
+            "audio": "media/words/ep60/fill-in-for.mp3",
+            "ex_audio": "media/words/ep60/fill-in-for_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "sold out",
+            "pos": "adj.",
+            "zh": "売り切れの；完売の",
+            "ex": "Our chocolates are sold out in Europe and Asia.",
+            "exzh": "当社のチョコレートはヨーロッパとアジアで完売した。",
+            "ipa": "/soʊld aʊt/",
+            "audio": "media/words/ep60/sold-out.mp3",
+            "ex_audio": "media/words/ep60/sold-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep60_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 6 文の挿入（Test 2 · Test 3）：代名詞、キーワード、論理関係",
+    "words": [
+      {
+        "word": "warranty",
+        "pos": "n.",
+        "zh": "保修；保修单",
+        "ex": "The B10 model is backed by a one-year warranty.",
+        "exzh": "B10 型有一年保修。",
+        "ipa": "/ˈwɔrənti/",
+        "audio": "media/words/ep60/warranty.mp3",
+        "ex_audio": "media/words/ep60/warranty_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "defect",
+        "pos": "n.",
+        "zh": "缺陷；毛病",
+        "ex": "Brantmerr will replace the unit if there are any manufacturing defects.",
+        "exzh": "如果有任何制造缺陷，Brantmerr 会更换机器。",
+        "ipa": "/ˈdifɛkt/",
+        "audio": "media/words/ep60/defect.mp3",
+        "ex_audio": "media/words/ep60/defect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "void",
+        "pos": "v./adj.",
+        "zh": "使无效；作废；无效的",
+        "ex": "Evidence of improper usage will void this guarantee.",
+        "exzh": "使用不当的证据会使本保修失效。",
+        "ipa": "/vɔɪd/",
+        "audio": "media/words/ep60/void.mp3",
+        "ex_audio": "media/words/ep60/void_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "zh": "运送的货物；一批货；运输",
+        "ex": "Large shipments will be delivered by truck.",
+        "exzh": "大件货物将用卡车运送。",
+        "ipa": "/ˈʃɪpmənt/",
+        "audio": "media/words/ep60/shipment.mp3",
+        "ex_audio": "media/words/ep60/shipment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "courier",
+        "pos": "n.",
+        "zh": "快递；快递员；快递公司",
+        "ex": "Heavy items will go by our courier truck service.",
+        "exzh": "重的物品将由我们的快递卡车送。",
+        "ipa": "/ˈkɝiɚ/",
+        "audio": "media/words/ep60/courier.mp3",
+        "ex_audio": "media/words/ep60/courier_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "load",
+        "pos": "n./v.",
+        "zh": "装载的货物；负荷；装载",
+        "ex": "The drones can only carry small loads.",
+        "exzh": "无人机只能运送小件货物。",
+        "ipa": "/loʊd/",
+        "audio": "media/words/ep60/load.mp3",
+        "ex_audio": "media/words/ep60/load_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "motorist",
+        "pos": "n.",
+        "zh": "开车的人；驾车者",
+        "ex": "More motorists are using Elm Avenue.",
+        "exzh": "走 Elm 大道的司机越来越多。",
+        "ipa": "/ˈmoʊtɚɪst/",
+        "audio": "media/words/ep60/motorist.mp3",
+        "ex_audio": "media/words/ep60/motorist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "congestion",
+        "pos": "n.",
+        "zh": "拥堵；拥挤",
+        "ex": "Drivers want to avoid the congestion on the highway.",
+        "exzh": "司机们想避开高速公路上的拥堵。",
+        "ipa": "/kənˈdʒɛstʃən/",
+        "audio": "media/words/ep60/congestion.mp3",
+        "ex_audio": "media/words/ep60/congestion_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "submit",
+        "pos": "v.",
+        "zh": "提交；递交",
+        "ex": "Several neighbors have submitted comments.",
+        "exzh": "几位邻居提交了意见。",
+        "ipa": "/səbˈmɪt/",
+        "audio": "media/words/ep60/submit.mp3",
+        "ex_audio": "media/words/ep60/submit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "concern",
+        "pos": "n./v.",
+        "zh": "担心；顾虑；使担心",
+        "ex": "I had two concerns about the cordless model.",
+        "exzh": "我对无线型号有两个顾虑。",
+        "ipa": "/kənˈsɝn/",
+        "audio": "media/words/ep60/concern.mp3",
+        "ex_audio": "media/words/ep60/concern_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "skeptical",
+        "pos": "adj.",
+        "zh": "怀疑的",
+        "ex": "I was skeptical that it would be strong enough.",
+        "exzh": "我怀疑它的吸力够不够。",
+        "ipa": "/ˈskɛptəkəl/",
+        "audio": "media/words/ep60/skeptical.mp3",
+        "ex_audio": "media/words/ep60/skeptical_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "costly",
+        "pos": "adj.",
+        "zh": "昂贵的；代价高的",
+        "ex": "I feared that a cordless vacuum would be too costly.",
+        "exzh": "我担心无线吸尘器太贵。",
+        "ipa": "/ˈkɑstli/",
+        "audio": "media/words/ep60/costly.mp3",
+        "ex_audio": "media/words/ep60/costly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "agent",
+        "pos": "n.",
+        "zh": "工作人员；代理人；代理商",
+        "ex": "An agent will contact you by phone.",
+        "exzh": "工作人员会打电话联系您。",
+        "ipa": "/ˈeɪdʒənt/",
+        "audio": "media/words/ep60/agent.mp3",
+        "ex_audio": "media/words/ep60/agent_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "valid",
+        "pos": "adj.",
+        "zh": "有效的；合理的",
+        "ex": "Please leave a valid phone number.",
+        "exzh": "请留下有效的电话号码。",
+        "ipa": "/ˈvælɪd/",
+        "audio": "media/words/ep60/valid.mp3",
+        "ex_audio": "media/words/ep60/valid_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assist",
+        "pos": "v.",
+        "zh": "协助；帮助",
+        "ex": "Additional agents will assist with the calls.",
+        "exzh": "会有更多工作人员协助处理来电。",
+        "ipa": "/əˈsɪst/",
+        "audio": "media/words/ep60/assist.mp3",
+        "ex_audio": "media/words/ep60/assist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "convenience",
+        "pos": "n.",
+        "zh": "方便；便利",
+        "ex": "Many people enjoy the convenience of home delivery.",
+        "exzh": "很多人享受送货上门的便利。",
+        "ipa": "/kənˈvinjəns/",
+        "audio": "media/words/ep60/convenience.mp3",
+        "ex_audio": "media/words/ep60/convenience_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "look forward to",
+        "pos": "phr.",
+        "zh": "期待；盼望",
+        "ex": "We look forward to continuing to serve you.",
+        "exzh": "我们期待继续为您服务。",
+        "ipa": "/lʊk ˈfɔrwɚd tu/",
+        "audio": "media/words/ep60/look-forward-to.mp3",
+        "ex_audio": "media/words/ep60/look-forward-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟；延期",
+        "ex": "You can postpone a delivery online.",
+        "exzh": "您可以在网上推迟送货。",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep60/postpone.mp3",
+        "ex_audio": "media/words/ep60/postpone_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "track",
+        "pos": "v./n.",
+        "zh": "追踪；记录；轨道",
+        "ex": "Track your progress in different skills.",
+        "exzh": "追踪你在不同技能上的进步。",
+        "ipa": "/træk/",
+        "audio": "media/words/ep60/track.mp3",
+        "ex_audio": "media/words/ep60/track_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "range from",
+        "pos": "phr.",
+        "zh": "在……之间；范围从……",
+        "ex": "The scores range from 400 to 800.",
+        "exzh": "分数在400到800之间。",
+        "ipa": "/reɪndʒ frʌm/",
+        "audio": "media/words/ep60/range-from.mp3",
+        "ex_audio": "media/words/ep60/range-from_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "referral",
+        "pos": "n.",
+        "zh": "推荐；介绍；转介",
+        "ex": "The referral bonus is limited to one per user.",
+        "exzh": "推荐奖励每位用户限一次。",
+        "ipa": "/rɪˈfɝəl/",
+        "audio": "media/words/ep60/referral.mp3",
+        "ex_audio": "media/words/ep60/referral_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "staple",
+        "pos": "n./adj.",
+        "zh": "常见必需品；主要产品；主要的",
+        "ex": "The chain has been a Canadian staple for ten years.",
+        "exzh": "这家连锁店十年来一直是加拿大的常见品牌。",
+        "ipa": "/ˈsteɪpəl/",
+        "audio": "media/words/ep60/staple.mp3",
+        "ex_audio": "media/words/ep60/staple_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "franchise",
+        "pos": "n.",
+        "zh": "加盟店；特许经营",
+        "ex": "It will open its first franchise in Seattle.",
+        "exzh": "它将在西雅图开第一家加盟店。",
+        "ipa": "/ˈfrænˌtʃaɪz/",
+        "audio": "media/words/ep60/franchise.mp3",
+        "ex_audio": "media/words/ep60/franchise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expand",
+        "pos": "v.",
+        "zh": "扩张；扩大",
+        "ex": "The company is expanding internationally.",
+        "exzh": "这家公司正在向海外扩张。",
+        "ipa": "/ɪkˈspænd/",
+        "audio": "media/words/ep60/expand.mp3",
+        "ex_audio": "media/words/ep60/expand_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "harvest",
+        "pos": "v./n.",
+        "zh": "收获；收割；收成",
+        "ex": "Cocoa beans are harvested and then covered.",
+        "exzh": "可可豆收获后被盖起来。",
+        "ipa": "/ˈhɑrvəst/",
+        "audio": "media/words/ep60/harvest.mp3",
+        "ex_audio": "media/words/ep60/harvest_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ferment",
+        "pos": "v.",
+        "zh": "发酵",
+        "ex": "The beans are covered for a few days to ferment.",
+        "exzh": "可可豆被盖上几天让它发酵。",
+        "ipa": "/fɚˈmɛnt/",
+        "audio": "media/words/ep60/ferment.mp3",
+        "ex_audio": "media/words/ep60/ferment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "touch base",
+        "pos": "phr.",
+        "zh": "碰头；联系一下",
+        "ex": "We should touch base tomorrow.",
+        "exzh": "我们明天应该碰个头。",
+        "ipa": "/tʌtʃ beɪs/",
+        "audio": "media/words/ep60/touch-base.mp3",
+        "ex_audio": "media/words/ep60/touch-base_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "alternative",
+        "pos": "adj./n.",
+        "zh": "替代的；另一种的；替代方案",
+        "ex": "The team evaluated an alternative process.",
+        "exzh": "团队评估了一种替代方法。",
+        "ipa": "/ɔlˈtɝnətɪv/",
+        "audio": "media/words/ep60/alternative.mp3",
+        "ex_audio": "media/words/ep60/alternative_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "procurement",
+        "pos": "n.",
+        "zh": "采购；获得",
+        "ex": "We must increase the procurement of ingredients.",
+        "exzh": "我们必须增加原料的采购。",
+        "ipa": "/proʊˈkjʊrmənt/",
+        "audio": "media/words/ep60/procurement.mp3",
+        "ex_audio": "media/words/ep60/procurement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fill in for",
+        "pos": "phr.",
+        "zh": "替……做工作；代班",
+        "ex": "Thank you for filling in for me while I was on vacation.",
+        "exzh": "谢谢你在我休假期间替我顶班。",
+        "ipa": "/fɪl ɪn fɔr/",
+        "audio": "media/words/ep60/fill-in-for.mp3",
+        "ex_audio": "media/words/ep60/fill-in-for_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "sold out",
+        "pos": "adj.",
+        "zh": "卖光的；售罄的",
+        "ex": "Our chocolates are sold out in Europe and Asia.",
+        "exzh": "我们的巧克力在欧洲和亚洲都卖光了。",
+        "ipa": "/soʊld aʊt/",
+        "audio": "media/words/ep60/sold-out.mp3",
+        "ex_audio": "media/words/ep60/sold-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 59,
     "theme": "题型精讲 · Part 6 语法 · 词汇 · 连接词：线索在前后句",
     "date": "2026-11-10",
