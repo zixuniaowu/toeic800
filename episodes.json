@@ -1,5 +1,1199 @@
 [
   {
+    "number": 61,
+    "theme": "题型精讲 · Part 6 语法、词汇、连接词（Test 2）：代词、介词、词性、上下文线索",
+    "date": "2026-11-12",
+    "duration_sec": 2918.7,
+    "segments": [
+      {
+        "title": "1. Part 6 语法 · 词汇 · 连接词 12 题（Test 2）+ Part 7 双篇阅读（政策 · 申请表）",
+        "start": 0.0,
+        "length": 2192.25
+      },
+      {
+        "title": "2. 本期 37 词总复习 · 拼读",
+        "start": 2192.25,
+        "length": 726.48
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "appliance",
+        "zh": "家用电器；器具"
+      },
+      {
+        "word": "temporary",
+        "zh": "暂时的；临时的"
+      },
+      {
+        "word": "in the meantime",
+        "zh": "在此期间；与此同时"
+      },
+      {
+        "word": "likewise",
+        "zh": "同样地"
+      },
+      {
+        "word": "relocate",
+        "zh": "搬迁；迁移"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "appliance",
+        "zh": "家用电器；器具"
+      },
+      {
+        "word": "be intended for",
+        "zh": "专供使用；目的是给"
+      },
+      {
+        "word": "operate",
+        "zh": "操作；使用；机器；；运营"
+      },
+      {
+        "word": "rigorous",
+        "zh": "严格的；严密的"
+      },
+      {
+        "word": "inspection",
+        "zh": "检查；检验"
+      },
+      {
+        "word": "be backed by",
+        "zh": "由支持；有作保障"
+      },
+      {
+        "word": "free of charge",
+        "zh": "免费"
+      },
+      {
+        "word": "grant",
+        "zh": "给予；批准"
+      },
+      {
+        "word": "component",
+        "zh": "零部件；组成部分"
+      },
+      {
+        "word": "enable",
+        "zh": "使能够"
+      },
+      {
+        "word": "reach",
+        "zh": "到达；联系上"
+      },
+      {
+        "word": "automated",
+        "zh": "自动化的"
+      },
+      {
+        "word": "navigate",
+        "zh": "导航；找路"
+      },
+      {
+        "word": "demonstration",
+        "zh": "演示；展示"
+      },
+      {
+        "word": "in action",
+        "zh": "在运行中；实际工作中"
+      },
+      {
+        "word": "be advised",
+        "zh": "请知悉；特此通知"
+      },
+      {
+        "word": "temporary",
+        "zh": "暂时的；临时的"
+      },
+      {
+        "word": "in the meantime",
+        "zh": "在此期间；与此同时"
+      },
+      {
+        "word": "patrol",
+        "zh": "巡逻"
+      },
+      {
+        "word": "install",
+        "zh": "安装"
+      },
+      {
+        "word": "monitor",
+        "zh": "监测；监控；显示器"
+      },
+      {
+        "word": "measure",
+        "zh": "措施；测量"
+      },
+      {
+        "word": "replacement",
+        "zh": "替代品；更换"
+      },
+      {
+        "word": "cordless",
+        "zh": "无绳的；无线的"
+      },
+      {
+        "word": "appealing",
+        "zh": "有吸引力的"
+      },
+      {
+        "word": "assure",
+        "zh": "向保证；使放心"
+      },
+      {
+        "word": "price range",
+        "zh": "价格范围；预算范围"
+      },
+      {
+        "word": "delighted",
+        "zh": "非常高兴的；非常满意的"
+      },
+      {
+        "word": "likewise",
+        "zh": "同样地"
+      },
+      {
+        "word": "unlock",
+        "zh": "解锁；解开"
+      },
+      {
+        "word": "carrier",
+        "zh": "电信运营商；运输公司"
+      },
+      {
+        "word": "functionality",
+        "zh": "功能"
+      },
+      {
+        "word": "requirement",
+        "zh": "要求；条件"
+      },
+      {
+        "word": "past due",
+        "zh": "逾期未付的"
+      },
+      {
+        "word": "balance",
+        "zh": "余额；欠款；平衡"
+      },
+      {
+        "word": "relocate",
+        "zh": "搬迁；迁移"
+      },
+      {
+        "word": "coverage",
+        "zh": "；信号；覆盖范围；保障范围；报道"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep61.mp4",
+    "script_pdf": "media/ep61_script.pdf",
+    "source_video": "ep61.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep61.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep61.mp4",
+        "script_pdf": "media/ep61_script.pdf",
+        "duration_sec": 2918.7,
+        "theme": "题型精讲 · Part 6 语法、词汇、连接词（Test 2）：代词、介词、词性、上下文线索",
+        "segments": [
+          {
+            "title": "1. Part 6 语法 · 词汇 · 连接词 12 题（Test 2）+ Part 7 双篇阅读（政策 · 申请表）",
+            "start": 0.0,
+            "length": 2192.25
+          },
+          {
+            "title": "2. 本期 37 词总复习 · 拼读",
+            "start": 2192.25,
+            "length": 726.48
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep61ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep61ja.mp4",
+        "script_pdf": "media/ep61ja_script.pdf",
+        "duration_sec": 3555.6,
+        "theme": "問題タイプ別精講 · Part 6 文法・語彙・接続の語（Test 2）：代名詞、前置詞、品詞、文脈の手がかり",
+        "segments": [
+          {
+            "title": "1. Part 6 文法 · 語彙 · 接続の語 12問（Test 2）+ Part 7 2文書の読解（規定 · 申込書）",
+            "start": 0.0,
+            "length": 2746.13
+          },
+          {
+            "title": "2. 今回の 37 語総復習 · スペル",
+            "start": 2746.13,
+            "length": 809.5
+          }
+        ],
+        "poster": "media/ep61ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "appliance",
+            "zh": "家電製品；器具"
+          },
+          {
+            "word": "temporary",
+            "zh": "一時的な；臨時の"
+          },
+          {
+            "word": "in the meantime",
+            "zh": "その間に；それまでの間"
+          },
+          {
+            "word": "likewise",
+            "zh": "同様に"
+          },
+          {
+            "word": "relocate",
+            "zh": "移転する；引っ越す"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "appliance",
+          "be intended for",
+          "operate",
+          "rigorous",
+          "inspection",
+          "be backed by",
+          "free of charge",
+          "grant",
+          "component",
+          "enable",
+          "reach",
+          "automated",
+          "navigate",
+          "demonstration",
+          "in action",
+          "be advised",
+          "temporary",
+          "in the meantime",
+          "patrol",
+          "install",
+          "monitor",
+          "measure",
+          "replacement",
+          "cordless",
+          "appealing",
+          "assure",
+          "price range",
+          "delighted",
+          "likewise",
+          "unlock",
+          "carrier",
+          "functionality",
+          "requirement",
+          "past due",
+          "balance",
+          "relocate",
+          "coverage"
+        ],
+        "words": [
+          {
+            "word": "appliance",
+            "pos": "n.",
+            "zh": "家電製品；器具",
+            "ex": "This appliance is intended for indoor use only.",
+            "exzh": "この家電製品は屋内専用です。",
+            "ipa": "/əˈplaɪəns/",
+            "audio": "media/words/ep61/appliance.mp3",
+            "ex_audio": "media/words/ep61/appliance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "be intended for",
+            "pos": "phr.",
+            "zh": "…向けである；…のためのものである",
+            "ex": "The oven is intended for indoor use only.",
+            "exzh": "このオーブンは屋内専用だ。",
+            "ipa": "/bi ˌɪnˈtɛndɪd fɔr/",
+            "audio": "media/words/ep61/be-intended-for.mp3",
+            "ex_audio": "media/words/ep61/be-intended-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "operate",
+            "pos": "v.",
+            "zh": "操作する；（機械を）使う；運営する",
+            "ex": "Read the instructions before operating the unit.",
+            "exzh": "本機を使う前に説明書を読んでください。",
+            "ipa": "/ˈɑpɚˌeɪt/",
+            "audio": "media/words/ep61/operate.mp3",
+            "ex_audio": "media/words/ep61/operate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rigorous",
+            "pos": "adj.",
+            "zh": "厳しい；厳密な",
+            "ex": "Every toaster undergoes rigorous testing.",
+            "exzh": "トースターはすべて厳しい試験を受ける。",
+            "ipa": "/ˈrɪɡɚəs/",
+            "audio": "media/words/ep61/rigorous.mp3",
+            "ex_audio": "media/words/ep61/rigorous_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inspection",
+            "pos": "n.",
+            "zh": "検査；点検",
+            "ex": "The products pass an inspection before leaving the factory.",
+            "exzh": "製品は出荷前に検査に合格する。",
+            "ipa": "/ˌɪnˈspɛkʃən/",
+            "audio": "media/words/ep61/inspection.mp3",
+            "ex_audio": "media/words/ep61/inspection_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be backed by",
+            "pos": "phr.",
+            "zh": "…に支えられている；…の保証が付いている",
+            "ex": "The model is backed by a one-year warranty.",
+            "exzh": "このモデルには1年保証が付いている。",
+            "ipa": "/bi bækt baɪ/",
+            "audio": "media/words/ep61/be-backed-by.mp3",
+            "ex_audio": "media/words/ep61/be-backed-by_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "free of charge",
+            "pos": "phr.",
+            "zh": "無料で",
+            "ex": "We will replace the unit free of charge.",
+            "exzh": "本機を無料で交換いたします。",
+            "ipa": "/fri əv tʃɑrdʒ/",
+            "audio": "media/words/ep61/free-of-charge.mp3",
+            "ex_audio": "media/words/ep61/free-of-charge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "grant",
+            "pos": "v.",
+            "zh": "与える；認める",
+            "ex": "The government granted us permission to use drones.",
+            "exzh": "政府はドローンを使う許可を与えてくれた。",
+            "ipa": "/ɡrænt/",
+            "audio": "media/words/ep61/grant.mp3",
+            "ex_audio": "media/words/ep61/grant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "component",
+            "pos": "n.",
+            "zh": "部品；構成要素",
+            "ex": "We deliver components to local manufacturers.",
+            "exzh": "地元の製造業者に部品を配送している。",
+            "ipa": "/kəmˈpoʊnənt/",
+            "audio": "media/words/ep61/component.mp3",
+            "ex_audio": "media/words/ep61/component_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "enable",
+            "pos": "v.",
+            "zh": "…できるようにする",
+            "ex": "The new range enables us to reach more customers.",
+            "exzh": "新しい航続距離で、より多くの顧客に届けられる。",
+            "ipa": "/ɛˈneɪbəl/",
+            "audio": "media/words/ep61/enable.mp3",
+            "ex_audio": "media/words/ep61/enable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reach",
+            "pos": "v.",
+            "zh": "届く；到達する；連絡がつく",
+            "ex": "The drones can reach twenty local businesses.",
+            "exzh": "ドローンは地元の20の企業まで届く。",
+            "ipa": "/ritʃ/",
+            "audio": "media/words/ep61/reach.mp3",
+            "ex_audio": "media/words/ep61/reach_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "automated",
+            "pos": "adj.",
+            "zh": "自動化された",
+            "ex": "The drones are fully automated.",
+            "exzh": "ドローンは全自動だ。",
+            "ipa": "/ˈɔtəˌmeɪtɪd/",
+            "audio": "media/words/ep61/automated.mp3",
+            "ex_audio": "media/words/ep61/automated_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "navigate",
+            "pos": "v.",
+            "zh": "進路を決めて進む；ナビゲートする",
+            "ex": "The drones navigate to the destination on their own.",
+            "exzh": "ドローンは自力で目的地まで進む。",
+            "ipa": "/ˈnævəˌɡeɪt/",
+            "audio": "media/words/ep61/navigate.mp3",
+            "ex_audio": "media/words/ep61/navigate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "demonstration",
+            "pos": "n.",
+            "zh": "実演；デモンストレーション",
+            "ex": "Employees may attend a demonstration on Friday.",
+            "exzh": "社員は金曜日の実演に参加できる。",
+            "ipa": "/ˌdɛmənˈstreɪʃən/",
+            "audio": "media/words/ep61/demonstration.mp3",
+            "ex_audio": "media/words/ep61/demonstration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in action",
+            "pos": "phr.",
+            "zh": "動いている；活動中の",
+            "ex": "Come and see a drone in action.",
+            "exzh": "ドローンが実際に動くところを見に来てください。",
+            "ipa": "/ɪn ˈækʃən/",
+            "audio": "media/words/ep61/in-action.mp3",
+            "ex_audio": "media/words/ep61/in-action_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be advised",
+            "pos": "phr.",
+            "zh": "ご承知おきください",
+            "ex": "Please be advised that the road is closed.",
+            "exzh": "その道路は閉鎖されていますのでご承知おきください。",
+            "ipa": "/bi ædˈvaɪzd/",
+            "audio": "media/words/ep61/be-advised.mp3",
+            "ex_audio": "media/words/ep61/be-advised_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "temporary",
+            "pos": "adj.",
+            "zh": "一時的な；臨時の",
+            "ex": "This situation is only temporary.",
+            "exzh": "この状況は一時的なものにすぎない。",
+            "ipa": "/ˈtɛmpɚˌɛri/",
+            "audio": "media/words/ep61/temporary.mp3",
+            "ex_audio": "media/words/ep61/temporary_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "in the meantime",
+            "pos": "phr.",
+            "zh": "その間に；それまでの間",
+            "ex": "In the meantime, a police officer will patrol the area.",
+            "exzh": "その間、警察官がこの地域をパトロールする。",
+            "ipa": "/ɪn ðə ˈminˌtaɪm/",
+            "audio": "media/words/ep61/in-the-meantime.mp3",
+            "ex_audio": "media/words/ep61/in-the-meantime_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "patrol",
+            "pos": "v./n.",
+            "zh": "パトロールする；巡回",
+            "ex": "An officer will patrol Elm Avenue.",
+            "exzh": "警察官が Elm 通りをパトロールする。",
+            "ipa": "/pəˈtroʊl/",
+            "audio": "media/words/ep61/patrol.mp3",
+            "ex_audio": "media/words/ep61/patrol_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "install",
+            "pos": "v.",
+            "zh": "設置する；取り付ける",
+            "ex": "A speed detector will be installed next week.",
+            "exzh": "来週、速度検知器が設置される。",
+            "ipa": "/ˌɪnˈstɔl/",
+            "audio": "media/words/ep61/install.mp3",
+            "ex_audio": "media/words/ep61/install_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "monitor",
+            "pos": "v./n.",
+            "zh": "監視する；観測する；モニター",
+            "ex": "The detector will monitor the traffic.",
+            "exzh": "検知器が交通を監視する。",
+            "ipa": "/ˈmɑnətɚ/",
+            "audio": "media/words/ep61/monitor.mp3",
+            "ex_audio": "media/words/ep61/monitor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "measure",
+            "pos": "n./v.",
+            "zh": "対策；措置；測る",
+            "ex": "These measures will improve safety.",
+            "exzh": "これらの対策で安全性が高まる。",
+            "ipa": "/ˈmɛʒɚ/",
+            "audio": "media/words/ep61/measure.mp3",
+            "ex_audio": "media/words/ep61/measure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "replacement",
+            "pos": "n.",
+            "zh": "代わりのもの；交換品",
+            "ex": "I need a replacement for my old vacuum cleaner.",
+            "exzh": "古い掃除機の代わりが必要だ。",
+            "ipa": "/rɪˈpleɪsmənt/",
+            "audio": "media/words/ep61/replacement.mp3",
+            "ex_audio": "media/words/ep61/replacement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cordless",
+            "pos": "adj.",
+            "zh": "コードレスの",
+            "ex": "She suggested I consider a cordless model.",
+            "exzh": "彼女はコードレスのモデルを検討するよう勧めてくれた。",
+            "ipa": "/ˈkɔrdləs/",
+            "audio": "media/words/ep61/cordless.mp3",
+            "ex_audio": "media/words/ep61/cordless_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appealing",
+            "pos": "adj.",
+            "zh": "魅力的な",
+            "ex": "I find cordless vacuums appealing.",
+            "exzh": "コードレス掃除機は魅力的だと思う。",
+            "ipa": "/əˈpilɪŋ/",
+            "audio": "media/words/ep61/appealing.mp3",
+            "ex_audio": "media/words/ep61/appealing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assure",
+            "pos": "v.",
+            "zh": "請け合う；安心させる",
+            "ex": "She assured me that the price was fair.",
+            "exzh": "彼女は価格が適正だと請け合ってくれた。",
+            "ipa": "/əˈʃʊr/",
+            "audio": "media/words/ep61/assure.mp3",
+            "ex_audio": "media/words/ep61/assure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "price range",
+            "pos": "n.",
+            "zh": "価格帯；予算の範囲",
+            "ex": "They have powerful vacuums in my price range.",
+            "exzh": "私の予算内で吸引力の強い掃除機がある。",
+            "ipa": "/praɪs reɪndʒ/",
+            "audio": "media/words/ep61/price-range.mp3",
+            "ex_audio": "media/words/ep61/price-range_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "delighted",
+            "pos": "adj.",
+            "zh": "大喜びの；大満足の",
+            "ex": "I am delighted with its performance.",
+            "exzh": "その性能に大満足している。",
+            "ipa": "/dɪˈlaɪtəd/",
+            "audio": "media/words/ep61/delighted.mp3",
+            "ex_audio": "media/words/ep61/delighted_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "likewise",
+            "pos": "adv.",
+            "zh": "同様に",
+            "ex": "I am likewise pleased with the service.",
+            "exzh": "サービスにも同様に満足している。",
+            "ipa": "/ˈlaɪˌkwaɪz/",
+            "audio": "media/words/ep61/likewise.mp3",
+            "ex_audio": "media/words/ep61/likewise_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "unlock",
+            "pos": "v.",
+            "zh": "ロックを解除する",
+            "ex": "You can unlock your phone after 60 days.",
+            "exzh": "60日後に携帯電話のロックを解除できる。",
+            "ipa": "/ənˈlɑk/",
+            "audio": "media/words/ep61/unlock.mp3",
+            "ex_audio": "media/words/ep61/unlock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "carrier",
+            "pos": "n.",
+            "zh": "通信事業者；運送会社",
+            "ex": "The phone may not work on another carrier's network.",
+            "exzh": "その携帯電話は他社の回線では使えないかもしれない。",
+            "ipa": "/ˈkæriɚ/",
+            "audio": "media/words/ep61/carrier.mp3",
+            "ex_audio": "media/words/ep61/carrier_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "functionality",
+            "pos": "n.",
+            "zh": "機能",
+            "ex": "The phone may have limited functionality.",
+            "exzh": "その携帯電話は機能が制限されることがある。",
+            "ipa": "/ˌfʌŋkʃəˈnælɪti/",
+            "audio": "media/words/ep61/functionality.mp3",
+            "ex_audio": "media/words/ep61/functionality_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "requirement",
+            "pos": "n.",
+            "zh": "要件；条件",
+            "ex": "You need to meet the following requirements.",
+            "exzh": "以下の条件を満たす必要がある。",
+            "ipa": "/rɪˈkwaɪrmənt/",
+            "audio": "media/words/ep61/requirement.mp3",
+            "ex_audio": "media/words/ep61/requirement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "past due",
+            "pos": "adj.",
+            "zh": "支払期限を過ぎた",
+            "ex": "The account must have no past due balances.",
+            "exzh": "アカウントに期限切れの未払いがあってはならない。",
+            "ipa": "/pæst du/",
+            "audio": "media/words/ep61/past-due.mp3",
+            "ex_audio": "media/words/ep61/past-due_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "balance",
+            "pos": "n.",
+            "zh": "残高；未払い額；バランス",
+            "ex": "Please pay the unpaid balance on your account.",
+            "exzh": "アカウントの未払い残高をお支払いください。",
+            "ipa": "/ˈbæləns/",
+            "audio": "media/words/ep61/balance.mp3",
+            "ex_audio": "media/words/ep61/balance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "relocate",
+            "pos": "v.",
+            "zh": "移転する；引っ越す",
+            "ex": "I will be relocating to Canada in November.",
+            "exzh": "11月にカナダへ引っ越す予定だ。",
+            "ipa": "/ˌriˈloʊkeɪt/",
+            "audio": "media/words/ep61/relocate.mp3",
+            "ex_audio": "media/words/ep61/relocate_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "coverage",
+            "pos": "n.",
+            "zh": "（電波の）通信エリア；補償範囲；報道",
+            "ex": "Your coverage does not extend outside the United States.",
+            "exzh": "御社の通信エリアは米国外には及ばない。",
+            "ipa": "/ˈkʌvɚədʒ/",
+            "audio": "media/words/ep61/coverage.mp3",
+            "ex_audio": "media/words/ep61/coverage_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep61_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 6 文法・語彙・接続の語（Test 2）：代名詞、前置詞、品詞、文脈の手がかり",
+    "words": [
+      {
+        "word": "appliance",
+        "pos": "n.",
+        "zh": "家用电器；器具",
+        "ex": "This appliance is intended for indoor use only.",
+        "exzh": "这台电器仅供室内使用。",
+        "ipa": "/əˈplaɪəns/",
+        "audio": "media/words/ep61/appliance.mp3",
+        "ex_audio": "media/words/ep61/appliance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "be intended for",
+        "pos": "phr.",
+        "zh": "专供……使用；目的是给……",
+        "ex": "The oven is intended for indoor use only.",
+        "exzh": "这台烤箱仅供室内使用。",
+        "ipa": "/bi ˌɪnˈtɛndɪd fɔr/",
+        "audio": "media/words/ep61/be-intended-for.mp3",
+        "ex_audio": "media/words/ep61/be-intended-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "operate",
+        "pos": "v.",
+        "zh": "操作；使用（机器）；运营",
+        "ex": "Read the instructions before operating the unit.",
+        "exzh": "使用本机前请阅读说明。",
+        "ipa": "/ˈɑpɚˌeɪt/",
+        "audio": "media/words/ep61/operate.mp3",
+        "ex_audio": "media/words/ep61/operate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rigorous",
+        "pos": "adj.",
+        "zh": "严格的；严密的",
+        "ex": "Every toaster undergoes rigorous testing.",
+        "exzh": "每台烤箱都经过严格的测试。",
+        "ipa": "/ˈrɪɡɚəs/",
+        "audio": "media/words/ep61/rigorous.mp3",
+        "ex_audio": "media/words/ep61/rigorous_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inspection",
+        "pos": "n.",
+        "zh": "检查；检验",
+        "ex": "The products pass an inspection before leaving the factory.",
+        "exzh": "产品出厂前要通过检查。",
+        "ipa": "/ˌɪnˈspɛkʃən/",
+        "audio": "media/words/ep61/inspection.mp3",
+        "ex_audio": "media/words/ep61/inspection_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be backed by",
+        "pos": "phr.",
+        "zh": "由……支持；有……作保障",
+        "ex": "The model is backed by a one-year warranty.",
+        "exzh": "这款机型有一年保修。",
+        "ipa": "/bi bækt baɪ/",
+        "audio": "media/words/ep61/be-backed-by.mp3",
+        "ex_audio": "media/words/ep61/be-backed-by_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "free of charge",
+        "pos": "phr.",
+        "zh": "免费",
+        "ex": "We will replace the unit free of charge.",
+        "exzh": "我们会免费更换这台机器。",
+        "ipa": "/fri əv tʃɑrdʒ/",
+        "audio": "media/words/ep61/free-of-charge.mp3",
+        "ex_audio": "media/words/ep61/free-of-charge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "grant",
+        "pos": "v.",
+        "zh": "给予；批准",
+        "ex": "The government granted us permission to use drones.",
+        "exzh": "政府批准我们使用无人机。",
+        "ipa": "/ɡrænt/",
+        "audio": "media/words/ep61/grant.mp3",
+        "ex_audio": "media/words/ep61/grant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "component",
+        "pos": "n.",
+        "zh": "零部件；组成部分",
+        "ex": "We deliver components to local manufacturers.",
+        "exzh": "我们给本地制造商配送零部件。",
+        "ipa": "/kəmˈpoʊnənt/",
+        "audio": "media/words/ep61/component.mp3",
+        "ex_audio": "media/words/ep61/component_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "enable",
+        "pos": "v.",
+        "zh": "使……能够",
+        "ex": "The new range enables us to reach more customers.",
+        "exzh": "新的航程使我们能覆盖更多客户。",
+        "ipa": "/ɛˈneɪbəl/",
+        "audio": "media/words/ep61/enable.mp3",
+        "ex_audio": "media/words/ep61/enable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reach",
+        "pos": "v.",
+        "zh": "到达；联系上",
+        "ex": "The drones can reach twenty local businesses.",
+        "exzh": "这些无人机能飞到二十家本地企业。",
+        "ipa": "/ritʃ/",
+        "audio": "media/words/ep61/reach.mp3",
+        "ex_audio": "media/words/ep61/reach_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "automated",
+        "pos": "adj.",
+        "zh": "自动化的",
+        "ex": "The drones are fully automated.",
+        "exzh": "这些无人机是全自动的。",
+        "ipa": "/ˈɔtəˌmeɪtɪd/",
+        "audio": "media/words/ep61/automated.mp3",
+        "ex_audio": "media/words/ep61/automated_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "navigate",
+        "pos": "v.",
+        "zh": "导航；找路",
+        "ex": "The drones navigate to the destination on their own.",
+        "exzh": "无人机自己导航飞到目的地。",
+        "ipa": "/ˈnævəˌɡeɪt/",
+        "audio": "media/words/ep61/navigate.mp3",
+        "ex_audio": "media/words/ep61/navigate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "demonstration",
+        "pos": "n.",
+        "zh": "演示；展示",
+        "ex": "Employees may attend a demonstration on Friday.",
+        "exzh": "员工可以参加周五的演示。",
+        "ipa": "/ˌdɛmənˈstreɪʃən/",
+        "audio": "media/words/ep61/demonstration.mp3",
+        "ex_audio": "media/words/ep61/demonstration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in action",
+        "pos": "phr.",
+        "zh": "在运行中；实际工作中",
+        "ex": "Come and see a drone in action.",
+        "exzh": "来看无人机实际飞行吧。",
+        "ipa": "/ɪn ˈækʃən/",
+        "audio": "media/words/ep61/in-action.mp3",
+        "ex_audio": "media/words/ep61/in-action_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be advised",
+        "pos": "phr.",
+        "zh": "请知悉；特此通知",
+        "ex": "Please be advised that the road is closed.",
+        "exzh": "请知悉，该道路已封闭。",
+        "ipa": "/bi ædˈvaɪzd/",
+        "audio": "media/words/ep61/be-advised.mp3",
+        "ex_audio": "media/words/ep61/be-advised_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "temporary",
+        "pos": "adj.",
+        "zh": "暂时的；临时的",
+        "ex": "This situation is only temporary.",
+        "exzh": "这种情况只是暂时的。",
+        "ipa": "/ˈtɛmpɚˌɛri/",
+        "audio": "media/words/ep61/temporary.mp3",
+        "ex_audio": "media/words/ep61/temporary_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "in the meantime",
+        "pos": "phr.",
+        "zh": "在此期间；与此同时",
+        "ex": "In the meantime, a police officer will patrol the area.",
+        "exzh": "在此期间，一名警察会在这一带巡逻。",
+        "ipa": "/ɪn ðə ˈminˌtaɪm/",
+        "audio": "media/words/ep61/in-the-meantime.mp3",
+        "ex_audio": "media/words/ep61/in-the-meantime_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "patrol",
+        "pos": "v./n.",
+        "zh": "巡逻",
+        "ex": "An officer will patrol Elm Avenue.",
+        "exzh": "一名警察会在 Elm 大道巡逻。",
+        "ipa": "/pəˈtroʊl/",
+        "audio": "media/words/ep61/patrol.mp3",
+        "ex_audio": "media/words/ep61/patrol_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "install",
+        "pos": "v.",
+        "zh": "安装",
+        "ex": "A speed detector will be installed next week.",
+        "exzh": "下周将安装一台测速仪。",
+        "ipa": "/ˌɪnˈstɔl/",
+        "audio": "media/words/ep61/install.mp3",
+        "ex_audio": "media/words/ep61/install_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "monitor",
+        "pos": "v./n.",
+        "zh": "监测；监控；显示器",
+        "ex": "The detector will monitor the traffic.",
+        "exzh": "测速仪将监测交通。",
+        "ipa": "/ˈmɑnətɚ/",
+        "audio": "media/words/ep61/monitor.mp3",
+        "ex_audio": "media/words/ep61/monitor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "measure",
+        "pos": "n./v.",
+        "zh": "措施；测量",
+        "ex": "These measures will improve safety.",
+        "exzh": "这些措施会改善安全。",
+        "ipa": "/ˈmɛʒɚ/",
+        "audio": "media/words/ep61/measure.mp3",
+        "ex_audio": "media/words/ep61/measure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "replacement",
+        "pos": "n.",
+        "zh": "替代品；更换",
+        "ex": "I need a replacement for my old vacuum cleaner.",
+        "exzh": "我需要一台新的吸尘器来替换旧的。",
+        "ipa": "/rɪˈpleɪsmənt/",
+        "audio": "media/words/ep61/replacement.mp3",
+        "ex_audio": "media/words/ep61/replacement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cordless",
+        "pos": "adj.",
+        "zh": "无绳的；无线的",
+        "ex": "She suggested I consider a cordless model.",
+        "exzh": "她建议我考虑无线款。",
+        "ipa": "/ˈkɔrdləs/",
+        "audio": "media/words/ep61/cordless.mp3",
+        "ex_audio": "media/words/ep61/cordless_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appealing",
+        "pos": "adj.",
+        "zh": "有吸引力的",
+        "ex": "I find cordless vacuums appealing.",
+        "exzh": "我觉得无线吸尘器很有吸引力。",
+        "ipa": "/əˈpilɪŋ/",
+        "audio": "media/words/ep61/appealing.mp3",
+        "ex_audio": "media/words/ep61/appealing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assure",
+        "pos": "v.",
+        "zh": "向……保证；使……放心",
+        "ex": "She assured me that the price was fair.",
+        "exzh": "她向我保证价格是公道的。",
+        "ipa": "/əˈʃʊr/",
+        "audio": "media/words/ep61/assure.mp3",
+        "ex_audio": "media/words/ep61/assure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "price range",
+        "pos": "n.",
+        "zh": "价格范围；预算范围",
+        "ex": "They have powerful vacuums in my price range.",
+        "exzh": "他们有我预算内吸力强的吸尘器。",
+        "ipa": "/praɪs reɪndʒ/",
+        "audio": "media/words/ep61/price-range.mp3",
+        "ex_audio": "media/words/ep61/price-range_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "delighted",
+        "pos": "adj.",
+        "zh": "非常高兴的；非常满意的",
+        "ex": "I am delighted with its performance.",
+        "exzh": "我对它的性能非常满意。",
+        "ipa": "/dɪˈlaɪtəd/",
+        "audio": "media/words/ep61/delighted.mp3",
+        "ex_audio": "media/words/ep61/delighted_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "likewise",
+        "pos": "adv.",
+        "zh": "同样地",
+        "ex": "I am likewise pleased with the service.",
+        "exzh": "我对服务同样满意。",
+        "ipa": "/ˈlaɪˌkwaɪz/",
+        "audio": "media/words/ep61/likewise.mp3",
+        "ex_audio": "media/words/ep61/likewise_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "unlock",
+        "pos": "v.",
+        "zh": "解锁；解开",
+        "ex": "You can unlock your phone after 60 days.",
+        "exzh": "六十天后您可以给手机解锁。",
+        "ipa": "/ənˈlɑk/",
+        "audio": "media/words/ep61/unlock.mp3",
+        "ex_audio": "media/words/ep61/unlock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "carrier",
+        "pos": "n.",
+        "zh": "电信运营商；运输公司",
+        "ex": "The phone may not work on another carrier's network.",
+        "exzh": "这部手机在别的运营商网络上可能用不了。",
+        "ipa": "/ˈkæriɚ/",
+        "audio": "media/words/ep61/carrier.mp3",
+        "ex_audio": "media/words/ep61/carrier_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "functionality",
+        "pos": "n.",
+        "zh": "功能",
+        "ex": "The phone may have limited functionality.",
+        "exzh": "这部手机的功能可能受限。",
+        "ipa": "/ˌfʌŋkʃəˈnælɪti/",
+        "audio": "media/words/ep61/functionality.mp3",
+        "ex_audio": "media/words/ep61/functionality_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "requirement",
+        "pos": "n.",
+        "zh": "要求；条件",
+        "ex": "You need to meet the following requirements.",
+        "exzh": "您需要满足以下条件。",
+        "ipa": "/rɪˈkwaɪrmənt/",
+        "audio": "media/words/ep61/requirement.mp3",
+        "ex_audio": "media/words/ep61/requirement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "past due",
+        "pos": "adj.",
+        "zh": "逾期未付的",
+        "ex": "The account must have no past due balances.",
+        "exzh": "账户不能有逾期未付的余额。",
+        "ipa": "/pæst du/",
+        "audio": "media/words/ep61/past-due.mp3",
+        "ex_audio": "media/words/ep61/past-due_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "balance",
+        "pos": "n.",
+        "zh": "余额；欠款；平衡",
+        "ex": "Please pay the unpaid balance on your account.",
+        "exzh": "请付清您账户上的未付余额。",
+        "ipa": "/ˈbæləns/",
+        "audio": "media/words/ep61/balance.mp3",
+        "ex_audio": "media/words/ep61/balance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "relocate",
+        "pos": "v.",
+        "zh": "搬迁；迁移",
+        "ex": "I will be relocating to Canada in November.",
+        "exzh": "我十一月要搬到加拿大。",
+        "ipa": "/ˌriˈloʊkeɪt/",
+        "audio": "media/words/ep61/relocate.mp3",
+        "ex_audio": "media/words/ep61/relocate_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "coverage",
+        "pos": "n.",
+        "zh": "（信号）覆盖范围；保障范围；报道",
+        "ex": "Your coverage does not extend outside the United States.",
+        "exzh": "你们的信号覆盖范围不到美国以外。",
+        "ipa": "/ˈkʌvɚədʒ/",
+        "audio": "media/words/ep61/coverage.mp3",
+        "ex_audio": "media/words/ep61/coverage_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 60,
     "theme": "题型精讲 · Part 6 句子插入（Test 2 · Test 3）：代词、关键词、逻辑关系",
     "date": "2026-11-11",
