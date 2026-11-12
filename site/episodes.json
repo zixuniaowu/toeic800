@@ -1,5 +1,1112 @@
 [
   {
+    "number": 62,
+    "theme": "题型精讲 · Part 6 语法、词汇、连接词（Test 3）：分词、介词、词性、代词、上下文线索",
+    "date": "2026-11-13",
+    "duration_sec": 3015.6,
+    "segments": [
+      {
+        "title": "1. Part 6 语法 · 词汇 · 连接词 12 题（Test 3）+ Part 7 三篇阅读（传单 · 来信 · 广告）",
+        "start": 0.0,
+        "length": 2294.99
+      },
+      {
+        "title": "2. 本期 34 词总复习 · 拼读",
+        "start": 2294.99,
+        "length": 720.65
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "necessitate",
+        "zh": "使成为必要；需要"
+      },
+      {
+        "word": "valid",
+        "zh": "有效的"
+      },
+      {
+        "word": "in addition to",
+        "zh": "除……之外还有"
+      },
+      {
+        "word": "engaging",
+        "zh": "有吸引力的；让人投入的"
+      },
+      {
+        "word": "proceeds",
+        "zh": "收益；收入（常用复数）"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "necessitate",
+        "zh": "使成为必要；需要"
+      },
+      {
+        "word": "shutdown",
+        "zh": "关闭；停机"
+      },
+      {
+        "word": "application",
+        "zh": "申请；申请书；应用程序"
+      },
+      {
+        "word": "valid",
+        "zh": "有效的"
+      },
+      {
+        "word": "return call",
+        "zh": "回电"
+      },
+      {
+        "word": "weekly",
+        "zh": "每周的"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "in addition to",
+        "zh": "除之外还有"
+      },
+      {
+        "word": "count among",
+        "zh": "把算作之一"
+      },
+      {
+        "word": "convenience",
+        "zh": "便利；方便"
+      },
+      {
+        "word": "engaging",
+        "zh": "有吸引力的；让人投入的"
+      },
+      {
+        "word": "analytical",
+        "zh": "分析的；善于分析的"
+      },
+      {
+        "word": "proficiency",
+        "zh": "熟练程度；精通"
+      },
+      {
+        "word": "evaluate",
+        "zh": "评估；评价"
+      },
+      {
+        "word": "accuracy",
+        "zh": "准确性；准确率"
+      },
+      {
+        "word": "encourage",
+        "zh": "鼓励"
+      },
+      {
+        "word": "sign up for",
+        "zh": "报名；注册"
+      },
+      {
+        "word": "at your own pace",
+        "zh": "按自己的节奏"
+      },
+      {
+        "word": "condition",
+        "zh": "条件；状况；；复数；环境、形势"
+      },
+      {
+        "word": "favorable",
+        "zh": "有利的；赞成的"
+      },
+      {
+        "word": "boast",
+        "zh": "拥有；值得骄傲的东西；；自夸"
+      },
+      {
+        "word": "of course",
+        "zh": "当然"
+      },
+      {
+        "word": "landmark",
+        "zh": "地标；里程碑"
+      },
+      {
+        "word": "retirement",
+        "zh": "退休"
+      },
+      {
+        "word": "commemorative",
+        "zh": "纪念的"
+      },
+      {
+        "word": "give away",
+        "zh": "免费赠送；分发"
+      },
+      {
+        "word": "gracious",
+        "zh": "亲切有礼的；和蔼的"
+      },
+      {
+        "word": "customarily",
+        "zh": "习惯上；通常"
+      },
+      {
+        "word": "diminish",
+        "zh": "减少；变小"
+      },
+      {
+        "word": "proceeds",
+        "zh": "收益；收入；常用复数"
+      },
+      {
+        "word": "charity",
+        "zh": "慈善机构；慈善"
+      },
+      {
+        "word": "donate",
+        "zh": "捐赠"
+      },
+      {
+        "word": "grand opening",
+        "zh": "盛大开业"
+      },
+      {
+        "word": "specialize in",
+        "zh": "专门经营；专攻"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep62.mp4",
+    "script_pdf": "media/ep62_script.pdf",
+    "source_video": "ep62.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep62.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep62.mp4",
+        "script_pdf": "media/ep62_script.pdf",
+        "duration_sec": 3015.6,
+        "theme": "题型精讲 · Part 6 语法、词汇、连接词（Test 3）：分词、介词、词性、代词、上下文线索",
+        "segments": [
+          {
+            "title": "1. Part 6 语法 · 词汇 · 连接词 12 题（Test 3）+ Part 7 三篇阅读（传单 · 来信 · 广告）",
+            "start": 0.0,
+            "length": 2294.99
+          },
+          {
+            "title": "2. 本期 34 词总复习 · 拼读",
+            "start": 2294.99,
+            "length": 720.65
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep62ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep62ja.mp4",
+        "script_pdf": "media/ep62ja_script.pdf",
+        "duration_sec": 3659.7,
+        "theme": "問題タイプ別精講 · Part 6 文法・語彙・接続の語（Test 3）：分詞、前置詞、品詞、代名詞、文脈の手がかり",
+        "segments": [
+          {
+            "title": "1. Part 6 文法 · 語彙 · 接続の語 12問（Test 3）+ Part 7 3文書の読解（チラシ · 投書 · 広告）",
+            "start": 0.0,
+            "length": 2850.18
+          },
+          {
+            "title": "2. 今回の 34 語総復習 · スペル",
+            "start": 2850.18,
+            "length": 809.5
+          }
+        ],
+        "poster": "media/ep62ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "necessitate",
+            "zh": "必要とする；余儀なくさせる"
+          },
+          {
+            "word": "valid",
+            "zh": "有効な"
+          },
+          {
+            "word": "in addition to",
+            "zh": "…に加えて"
+          },
+          {
+            "word": "engaging",
+            "zh": "魅力的な；夢中にさせる"
+          },
+          {
+            "word": "proceeds",
+            "zh": "収益；売上金"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "necessitate",
+          "shutdown",
+          "application",
+          "valid",
+          "return call",
+          "weekly",
+          "postpone",
+          "in addition to",
+          "count among",
+          "convenience",
+          "engaging",
+          "analytical",
+          "proficiency",
+          "evaluate",
+          "accuracy",
+          "encourage",
+          "sign up for",
+          "at your own pace",
+          "condition",
+          "favorable",
+          "boast",
+          "of course",
+          "landmark",
+          "retirement",
+          "commemorative",
+          "give away",
+          "gracious",
+          "customarily",
+          "diminish",
+          "proceeds",
+          "charity",
+          "donate",
+          "grand opening",
+          "specialize in"
+        ],
+        "words": [
+          {
+            "word": "necessitate",
+            "pos": "v.",
+            "zh": "必要とする；余儀なくさせる",
+            "ex": "The software update necessitates a shutdown of the system.",
+            "exzh": "ソフトウェアの更新にはシステムの停止が必要だ。",
+            "ipa": "/nəˈsɛsəˌteɪt/",
+            "audio": "media/words/ep62/necessitate.mp3",
+            "ex_audio": "media/words/ep62/necessitate_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "shutdown",
+            "pos": "n.",
+            "zh": "停止；閉鎖",
+            "ex": "There will be a shutdown of the computer system tomorrow.",
+            "exzh": "明日、コンピューターシステムが停止する。",
+            "ipa": "/ˈʃʌtˌdaʊn/",
+            "audio": "media/words/ep62/shutdown.mp3",
+            "ex_audio": "media/words/ep62/shutdown_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "application",
+            "pos": "n.",
+            "zh": "申請；申込書；アプリ",
+            "ex": "License applications cannot be accepted online this week.",
+            "exzh": "今週は免許の申請をオンラインで受け付けられない。",
+            "ipa": "/ˌæpləˈkeɪʃən/",
+            "audio": "media/words/ep62/application.mp3",
+            "ex_audio": "media/words/ep62/application_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "valid",
+            "pos": "adj.",
+            "zh": "有効な",
+            "ex": "You must include a valid phone number.",
+            "exzh": "有効な電話番号を必ず入れてください。",
+            "ipa": "/ˈvælɪd/",
+            "audio": "media/words/ep62/valid.mp3",
+            "ex_audio": "media/words/ep62/valid_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "return call",
+            "pos": "n.",
+            "zh": "折り返しの電話",
+            "ex": "Leave your name to receive a return call.",
+            "exzh": "折り返しの電話を受けるには名前を残してください。",
+            "ipa": "/rɪˈtɝn kɔl/",
+            "audio": "media/words/ep62/return-call.mp3",
+            "ex_audio": "media/words/ep62/return-call_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "weekly",
+            "pos": "adj.",
+            "zh": "毎週の；週1回の",
+            "ex": "Your weekly deliveries will start on May 10.",
+            "exzh": "毎週の配達は5月10日から始まる。",
+            "ipa": "/ˈwikli/",
+            "audio": "media/words/ep62/weekly.mp3",
+            "ex_audio": "media/words/ep62/weekly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する",
+            "ex": "You can postpone a delivery online.",
+            "exzh": "オンラインで配達を延期できる。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep62/postpone.mp3",
+            "ex_audio": "media/words/ep62/postpone_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in addition to",
+            "pos": "prep.",
+            "zh": "…に加えて",
+            "ex": "We offer eggs in addition to fresh milk.",
+            "exzh": "新鮮な牛乳に加えて卵もご用意しています。",
+            "ipa": "/ɪn əˈdɪʃən tu/",
+            "audio": "media/words/ep62/in-addition-to.mp3",
+            "ex_audio": "media/words/ep62/in-addition-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "count among",
+            "pos": "phr.",
+            "zh": "…の一員に数える",
+            "ex": "We are pleased to count you among our customers.",
+            "exzh": "お客様を当社の顧客の一員に数えられてうれしく思います。",
+            "ipa": "/kaʊnt əˈmʌŋ/",
+            "audio": "media/words/ep62/count-among.mp3",
+            "ex_audio": "media/words/ep62/count-among_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "convenience",
+            "pos": "n.",
+            "zh": "便利さ；都合",
+            "ex": "Many people enjoy the convenience of home delivery.",
+            "exzh": "多くの人が宅配の便利さを享受している。",
+            "ipa": "/kənˈvinjəns/",
+            "audio": "media/words/ep62/convenience.mp3",
+            "ex_audio": "media/words/ep62/convenience_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "engaging",
+            "pos": "adj.",
+            "zh": "魅力的な；夢中にさせる",
+            "ex": "The app has a variety of engaging exercises.",
+            "exzh": "そのアプリにはさまざまな魅力的な練習問題がある。",
+            "ipa": "/ɛnˈɡeɪdʒɪŋ/",
+            "audio": "media/words/ep62/engaging.mp3",
+            "ex_audio": "media/words/ep62/engaging_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "analytical",
+            "pos": "adj.",
+            "zh": "分析的な",
+            "ex": "The game improves your analytical thinking.",
+            "exzh": "そのゲームは分析的な思考を高める。",
+            "ipa": "/ˌænəˈlɪtɪkəl/",
+            "audio": "media/words/ep62/analytical.mp3",
+            "ex_audio": "media/words/ep62/analytical_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "proficiency",
+            "pos": "n.",
+            "zh": "習熟度；熟達",
+            "ex": "Track your progress with your proficiency scores.",
+            "exzh": "習熟度スコアで上達を記録しよう。",
+            "ipa": "/prəˈfɪʃənsi/",
+            "audio": "media/words/ep62/proficiency.mp3",
+            "ex_audio": "media/words/ep62/proficiency_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "evaluate",
+            "pos": "v.",
+            "zh": "評価する",
+            "ex": "The scores are determined by evaluating response times.",
+            "exzh": "スコアは反応時間を評価して決まる。",
+            "ipa": "/ɪˈvæljuˌeɪt/",
+            "audio": "media/words/ep62/evaluate.mp3",
+            "ex_audio": "media/words/ep62/evaluate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "accuracy",
+            "pos": "n.",
+            "zh": "正確さ",
+            "ex": "The app measures the accuracy of your answers.",
+            "exzh": "そのアプリは答えの正確さを測る。",
+            "ipa": "/ˈækjɚəsi/",
+            "audio": "media/words/ep62/accuracy.mp3",
+            "ex_audio": "media/words/ep62/accuracy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "encourage",
+            "pos": "v.",
+            "zh": "勧める；励ます",
+            "ex": "Encourage others to sign up for a membership.",
+            "exzh": "ほかの人に会員登録を勧めよう。",
+            "ipa": "/ɛnˈkɝɪdʒ/",
+            "audio": "media/words/ep62/encourage.mp3",
+            "ex_audio": "media/words/ep62/encourage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sign up for",
+            "pos": "phr.",
+            "zh": "…に申し込む；登録する",
+            "ex": "You can sign up for a membership online.",
+            "exzh": "オンラインで会員登録できる。",
+            "ipa": "/saɪn ʌp fɔr/",
+            "audio": "media/words/ep62/sign-up-for.mp3",
+            "ex_audio": "media/words/ep62/sign-up-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "at your own pace",
+            "pos": "phr.",
+            "zh": "自分のペースで",
+            "ex": "You can train at your own pace.",
+            "exzh": "自分のペースでトレーニングできる。",
+            "ipa": "/æt jɔr oʊn peɪs/",
+            "audio": "media/words/ep62/at-your-own-pace.mp3",
+            "ex_audio": "media/words/ep62/at-your-own-pace_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "condition",
+            "pos": "n.",
+            "zh": "条件；状態；（複数で）状況",
+            "ex": "The market conditions are now just right.",
+            "exzh": "今、市場の状況がちょうど整っている。",
+            "ipa": "/kənˈdɪʃən/",
+            "audio": "media/words/ep62/condition.mp3",
+            "ex_audio": "media/words/ep62/condition_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "favorable",
+            "pos": "adj.",
+            "zh": "好都合な；好意的な",
+            "ex": "The exchange rate is favorable for us.",
+            "exzh": "為替レートは我々にとって好都合だ。",
+            "ipa": "/ˈfeɪvɚəbəl/",
+            "audio": "media/words/ep62/favorable.mp3",
+            "ex_audio": "media/words/ep62/favorable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "boast",
+            "pos": "v.",
+            "zh": "（誇れるものを）備えている；自慢する",
+            "ex": "The shop boasts a menu of 40 flavors.",
+            "exzh": "その店は40種類の味のメニューを誇る。",
+            "ipa": "/boʊst/",
+            "audio": "media/words/ep62/boast.mp3",
+            "ex_audio": "media/words/ep62/boast_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "of course",
+            "pos": "adv.",
+            "zh": "もちろん",
+            "ex": "Of course we serve chocolate, but we also have unusual flavors.",
+            "exzh": "もちろんチョコレートも出しているが、珍しい味もある。",
+            "ipa": "/əv kɔrs/",
+            "audio": "media/words/ep62/of-course.mp3",
+            "ex_audio": "media/words/ep62/of-course_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "landmark",
+            "pos": "n.",
+            "zh": "名所；目印；画期的な出来事",
+            "ex": "The restaurant has been a local landmark for 40 years.",
+            "exzh": "そのレストランは40年間、地元の名所だった。",
+            "ipa": "/ˈlændˌmɑrk/",
+            "audio": "media/words/ep62/landmark.mp3",
+            "ex_audio": "media/words/ep62/landmark_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retirement",
+            "pos": "n.",
+            "zh": "引退；退職",
+            "ex": "Join us for Tom's retirement celebration.",
+            "exzh": "Tom の引退祝いに来てください。",
+            "ipa": "/riˈtaɪɚmənt/",
+            "audio": "media/words/ep62/retirement.mp3",
+            "ex_audio": "media/words/ep62/retirement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "commemorative",
+            "pos": "adj.",
+            "zh": "記念の",
+            "ex": "Free commemorative T-shirts will be given away.",
+            "exzh": "記念 T シャツが無料で配られる。",
+            "ipa": "/kəˈmɛmrətɪv/",
+            "audio": "media/words/ep62/commemorative.mp3",
+            "ex_audio": "media/words/ep62/commemorative_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "give away",
+            "pos": "phr.",
+            "zh": "無料で配る",
+            "ex": "We will give away T-shirts to the first 40 people.",
+            "exzh": "先着40名に T シャツを無料で配る。",
+            "ipa": "/ɡɪv əˈweɪ/",
+            "audio": "media/words/ep62/give-away.mp3",
+            "ex_audio": "media/words/ep62/give-away_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "gracious",
+            "pos": "adj.",
+            "zh": "心のこもった；親切で礼儀正しい",
+            "ex": "Mr. Hensley is always a gracious host.",
+            "exzh": "Hensley さんはいつも心のこもったもてなしをする。",
+            "ipa": "/ˈɡreɪʃəs/",
+            "audio": "media/words/ep62/gracious.mp3",
+            "ex_audio": "media/words/ep62/gracious_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "customarily",
+            "pos": "adv.",
+            "zh": "習慣的に；いつも",
+            "ex": "He customarily greets his guests at each table.",
+            "exzh": "彼はいつも各テーブルで客にあいさつする。",
+            "ipa": "/ˌkʌstəˈmɛrəli/",
+            "audio": "media/words/ep62/customarily.mp3",
+            "ex_audio": "media/words/ep62/customarily_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "diminish",
+            "pos": "v.",
+            "zh": "減る；小さくなる",
+            "ex": "Your chance to visit the restaurant is quickly diminishing.",
+            "exzh": "そのレストランを訪れる機会はどんどん減っている。",
+            "ipa": "/dɪˈmɪnɪʃ/",
+            "audio": "media/words/ep62/diminish.mp3",
+            "ex_audio": "media/words/ep62/diminish_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "proceeds",
+            "pos": "n.",
+            "zh": "収益；売上金",
+            "ex": "Proceeds from the sales will go to charity.",
+            "exzh": "売上金は慈善団体に寄付される。",
+            "ipa": "/prəˈsidz/",
+            "audio": "media/words/ep62/proceeds.mp3",
+            "ex_audio": "media/words/ep62/proceeds_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "charity",
+            "pos": "n.",
+            "zh": "慈善団体；慈善",
+            "ex": "Cooking with Kids is Tom's favorite charity.",
+            "exzh": "Cooking with Kids は Tom のお気に入りの慈善団体だ。",
+            "ipa": "/ˈtʃɛrɪti/",
+            "audio": "media/words/ep62/charity.mp3",
+            "ex_audio": "media/words/ep62/charity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "donate",
+            "pos": "v.",
+            "zh": "寄付する",
+            "ex": "Opening-day proceeds will be donated to a school program.",
+            "exzh": "開店日の売上金は学校のプログラムに寄付される。",
+            "ipa": "/ˈdoʊˌneɪt/",
+            "audio": "media/words/ep62/donate.mp3",
+            "ex_audio": "media/words/ep62/donate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "grand opening",
+            "pos": "n.",
+            "zh": "グランドオープン；新規開店",
+            "ex": "Come to the grand opening of our newest location.",
+            "exzh": "最新店舗のグランドオープンにお越しください。",
+            "ipa": "/ɡrænd ˈoʊpənɪŋ/",
+            "audio": "media/words/ep62/grand-opening.mp3",
+            "ex_audio": "media/words/ep62/grand-opening_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "specialize in",
+            "pos": "phr.",
+            "zh": "…を専門にする",
+            "ex": "The restaurant specializes in chicken and ribs.",
+            "exzh": "そのレストランはチキンとリブが専門だ。",
+            "ipa": "/ˈspɛʃəˌlaɪz ɪn/",
+            "audio": "media/words/ep62/specialize-in.mp3",
+            "ex_audio": "media/words/ep62/specialize-in_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep62_cover.png",
+    "theme_ja": "問題タイプ別精講 · Part 6 文法・語彙・接続の語（Test 3）：分詞、前置詞、品詞、代名詞、文脈の手がかり",
+    "words": [
+      {
+        "word": "necessitate",
+        "pos": "v.",
+        "zh": "使成为必要；需要",
+        "ex": "The software update necessitates a shutdown of the system.",
+        "exzh": "这次软件更新需要关闭系统。",
+        "ipa": "/nəˈsɛsəˌteɪt/",
+        "audio": "media/words/ep62/necessitate.mp3",
+        "ex_audio": "media/words/ep62/necessitate_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "shutdown",
+        "pos": "n.",
+        "zh": "关闭；停机",
+        "ex": "There will be a shutdown of the computer system tomorrow.",
+        "exzh": "明天电脑系统将停机。",
+        "ipa": "/ˈʃʌtˌdaʊn/",
+        "audio": "media/words/ep62/shutdown.mp3",
+        "ex_audio": "media/words/ep62/shutdown_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "application",
+        "pos": "n.",
+        "zh": "申请；申请书；应用程序",
+        "ex": "License applications cannot be accepted online this week.",
+        "exzh": "本周网上不能受理执照申请。",
+        "ipa": "/ˌæpləˈkeɪʃən/",
+        "audio": "media/words/ep62/application.mp3",
+        "ex_audio": "media/words/ep62/application_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "valid",
+        "pos": "adj.",
+        "zh": "有效的",
+        "ex": "You must include a valid phone number.",
+        "exzh": "您必须留下有效的电话号码。",
+        "ipa": "/ˈvælɪd/",
+        "audio": "media/words/ep62/valid.mp3",
+        "ex_audio": "media/words/ep62/valid_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "return call",
+        "pos": "n.",
+        "zh": "回电",
+        "ex": "Leave your name to receive a return call.",
+        "exzh": "请留下姓名以便接到回电。",
+        "ipa": "/rɪˈtɝn kɔl/",
+        "audio": "media/words/ep62/return-call.mp3",
+        "ex_audio": "media/words/ep62/return-call_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "weekly",
+        "pos": "adj.",
+        "zh": "每周的",
+        "ex": "Your weekly deliveries will start on May 10.",
+        "exzh": "您每周的配送将从五月十号开始。",
+        "ipa": "/ˈwikli/",
+        "audio": "media/words/ep62/weekly.mp3",
+        "ex_audio": "media/words/ep62/weekly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟；延期",
+        "ex": "You can postpone a delivery online.",
+        "exzh": "您可以在网上推迟送货。",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep62/postpone.mp3",
+        "ex_audio": "media/words/ep62/postpone_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in addition to",
+        "pos": "prep.",
+        "zh": "除……之外还有",
+        "ex": "We offer eggs in addition to fresh milk.",
+        "exzh": "除了鲜奶，我们还提供鸡蛋。",
+        "ipa": "/ɪn əˈdɪʃən tu/",
+        "audio": "media/words/ep62/in-addition-to.mp3",
+        "ex_audio": "media/words/ep62/in-addition-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "count among",
+        "pos": "phr.",
+        "zh": "把……算作……之一",
+        "ex": "We are pleased to count you among our customers.",
+        "exzh": "我们很高兴您成为我们的顾客之一。",
+        "ipa": "/kaʊnt əˈmʌŋ/",
+        "audio": "media/words/ep62/count-among.mp3",
+        "ex_audio": "media/words/ep62/count-among_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "convenience",
+        "pos": "n.",
+        "zh": "便利；方便",
+        "ex": "Many people enjoy the convenience of home delivery.",
+        "exzh": "很多人享受送货上门的便利。",
+        "ipa": "/kənˈvinjəns/",
+        "audio": "media/words/ep62/convenience.mp3",
+        "ex_audio": "media/words/ep62/convenience_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "engaging",
+        "pos": "adj.",
+        "zh": "有吸引力的；让人投入的",
+        "ex": "The app has a variety of engaging exercises.",
+        "exzh": "这款应用有各种有趣的练习。",
+        "ipa": "/ɛnˈɡeɪdʒɪŋ/",
+        "audio": "media/words/ep62/engaging.mp3",
+        "ex_audio": "media/words/ep62/engaging_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "analytical",
+        "pos": "adj.",
+        "zh": "分析的；善于分析的",
+        "ex": "The game improves your analytical thinking.",
+        "exzh": "这个游戏能提高你的分析思维。",
+        "ipa": "/ˌænəˈlɪtɪkəl/",
+        "audio": "media/words/ep62/analytical.mp3",
+        "ex_audio": "media/words/ep62/analytical_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "proficiency",
+        "pos": "n.",
+        "zh": "熟练程度；精通",
+        "ex": "Track your progress with your proficiency scores.",
+        "exzh": "用熟练度分数追踪你的进步。",
+        "ipa": "/prəˈfɪʃənsi/",
+        "audio": "media/words/ep62/proficiency.mp3",
+        "ex_audio": "media/words/ep62/proficiency_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "evaluate",
+        "pos": "v.",
+        "zh": "评估；评价",
+        "ex": "The scores are determined by evaluating response times.",
+        "exzh": "分数是通过评估反应时间来确定的。",
+        "ipa": "/ɪˈvæljuˌeɪt/",
+        "audio": "media/words/ep62/evaluate.mp3",
+        "ex_audio": "media/words/ep62/evaluate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "accuracy",
+        "pos": "n.",
+        "zh": "准确性；准确率",
+        "ex": "The app measures the accuracy of your answers.",
+        "exzh": "这款应用测量你回答的准确率。",
+        "ipa": "/ˈækjɚəsi/",
+        "audio": "media/words/ep62/accuracy.mp3",
+        "ex_audio": "media/words/ep62/accuracy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "encourage",
+        "pos": "v.",
+        "zh": "鼓励",
+        "ex": "Encourage others to sign up for a membership.",
+        "exzh": "鼓励别人注册会员。",
+        "ipa": "/ɛnˈkɝɪdʒ/",
+        "audio": "media/words/ep62/encourage.mp3",
+        "ex_audio": "media/words/ep62/encourage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sign up for",
+        "pos": "phr.",
+        "zh": "报名；注册",
+        "ex": "You can sign up for a membership online.",
+        "exzh": "你可以在网上注册会员。",
+        "ipa": "/saɪn ʌp fɔr/",
+        "audio": "media/words/ep62/sign-up-for.mp3",
+        "ex_audio": "media/words/ep62/sign-up-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "at your own pace",
+        "pos": "phr.",
+        "zh": "按自己的节奏",
+        "ex": "You can train at your own pace.",
+        "exzh": "你可以按自己的节奏训练。",
+        "ipa": "/æt jɔr oʊn peɪs/",
+        "audio": "media/words/ep62/at-your-own-pace.mp3",
+        "ex_audio": "media/words/ep62/at-your-own-pace_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "condition",
+        "pos": "n.",
+        "zh": "条件；状况；（复数）环境、形势",
+        "ex": "The market conditions are now just right.",
+        "exzh": "现在市场形势刚刚好。",
+        "ipa": "/kənˈdɪʃən/",
+        "audio": "media/words/ep62/condition.mp3",
+        "ex_audio": "media/words/ep62/condition_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "favorable",
+        "pos": "adj.",
+        "zh": "有利的；赞成的",
+        "ex": "The exchange rate is favorable for us.",
+        "exzh": "汇率对我们有利。",
+        "ipa": "/ˈfeɪvɚəbəl/",
+        "audio": "media/words/ep62/favorable.mp3",
+        "ex_audio": "media/words/ep62/favorable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "boast",
+        "pos": "v.",
+        "zh": "拥有（值得骄傲的东西）；自夸",
+        "ex": "The shop boasts a menu of 40 flavors.",
+        "exzh": "这家店拥有四十种口味的菜单。",
+        "ipa": "/boʊst/",
+        "audio": "media/words/ep62/boast.mp3",
+        "ex_audio": "media/words/ep62/boast_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "of course",
+        "pos": "adv.",
+        "zh": "当然",
+        "ex": "Of course we serve chocolate, but we also have unusual flavors.",
+        "exzh": "我们当然卖巧克力口味，但也有特别的口味。",
+        "ipa": "/əv kɔrs/",
+        "audio": "media/words/ep62/of-course.mp3",
+        "ex_audio": "media/words/ep62/of-course_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "landmark",
+        "pos": "n.",
+        "zh": "地标；里程碑",
+        "ex": "The restaurant has been a local landmark for 40 years.",
+        "exzh": "这家餐厅四十年来一直是当地的地标。",
+        "ipa": "/ˈlændˌmɑrk/",
+        "audio": "media/words/ep62/landmark.mp3",
+        "ex_audio": "media/words/ep62/landmark_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retirement",
+        "pos": "n.",
+        "zh": "退休",
+        "ex": "Join us for Tom's retirement celebration.",
+        "exzh": "来参加 Tom 的退休庆祝会吧。",
+        "ipa": "/riˈtaɪɚmənt/",
+        "audio": "media/words/ep62/retirement.mp3",
+        "ex_audio": "media/words/ep62/retirement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "commemorative",
+        "pos": "adj.",
+        "zh": "纪念的",
+        "ex": "Free commemorative T-shirts will be given away.",
+        "exzh": "会免费赠送纪念 T 恤。",
+        "ipa": "/kəˈmɛmrətɪv/",
+        "audio": "media/words/ep62/commemorative.mp3",
+        "ex_audio": "media/words/ep62/commemorative_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "give away",
+        "pos": "phr.",
+        "zh": "免费赠送；分发",
+        "ex": "We will give away T-shirts to the first 40 people.",
+        "exzh": "我们会给前四十个人赠送 T 恤。",
+        "ipa": "/ɡɪv əˈweɪ/",
+        "audio": "media/words/ep62/give-away.mp3",
+        "ex_audio": "media/words/ep62/give-away_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "gracious",
+        "pos": "adj.",
+        "zh": "亲切有礼的；和蔼的",
+        "ex": "Mr. Hensley is always a gracious host.",
+        "exzh": "Hensley 先生一直是位亲切周到的主人。",
+        "ipa": "/ˈɡreɪʃəs/",
+        "audio": "media/words/ep62/gracious.mp3",
+        "ex_audio": "media/words/ep62/gracious_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "customarily",
+        "pos": "adv.",
+        "zh": "习惯上；通常",
+        "ex": "He customarily greets his guests at each table.",
+        "exzh": "他习惯在每张桌子前问候客人。",
+        "ipa": "/ˌkʌstəˈmɛrəli/",
+        "audio": "media/words/ep62/customarily.mp3",
+        "ex_audio": "media/words/ep62/customarily_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "diminish",
+        "pos": "v.",
+        "zh": "减少；变小",
+        "ex": "Your chance to visit the restaurant is quickly diminishing.",
+        "exzh": "去这家餐厅的机会很快就要没了。",
+        "ipa": "/dɪˈmɪnɪʃ/",
+        "audio": "media/words/ep62/diminish.mp3",
+        "ex_audio": "media/words/ep62/diminish_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "proceeds",
+        "pos": "n.",
+        "zh": "收益；收入（常用复数）",
+        "ex": "Proceeds from the sales will go to charity.",
+        "exzh": "销售收入将捐给慈善机构。",
+        "ipa": "/prəˈsidz/",
+        "audio": "media/words/ep62/proceeds.mp3",
+        "ex_audio": "media/words/ep62/proceeds_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "charity",
+        "pos": "n.",
+        "zh": "慈善机构；慈善",
+        "ex": "Cooking with Kids is Tom's favorite charity.",
+        "exzh": "Cooking with Kids 是 Tom 最喜欢的慈善机构。",
+        "ipa": "/ˈtʃɛrɪti/",
+        "audio": "media/words/ep62/charity.mp3",
+        "ex_audio": "media/words/ep62/charity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "donate",
+        "pos": "v.",
+        "zh": "捐赠",
+        "ex": "Opening-day proceeds will be donated to a school program.",
+        "exzh": "开业当天的收入将捐给一个学校项目。",
+        "ipa": "/ˈdoʊˌneɪt/",
+        "audio": "media/words/ep62/donate.mp3",
+        "ex_audio": "media/words/ep62/donate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "grand opening",
+        "pos": "n.",
+        "zh": "盛大开业",
+        "ex": "Come to the grand opening of our newest location.",
+        "exzh": "欢迎来参加我们最新分店的盛大开业。",
+        "ipa": "/ɡrænd ˈoʊpənɪŋ/",
+        "audio": "media/words/ep62/grand-opening.mp3",
+        "ex_audio": "media/words/ep62/grand-opening_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "specialize in",
+        "pos": "phr.",
+        "zh": "专门经营；专攻",
+        "ex": "The restaurant specializes in chicken and ribs.",
+        "exzh": "这家餐厅专营鸡肉和排骨。",
+        "ipa": "/ˈspɛʃəˌlaɪz ɪn/",
+        "audio": "media/words/ep62/specialize-in.mp3",
+        "ex_audio": "media/words/ep62/specialize-in_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 61,
     "theme": "题型精讲 · Part 6 语法、词汇、连接词（Test 2）：代词、介词、词性、上下文线索",
     "date": "2026-11-12",
