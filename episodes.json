@@ -1,5 +1,1385 @@
 [
   {
+    "number": 63,
+    "theme": "题型精讲 · 考前总复习：Part 5/6 六大答题套路（词性 · 动词 · 代词 · 连词 · 搭配 · 上下文）",
+    "date": "2026-11-14",
+    "duration_sec": 2818.5,
+    "segments": [
+      {
+        "title": "1. Part 5/6 答题套路总复习（三套真题 13 题）",
+        "start": 0.0,
+        "length": 1327.11
+      },
+      {
+        "title": "2. Part 7 三篇阅读（广告 · 邮件 · 简介，Test 3 Q191–195）",
+        "start": 1327.11,
+        "length": 797.0
+      },
+      {
+        "title": "3. 本期 36 词总复习 · 拼读",
+        "start": 2124.11,
+        "length": 694.38
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "occasionally",
+        "zh": "偶尔；有时"
+      },
+      {
+        "word": "be subject to",
+        "zh": "受……支配；可能会被……"
+      },
+      {
+        "word": "either A or B",
+        "zh": "要么A要么B；A或B"
+      },
+      {
+        "word": "facility",
+        "zh": "设施；场所"
+      },
+      {
+        "word": "self-employed",
+        "zh": "自雇的；自己创业的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. occasioning.",
+        "zh": "第一组；看位置定词性。Test 1 第123题。The delivery company has blank experienced delays when"
+      },
+      {
+        "word": "occasionally",
+        "zh": "意思是：偶尔；有时"
+      },
+      {
+        "word": "transport",
+        "zh": "意思是：运输；运送"
+      },
+      {
+        "word": "D. providing.",
+        "zh": "第二组；动词题四步：有没有谓语、主谓一致、时态、主动还是被动。Test 1 第108题。Amber Kitchen"
+      },
+      {
+        "word": "warranty",
+        "zh": "意思是：保修；保修单"
+      },
+      {
+        "word": "D. must be submitted.",
+        "zh": "Test 1 第112题。Applications for the software engineer position blank online at vntsystems.net。句子"
+      },
+      {
+        "word": "submit",
+        "zh": "意思是：提交；递交"
+      },
+      {
+        "word": "position",
+        "zh": "意思是：职位；位置"
+      },
+      {
+        "word": "D. is placing.",
+        "zh": "Test 2 第106题。All silverware orders blank before midnight tonight will be shipped free of charge"
+      },
+      {
+        "word": "place an order",
+        "zh": "意思是：下订单"
+      },
+      {
+        "word": "free of charge",
+        "zh": "意思是：免费"
+      },
+      {
+        "word": "D. theirs.",
+        "zh": "第三组；代词和关系词。Test 3 第112题。The IT technicians will give blank two months to execute the"
+      },
+      {
+        "word": "execute",
+        "zh": "意思是：执行；实施"
+      },
+      {
+        "word": "transition",
+        "zh": "意思是：过渡；转换"
+      },
+      {
+        "word": "D. whoever.",
+        "zh": "Test 3 第124题。A library card will be issued to any Mountain City resident blank requests one。空格"
+      },
+      {
+        "word": "issue",
+        "zh": "意思是：发放；签发；名词：问题；期刊"
+      },
+      {
+        "word": "resident",
+        "zh": "意思是：居民；住户"
+      },
+      {
+        "word": "D. once.",
+        "zh": "第四组；连词还是介词。Test 1 第124题。The contract will be awarded blank all required documents"
+      },
+      {
+        "word": "award",
+        "zh": "意思是：授予；给予；名词：奖"
+      },
+      {
+        "word": "once",
+        "zh": "意思是：一旦就"
+      },
+      {
+        "word": "D. as if.",
+        "zh": "Test 1 第111题。New residents should contact the Ewing Water Department blank by e-mail or phone"
+      },
+      {
+        "word": "either A or B",
+        "zh": "意思是：要么A要么B；A或B"
+      },
+      {
+        "word": "activate",
+        "zh": "意思是：激活；开通"
+      },
+      {
+        "word": "D. subject.",
+        "zh": "第五组；词汇和固定搭配。Test 1 第130题。All bank transfers are blank to review and could be"
+      },
+      {
+        "word": "be subject to",
+        "zh": "意思是：受支配；可能会被"
+      },
+      {
+        "word": "identify",
+        "zh": "意思是：发现；识别；确认"
+      },
+      {
+        "word": "D. tight.",
+        "zh": "Test 2 第111题。Because the budget is so blank, conference coordinators have planned a simple,"
+      },
+      {
+        "word": "tight",
+        "zh": "意思是：紧的；；预算、时间；紧张的"
+      },
+      {
+        "word": "coordinator",
+        "zh": "意思是：协调人；组织者"
+      },
+      {
+        "word": "attendee",
+        "zh": "意思是：参加者；出席者"
+      },
+      {
+        "word": "D. monument.",
+        "zh": "第六组；Part 6。Part 6 和 Part 5 最大的不同是：答案的线索常常在别的句子里。Test 1 第131题；出自一"
+      },
+      {
+        "word": "facility",
+        "zh": "意思是：设施；场所"
+      },
+      {
+        "word": "outdated",
+        "zh": "意思是：过时的；陈旧的"
+      },
+      {
+        "word": "D. will ensure.",
+        "zh": "Test 1 第134题；还是这篇新闻。Norlich works closely with its local network of suppliers blank that"
+      },
+      {
+        "word": "ensure",
+        "zh": "意思是：确保；保证"
+      },
+      {
+        "word": "ripe",
+        "zh": "意思是：成熟的"
+      },
+      {
+        "word": "D. On the contrary.",
+        "zh": "最后一题；Part 6 连接词题。Test 1 第136题；一封向银行申请贷款的邮件；第135题的空已经填好。前一"
+      },
+      {
+        "word": "increasingly",
+        "zh": "意思是：越来越；日益"
+      },
+      {
+        "word": "in fact",
+        "zh": "意思是：事实上；实际上"
+      },
+      {
+        "word": "D. Travel",
+        "zh": "第191题；根据广告；为什么营销经理这份工作特别有挑战？uniquely challenging 是“特别有挑战”"
+      },
+      {
+        "word": "take on",
+        "zh": "意思是：承担；接受；工作、责任"
+      },
+      {
+        "word": "responsibility",
+        "zh": "意思是：责任；职责"
+      },
+      {
+        "word": "sharpen",
+        "zh": "意思是：磨炼；使敏锐"
+      },
+      {
+        "word": "essential",
+        "zh": "意思是：必不可少的；关键的"
+      },
+      {
+        "word": "early-bird",
+        "zh": "意思是：早鸟的；提前的"
+      },
+      {
+        "word": "registrant",
+        "zh": "意思是：报名者；注册者"
+      },
+      {
+        "word": "self-employed",
+        "zh": "意思是：自雇的；自己创业的"
+      },
+      {
+        "word": "analyst",
+        "zh": "意思是：分析师"
+      },
+      {
+        "word": "publishing",
+        "zh": "意思是：出版；出版业"
+      },
+      {
+        "word": "extensive",
+        "zh": "意思是：丰富的；广泛的"
+      },
+      {
+        "word": "occasionally",
+        "zh": "偶尔；有时"
+      },
+      {
+        "word": "transport",
+        "zh": "运输；运送"
+      },
+      {
+        "word": "warranty",
+        "zh": "保修；保修单"
+      },
+      {
+        "word": "submit",
+        "zh": "提交；递交"
+      },
+      {
+        "word": "position",
+        "zh": "职位；位置"
+      },
+      {
+        "word": "place an order",
+        "zh": "下订单"
+      },
+      {
+        "word": "free of charge",
+        "zh": "免费"
+      },
+      {
+        "word": "execute",
+        "zh": "执行；实施"
+      },
+      {
+        "word": "transition",
+        "zh": "过渡；转换"
+      },
+      {
+        "word": "issue",
+        "zh": "发放；签发；名词：问题；期刊"
+      },
+      {
+        "word": "resident",
+        "zh": "居民；住户"
+      },
+      {
+        "word": "award",
+        "zh": "授予；给予；名词：奖"
+      },
+      {
+        "word": "once",
+        "zh": "一旦就"
+      },
+      {
+        "word": "either A or B",
+        "zh": "要么A要么B；A或B"
+      },
+      {
+        "word": "activate",
+        "zh": "激活；开通"
+      },
+      {
+        "word": "be subject to",
+        "zh": "受支配；可能会被"
+      },
+      {
+        "word": "identify",
+        "zh": "发现；识别；确认"
+      },
+      {
+        "word": "tight",
+        "zh": "紧的；；预算、时间；紧张的"
+      },
+      {
+        "word": "coordinator",
+        "zh": "协调人；组织者"
+      },
+      {
+        "word": "attendee",
+        "zh": "参加者；出席者"
+      },
+      {
+        "word": "facility",
+        "zh": "设施；场所"
+      },
+      {
+        "word": "outdated",
+        "zh": "过时的；陈旧的"
+      },
+      {
+        "word": "ensure",
+        "zh": "确保；保证"
+      },
+      {
+        "word": "ripe",
+        "zh": "成熟的"
+      },
+      {
+        "word": "increasingly",
+        "zh": "越来越；日益"
+      },
+      {
+        "word": "in fact",
+        "zh": "事实上；实际上"
+      },
+      {
+        "word": "take on",
+        "zh": "承担；接受；工作、责任"
+      },
+      {
+        "word": "responsibility",
+        "zh": "责任；职责"
+      },
+      {
+        "word": "sharpen",
+        "zh": "磨炼；使敏锐"
+      },
+      {
+        "word": "essential",
+        "zh": "必不可少的；关键的"
+      },
+      {
+        "word": "early-bird",
+        "zh": "早鸟的；提前的"
+      },
+      {
+        "word": "registrant",
+        "zh": "报名者；注册者"
+      },
+      {
+        "word": "self-employed",
+        "zh": "自雇的；自己创业的"
+      },
+      {
+        "word": "analyst",
+        "zh": "分析师"
+      },
+      {
+        "word": "publishing",
+        "zh": "出版；出版业"
+      },
+      {
+        "word": "extensive",
+        "zh": "丰富的；广泛的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep63.mp4",
+    "script_pdf": "media/ep63_script.pdf",
+    "source_video": "ep63.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep63.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep63.mp4",
+        "script_pdf": "media/ep63_script.pdf",
+        "duration_sec": 2818.5,
+        "theme": "题型精讲 · 考前总复习：Part 5/6 六大答题套路（词性 · 动词 · 代词 · 连词 · 搭配 · 上下文）",
+        "segments": [
+          {
+            "title": "1. Part 5/6 答题套路总复习（三套真题 13 题）",
+            "start": 0.0,
+            "length": 1327.11
+          },
+          {
+            "title": "2. Part 7 三篇阅读（广告 · 邮件 · 简介，Test 3 Q191–195）",
+            "start": 1327.11,
+            "length": 797.0
+          },
+          {
+            "title": "3. 本期 36 词总复习 · 拼读",
+            "start": 2124.11,
+            "length": 694.38
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep63ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep63ja.mp4",
+        "script_pdf": "media/ep63ja_script.pdf",
+        "duration_sec": 3428.0,
+        "theme": "問題タイプ別精講 · 試験直前の総復習：Part 5/6 6つの解き方パターン（品詞 · 動詞 · 代名詞 · 接続詞 · 組み合わせ · 文脈）",
+        "segments": [
+          {
+            "title": "1. Part 5/6 解き方のパターン総復習（本番 13問）",
+            "start": 0.0,
+            "length": 1684.25
+          },
+          {
+            "title": "2. Part 7 3文書の読解（広告 · メール · プロフィール、Test 3 Q191–195）",
+            "start": 1684.25,
+            "length": 965.09
+          },
+          {
+            "title": "3. 今回の 36 語総復習 · スペル",
+            "start": 2649.35,
+            "length": 778.66
+          }
+        ],
+        "poster": "media/ep63ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "occasionally",
+            "zh": "時々；たまに"
+          },
+          {
+            "word": "be subject to",
+            "zh": "…の対象となる；…を受けることがある"
+          },
+          {
+            "word": "either A or B",
+            "zh": "AかBのどちらか"
+          },
+          {
+            "word": "facility",
+            "zh": "施設；設備"
+          },
+          {
+            "word": "self-employed",
+            "zh": "自営の；フリーランスの"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "occasionally",
+          "transport",
+          "warranty",
+          "submit",
+          "position",
+          "place an order",
+          "free of charge",
+          "execute",
+          "transition",
+          "issue",
+          "resident",
+          "award",
+          "once",
+          "either A or B",
+          "activate",
+          "be subject to",
+          "identify",
+          "tight",
+          "coordinator",
+          "attendee",
+          "facility",
+          "outdated",
+          "ensure",
+          "ripe",
+          "increasingly",
+          "in fact",
+          "take on",
+          "responsibility",
+          "sharpen",
+          "essential",
+          "early-bird",
+          "registrant",
+          "self-employed",
+          "analyst",
+          "publishing",
+          "extensive"
+        ],
+        "words": [
+          {
+            "word": "occasionally",
+            "pos": "adv.",
+            "zh": "時々；たまに",
+            "ex": "The trains are occasionally delayed in winter.",
+            "exzh": "冬は電車が時々遅れる。",
+            "ipa": "/əˈkeɪʒənəli/",
+            "audio": "media/words/ep63/occasionally.mp3",
+            "ex_audio": "media/words/ep63/occasionally_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "transport",
+            "pos": "v.",
+            "zh": "輸送する；運ぶ",
+            "ex": "The company transports goods by truck.",
+            "exzh": "その会社はトラックで商品を輸送する。",
+            "ipa": "/trænˈspɔrt/",
+            "audio": "media/words/ep63/transport.mp3",
+            "ex_audio": "media/words/ep63/transport_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "warranty",
+            "pos": "n.",
+            "zh": "保証；保証書",
+            "ex": "All our products come with a one-year warranty.",
+            "exzh": "当社の全製品に1年間の保証が付いている。",
+            "ipa": "/ˈwɔrənti/",
+            "audio": "media/words/ep63/warranty.mp3",
+            "ex_audio": "media/words/ep63/warranty_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "submit",
+            "pos": "v.",
+            "zh": "提出する",
+            "ex": "Please submit your application online.",
+            "exzh": "申請書はオンラインで提出してください。",
+            "ipa": "/səbˈmɪt/",
+            "audio": "media/words/ep63/submit.mp3",
+            "ex_audio": "media/words/ep63/submit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "position",
+            "pos": "n.",
+            "zh": "職；ポスト；位置",
+            "ex": "She applied for the software engineer position.",
+            "exzh": "彼女はソフトウェアエンジニアの職に応募した。",
+            "ipa": "/pəˈzɪʃən/",
+            "audio": "media/words/ep63/position.mp3",
+            "ex_audio": "media/words/ep63/position_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "place an order",
+            "pos": "phr.",
+            "zh": "注文する",
+            "ex": "You can place an order online or by phone.",
+            "exzh": "オンラインか電話で注文できる。",
+            "ipa": "/pleɪs æn ˈɔrdɚ/",
+            "audio": "media/words/ep63/place-an-order.mp3",
+            "ex_audio": "media/words/ep63/place-an-order_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "free of charge",
+            "pos": "phr.",
+            "zh": "無料で",
+            "ex": "Orders will be shipped free of charge.",
+            "exzh": "注文品は無料で発送される。",
+            "ipa": "/fri əv tʃɑrdʒ/",
+            "audio": "media/words/ep63/free-of-charge.mp3",
+            "ex_audio": "media/words/ep63/free-of-charge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "execute",
+            "pos": "v.",
+            "zh": "実行する；遂行する",
+            "ex": "The team executed the plan on time.",
+            "exzh": "チームは期限どおりに計画を実行した。",
+            "ipa": "/ˈɛksəˌkjut/",
+            "audio": "media/words/ep63/execute.mp3",
+            "ex_audio": "media/words/ep63/execute_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "transition",
+            "pos": "n.",
+            "zh": "移行；切り替え",
+            "ex": "The software transition will take two months.",
+            "exzh": "ソフトウェアの移行には2か月かかる。",
+            "ipa": "/trænˈzɪʃən/",
+            "audio": "media/words/ep63/transition.mp3",
+            "ex_audio": "media/words/ep63/transition_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "issue",
+            "pos": "v.",
+            "zh": "発行する；交付する（名詞：問題；号）",
+            "ex": "A library card will be issued to every resident.",
+            "exzh": "図書館カードは住民全員に発行される。",
+            "ipa": "/ˈɪʃu/",
+            "audio": "media/words/ep63/issue.mp3",
+            "ex_audio": "media/words/ep63/issue_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "resident",
+            "pos": "n.",
+            "zh": "住民；居住者",
+            "ex": "The park is popular with local residents.",
+            "exzh": "その公園は地元の住民に人気がある。",
+            "ipa": "/ˈrɛzɪdənt/",
+            "audio": "media/words/ep63/resident.mp3",
+            "ex_audio": "media/words/ep63/resident_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "award",
+            "pos": "v.",
+            "zh": "与える；授与する（名詞：賞）",
+            "ex": "The contract was awarded to a local company.",
+            "exzh": "その契約は地元の会社に与えられた。",
+            "ipa": "/əˈwɔrd/",
+            "audio": "media/words/ep63/award.mp3",
+            "ex_audio": "media/words/ep63/award_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "once",
+            "pos": "conj.",
+            "zh": "いったん…すると；…したらすぐ",
+            "ex": "Once the documents are received, we will contact you.",
+            "exzh": "書類を受け取りしだい、ご連絡します。",
+            "ipa": "/wʌns/",
+            "audio": "media/words/ep63/once.mp3",
+            "ex_audio": "media/words/ep63/once_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "either A or B",
+            "pos": "phr.",
+            "zh": "AかBのどちらか",
+            "ex": "You can contact us either by e-mail or by phone.",
+            "exzh": "メールか電話のどちらかでご連絡ください。",
+            "ipa": "/ˈiðɚ ə ɔr bi/",
+            "audio": "media/words/ep63/either-a-or-b.mp3",
+            "ex_audio": "media/words/ep63/either-a-or-b_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "activate",
+            "pos": "v.",
+            "zh": "有効にする；開通させる",
+            "ex": "Call this number to activate your account.",
+            "exzh": "この番号に電話してアカウントを有効にしてください。",
+            "ipa": "/ˈæktəˌveɪt/",
+            "audio": "media/words/ep63/activate.mp3",
+            "ex_audio": "media/words/ep63/activate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be subject to",
+            "pos": "phr.",
+            "zh": "…の対象となる；…を受けることがある",
+            "ex": "All prices are subject to change.",
+            "exzh": "価格はすべて変更されることがある。",
+            "ipa": "/bi səbˈdʒɛkt tu/",
+            "audio": "media/words/ep63/be-subject-to.mp3",
+            "ex_audio": "media/words/ep63/be-subject-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "identify",
+            "pos": "v.",
+            "zh": "特定する；見つける",
+            "ex": "The engineers identified the problem quickly.",
+            "exzh": "技術者たちはすぐに問題を特定した。",
+            "ipa": "/aɪˈdɛntəˌfaɪ/",
+            "audio": "media/words/ep63/identify.mp3",
+            "ex_audio": "media/words/ep63/identify_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tight",
+            "pos": "adj.",
+            "zh": "きつい；（予算・日程が）厳しい",
+            "ex": "We are working on a tight budget this year.",
+            "exzh": "今年は厳しい予算でやっている。",
+            "ipa": "/taɪt/",
+            "audio": "media/words/ep63/tight.mp3",
+            "ex_audio": "media/words/ep63/tight_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "coordinator",
+            "pos": "n.",
+            "zh": "調整役；担当者",
+            "ex": "The conference coordinator booked the rooms.",
+            "exzh": "会議の担当者が部屋を予約した。",
+            "ipa": "/koʊˈɔrdəˌneɪtɚ/",
+            "audio": "media/words/ep63/coordinator.mp3",
+            "ex_audio": "media/words/ep63/coordinator_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attendee",
+            "pos": "n.",
+            "zh": "参加者；出席者",
+            "ex": "Each attendee will receive a name badge.",
+            "exzh": "参加者全員に名札が配られる。",
+            "ipa": "/əˌtɛnˈdi/",
+            "audio": "media/words/ep63/attendee.mp3",
+            "ex_audio": "media/words/ep63/attendee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "facility",
+            "pos": "n.",
+            "zh": "施設；設備",
+            "ex": "The new facility can process 10 million kilos of vegetables a year.",
+            "exzh": "新しい施設は年間1,000万キロの野菜を処理できる。",
+            "ipa": "/fəˈsɪlɪti/",
+            "audio": "media/words/ep63/facility.mp3",
+            "ex_audio": "media/words/ep63/facility_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "outdated",
+            "pos": "adj.",
+            "zh": "時代遅れの；古くなった",
+            "ex": "The new plant replaces an outdated facility.",
+            "exzh": "新工場は古くなった施設に取って代わる。",
+            "ipa": "/ˈaʊtˌdeɪtɪd/",
+            "audio": "media/words/ep63/outdated.mp3",
+            "ex_audio": "media/words/ep63/outdated_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ensure",
+            "pos": "v.",
+            "zh": "確実にする；保証する",
+            "ex": "Please check your order to ensure that it is correct.",
+            "exzh": "注文が正しいことを確かめるため、ご確認ください。",
+            "ipa": "/ɛnˈʃʊr/",
+            "audio": "media/words/ep63/ensure.mp3",
+            "ex_audio": "media/words/ep63/ensure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ripe",
+            "pos": "adj.",
+            "zh": "熟した",
+            "ex": "The vegetables are picked when they are ripe.",
+            "exzh": "野菜は熟したときに収穫される。",
+            "ipa": "/raɪp/",
+            "audio": "media/words/ep63/ripe.mp3",
+            "ex_audio": "media/words/ep63/ripe_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "increasingly",
+            "pos": "adv.",
+            "zh": "ますます",
+            "ex": "Online shopping is increasingly popular.",
+            "exzh": "オンラインショッピングはますます人気になっている。",
+            "ipa": "/ɪnˈkrisɪŋli/",
+            "audio": "media/words/ep63/increasingly.mp3",
+            "ex_audio": "media/words/ep63/increasingly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in fact",
+            "pos": "adv.",
+            "zh": "実際；それどころか",
+            "ex": "Sales are good. In fact, they are the best in ten years.",
+            "exzh": "売り上げは好調だ。実際、この10年で最高だ。",
+            "ipa": "/ɪn fækt/",
+            "audio": "media/words/ep63/in-fact.mp3",
+            "ex_audio": "media/words/ep63/in-fact_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take on",
+            "pos": "phr.",
+            "zh": "引き受ける；担う",
+            "ex": "Managers often take on extra responsibilities.",
+            "exzh": "マネージャーはしばしば追加の責任を引き受ける。",
+            "ipa": "/teɪk ɑn/",
+            "audio": "media/words/ep63/take-on.mp3",
+            "ex_audio": "media/words/ep63/take-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "responsibility",
+            "pos": "n.",
+            "zh": "責任；職務",
+            "ex": "Training new staff is one of her responsibilities.",
+            "exzh": "新人研修は彼女の職務の一つだ。",
+            "ipa": "/riˌspɑnsəˈbɪləti/",
+            "audio": "media/words/ep63/responsibility.mp3",
+            "ex_audio": "media/words/ep63/responsibility_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sharpen",
+            "pos": "v.",
+            "zh": "磨く；鋭くする",
+            "ex": "This course will sharpen your communication skills.",
+            "exzh": "この講座でコミュニケーション能力が磨かれる。",
+            "ipa": "/ˈʃɑrpən/",
+            "audio": "media/words/ep63/sharpen.mp3",
+            "ex_audio": "media/words/ep63/sharpen_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "essential",
+            "pos": "adj.",
+            "zh": "不可欠な；極めて重要な",
+            "ex": "Good communication is essential for success.",
+            "exzh": "よいコミュニケーションは成功に不可欠だ。",
+            "ipa": "/ɛˈsɛnʃəl/",
+            "audio": "media/words/ep63/essential.mp3",
+            "ex_audio": "media/words/ep63/essential_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "early-bird",
+            "pos": "adj.",
+            "zh": "早期の；早割の",
+            "ex": "Early-bird registration ends on March 10.",
+            "exzh": "早期申込は3月10日で締め切られる。",
+            "ipa": "/ˈɝli-bɝd/",
+            "audio": "media/words/ep63/early-bird.mp3",
+            "ex_audio": "media/words/ep63/early-bird_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "registrant",
+            "pos": "n.",
+            "zh": "申込者；登録者",
+            "ex": "Each class is limited to twelve registrants.",
+            "exzh": "各クラスの申込者は12名までだ。",
+            "ipa": "/ˈrɛdʒəstrənt/",
+            "audio": "media/words/ep63/registrant.mp3",
+            "ex_audio": "media/words/ep63/registrant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "self-employed",
+            "pos": "adj.",
+            "zh": "自営の；フリーランスの",
+            "ex": "She has been self-employed for five years.",
+            "exzh": "彼女は5年前から自営業だ。",
+            "ipa": "/sɛlf-ɛmˈplɔɪd/",
+            "audio": "media/words/ep63/self-employed.mp3",
+            "ex_audio": "media/words/ep63/self-employed_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "analyst",
+            "pos": "n.",
+            "zh": "アナリスト；分析担当者",
+            "ex": "He was hired as a market analyst.",
+            "exzh": "彼は市場アナリストとして採用された。",
+            "ipa": "/ˈænəlɪst/",
+            "audio": "media/words/ep63/analyst.mp3",
+            "ex_audio": "media/words/ep63/analyst_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "publishing",
+            "pos": "n.",
+            "zh": "出版；出版業",
+            "ex": "She has worked in publishing for twenty years.",
+            "exzh": "彼女は出版業界で20年働いている。",
+            "ipa": "/ˈpʌblɪʃɪŋ/",
+            "audio": "media/words/ep63/publishing.mp3",
+            "ex_audio": "media/words/ep63/publishing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "extensive",
+            "pos": "adj.",
+            "zh": "豊富な；幅広い",
+            "ex": "Ms. Zamora has extensive teaching experience.",
+            "exzh": "Zamora さんは豊富な指導経験を持っている。",
+            "ipa": "/ɪkˈstɛnsɪv/",
+            "audio": "media/words/ep63/extensive.mp3",
+            "ex_audio": "media/words/ep63/extensive_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep63_cover.png",
+    "theme_ja": "問題タイプ別精講 · 試験直前の総復習：Part 5/6 6つの解き方パターン（品詞 · 動詞 · 代名詞 · 接続詞 · 組み合わせ · 文脈）",
+    "words": [
+      {
+        "word": "occasionally",
+        "pos": "adv.",
+        "zh": "偶尔；有时",
+        "ex": "The trains are occasionally delayed in winter.",
+        "exzh": "冬天火车偶尔会晚点。",
+        "ipa": "/əˈkeɪʒənəli/",
+        "audio": "media/words/ep63/occasionally.mp3",
+        "ex_audio": "media/words/ep63/occasionally_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "transport",
+        "pos": "v.",
+        "zh": "运输；运送",
+        "ex": "The company transports goods by truck.",
+        "exzh": "这家公司用卡车运货。",
+        "ipa": "/trænˈspɔrt/",
+        "audio": "media/words/ep63/transport.mp3",
+        "ex_audio": "media/words/ep63/transport_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "warranty",
+        "pos": "n.",
+        "zh": "保修；保修单",
+        "ex": "All our products come with a one-year warranty.",
+        "exzh": "我们所有产品都有一年保修。",
+        "ipa": "/ˈwɔrənti/",
+        "audio": "media/words/ep63/warranty.mp3",
+        "ex_audio": "media/words/ep63/warranty_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "submit",
+        "pos": "v.",
+        "zh": "提交；递交",
+        "ex": "Please submit your application online.",
+        "exzh": "请在网上提交申请。",
+        "ipa": "/səbˈmɪt/",
+        "audio": "media/words/ep63/submit.mp3",
+        "ex_audio": "media/words/ep63/submit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "position",
+        "pos": "n.",
+        "zh": "职位；位置",
+        "ex": "She applied for the software engineer position.",
+        "exzh": "她申请了软件工程师的职位。",
+        "ipa": "/pəˈzɪʃən/",
+        "audio": "media/words/ep63/position.mp3",
+        "ex_audio": "media/words/ep63/position_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "place an order",
+        "pos": "phr.",
+        "zh": "下订单",
+        "ex": "You can place an order online or by phone.",
+        "exzh": "你可以在网上或打电话下订单。",
+        "ipa": "/pleɪs æn ˈɔrdɚ/",
+        "audio": "media/words/ep63/place-an-order.mp3",
+        "ex_audio": "media/words/ep63/place-an-order_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "free of charge",
+        "pos": "phr.",
+        "zh": "免费",
+        "ex": "Orders will be shipped free of charge.",
+        "exzh": "订单将免运费寄出。",
+        "ipa": "/fri əv tʃɑrdʒ/",
+        "audio": "media/words/ep63/free-of-charge.mp3",
+        "ex_audio": "media/words/ep63/free-of-charge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "execute",
+        "pos": "v.",
+        "zh": "执行；实施",
+        "ex": "The team executed the plan on time.",
+        "exzh": "团队按时执行了计划。",
+        "ipa": "/ˈɛksəˌkjut/",
+        "audio": "media/words/ep63/execute.mp3",
+        "ex_audio": "media/words/ep63/execute_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "transition",
+        "pos": "n.",
+        "zh": "过渡；转换",
+        "ex": "The software transition will take two months.",
+        "exzh": "软件切换需要两个月。",
+        "ipa": "/trænˈzɪʃən/",
+        "audio": "media/words/ep63/transition.mp3",
+        "ex_audio": "media/words/ep63/transition_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "issue",
+        "pos": "v.",
+        "zh": "发放；签发（名词：问题；期刊）",
+        "ex": "A library card will be issued to every resident.",
+        "exzh": "每位居民都会领到借书证。",
+        "ipa": "/ˈɪʃu/",
+        "audio": "media/words/ep63/issue.mp3",
+        "ex_audio": "media/words/ep63/issue_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "zh": "居民；住户",
+        "ex": "The park is popular with local residents.",
+        "exzh": "这个公园很受当地居民欢迎。",
+        "ipa": "/ˈrɛzɪdənt/",
+        "audio": "media/words/ep63/resident.mp3",
+        "ex_audio": "media/words/ep63/resident_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "award",
+        "pos": "v.",
+        "zh": "授予；给予（名词：奖）",
+        "ex": "The contract was awarded to a local company.",
+        "exzh": "合同授予了一家本地公司。",
+        "ipa": "/əˈwɔrd/",
+        "audio": "media/words/ep63/award.mp3",
+        "ex_audio": "media/words/ep63/award_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "once",
+        "pos": "conj.",
+        "zh": "一旦……就",
+        "ex": "Once the documents are received, we will contact you.",
+        "exzh": "一收到文件，我们就会联系您。",
+        "ipa": "/wʌns/",
+        "audio": "media/words/ep63/once.mp3",
+        "ex_audio": "media/words/ep63/once_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "either A or B",
+        "pos": "phr.",
+        "zh": "要么A要么B；A或B",
+        "ex": "You can contact us either by e-mail or by phone.",
+        "exzh": "您可以通过电子邮件或电话联系我们。",
+        "ipa": "/ˈiðɚ ə ɔr bi/",
+        "audio": "media/words/ep63/either-a-or-b.mp3",
+        "ex_audio": "media/words/ep63/either-a-or-b_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "activate",
+        "pos": "v.",
+        "zh": "激活；开通",
+        "ex": "Call this number to activate your account.",
+        "exzh": "打这个号码开通您的账户。",
+        "ipa": "/ˈæktəˌveɪt/",
+        "audio": "media/words/ep63/activate.mp3",
+        "ex_audio": "media/words/ep63/activate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be subject to",
+        "pos": "phr.",
+        "zh": "受……支配；可能会被……",
+        "ex": "All prices are subject to change.",
+        "exzh": "所有价格都可能变动。",
+        "ipa": "/bi səbˈdʒɛkt tu/",
+        "audio": "media/words/ep63/be-subject-to.mp3",
+        "ex_audio": "media/words/ep63/be-subject-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "identify",
+        "pos": "v.",
+        "zh": "发现；识别；确认",
+        "ex": "The engineers identified the problem quickly.",
+        "exzh": "工程师们很快发现了问题。",
+        "ipa": "/aɪˈdɛntəˌfaɪ/",
+        "audio": "media/words/ep63/identify.mp3",
+        "ex_audio": "media/words/ep63/identify_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tight",
+        "pos": "adj.",
+        "zh": "紧的；（预算、时间）紧张的",
+        "ex": "We are working on a tight budget this year.",
+        "exzh": "今年我们的预算很紧。",
+        "ipa": "/taɪt/",
+        "audio": "media/words/ep63/tight.mp3",
+        "ex_audio": "media/words/ep63/tight_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "coordinator",
+        "pos": "n.",
+        "zh": "协调人；组织者",
+        "ex": "The conference coordinator booked the rooms.",
+        "exzh": "会议组织者预订了房间。",
+        "ipa": "/koʊˈɔrdəˌneɪtɚ/",
+        "audio": "media/words/ep63/coordinator.mp3",
+        "ex_audio": "media/words/ep63/coordinator_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attendee",
+        "pos": "n.",
+        "zh": "参加者；出席者",
+        "ex": "Each attendee will receive a name badge.",
+        "exzh": "每位参加者都会拿到一个名牌。",
+        "ipa": "/əˌtɛnˈdi/",
+        "audio": "media/words/ep63/attendee.mp3",
+        "ex_audio": "media/words/ep63/attendee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "facility",
+        "pos": "n.",
+        "zh": "设施；场所",
+        "ex": "The new facility can process 10 million kilos of vegetables a year.",
+        "exzh": "新设施每年能加工一千万公斤蔬菜。",
+        "ipa": "/fəˈsɪlɪti/",
+        "audio": "media/words/ep63/facility.mp3",
+        "ex_audio": "media/words/ep63/facility_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "outdated",
+        "pos": "adj.",
+        "zh": "过时的；陈旧的",
+        "ex": "The new plant replaces an outdated facility.",
+        "exzh": "新工厂取代了一个陈旧的设施。",
+        "ipa": "/ˈaʊtˌdeɪtɪd/",
+        "audio": "media/words/ep63/outdated.mp3",
+        "ex_audio": "media/words/ep63/outdated_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ensure",
+        "pos": "v.",
+        "zh": "确保；保证",
+        "ex": "Please check your order to ensure that it is correct.",
+        "exzh": "请检查订单，确保无误。",
+        "ipa": "/ɛnˈʃʊr/",
+        "audio": "media/words/ep63/ensure.mp3",
+        "ex_audio": "media/words/ep63/ensure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ripe",
+        "pos": "adj.",
+        "zh": "成熟的",
+        "ex": "The vegetables are picked when they are ripe.",
+        "exzh": "蔬菜在成熟时采摘。",
+        "ipa": "/raɪp/",
+        "audio": "media/words/ep63/ripe.mp3",
+        "ex_audio": "media/words/ep63/ripe_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "increasingly",
+        "pos": "adv.",
+        "zh": "越来越；日益",
+        "ex": "Online shopping is increasingly popular.",
+        "exzh": "网购越来越受欢迎。",
+        "ipa": "/ɪnˈkrisɪŋli/",
+        "audio": "media/words/ep63/increasingly.mp3",
+        "ex_audio": "media/words/ep63/increasingly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in fact",
+        "pos": "adv.",
+        "zh": "事实上；实际上",
+        "ex": "Sales are good. In fact, they are the best in ten years.",
+        "exzh": "销售很好。事实上，是十年来最好的。",
+        "ipa": "/ɪn fækt/",
+        "audio": "media/words/ep63/in-fact.mp3",
+        "ex_audio": "media/words/ep63/in-fact_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take on",
+        "pos": "phr.",
+        "zh": "承担；接受（工作、责任）",
+        "ex": "Managers often take on extra responsibilities.",
+        "exzh": "经理们常常承担额外的职责。",
+        "ipa": "/teɪk ɑn/",
+        "audio": "media/words/ep63/take-on.mp3",
+        "ex_audio": "media/words/ep63/take-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "responsibility",
+        "pos": "n.",
+        "zh": "责任；职责",
+        "ex": "Training new staff is one of her responsibilities.",
+        "exzh": "培训新员工是她的职责之一。",
+        "ipa": "/riˌspɑnsəˈbɪləti/",
+        "audio": "media/words/ep63/responsibility.mp3",
+        "ex_audio": "media/words/ep63/responsibility_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sharpen",
+        "pos": "v.",
+        "zh": "磨炼；使敏锐",
+        "ex": "This course will sharpen your communication skills.",
+        "exzh": "这门课会磨炼你的沟通技能。",
+        "ipa": "/ˈʃɑrpən/",
+        "audio": "media/words/ep63/sharpen.mp3",
+        "ex_audio": "media/words/ep63/sharpen_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "essential",
+        "pos": "adj.",
+        "zh": "必不可少的；关键的",
+        "ex": "Good communication is essential for success.",
+        "exzh": "良好的沟通是成功的关键。",
+        "ipa": "/ɛˈsɛnʃəl/",
+        "audio": "media/words/ep63/essential.mp3",
+        "ex_audio": "media/words/ep63/essential_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "early-bird",
+        "pos": "adj.",
+        "zh": "早鸟的；提前的",
+        "ex": "Early-bird registration ends on March 10.",
+        "exzh": "早鸟报名三月十号截止。",
+        "ipa": "/ˈɝli-bɝd/",
+        "audio": "media/words/ep63/early-bird.mp3",
+        "ex_audio": "media/words/ep63/early-bird_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "registrant",
+        "pos": "n.",
+        "zh": "报名者；注册者",
+        "ex": "Each class is limited to twelve registrants.",
+        "exzh": "每个班限十二名报名者。",
+        "ipa": "/ˈrɛdʒəstrənt/",
+        "audio": "media/words/ep63/registrant.mp3",
+        "ex_audio": "media/words/ep63/registrant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "self-employed",
+        "pos": "adj.",
+        "zh": "自雇的；自己创业的",
+        "ex": "She has been self-employed for five years.",
+        "exzh": "她已经自己创业五年了。",
+        "ipa": "/sɛlf-ɛmˈplɔɪd/",
+        "audio": "media/words/ep63/self-employed.mp3",
+        "ex_audio": "media/words/ep63/self-employed_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "analyst",
+        "pos": "n.",
+        "zh": "分析师",
+        "ex": "He was hired as a market analyst.",
+        "exzh": "他被聘为市场分析师。",
+        "ipa": "/ˈænəlɪst/",
+        "audio": "media/words/ep63/analyst.mp3",
+        "ex_audio": "media/words/ep63/analyst_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "publishing",
+        "pos": "n.",
+        "zh": "出版；出版业",
+        "ex": "She has worked in publishing for twenty years.",
+        "exzh": "她在出版业工作了二十年。",
+        "ipa": "/ˈpʌblɪʃɪŋ/",
+        "audio": "media/words/ep63/publishing.mp3",
+        "ex_audio": "media/words/ep63/publishing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "extensive",
+        "pos": "adj.",
+        "zh": "丰富的；广泛的",
+        "ex": "Ms. Zamora has extensive teaching experience.",
+        "exzh": "Zamora 女士有丰富的教学经验。",
+        "ipa": "/ɪkˈstɛnsɪv/",
+        "audio": "media/words/ep63/extensive.mp3",
+        "ex_audio": "media/words/ep63/extensive_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 62,
     "theme": "题型精讲 · Part 6 语法、词汇、连接词（Test 3）：分词、介词、词性、代词、上下文线索",
     "date": "2026-11-13",
