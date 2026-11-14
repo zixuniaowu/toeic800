@@ -1,5 +1,1301 @@
 [
   {
+    "number": 64,
+    "theme": "题型精讲 · 考前 Part 7：Test 3 最后三篇 + 十一种题型答题套路总复习",
+    "date": "2026-11-15",
+    "duration_sec": 3149.8,
+    "segments": [
+      {
+        "title": "1. Part 7 三篇阅读（报道 · 会议预告 · 订房邮件，Test 3 Q196–200）",
+        "start": 0.0,
+        "length": 827.79
+      },
+      {
+        "title": "2. Part 7 题型总复习（Test 1 四组 12 题）",
+        "start": 827.79,
+        "length": 1603.66
+      },
+      {
+        "title": "3. 本期 36 词总复习 · 拼读",
+        "start": 2431.45,
+        "length": 718.33
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "eligible",
+        "zh": "有资格的；符合条件的"
+      },
+      {
+        "word": "take the liberty of",
+        "zh": "冒昧地（做）；擅自（做）"
+      },
+      {
+        "word": "retain",
+        "zh": "保留；保存"
+      },
+      {
+        "word": "portray",
+        "zh": "扮演；描绘"
+      },
+      {
+        "word": "prior to",
+        "zh": "在……之前"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. Arrive at the theater by 8:00 P.M.",
+        "zh": "题型一；目的题：What is the purpose of the e-mail? 也可能问 Why was the e-mail written? 套路是：答"
+      },
+      {
+        "word": "postpone",
+        "zh": "意思是：延期；推迟"
+      },
+      {
+        "word": "regret to inform",
+        "zh": "意思是：遗憾地通知"
+      },
+      {
+        "word": "retain",
+        "zh": "意思是：保留；保存"
+      },
+      {
+        "word": "reschedule",
+        "zh": "意思是：重新安排时间；改期"
+      },
+      {
+        "word": "D. Edit the guidelines Ms. Martinez sent",
+        "zh": "题型三；意图题：At 8:15 A.M., what does Mr. Olivera most likely mean when he writes, \"That makes"
+      },
+      {
+        "word": "on my way",
+        "zh": "意思是：在路上；在去的途中"
+      },
+      {
+        "word": "notification",
+        "zh": "意思是：通知"
+      },
+      {
+        "word": "determination",
+        "zh": "意思是：决定；确定；也指决心"
+      },
+      {
+        "word": "guidelines",
+        "zh": "意思是：指南；准则"
+      },
+      {
+        "word": "D. gentler",
+        "zh": "题型五；According to 题：According to the e-mail, what is Peter Kucharsky known for? According to"
+      },
+      {
+        "word": "direct",
+        "zh": "意思是：导演；指导；形容词：直接的"
+      },
+      {
+        "word": "reputation",
+        "zh": "意思是：名声；声誉"
+      },
+      {
+        "word": "profound",
+        "zh": "意思是：深刻的；深远的"
+      },
+      {
+        "word": "transform",
+        "zh": "意思是：彻底改变；使改观"
+      },
+      {
+        "word": "portray",
+        "zh": "意思是：扮演；描绘"
+      },
+      {
+        "word": "performer",
+        "zh": "意思是：表演者；演员"
+      },
+      {
+        "word": "gentle",
+        "zh": "意思是：温柔的；温和的"
+      },
+      {
+        "word": "evoke",
+        "zh": "意思是：唤起；感情、回忆"
+      },
+      {
+        "word": "D. [4]",
+        "zh": "题型八；推断题：What is one expectation of staff who ask to take sabbatical leave? 申请长期休假的员"
+      },
+      {
+        "word": "sabbatical",
+        "zh": "意思是：长期休假；进修假"
+      },
+      {
+        "word": "reduced pay",
+        "zh": "意思是：减少的工资；降薪"
+      },
+      {
+        "word": "pursue",
+        "zh": "意思是：从事；追求"
+      },
+      {
+        "word": "overseas",
+        "zh": "意思是：在海外；出国"
+      },
+      {
+        "word": "implement",
+        "zh": "意思是：实施；推行"
+      },
+      {
+        "word": "veteran",
+        "zh": "意思是：资深的；老练的"
+      },
+      {
+        "word": "reward",
+        "zh": "意思是：奖励；酬谢"
+      },
+      {
+        "word": "prior to",
+        "zh": "意思是：在之前"
+      },
+      {
+        "word": "coverage",
+        "zh": "意思是：替班；顶岗；也指报道、保险范围"
+      },
+      {
+        "word": "convention",
+        "zh": "大会；大型会议"
+      },
+      {
+        "word": "chief operating officer",
+        "zh": "首席运营官；COO"
+      },
+      {
+        "word": "reconfigure",
+        "zh": "重新配置；重新布置"
+      },
+      {
+        "word": "remodel",
+        "zh": "改造；翻修"
+      },
+      {
+        "word": "keynote speaker",
+        "zh": "主旨演讲人"
+      },
+      {
+        "word": "discounted rate",
+        "zh": "折扣价"
+      },
+      {
+        "word": "eligible",
+        "zh": "有资格的；符合条件的"
+      },
+      {
+        "word": "take the liberty of",
+        "zh": "冒昧地；做；；擅自；做"
+      },
+      {
+        "word": "attachment",
+        "zh": "附件"
+      },
+      {
+        "word": "proof of identity",
+        "zh": "身份证明"
+      },
+      {
+        "word": "amenity",
+        "zh": "便利设施；生活设施"
+      },
+      {
+        "word": "postpone",
+        "zh": "延期；推迟"
+      },
+      {
+        "word": "regret to inform",
+        "zh": "遗憾地通知"
+      },
+      {
+        "word": "retain",
+        "zh": "保留；保存"
+      },
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      },
+      {
+        "word": "on my way",
+        "zh": "在路上；在去的途中"
+      },
+      {
+        "word": "notification",
+        "zh": "通知"
+      },
+      {
+        "word": "determination",
+        "zh": "决定；确定；也指决心"
+      },
+      {
+        "word": "guidelines",
+        "zh": "指南；准则"
+      },
+      {
+        "word": "direct",
+        "zh": "导演；指导；形容词：直接的"
+      },
+      {
+        "word": "reputation",
+        "zh": "名声；声誉"
+      },
+      {
+        "word": "profound",
+        "zh": "深刻的；深远的"
+      },
+      {
+        "word": "transform",
+        "zh": "彻底改变；使改观"
+      },
+      {
+        "word": "portray",
+        "zh": "扮演；描绘"
+      },
+      {
+        "word": "performer",
+        "zh": "表演者；演员"
+      },
+      {
+        "word": "gentle",
+        "zh": "温柔的；温和的"
+      },
+      {
+        "word": "evoke",
+        "zh": "唤起；感情、回忆"
+      },
+      {
+        "word": "sabbatical",
+        "zh": "长期休假；进修假"
+      },
+      {
+        "word": "reduced pay",
+        "zh": "减少的工资；降薪"
+      },
+      {
+        "word": "pursue",
+        "zh": "从事；追求"
+      },
+      {
+        "word": "overseas",
+        "zh": "在海外；出国"
+      },
+      {
+        "word": "implement",
+        "zh": "实施；推行"
+      },
+      {
+        "word": "veteran",
+        "zh": "资深的；老练的"
+      },
+      {
+        "word": "reward",
+        "zh": "奖励；酬谢"
+      },
+      {
+        "word": "prior to",
+        "zh": "在之前"
+      },
+      {
+        "word": "coverage",
+        "zh": "替班；顶岗；也指报道、保险范围"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media4/ep64.mp4",
+    "script_pdf": "media/ep64_script.pdf",
+    "source_video": "ep64.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep64.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep64.mp4",
+        "script_pdf": "media/ep64_script.pdf",
+        "duration_sec": 3149.8,
+        "theme": "题型精讲 · 考前 Part 7：Test 3 最后三篇 + 十一种题型答题套路总复习",
+        "segments": [
+          {
+            "title": "1. Part 7 三篇阅读（报道 · 会议预告 · 订房邮件，Test 3 Q196–200）",
+            "start": 0.0,
+            "length": 827.79
+          },
+          {
+            "title": "2. Part 7 题型总复习（Test 1 四组 12 题）",
+            "start": 827.79,
+            "length": 1603.66
+          },
+          {
+            "title": "3. 本期 36 词总复习 · 拼读",
+            "start": 2431.45,
+            "length": 718.33
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep64ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media4/ep64ja.mp4",
+        "script_pdf": "media/ep64ja_script.pdf",
+        "duration_sec": 3816.0,
+        "theme": "問題タイプ別精講 · 試験直前の Part 7：Test 3 最後の3文書 + 11の設問タイプの解き方総復習",
+        "segments": [
+          {
+            "title": "1. Part 7 3文書の読解（記事 · 会議の予告 · 予約メール、Test 3 Q196–200）",
+            "start": 0.0,
+            "length": 1021.92
+          },
+          {
+            "title": "2. Part 7 設問タイプ総復習（Test 1 の4セット 12問）",
+            "start": 1021.92,
+            "length": 1997.26
+          },
+          {
+            "title": "3. 今回の 36 語総復習 · スペル",
+            "start": 3019.19,
+            "length": 796.78
+          }
+        ],
+        "poster": "media/ep64ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "eligible",
+            "zh": "資格がある；対象となる"
+          },
+          {
+            "word": "take the liberty of",
+            "zh": "勝手ながら…する；失礼ながら…する"
+          },
+          {
+            "word": "retain",
+            "zh": "保持する；保管する"
+          },
+          {
+            "word": "portray",
+            "zh": "演じる；描く"
+          },
+          {
+            "word": "prior to",
+            "zh": "…より前に"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "convention",
+          "chief operating officer",
+          "reconfigure",
+          "remodel",
+          "keynote speaker",
+          "discounted rate",
+          "eligible",
+          "take the liberty of",
+          "attachment",
+          "proof of identity",
+          "amenity",
+          "postpone",
+          "regret to inform",
+          "retain",
+          "reschedule",
+          "on my way",
+          "notification",
+          "determination",
+          "guidelines",
+          "direct",
+          "reputation",
+          "profound",
+          "transform",
+          "portray",
+          "performer",
+          "gentle",
+          "evoke",
+          "sabbatical",
+          "reduced pay",
+          "pursue",
+          "overseas",
+          "implement",
+          "veteran",
+          "reward",
+          "prior to",
+          "coverage"
+        ],
+        "words": [
+          {
+            "word": "convention",
+            "pos": "n.",
+            "zh": "大会；大規模な会議",
+            "ex": "The hotel can host a large convention.",
+            "exzh": "そのホテルは大規模な大会を開くことができる。",
+            "ipa": "/kənˈvɛnʃən/",
+            "audio": "media/words/ep64/convention.mp3",
+            "ex_audio": "media/words/ep64/convention_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "chief operating officer",
+            "pos": "n.",
+            "zh": "最高執行責任者（COO）",
+            "ex": "The chief operating officer visited the new hotel.",
+            "exzh": "最高執行責任者が新しいホテルを訪れた。",
+            "ipa": "/tʃif ˈɑpɚˌeɪtɪŋ ˈɔfəsɚ/",
+            "audio": "media/words/ep64/chief-operating-officer.mp3",
+            "ex_audio": "media/words/ep64/chief-operating-officer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reconfigure",
+            "pos": "v.",
+            "zh": "配置し直す；構成を変える",
+            "ex": "The room can be reconfigured for small meetings.",
+            "exzh": "その部屋は小さな会議用に配置し直せる。",
+            "ipa": "/ˌrikənˈfɪɡjɚ/",
+            "audio": "media/words/ep64/reconfigure.mp3",
+            "ex_audio": "media/words/ep64/reconfigure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "remodel",
+            "pos": "v.",
+            "zh": "改装する；リフォームする",
+            "ex": "The hotel was remodeled last year.",
+            "exzh": "そのホテルは昨年改装された。",
+            "ipa": "/riˈmɑdəl/",
+            "audio": "media/words/ep64/remodel.mp3",
+            "ex_audio": "media/words/ep64/remodel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "keynote speaker",
+            "pos": "n.",
+            "zh": "基調講演者",
+            "ex": "A keynote speaker will be featured each night.",
+            "exzh": "毎晩、基調講演者が登場する。",
+            "ipa": "/ˈkiˌnoʊt ˈspikɚ/",
+            "audio": "media/words/ep64/keynote-speaker.mp3",
+            "ex_audio": "media/words/ep64/keynote-speaker_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "discounted rate",
+            "pos": "n.",
+            "zh": "割引料金",
+            "ex": "Attendees can book rooms at a discounted rate.",
+            "exzh": "参加者は割引料金で部屋を予約できる。",
+            "ipa": "/ˈdɪˌskaʊntɪd reɪt/",
+            "audio": "media/words/ep64/discounted-rate.mp3",
+            "ex_audio": "media/words/ep64/discounted-rate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "eligible",
+            "pos": "adj.",
+            "zh": "資格がある；対象となる",
+            "ex": "Employees are eligible for the program after ten years.",
+            "exzh": "社員は10年勤めるとその制度の対象になる。",
+            "ipa": "/ˈɛlədʒəbəl/",
+            "audio": "media/words/ep64/eligible.mp3",
+            "ex_audio": "media/words/ep64/eligible_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "take the liberty of",
+            "pos": "phr.",
+            "zh": "勝手ながら…する；失礼ながら…する",
+            "ex": "I have taken the liberty of attaching the schedule.",
+            "exzh": "勝手ながら日程表を添付しました。",
+            "ipa": "/teɪk ðə ˈlɪbɚˌti əv/",
+            "audio": "media/words/ep64/take-the-liberty-of.mp3",
+            "ex_audio": "media/words/ep64/take-the-liberty-of_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "attachment",
+            "pos": "n.",
+            "zh": "添付ファイル",
+            "ex": "Please see the attachment for details.",
+            "exzh": "詳細は添付ファイルをご覧ください。",
+            "ipa": "/əˈtætʃmənt/",
+            "audio": "media/words/ep64/attachment.mp3",
+            "ex_audio": "media/words/ep64/attachment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "proof of identity",
+            "pos": "n.",
+            "zh": "身分証明",
+            "ex": "Please bring proof of identity when you check in.",
+            "exzh": "チェックインの際は身分証明をお持ちください。",
+            "ipa": "/pruf əv aɪˈdɛntɪˌti/",
+            "audio": "media/words/ep64/proof-of-identity.mp3",
+            "ex_audio": "media/words/ep64/proof-of-identity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "amenity",
+            "pos": "n.",
+            "zh": "便利な設備；アメニティ",
+            "ex": "Guests may use all hotel amenities free of charge.",
+            "exzh": "宿泊客はホテルのすべての設備を無料で使える。",
+            "ipa": "/əˈmɛnəti/",
+            "audio": "media/words/ep64/amenity.mp3",
+            "ex_audio": "media/words/ep64/amenity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する",
+            "ex": "The concert has been postponed until next month.",
+            "exzh": "コンサートは来月に延期された。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep64/postpone.mp3",
+            "ex_audio": "media/words/ep64/postpone_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regret to inform",
+            "pos": "phr.",
+            "zh": "残念ながら知らせる",
+            "ex": "We regret to inform you that the event has been canceled.",
+            "exzh": "残念ながら、イベントが中止になったことをお知らせします。",
+            "ipa": "/rəˈɡrɛt tu ˌɪnˈfɔrm/",
+            "audio": "media/words/ep64/regret-to-inform.mp3",
+            "ex_audio": "media/words/ep64/regret-to-inform_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retain",
+            "pos": "v.",
+            "zh": "保持する；保管する",
+            "ex": "Please retain your receipt.",
+            "exzh": "レシートは保管しておいてください。",
+            "ipa": "/rɪˈteɪn/",
+            "audio": "media/words/ep64/retain.mp3",
+            "ex_audio": "media/words/ep64/retain_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "reschedule",
+            "pos": "v.",
+            "zh": "日程を変更する；組み直す",
+            "ex": "We need to reschedule the meeting.",
+            "exzh": "会議の日程を変更する必要がある。",
+            "ipa": "/riˈskɛdʒul/",
+            "audio": "media/words/ep64/reschedule.mp3",
+            "ex_audio": "media/words/ep64/reschedule_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on my way",
+            "pos": "phr.",
+            "zh": "向かう途中で",
+            "ex": "I'll text you when I'm on my way.",
+            "exzh": "向かうときにメッセージを送ります。",
+            "ipa": "/ɑn maɪ weɪ/",
+            "audio": "media/words/ep64/on-my-way.mp3",
+            "ex_audio": "media/words/ep64/on-my-way_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "notification",
+            "pos": "n.",
+            "zh": "通知；知らせ",
+            "ex": "You will receive a notification by e-mail.",
+            "exzh": "メールで通知が届きます。",
+            "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+            "audio": "media/words/ep64/notification.mp3",
+            "ex_audio": "media/words/ep64/notification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "determination",
+            "pos": "n.",
+            "zh": "決定（「決心」の意味もある）",
+            "ex": "We need a final determination by Monday.",
+            "exzh": "月曜日までに最終決定が必要だ。",
+            "ipa": "/dɪˌtɝməˈneɪʃən/",
+            "audio": "media/words/ep64/determination.mp3",
+            "ex_audio": "media/words/ep64/determination_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "guidelines",
+            "pos": "n.",
+            "zh": "指針；ガイドライン",
+            "ex": "Please follow the hiring guidelines.",
+            "exzh": "採用の指針に従ってください。",
+            "ipa": "/ˈɡaɪdˌlaɪnz/",
+            "audio": "media/words/ep64/guidelines.mp3",
+            "ex_audio": "media/words/ep64/guidelines_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "direct",
+            "pos": "v.",
+            "zh": "監督する；指揮する（形容詞：直接の）",
+            "ex": "She directed her first film at the age of 25.",
+            "exzh": "彼女は25歳で最初の映画を監督した。",
+            "ipa": "/dɚˈɛkt/",
+            "audio": "media/words/ep64/direct.mp3",
+            "ex_audio": "media/words/ep64/direct_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reputation",
+            "pos": "n.",
+            "zh": "評判；名声",
+            "ex": "The restaurant has an excellent reputation.",
+            "exzh": "そのレストランはとても評判がよい。",
+            "ipa": "/ˌrɛpjəˈteɪʃən/",
+            "audio": "media/words/ep64/reputation.mp3",
+            "ex_audio": "media/words/ep64/reputation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "profound",
+            "pos": "adj.",
+            "zh": "深い；深遠な",
+            "ex": "The book had a profound effect on him.",
+            "exzh": "その本は彼に深い影響を与えた。",
+            "ipa": "/proʊˈfaʊnd/",
+            "audio": "media/words/ep64/profound.mp3",
+            "ex_audio": "media/words/ep64/profound_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "transform",
+            "pos": "v.",
+            "zh": "すっかり変える；一変させる",
+            "ex": "The new software transformed our work.",
+            "exzh": "新しいソフトウェアが私たちの仕事を一変させた。",
+            "ipa": "/trænsˈfɔrm/",
+            "audio": "media/words/ep64/transform.mp3",
+            "ex_audio": "media/words/ep64/transform_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "portray",
+            "pos": "v.",
+            "zh": "演じる；描く",
+            "ex": "The actor portrays a young doctor.",
+            "exzh": "その俳優は若い医師を演じている。",
+            "ipa": "/pɔrˈtreɪ/",
+            "audio": "media/words/ep64/portray.mp3",
+            "ex_audio": "media/words/ep64/portray_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "performer",
+            "pos": "n.",
+            "zh": "出演者；演者",
+            "ex": "All the performers will meet backstage.",
+            "exzh": "出演者は全員舞台裏に集まる。",
+            "ipa": "/pɚˈfɔrmɚ/",
+            "audio": "media/words/ep64/performer.mp3",
+            "ex_audio": "media/words/ep64/performer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "gentle",
+            "pos": "adj.",
+            "zh": "優しい；穏やかな",
+            "ex": "The film shows the gentle side of the director.",
+            "exzh": "その映画は監督の優しい一面を見せている。",
+            "ipa": "/ˈdʒɛntəl/",
+            "audio": "media/words/ep64/gentle.mp3",
+            "ex_audio": "media/words/ep64/gentle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "evoke",
+            "pos": "v.",
+            "zh": "（感情・記憶を）呼び起こす",
+            "ex": "His films evoke strong emotions.",
+            "exzh": "彼の映画は強い感情を呼び起こす。",
+            "ipa": "/ɪˈvoʊk/",
+            "audio": "media/words/ep64/evoke.mp3",
+            "ex_audio": "media/words/ep64/evoke_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sabbatical",
+            "pos": "n.",
+            "zh": "長期休暇；研究休暇",
+            "ex": "She is taking a six-week sabbatical.",
+            "exzh": "彼女は6週間の長期休暇を取っている。",
+            "ipa": "/səˈbætɪkəl/",
+            "audio": "media/words/ep64/sabbatical.mp3",
+            "ex_audio": "media/words/ep64/sabbatical_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reduced pay",
+            "pos": "n.",
+            "zh": "減額された給与",
+            "ex": "Staff on leave receive reduced pay.",
+            "exzh": "休暇中の社員は減額された給与を受け取る。",
+            "ipa": "/rəˈdust peɪ/",
+            "audio": "media/words/ep64/reduced-pay.mp3",
+            "ex_audio": "media/words/ep64/reduced-pay_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pursue",
+            "pos": "v.",
+            "zh": "従事する；追求する",
+            "ex": "He left the company to pursue a career in art.",
+            "exzh": "彼は芸術の道に進むため会社を辞めた。",
+            "ipa": "/pɚˈsu/",
+            "audio": "media/words/ep64/pursue.mp3",
+            "ex_audio": "media/words/ep64/pursue_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "overseas",
+            "pos": "adv.",
+            "zh": "海外で；海外へ",
+            "ex": "Many employees want to travel overseas.",
+            "exzh": "多くの社員が海外旅行をしたがっている。",
+            "ipa": "/ˈoʊvɚˈsiz/",
+            "audio": "media/words/ep64/overseas.mp3",
+            "ex_audio": "media/words/ep64/overseas_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "implement",
+            "pos": "v.",
+            "zh": "実施する；導入する",
+            "ex": "The company will implement the new policy in May.",
+            "exzh": "会社は5月に新しい方針を導入する。",
+            "ipa": "/ˈɪmpləmənt/",
+            "audio": "media/words/ep64/implement.mp3",
+            "ex_audio": "media/words/ep64/implement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "veteran",
+            "pos": "adj.",
+            "zh": "ベテランの；経験豊かな",
+            "ex": "The award goes to our veteran employees.",
+            "exzh": "その賞はベテラン社員に贈られる。",
+            "ipa": "/ˈvɛtɚən/",
+            "audio": "media/words/ep64/veteran.mp3",
+            "ex_audio": "media/words/ep64/veteran_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reward",
+            "pos": "v.",
+            "zh": "報いる；ほうびを与える",
+            "ex": "The bonus rewards long-term employees.",
+            "exzh": "その賞与は長く勤める社員に報いるものだ。",
+            "ipa": "/rɪˈwɔrd/",
+            "audio": "media/words/ep64/reward.mp3",
+            "ex_audio": "media/words/ep64/reward_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prior to",
+            "pos": "prep.",
+            "zh": "…より前に",
+            "ex": "Please arrive 30 minutes prior to the start time.",
+            "exzh": "開始時刻の30分前までにお越しください。",
+            "ipa": "/ˈpraɪɚ tu/",
+            "audio": "media/words/ep64/prior-to.mp3",
+            "ex_audio": "media/words/ep64/prior-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "coverage",
+            "pos": "n.",
+            "zh": "代わりの人員；穴埋め（報道・補償範囲の意味も）",
+            "ex": "Your manager will arrange coverage while you are away.",
+            "exzh": "不在の間はマネージャーが代わりの人員を手配する。",
+            "ipa": "/ˈkʌvɚədʒ/",
+            "audio": "media/words/ep64/coverage.mp3",
+            "ex_audio": "media/words/ep64/coverage_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep64_cover.png",
+    "theme_ja": "問題タイプ別精講 · 試験直前の Part 7：Test 3 最後の3文書 + 11の設問タイプの解き方総復習",
+    "words": [
+      {
+        "word": "convention",
+        "pos": "n.",
+        "zh": "大会；大型会议",
+        "ex": "The hotel can host a large convention.",
+        "exzh": "这家酒店可以举办大型大会。",
+        "ipa": "/kənˈvɛnʃən/",
+        "audio": "media/words/ep64/convention.mp3",
+        "ex_audio": "media/words/ep64/convention_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "chief operating officer",
+        "pos": "n.",
+        "zh": "首席运营官（COO）",
+        "ex": "The chief operating officer visited the new hotel.",
+        "exzh": "首席运营官参观了新酒店。",
+        "ipa": "/tʃif ˈɑpɚˌeɪtɪŋ ˈɔfəsɚ/",
+        "audio": "media/words/ep64/chief-operating-officer.mp3",
+        "ex_audio": "media/words/ep64/chief-operating-officer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reconfigure",
+        "pos": "v.",
+        "zh": "重新配置；重新布置",
+        "ex": "The room can be reconfigured for small meetings.",
+        "exzh": "这个房间可以重新布置成小型会议室。",
+        "ipa": "/ˌrikənˈfɪɡjɚ/",
+        "audio": "media/words/ep64/reconfigure.mp3",
+        "ex_audio": "media/words/ep64/reconfigure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "remodel",
+        "pos": "v.",
+        "zh": "改造；翻修",
+        "ex": "The hotel was remodeled last year.",
+        "exzh": "这家酒店去年改造过。",
+        "ipa": "/riˈmɑdəl/",
+        "audio": "media/words/ep64/remodel.mp3",
+        "ex_audio": "media/words/ep64/remodel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "keynote speaker",
+        "pos": "n.",
+        "zh": "主旨演讲人",
+        "ex": "A keynote speaker will be featured each night.",
+        "exzh": "每晚都会有一位主旨演讲人。",
+        "ipa": "/ˈkiˌnoʊt ˈspikɚ/",
+        "audio": "media/words/ep64/keynote-speaker.mp3",
+        "ex_audio": "media/words/ep64/keynote-speaker_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "discounted rate",
+        "pos": "n.",
+        "zh": "折扣价",
+        "ex": "Attendees can book rooms at a discounted rate.",
+        "exzh": "参会者可以用折扣价订房。",
+        "ipa": "/ˈdɪˌskaʊntɪd reɪt/",
+        "audio": "media/words/ep64/discounted-rate.mp3",
+        "ex_audio": "media/words/ep64/discounted-rate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "eligible",
+        "pos": "adj.",
+        "zh": "有资格的；符合条件的",
+        "ex": "Employees are eligible for the program after ten years.",
+        "exzh": "员工工作满十年就有资格参加这个项目。",
+        "ipa": "/ˈɛlədʒəbəl/",
+        "audio": "media/words/ep64/eligible.mp3",
+        "ex_audio": "media/words/ep64/eligible_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "take the liberty of",
+        "pos": "phr.",
+        "zh": "冒昧地（做）；擅自（做）",
+        "ex": "I have taken the liberty of attaching the schedule.",
+        "exzh": "我冒昧附上了日程表。",
+        "ipa": "/teɪk ðə ˈlɪbɚˌti əv/",
+        "audio": "media/words/ep64/take-the-liberty-of.mp3",
+        "ex_audio": "media/words/ep64/take-the-liberty-of_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "attachment",
+        "pos": "n.",
+        "zh": "附件",
+        "ex": "Please see the attachment for details.",
+        "exzh": "详情请看附件。",
+        "ipa": "/əˈtætʃmənt/",
+        "audio": "media/words/ep64/attachment.mp3",
+        "ex_audio": "media/words/ep64/attachment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "proof of identity",
+        "pos": "n.",
+        "zh": "身份证明",
+        "ex": "Please bring proof of identity when you check in.",
+        "exzh": "办理入住时请携带身份证明。",
+        "ipa": "/pruf əv aɪˈdɛntɪˌti/",
+        "audio": "media/words/ep64/proof-of-identity.mp3",
+        "ex_audio": "media/words/ep64/proof-of-identity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "amenity",
+        "pos": "n.",
+        "zh": "便利设施；生活设施",
+        "ex": "Guests may use all hotel amenities free of charge.",
+        "exzh": "住客可以免费使用酒店所有设施。",
+        "ipa": "/əˈmɛnəti/",
+        "audio": "media/words/ep64/amenity.mp3",
+        "ex_audio": "media/words/ep64/amenity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "延期；推迟",
+        "ex": "The concert has been postponed until next month.",
+        "exzh": "音乐会推迟到下个月了。",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep64/postpone.mp3",
+        "ex_audio": "media/words/ep64/postpone_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regret to inform",
+        "pos": "phr.",
+        "zh": "遗憾地通知",
+        "ex": "We regret to inform you that the event has been canceled.",
+        "exzh": "我们很遗憾地通知您，活动取消了。",
+        "ipa": "/rəˈɡrɛt tu ˌɪnˈfɔrm/",
+        "audio": "media/words/ep64/regret-to-inform.mp3",
+        "ex_audio": "media/words/ep64/regret-to-inform_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retain",
+        "pos": "v.",
+        "zh": "保留；保存",
+        "ex": "Please retain your receipt.",
+        "exzh": "请保留好收据。",
+        "ipa": "/rɪˈteɪn/",
+        "audio": "media/words/ep64/retain.mp3",
+        "ex_audio": "media/words/ep64/retain_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "zh": "重新安排时间；改期",
+        "ex": "We need to reschedule the meeting.",
+        "exzh": "我们得把会议改期。",
+        "ipa": "/riˈskɛdʒul/",
+        "audio": "media/words/ep64/reschedule.mp3",
+        "ex_audio": "media/words/ep64/reschedule_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on my way",
+        "pos": "phr.",
+        "zh": "在路上；在去的途中",
+        "ex": "I'll text you when I'm on my way.",
+        "exzh": "我出发的时候给你发短信。",
+        "ipa": "/ɑn maɪ weɪ/",
+        "audio": "media/words/ep64/on-my-way.mp3",
+        "ex_audio": "media/words/ep64/on-my-way_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "notification",
+        "pos": "n.",
+        "zh": "通知",
+        "ex": "You will receive a notification by e-mail.",
+        "exzh": "您会收到电子邮件通知。",
+        "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+        "audio": "media/words/ep64/notification.mp3",
+        "ex_audio": "media/words/ep64/notification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "determination",
+        "pos": "n.",
+        "zh": "决定；确定（也指决心）",
+        "ex": "We need a final determination by Monday.",
+        "exzh": "我们需要在周一前做出最终决定。",
+        "ipa": "/dɪˌtɝməˈneɪʃən/",
+        "audio": "media/words/ep64/determination.mp3",
+        "ex_audio": "media/words/ep64/determination_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "guidelines",
+        "pos": "n.",
+        "zh": "指南；准则",
+        "ex": "Please follow the hiring guidelines.",
+        "exzh": "请遵守招聘指南。",
+        "ipa": "/ˈɡaɪdˌlaɪnz/",
+        "audio": "media/words/ep64/guidelines.mp3",
+        "ex_audio": "media/words/ep64/guidelines_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "direct",
+        "pos": "v.",
+        "zh": "导演；指导（形容词：直接的）",
+        "ex": "She directed her first film at the age of 25.",
+        "exzh": "她二十五岁导演了第一部电影。",
+        "ipa": "/dɚˈɛkt/",
+        "audio": "media/words/ep64/direct.mp3",
+        "ex_audio": "media/words/ep64/direct_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reputation",
+        "pos": "n.",
+        "zh": "名声；声誉",
+        "ex": "The restaurant has an excellent reputation.",
+        "exzh": "这家餐厅声誉很好。",
+        "ipa": "/ˌrɛpjəˈteɪʃən/",
+        "audio": "media/words/ep64/reputation.mp3",
+        "ex_audio": "media/words/ep64/reputation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "profound",
+        "pos": "adj.",
+        "zh": "深刻的；深远的",
+        "ex": "The book had a profound effect on him.",
+        "exzh": "这本书对他影响深远。",
+        "ipa": "/proʊˈfaʊnd/",
+        "audio": "media/words/ep64/profound.mp3",
+        "ex_audio": "media/words/ep64/profound_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "transform",
+        "pos": "v.",
+        "zh": "彻底改变；使改观",
+        "ex": "The new software transformed our work.",
+        "exzh": "新软件彻底改变了我们的工作。",
+        "ipa": "/trænsˈfɔrm/",
+        "audio": "media/words/ep64/transform.mp3",
+        "ex_audio": "media/words/ep64/transform_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "portray",
+        "pos": "v.",
+        "zh": "扮演；描绘",
+        "ex": "The actor portrays a young doctor.",
+        "exzh": "这位演员扮演一名年轻医生。",
+        "ipa": "/pɔrˈtreɪ/",
+        "audio": "media/words/ep64/portray.mp3",
+        "ex_audio": "media/words/ep64/portray_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "performer",
+        "pos": "n.",
+        "zh": "表演者；演员",
+        "ex": "All the performers will meet backstage.",
+        "exzh": "所有表演者在后台集合。",
+        "ipa": "/pɚˈfɔrmɚ/",
+        "audio": "media/words/ep64/performer.mp3",
+        "ex_audio": "media/words/ep64/performer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "gentle",
+        "pos": "adj.",
+        "zh": "温柔的；温和的",
+        "ex": "The film shows the gentle side of the director.",
+        "exzh": "这部电影展现了导演温柔的一面。",
+        "ipa": "/ˈdʒɛntəl/",
+        "audio": "media/words/ep64/gentle.mp3",
+        "ex_audio": "media/words/ep64/gentle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "evoke",
+        "pos": "v.",
+        "zh": "唤起（感情、回忆）",
+        "ex": "His films evoke strong emotions.",
+        "exzh": "他的电影能唤起强烈的情感。",
+        "ipa": "/ɪˈvoʊk/",
+        "audio": "media/words/ep64/evoke.mp3",
+        "ex_audio": "media/words/ep64/evoke_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sabbatical",
+        "pos": "n.",
+        "zh": "长期休假；进修假",
+        "ex": "She is taking a six-week sabbatical.",
+        "exzh": "她正在休六周的长期假。",
+        "ipa": "/səˈbætɪkəl/",
+        "audio": "media/words/ep64/sabbatical.mp3",
+        "ex_audio": "media/words/ep64/sabbatical_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reduced pay",
+        "pos": "n.",
+        "zh": "减少的工资；降薪",
+        "ex": "Staff on leave receive reduced pay.",
+        "exzh": "休假的员工领取减少的工资。",
+        "ipa": "/rəˈdust peɪ/",
+        "audio": "media/words/ep64/reduced-pay.mp3",
+        "ex_audio": "media/words/ep64/reduced-pay_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pursue",
+        "pos": "v.",
+        "zh": "从事；追求",
+        "ex": "He left the company to pursue a career in art.",
+        "exzh": "他离开公司去从事艺术工作。",
+        "ipa": "/pɚˈsu/",
+        "audio": "media/words/ep64/pursue.mp3",
+        "ex_audio": "media/words/ep64/pursue_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "overseas",
+        "pos": "adv.",
+        "zh": "在海外；出国",
+        "ex": "Many employees want to travel overseas.",
+        "exzh": "很多员工想出国旅行。",
+        "ipa": "/ˈoʊvɚˈsiz/",
+        "audio": "media/words/ep64/overseas.mp3",
+        "ex_audio": "media/words/ep64/overseas_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "implement",
+        "pos": "v.",
+        "zh": "实施；推行",
+        "ex": "The company will implement the new policy in May.",
+        "exzh": "公司将在五月实施新政策。",
+        "ipa": "/ˈɪmpləmənt/",
+        "audio": "media/words/ep64/implement.mp3",
+        "ex_audio": "media/words/ep64/implement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "veteran",
+        "pos": "adj.",
+        "zh": "资深的；老练的",
+        "ex": "The award goes to our veteran employees.",
+        "exzh": "这个奖颁给我们的资深员工。",
+        "ipa": "/ˈvɛtɚən/",
+        "audio": "media/words/ep64/veteran.mp3",
+        "ex_audio": "media/words/ep64/veteran_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reward",
+        "pos": "v.",
+        "zh": "奖励；酬谢",
+        "ex": "The bonus rewards long-term employees.",
+        "exzh": "这笔奖金奖励长期工作的员工。",
+        "ipa": "/rɪˈwɔrd/",
+        "audio": "media/words/ep64/reward.mp3",
+        "ex_audio": "media/words/ep64/reward_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prior to",
+        "pos": "prep.",
+        "zh": "在……之前",
+        "ex": "Please arrive 30 minutes prior to the start time.",
+        "exzh": "请在开始时间前三十分钟到达。",
+        "ipa": "/ˈpraɪɚ tu/",
+        "audio": "media/words/ep64/prior-to.mp3",
+        "ex_audio": "media/words/ep64/prior-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "coverage",
+        "pos": "n.",
+        "zh": "替班；顶岗（也指报道、保险范围）",
+        "ex": "Your manager will arrange coverage while you are away.",
+        "exzh": "你不在时，经理会安排人替班。",
+        "ipa": "/ˈkʌvɚədʒ/",
+        "audio": "media/words/ep64/coverage.mp3",
+        "ex_audio": "media/words/ep64/coverage_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 63,
     "theme": "题型精讲 · 考前总复习：Part 5/6 六大答题套路（词性 · 动词 · 代词 · 连词 · 搭配 · 上下文）",
     "date": "2026-11-14",
