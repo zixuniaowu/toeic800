@@ -1,5 +1,1185 @@
 [
   {
+    "number": 65,
+    "theme": "考前一天 · 我的听力错题精讲：Test 1 完整模考 24 道错题",
+    "date": "2026-11-16",
+    "duration_sec": 3653.2,
+    "segments": [
+      {
+        "title": "1. Part 2 错题精讲（Test 1 Q24 · Q28 · Q29）",
+        "start": 0.0,
+        "length": 436.28
+      },
+      {
+        "title": "2. Part 3/4 错题精讲（Test 1 四组对话 + 一组独白 · 逐句精听）",
+        "start": 436.28,
+        "length": 2429.13
+      },
+      {
+        "title": "3. 本期 36 词总复习 · 拼读",
+        "start": 2865.41,
+        "length": 787.78
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "on back order",
+        "zh": "缺货；等待补货"
+      },
+      {
+        "word": "substitute",
+        "zh": "替代品；替代的；代替"
+      },
+      {
+        "word": "reassurance",
+        "zh": "安慰；使人放心的话"
+      },
+      {
+        "word": "decline",
+        "zh": "婉拒；谢绝；下降"
+      },
+      {
+        "word": "human resources",
+        "zh": "人力资源部；人事部"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "replace",
+        "zh": "更换；替换；取代"
+      },
+      {
+        "word": "ink cartridge",
+        "zh": "墨盒"
+      },
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      },
+      {
+        "word": "set up",
+        "zh": "摆放；布置；安装；设立"
+      },
+      {
+        "word": "on back order",
+        "zh": "缺货；等待补货"
+      },
+      {
+        "word": "carry",
+        "zh": "；商店；有货；出售；搬运"
+      },
+      {
+        "word": "manufacturer",
+        "zh": "制造商；厂商"
+      },
+      {
+        "word": "make up for",
+        "zh": "弥补；补偿"
+      },
+      {
+        "word": "inconvenience",
+        "zh": "不便；麻烦"
+      },
+      {
+        "word": "in person",
+        "zh": "亲自；本人到场"
+      },
+      {
+        "word": "stop by",
+        "zh": "顺路去一下；顺便拜访"
+      },
+      {
+        "word": "shipment",
+        "zh": "发货；运送的货物"
+      },
+      {
+        "word": "substitute",
+        "zh": "替代品；替代的；代替"
+      },
+      {
+        "word": "internship",
+        "zh": "实习；实习期"
+      },
+      {
+        "word": "mentor",
+        "zh": "导师；指导人；指导"
+      },
+      {
+        "word": "assign",
+        "zh": "分配；指派"
+      },
+      {
+        "word": "colleague",
+        "zh": "同事"
+      },
+      {
+        "word": "available",
+        "zh": "有空的；可获得的"
+      },
+      {
+        "word": "loyal",
+        "zh": "忠诚的；忠实的"
+      },
+      {
+        "word": "customer base",
+        "zh": "客户群；顾客基础"
+      },
+      {
+        "word": "expand",
+        "zh": "扩大；扩展"
+      },
+      {
+        "word": "appeal to",
+        "zh": "吸引；对有吸引力"
+      },
+      {
+        "word": "segment",
+        "zh": "部分；群体；细分市场"
+      },
+      {
+        "word": "rely on",
+        "zh": "依靠；依赖"
+      },
+      {
+        "word": "reassurance",
+        "zh": "安慰；使人放心的话"
+      },
+      {
+        "word": "kitchenware",
+        "zh": "厨房用品；厨具"
+      },
+      {
+        "word": "showcase",
+        "zh": "展示；陈列柜"
+      },
+      {
+        "word": "estimate",
+        "zh": "估算；报价；估计"
+      },
+      {
+        "word": "rough draft",
+        "zh": "草稿；初稿"
+      },
+      {
+        "word": "supply",
+        "zh": "提供；供应；用品"
+      },
+      {
+        "word": "decline",
+        "zh": "婉拒；谢绝；下降"
+      },
+      {
+        "word": "branch office",
+        "zh": "分公司；分店"
+      },
+      {
+        "word": "as scheduled",
+        "zh": "按计划；如期"
+      },
+      {
+        "word": "addition",
+        "zh": "新成员；增加的人或物；加法"
+      },
+      {
+        "word": "engaged",
+        "zh": "投入的；积极参与的；订婚的"
+      },
+      {
+        "word": "human resources",
+        "zh": "人力资源部；人事部"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep65.mp4",
+    "script_pdf": "media/ep65_script.pdf",
+    "source_video": "ep65.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep65.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep65.mp4",
+        "script_pdf": "media/ep65_script.pdf",
+        "duration_sec": 3653.2,
+        "theme": "考前一天 · 我的听力错题精讲：Test 1 完整模考 24 道错题",
+        "segments": [
+          {
+            "title": "1. Part 2 错题精讲（Test 1 Q24 · Q28 · Q29）",
+            "start": 0.0,
+            "length": 436.28
+          },
+          {
+            "title": "2. Part 3/4 错题精讲（Test 1 四组对话 + 一组独白 · 逐句精听）",
+            "start": 436.28,
+            "length": 2429.13
+          },
+          {
+            "title": "3. 本期 36 词总复习 · 拼读",
+            "start": 2865.41,
+            "length": 787.78
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep65ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep65ja.mp4",
+        "script_pdf": "media/ep65ja_script.pdf",
+        "duration_sec": 4709.9,
+        "theme": "試験前日 · 私のリスニング間違い直し：Test 1 フル模試の24問",
+        "segments": [
+          {
+            "title": "1. Part 2 間違い直し（Test 1 Q24 · Q28 · Q29）",
+            "start": 0.0,
+            "length": 586.69
+          },
+          {
+            "title": "2. Part 3/4 間違い直し（Test 1 の会話4セット + トーク1セット · 1文ずつ精聴）",
+            "start": 586.69,
+            "length": 3212.03
+          },
+          {
+            "title": "3. 今回の 36 語総復習 · スペル",
+            "start": 3798.73,
+            "length": 911.12
+          }
+        ],
+        "poster": "media/ep65ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "on back order",
+            "zh": "入荷待ちで；取り寄せ中で"
+          },
+          {
+            "word": "substitute",
+            "zh": "代わりのもの；代用の；代わりに使う"
+          },
+          {
+            "word": "reassurance",
+            "zh": "安心させる言葉；安心"
+          },
+          {
+            "word": "decline",
+            "zh": "断る；辞退する；減る；減少"
+          },
+          {
+            "word": "human resources",
+            "zh": "人事部；人的資源"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "replace",
+          "ink cartridge",
+          "reschedule",
+          "set up",
+          "on back order",
+          "carry",
+          "manufacturer",
+          "make up for",
+          "inconvenience",
+          "in person",
+          "stop by",
+          "shipment",
+          "substitute",
+          "internship",
+          "mentor",
+          "assign",
+          "colleague",
+          "available",
+          "loyal",
+          "customer base",
+          "expand",
+          "appeal to",
+          "segment",
+          "rely on",
+          "reassurance",
+          "kitchenware",
+          "showcase",
+          "estimate",
+          "rough draft",
+          "supply",
+          "decline",
+          "branch office",
+          "as scheduled",
+          "addition",
+          "engaged",
+          "human resources"
+        ],
+        "words": [
+          {
+            "word": "replace",
+            "pos": "v.",
+            "zh": "取り替える；交換する；…に取って代わる",
+            "ex": "Mr. Ruiz replaced the ink cartridge in the copier.",
+            "exzh": "Ruiz さんがコピー機のインクカートリッジを交換した。",
+            "ipa": "/ˌriˈpleɪs/",
+            "audio": "media/words/ep65/replace.mp3",
+            "ex_audio": "media/words/ep65/replace_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ink cartridge",
+            "pos": "n.",
+            "zh": "インクカートリッジ",
+            "ex": "That was the last ink cartridge.",
+            "exzh": "それが最後のインクカートリッジだった。",
+            "ipa": "/ɪŋk ˈkɑrtrədʒ/",
+            "audio": "media/words/ep65/ink-cartridge.mp3",
+            "ex_audio": "media/words/ep65/ink-cartridge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reschedule",
+            "pos": "v.",
+            "zh": "日程を変更する；延期する",
+            "ex": "The parade was rescheduled for next month.",
+            "exzh": "パレードは来月に延期された。",
+            "ipa": "/riˈskɛdʒul/",
+            "audio": "media/words/ep65/reschedule.mp3",
+            "ex_audio": "media/words/ep65/reschedule_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set up",
+            "pos": "phr.",
+            "zh": "設置する；準備する；設立する",
+            "ex": "We have to set up the tables for the seminar.",
+            "exzh": "セミナー用にテーブルを並べなければならない。",
+            "ipa": "/sɛt ʌp/",
+            "audio": "media/words/ep65/set-up.mp3",
+            "ex_audio": "media/words/ep65/set-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on back order",
+            "pos": "phr.",
+            "zh": "入荷待ちで；取り寄せ中で",
+            "ex": "The tile is on back order.",
+            "exzh": "そのタイルは入荷待ちだ。",
+            "ipa": "/ɑn bæk ˈɔrdɚ/",
+            "audio": "media/words/ep65/on-back-order.mp3",
+            "ex_audio": "media/words/ep65/on-back-order_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "carry",
+            "pos": "v.",
+            "zh": "（店が）扱う；置いている；運ぶ",
+            "ex": "We carry a very similar tile.",
+            "exzh": "当店ではとてもよく似たタイルを扱っている。",
+            "ipa": "/ˈkæri/",
+            "audio": "media/words/ep65/carry.mp3",
+            "ex_audio": "media/words/ep65/carry_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "manufacturer",
+            "pos": "n.",
+            "zh": "メーカー；製造業者",
+            "ex": "It is made by another manufacturer.",
+            "exzh": "それは別のメーカーが作っている。",
+            "ipa": "/ˌmænjəˈfæktʃɚɚ/",
+            "audio": "media/words/ep65/manufacturer.mp3",
+            "ex_audio": "media/words/ep65/manufacturer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "make up for",
+            "pos": "phr.",
+            "zh": "埋め合わせをする；償う",
+            "ex": "I can give it to you for the same price to make up for the inconvenience.",
+            "exzh": "ご迷惑のおわびに同じ価格でご提供できる。",
+            "ipa": "/meɪk ʌp fɔr/",
+            "audio": "media/words/ep65/make-up-for.mp3",
+            "ex_audio": "media/words/ep65/make-up-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inconvenience",
+            "pos": "n.",
+            "zh": "不便；迷惑",
+            "ex": "We apologize for any inconvenience.",
+            "exzh": "ご不便をおかけして申し訳ありません。",
+            "ipa": "/ˌɪnkənˈvinjəns/",
+            "audio": "media/words/ep65/inconvenience.mp3",
+            "ex_audio": "media/words/ep65/inconvenience_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in person",
+            "pos": "phr.",
+            "zh": "直接；本人が",
+            "ex": "I have to see the tile in person.",
+            "exzh": "タイルを実際に見なければならない。",
+            "ipa": "/ɪn ˈpɝsən/",
+            "audio": "media/words/ep65/in-person.mp3",
+            "ex_audio": "media/words/ep65/in-person_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stop by",
+            "pos": "phr.",
+            "zh": "立ち寄る",
+            "ex": "I could stop by tomorrow evening.",
+            "exzh": "明日の夜に寄れる。",
+            "ipa": "/stɑp baɪ/",
+            "audio": "media/words/ep65/stop-by.mp3",
+            "ex_audio": "media/words/ep65/stop-by_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shipment",
+            "pos": "n.",
+            "zh": "発送；積み荷",
+            "ex": "The conversation is about a delayed shipment.",
+            "exzh": "会話は発送の遅れについてだ。",
+            "ipa": "/ˈʃɪpmənt/",
+            "audio": "media/words/ep65/shipment.mp3",
+            "ex_audio": "media/words/ep65/shipment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "substitute",
+            "pos": "n./adj./v.",
+            "zh": "代わりのもの；代用の；代わりに使う",
+            "ex": "The man offers a substitute item.",
+            "exzh": "男性は代わりの品を提案する。",
+            "ipa": "/ˈsʌbstəˌtut/",
+            "audio": "media/words/ep65/substitute.mp3",
+            "ex_audio": "media/words/ep65/substitute_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "internship",
+            "pos": "n.",
+            "zh": "インターンシップ；実習",
+            "ex": "Our plans for the summer internships are coming along nicely.",
+            "exzh": "夏のインターンシップの計画は順調に進んでいる。",
+            "ipa": "/ˈɪntɚnˌʃɪp/",
+            "audio": "media/words/ep65/internship.mp3",
+            "ex_audio": "media/words/ep65/internship_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "mentor",
+            "pos": "n./v.",
+            "zh": "メンター；指導者；指導する",
+            "ex": "Why don't we pair each intern with a mentor?",
+            "exzh": "インターン1人ひとりにメンターをつけてはどうだろう。",
+            "ipa": "/ˈmɛnˌtɔr/",
+            "audio": "media/words/ep65/mentor.mp3",
+            "ex_audio": "media/words/ep65/mentor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "assign",
+            "pos": "v.",
+            "zh": "割り当てる；任命する",
+            "ex": "I'd be happy to assign a mentor to each intern.",
+            "exzh": "インターンごとにメンターを喜んで割り当てます。",
+            "ipa": "/əˈsaɪn/",
+            "audio": "media/words/ep65/assign.mp3",
+            "ex_audio": "media/words/ep65/assign_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "colleague",
+            "pos": "n.",
+            "zh": "同僚",
+            "ex": "Let's see what our colleagues' schedules look like.",
+            "exzh": "同僚たちの予定を見てみよう。",
+            "ipa": "/ˈkɑliɡ/",
+            "audio": "media/words/ep65/colleague.mp3",
+            "ex_audio": "media/words/ep65/colleague_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "available",
+            "pos": "adj.",
+            "zh": "手が空いている；利用できる",
+            "ex": "I'll see who's available to be a mentor.",
+            "exzh": "メンターになれる人がいるか確かめる。",
+            "ipa": "/əˈveɪləbəl/",
+            "audio": "media/words/ep65/available.mp3",
+            "ex_audio": "media/words/ep65/available_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loyal",
+            "pos": "adj.",
+            "zh": "忠実な；ひいきにしている",
+            "ex": "The store has many loyal customers.",
+            "exzh": "その店には常連客が多い。",
+            "ipa": "/ˈlɔɪəl/",
+            "audio": "media/words/ep65/loyal.mp3",
+            "ex_audio": "media/words/ep65/loyal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "customer base",
+            "pos": "n.",
+            "zh": "顧客層；顧客基盤",
+            "ex": "Our customer base hasn't grown much.",
+            "exzh": "うちの顧客層はあまり増えていない。",
+            "ipa": "/ˈkʌstəmɚ beɪs/",
+            "audio": "media/words/ep65/customer-base.mp3",
+            "ex_audio": "media/words/ep65/customer-base_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expand",
+            "pos": "v.",
+            "zh": "広げる；拡大する",
+            "ex": "We would like to expand our customer base.",
+            "exzh": "顧客層を広げたい。",
+            "ipa": "/ɪkˈspænd/",
+            "audio": "media/words/ep65/expand.mp3",
+            "ex_audio": "media/words/ep65/expand_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appeal to",
+            "pos": "phr.",
+            "zh": "…を引きつける；…の心に訴える",
+            "ex": "The new design appeals to younger consumers.",
+            "exzh": "新しいデザインは若い消費者を引きつける。",
+            "ipa": "/əˈpil tu/",
+            "audio": "media/words/ep65/appeal-to.mp3",
+            "ex_audio": "media/words/ep65/appeal-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "segment",
+            "pos": "n.",
+            "zh": "区分；層；部分",
+            "ex": "Reaching this audience segment means relying on social media.",
+            "exzh": "この客層に届くにはソーシャルメディアに頼ることになる。",
+            "ipa": "/ˈsɛɡmənt/",
+            "audio": "media/words/ep65/segment.mp3",
+            "ex_audio": "media/words/ep65/segment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rely on",
+            "pos": "phr.",
+            "zh": "…に頼る；…を当てにする",
+            "ex": "We rely heavily on social media.",
+            "exzh": "私たちはソーシャルメディアに大きく頼っている。",
+            "ipa": "/rɪˈlaɪ ɑn/",
+            "audio": "media/words/ep65/rely-on.mp3",
+            "ex_audio": "media/words/ep65/rely-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reassurance",
+            "pos": "n.",
+            "zh": "安心させる言葉；安心",
+            "ex": "The man says it to offer reassurance.",
+            "exzh": "男性は相手を安心させるためにそう言っている。",
+            "ipa": "/ˌriəˈʃʊrəns/",
+            "audio": "media/words/ep65/reassurance.mp3",
+            "ex_audio": "media/words/ep65/reassurance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "kitchenware",
+            "pos": "n.",
+            "zh": "キッチン用品；台所用品",
+            "ex": "My company sells a variety of kitchenware.",
+            "exzh": "当社はさまざまなキッチン用品を売っている。",
+            "ipa": "/ˈkɪtʃənˌwɛr/",
+            "audio": "media/words/ep65/kitchenware.mp3",
+            "ex_audio": "media/words/ep65/kitchenware_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "showcase",
+            "pos": "v./n.",
+            "zh": "紹介する；展示する；展示の場",
+            "ex": "This ad will showcase our new products.",
+            "exzh": "この広告で当社の新製品を紹介する。",
+            "ipa": "/ˈʃoʊˌkeɪs/",
+            "audio": "media/words/ep65/showcase.mp3",
+            "ex_audio": "media/words/ep65/showcase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "estimate",
+            "pos": "n./v.",
+            "zh": "見積もり；見積もる；推定する",
+            "ex": "We'd put together a cost estimate.",
+            "exzh": "費用の見積もりを作成する。",
+            "ipa": "/ˈɛstəmət/",
+            "audio": "media/words/ep65/estimate.mp3",
+            "ex_audio": "media/words/ep65/estimate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rough draft",
+            "pos": "n.",
+            "zh": "下書き；草案",
+            "ex": "We'd create a rough draft of a new ad campaign.",
+            "exzh": "新しい広告キャンペーンの下書きを作る。",
+            "ipa": "/rʌf dræft/",
+            "audio": "media/words/ep65/rough-draft.mp3",
+            "ex_audio": "media/words/ep65/rough-draft_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "supply",
+            "pos": "v./n.",
+            "zh": "供給する；用意する；用品",
+            "ex": "We'd like to supply our own models.",
+            "exzh": "モデルはこちらで用意したい。",
+            "ipa": "/səˈplaɪ/",
+            "audio": "media/words/ep65/supply.mp3",
+            "ex_audio": "media/words/ep65/supply_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "decline",
+            "pos": "v./n.",
+            "zh": "断る；辞退する；減る；減少",
+            "ex": "He politely declined the offer.",
+            "exzh": "彼はその申し出を丁寧に断った。",
+            "ipa": "/dɪˈklaɪn/",
+            "audio": "media/words/ep65/decline.mp3",
+            "ex_audio": "media/words/ep65/decline_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "branch office",
+            "pos": "n.",
+            "zh": "支社；支店",
+            "ex": "He is working at the Hamburg branch office.",
+            "exzh": "彼はハンブルク支社で働いている。",
+            "ipa": "/bræntʃ ˈɔfɪs/",
+            "audio": "media/words/ep65/branch-office.mp3",
+            "ex_audio": "media/words/ep65/branch-office_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "as scheduled",
+            "pos": "phr.",
+            "zh": "予定どおりに",
+            "ex": "The training started this morning as scheduled.",
+            "exzh": "研修は予定どおり今朝始まった。",
+            "ipa": "/æz ˈskɛdʒʊld/",
+            "audio": "media/words/ep65/as-scheduled.mp3",
+            "ex_audio": "media/words/ep65/as-scheduled_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "addition",
+            "pos": "n.",
+            "zh": "新たに加わった人・物；追加",
+            "ex": "They will be a great addition to our sales team.",
+            "exzh": "彼らは営業チームのすばらしい戦力になるだろう。",
+            "ipa": "/əˈdɪʃən/",
+            "audio": "media/words/ep65/addition.mp3",
+            "ex_audio": "media/words/ep65/addition_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "engaged",
+            "pos": "adj.",
+            "zh": "熱心な；積極的に参加している；婚約している",
+            "ex": "The new employees were all very engaged.",
+            "exzh": "新入社員はみんなとても熱心だった。",
+            "ipa": "/ɛnˈɡeɪdʒd/",
+            "audio": "media/words/ep65/engaged.mp3",
+            "ex_audio": "media/words/ep65/engaged_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "human resources",
+            "pos": "n.",
+            "zh": "人事部；人的資源",
+            "ex": "Please send your form to human resources.",
+            "exzh": "用紙を人事部に送ってください。",
+            "ipa": "/ˈhjumən ˈrisɔrsɪz/",
+            "audio": "media/words/ep65/human-resources.mp3",
+            "ex_audio": "media/words/ep65/human-resources_ex.mp3",
+            "highlight": true,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep65_cover.png",
+    "theme_ja": "試験前日 · 私のリスニング間違い直し：Test 1 フル模試の24問",
+    "words": [
+      {
+        "word": "replace",
+        "pos": "v.",
+        "zh": "更换；替换；取代",
+        "ex": "Mr. Ruiz replaced the ink cartridge in the copier.",
+        "exzh": "Ruiz 先生换了复印机的墨盒。",
+        "ipa": "/ˌriˈpleɪs/",
+        "audio": "media/words/ep65/replace.mp3",
+        "ex_audio": "media/words/ep65/replace_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ink cartridge",
+        "pos": "n.",
+        "zh": "墨盒",
+        "ex": "That was the last ink cartridge.",
+        "exzh": "那是最后一个墨盒了。",
+        "ipa": "/ɪŋk ˈkɑrtrədʒ/",
+        "audio": "media/words/ep65/ink-cartridge.mp3",
+        "ex_audio": "media/words/ep65/ink-cartridge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "zh": "重新安排时间；改期",
+        "ex": "The parade was rescheduled for next month.",
+        "exzh": "游行改到下个月了。",
+        "ipa": "/riˈskɛdʒul/",
+        "audio": "media/words/ep65/reschedule.mp3",
+        "ex_audio": "media/words/ep65/reschedule_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set up",
+        "pos": "phr.",
+        "zh": "摆放；布置；安装；设立",
+        "ex": "We have to set up the tables for the seminar.",
+        "exzh": "我们得为研讨会把桌子摆好。",
+        "ipa": "/sɛt ʌp/",
+        "audio": "media/words/ep65/set-up.mp3",
+        "ex_audio": "media/words/ep65/set-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on back order",
+        "pos": "phr.",
+        "zh": "缺货；等待补货",
+        "ex": "The tile is on back order.",
+        "exzh": "这款瓷砖缺货了。",
+        "ipa": "/ɑn bæk ˈɔrdɚ/",
+        "audio": "media/words/ep65/on-back-order.mp3",
+        "ex_audio": "media/words/ep65/on-back-order_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "carry",
+        "pos": "v.",
+        "zh": "（商店）有货；出售；搬运",
+        "ex": "We carry a very similar tile.",
+        "exzh": "我们店里有一款非常相似的瓷砖。",
+        "ipa": "/ˈkæri/",
+        "audio": "media/words/ep65/carry.mp3",
+        "ex_audio": "media/words/ep65/carry_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "manufacturer",
+        "pos": "n.",
+        "zh": "制造商；厂商",
+        "ex": "It is made by another manufacturer.",
+        "exzh": "它是另一家厂商生产的。",
+        "ipa": "/ˌmænjəˈfæktʃɚɚ/",
+        "audio": "media/words/ep65/manufacturer.mp3",
+        "ex_audio": "media/words/ep65/manufacturer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "make up for",
+        "pos": "phr.",
+        "zh": "弥补；补偿",
+        "ex": "I can give it to you for the same price to make up for the inconvenience.",
+        "exzh": "为了弥补给您带来的不便，我可以按原价给您。",
+        "ipa": "/meɪk ʌp fɔr/",
+        "audio": "media/words/ep65/make-up-for.mp3",
+        "ex_audio": "media/words/ep65/make-up-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inconvenience",
+        "pos": "n.",
+        "zh": "不便；麻烦",
+        "ex": "We apologize for any inconvenience.",
+        "exzh": "给您带来不便，我们深表歉意。",
+        "ipa": "/ˌɪnkənˈvinjəns/",
+        "audio": "media/words/ep65/inconvenience.mp3",
+        "ex_audio": "media/words/ep65/inconvenience_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in person",
+        "pos": "phr.",
+        "zh": "亲自；本人到场",
+        "ex": "I have to see the tile in person.",
+        "exzh": "我得亲眼看看这款瓷砖。",
+        "ipa": "/ɪn ˈpɝsən/",
+        "audio": "media/words/ep65/in-person.mp3",
+        "ex_audio": "media/words/ep65/in-person_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stop by",
+        "pos": "phr.",
+        "zh": "顺路去一下；顺便拜访",
+        "ex": "I could stop by tomorrow evening.",
+        "exzh": "我明天晚上可以过去一趟。",
+        "ipa": "/stɑp baɪ/",
+        "audio": "media/words/ep65/stop-by.mp3",
+        "ex_audio": "media/words/ep65/stop-by_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shipment",
+        "pos": "n.",
+        "zh": "发货；运送的货物",
+        "ex": "The conversation is about a delayed shipment.",
+        "exzh": "对话是关于发货延迟的。",
+        "ipa": "/ˈʃɪpmənt/",
+        "audio": "media/words/ep65/shipment.mp3",
+        "ex_audio": "media/words/ep65/shipment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "substitute",
+        "pos": "n./adj./v.",
+        "zh": "替代品；替代的；代替",
+        "ex": "The man offers a substitute item.",
+        "exzh": "男子提供了一件替代品。",
+        "ipa": "/ˈsʌbstəˌtut/",
+        "audio": "media/words/ep65/substitute.mp3",
+        "ex_audio": "media/words/ep65/substitute_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "internship",
+        "pos": "n.",
+        "zh": "实习；实习期",
+        "ex": "Our plans for the summer internships are coming along nicely.",
+        "exzh": "我们的暑期实习计划进展得很顺利。",
+        "ipa": "/ˈɪntɚnˌʃɪp/",
+        "audio": "media/words/ep65/internship.mp3",
+        "ex_audio": "media/words/ep65/internship_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "mentor",
+        "pos": "n./v.",
+        "zh": "导师；指导人；指导",
+        "ex": "Why don't we pair each intern with a mentor?",
+        "exzh": "我们为什么不给每个实习生配一位导师呢？",
+        "ipa": "/ˈmɛnˌtɔr/",
+        "audio": "media/words/ep65/mentor.mp3",
+        "ex_audio": "media/words/ep65/mentor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "assign",
+        "pos": "v.",
+        "zh": "分配；指派",
+        "ex": "I'd be happy to assign a mentor to each intern.",
+        "exzh": "我很乐意给每个实习生分配一位导师。",
+        "ipa": "/əˈsaɪn/",
+        "audio": "media/words/ep65/assign.mp3",
+        "ex_audio": "media/words/ep65/assign_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "colleague",
+        "pos": "n.",
+        "zh": "同事",
+        "ex": "Let's see what our colleagues' schedules look like.",
+        "exzh": "我们看看同事们的日程安排吧。",
+        "ipa": "/ˈkɑliɡ/",
+        "audio": "media/words/ep65/colleague.mp3",
+        "ex_audio": "media/words/ep65/colleague_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "available",
+        "pos": "adj.",
+        "zh": "有空的；可获得的",
+        "ex": "I'll see who's available to be a mentor.",
+        "exzh": "我会看看谁有空当导师。",
+        "ipa": "/əˈveɪləbəl/",
+        "audio": "media/words/ep65/available.mp3",
+        "ex_audio": "media/words/ep65/available_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loyal",
+        "pos": "adj.",
+        "zh": "忠诚的；忠实的",
+        "ex": "The store has many loyal customers.",
+        "exzh": "这家店有很多忠实顾客。",
+        "ipa": "/ˈlɔɪəl/",
+        "audio": "media/words/ep65/loyal.mp3",
+        "ex_audio": "media/words/ep65/loyal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "customer base",
+        "pos": "n.",
+        "zh": "客户群；顾客基础",
+        "ex": "Our customer base hasn't grown much.",
+        "exzh": "我们的客户群没怎么增长。",
+        "ipa": "/ˈkʌstəmɚ beɪs/",
+        "audio": "media/words/ep65/customer-base.mp3",
+        "ex_audio": "media/words/ep65/customer-base_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expand",
+        "pos": "v.",
+        "zh": "扩大；扩展",
+        "ex": "We would like to expand our customer base.",
+        "exzh": "我们想扩大客户群。",
+        "ipa": "/ɪkˈspænd/",
+        "audio": "media/words/ep65/expand.mp3",
+        "ex_audio": "media/words/ep65/expand_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appeal to",
+        "pos": "phr.",
+        "zh": "吸引；对……有吸引力",
+        "ex": "The new design appeals to younger consumers.",
+        "exzh": "新设计吸引年轻的消费者。",
+        "ipa": "/əˈpil tu/",
+        "audio": "media/words/ep65/appeal-to.mp3",
+        "ex_audio": "media/words/ep65/appeal-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "segment",
+        "pos": "n.",
+        "zh": "部分；群体；细分市场",
+        "ex": "Reaching this audience segment means relying on social media.",
+        "exzh": "要接触这个受众群体，就得依靠社交媒体。",
+        "ipa": "/ˈsɛɡmənt/",
+        "audio": "media/words/ep65/segment.mp3",
+        "ex_audio": "media/words/ep65/segment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rely on",
+        "pos": "phr.",
+        "zh": "依靠；依赖",
+        "ex": "We rely heavily on social media.",
+        "exzh": "我们很大程度上依靠社交媒体。",
+        "ipa": "/rɪˈlaɪ ɑn/",
+        "audio": "media/words/ep65/rely-on.mp3",
+        "ex_audio": "media/words/ep65/rely-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reassurance",
+        "pos": "n.",
+        "zh": "安慰；使人放心的话",
+        "ex": "The man says it to offer reassurance.",
+        "exzh": "男子说这句话是为了让对方放心。",
+        "ipa": "/ˌriəˈʃʊrəns/",
+        "audio": "media/words/ep65/reassurance.mp3",
+        "ex_audio": "media/words/ep65/reassurance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "kitchenware",
+        "pos": "n.",
+        "zh": "厨房用品；厨具",
+        "ex": "My company sells a variety of kitchenware.",
+        "exzh": "我们公司卖各种厨房用品。",
+        "ipa": "/ˈkɪtʃənˌwɛr/",
+        "audio": "media/words/ep65/kitchenware.mp3",
+        "ex_audio": "media/words/ep65/kitchenware_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "showcase",
+        "pos": "v./n.",
+        "zh": "展示；陈列柜",
+        "ex": "This ad will showcase our new products.",
+        "exzh": "这个广告会展示我们的新产品。",
+        "ipa": "/ˈʃoʊˌkeɪs/",
+        "audio": "media/words/ep65/showcase.mp3",
+        "ex_audio": "media/words/ep65/showcase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "estimate",
+        "pos": "n./v.",
+        "zh": "估算；报价；估计",
+        "ex": "We'd put together a cost estimate.",
+        "exzh": "我们会做一份费用估算。",
+        "ipa": "/ˈɛstəmət/",
+        "audio": "media/words/ep65/estimate.mp3",
+        "ex_audio": "media/words/ep65/estimate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rough draft",
+        "pos": "n.",
+        "zh": "草稿；初稿",
+        "ex": "We'd create a rough draft of a new ad campaign.",
+        "exzh": "我们会做新广告活动的草稿。",
+        "ipa": "/rʌf dræft/",
+        "audio": "media/words/ep65/rough-draft.mp3",
+        "ex_audio": "media/words/ep65/rough-draft_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "supply",
+        "pos": "v./n.",
+        "zh": "提供；供应；用品",
+        "ex": "We'd like to supply our own models.",
+        "exzh": "我们想用自己的模特。",
+        "ipa": "/səˈplaɪ/",
+        "audio": "media/words/ep65/supply.mp3",
+        "ex_audio": "media/words/ep65/supply_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "decline",
+        "pos": "v./n.",
+        "zh": "婉拒；谢绝；下降",
+        "ex": "He politely declined the offer.",
+        "exzh": "他礼貌地婉拒了这个提议。",
+        "ipa": "/dɪˈklaɪn/",
+        "audio": "media/words/ep65/decline.mp3",
+        "ex_audio": "media/words/ep65/decline_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "branch office",
+        "pos": "n.",
+        "zh": "分公司；分店",
+        "ex": "He is working at the Hamburg branch office.",
+        "exzh": "他在汉堡分公司工作。",
+        "ipa": "/bræntʃ ˈɔfɪs/",
+        "audio": "media/words/ep65/branch-office.mp3",
+        "ex_audio": "media/words/ep65/branch-office_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "as scheduled",
+        "pos": "phr.",
+        "zh": "按计划；如期",
+        "ex": "The training started this morning as scheduled.",
+        "exzh": "培训今天早上按计划开始了。",
+        "ipa": "/æz ˈskɛdʒʊld/",
+        "audio": "media/words/ep65/as-scheduled.mp3",
+        "ex_audio": "media/words/ep65/as-scheduled_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "addition",
+        "pos": "n.",
+        "zh": "新成员；增加的人或物；加法",
+        "ex": "They will be a great addition to our sales team.",
+        "exzh": "他们会是我们销售团队很棒的新成员。",
+        "ipa": "/əˈdɪʃən/",
+        "audio": "media/words/ep65/addition.mp3",
+        "ex_audio": "media/words/ep65/addition_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "engaged",
+        "pos": "adj.",
+        "zh": "投入的；积极参与的；订婚的",
+        "ex": "The new employees were all very engaged.",
+        "exzh": "新员工们都很投入。",
+        "ipa": "/ɛnˈɡeɪdʒd/",
+        "audio": "media/words/ep65/engaged.mp3",
+        "ex_audio": "media/words/ep65/engaged_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "human resources",
+        "pos": "n.",
+        "zh": "人力资源部；人事部",
+        "ex": "Please send your form to human resources.",
+        "exzh": "请把表格交给人事部。",
+        "ipa": "/ˈhjumən ˈrisɔrsɪz/",
+        "audio": "media/words/ep65/human-resources.mp3",
+        "ex_audio": "media/words/ep65/human-resources_ex.mp3",
+        "highlight": true,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 64,
     "theme": "题型精讲 · 考前 Part 7：Test 3 最后三篇 + 十一种题型答题套路总复习",
     "date": "2026-11-15",
