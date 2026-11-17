@@ -1,5 +1,1402 @@
 [
   {
+    "number": 67,
+    "theme": "考后第一期 · Part 7 精读：Test 2 五组阅读（通知 · 广告 · 展览说明 · 聊天 · 双篇）",
+    "date": "2026-11-18",
+    "duration_sec": 2503.8,
+    "segments": [
+      {
+        "title": "1. Part 7 五组阅读（通知 · 广告 · 展览说明 · 聊天 · 双篇，Test 2 Q147–152 · Q172–180）",
+        "start": 0.0,
+        "length": 1733.21
+      },
+      {
+        "title": "2. 本期 44 词总复习 · 拼读",
+        "start": 1733.21,
+        "length": 770.58
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "meticulous",
+        "zh": "一丝不苟的；极其细致的"
+      },
+      {
+        "word": "fictional",
+        "zh": "虚构的；小说的"
+      },
+      {
+        "word": "recruitment",
+        "zh": "招募；争取；招聘"
+      },
+      {
+        "word": "much-anticipated",
+        "zh": "备受期待的"
+      },
+      {
+        "word": "worthy",
+        "zh": "值得的；有价值的"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "iron",
+        "zh": "熨烫；熨斗"
+      },
+      {
+        "word": "toiletries",
+        "zh": "洗漱用品；化妆品"
+      },
+      {
+        "word": "address",
+        "zh": "处理；解决；对…讲话"
+      },
+      {
+        "word": "ranking",
+        "zh": "排名；名次"
+      },
+      {
+        "word": "cash back",
+        "zh": "现金返还；返现"
+      },
+      {
+        "word": "in a row",
+        "zh": "连续地；一连"
+      },
+      {
+        "word": "cardholder",
+        "zh": "持卡人"
+      },
+      {
+        "word": "annual fee",
+        "zh": "年费"
+      },
+      {
+        "word": "light rail",
+        "zh": "轻轨"
+      },
+      {
+        "word": "up to",
+        "zh": "最多；高达；直到"
+      },
+      {
+        "word": "prolific",
+        "zh": "多产的；作品多的"
+      },
+      {
+        "word": "revered",
+        "zh": "受尊敬的；受崇敬的"
+      },
+      {
+        "word": "depict",
+        "zh": "描绘；描述"
+      },
+      {
+        "word": "fantastical",
+        "zh": "奇幻的；荒诞的"
+      },
+      {
+        "word": "loosely",
+        "zh": "大致地；松散地"
+      },
+      {
+        "word": "lend support",
+        "zh": "支持；佐证"
+      },
+      {
+        "word": "fictional",
+        "zh": "虚构的；小说的"
+      },
+      {
+        "word": "meticulous",
+        "zh": "一丝不苟的；极其细致的"
+      },
+      {
+        "word": "diligence",
+        "zh": "勤奋；勤勉"
+      },
+      {
+        "word": "work ethic",
+        "zh": "职业精神；敬业精神"
+      },
+      {
+        "word": "tremendous",
+        "zh": "巨大的；极大的"
+      },
+      {
+        "word": "late notice",
+        "zh": "临时通知"
+      },
+      {
+        "word": "land",
+        "zh": "成功拿下；着陆；土地"
+      },
+      {
+        "word": "formally",
+        "zh": "正式地"
+      },
+      {
+        "word": "persuade",
+        "zh": "说服；劝说"
+      },
+      {
+        "word": "recruitment",
+        "zh": "招募；争取；招聘"
+      },
+      {
+        "word": "streamer",
+        "zh": "彩带；横幅"
+      },
+      {
+        "word": "left over",
+        "zh": "剩下的；剩余的"
+      },
+      {
+        "word": "grab",
+        "zh": "拿；抓；匆匆拿走"
+      },
+      {
+        "word": "much-anticipated",
+        "zh": "备受期待的"
+      },
+      {
+        "word": "sensation",
+        "zh": "轰动；轰动一时的人或事；感觉"
+      },
+      {
+        "word": "profession",
+        "zh": "职业；行业"
+      },
+      {
+        "word": "critic",
+        "zh": "评论家；批评者"
+      },
+      {
+        "word": "owner-chef",
+        "zh": "老板兼主厨"
+      },
+      {
+        "word": "regional",
+        "zh": "地方的；地区的"
+      },
+      {
+        "word": "cozy",
+        "zh": "温馨的；舒适的"
+      },
+      {
+        "word": "eatery",
+        "zh": "小餐馆；饭馆"
+      },
+      {
+        "word": "contemporary",
+        "zh": "现代的；当代的"
+      },
+      {
+        "word": "thrilled",
+        "zh": "非常兴奋的；高兴极了"
+      },
+      {
+        "word": "crowded",
+        "zh": "拥挤的"
+      },
+      {
+        "word": "take away",
+        "zh": "减少；带走；拿走"
+      },
+      {
+        "word": "go hand in hand",
+        "zh": "密切相关；相辅相成"
+      },
+      {
+        "word": "deserve",
+        "zh": "值得；应得"
+      },
+      {
+        "word": "worthy",
+        "zh": "值得的；有价值的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep67.mp4",
+    "script_pdf": "media/ep67_script.pdf",
+    "source_video": "ep67.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep67.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep67.mp4",
+        "script_pdf": "media/ep67_script.pdf",
+        "duration_sec": 2503.8,
+        "theme": "考后第一期 · Part 7 精读：Test 2 五组阅读（通知 · 广告 · 展览说明 · 聊天 · 双篇）",
+        "segments": [
+          {
+            "title": "1. Part 7 五组阅读（通知 · 广告 · 展览说明 · 聊天 · 双篇，Test 2 Q147–152 · Q172–180）",
+            "start": 0.0,
+            "length": 1733.21
+          },
+          {
+            "title": "2. 本期 44 词总复习 · 拼读",
+            "start": 1733.21,
+            "length": 770.58
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep67ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep67ja.mp4",
+        "script_pdf": "media/ep67ja_script.pdf",
+        "duration_sec": 2859.8,
+        "theme": "試験後の第1回 · Part 7 精読：Test 2 の5セット（お知らせ · 広告 · 展示解説 · チャット · ダブルパッセージ）",
+        "segments": [
+          {
+            "title": "1. Part 7 の5セット（お知らせ · 広告 · 展示解説 · チャット · ダブル、Test 2 Q147–152 · Q172–180）",
+            "start": 0.0,
+            "length": 2019.46
+          },
+          {
+            "title": "2. 今回の 44 語総復習 · スペル",
+            "start": 2019.46,
+            "length": 840.33
+          }
+        ],
+        "poster": "media/ep67ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "meticulous",
+            "zh": "細心の；几帳面な"
+          },
+          {
+            "word": "fictional",
+            "zh": "架空の；作り話の"
+          },
+          {
+            "word": "recruitment",
+            "zh": "獲得；採用；勧誘"
+          },
+          {
+            "word": "much-anticipated",
+            "zh": "待望の；期待の大きい"
+          },
+          {
+            "word": "worthy",
+            "zh": "価値のある；立派な"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "iron",
+          "toiletries",
+          "address",
+          "ranking",
+          "cash back",
+          "in a row",
+          "cardholder",
+          "annual fee",
+          "light rail",
+          "up to",
+          "prolific",
+          "revered",
+          "depict",
+          "fantastical",
+          "loosely",
+          "lend support",
+          "fictional",
+          "meticulous",
+          "diligence",
+          "work ethic",
+          "tremendous",
+          "late notice",
+          "land",
+          "formally",
+          "persuade",
+          "recruitment",
+          "streamer",
+          "left over",
+          "grab",
+          "much-anticipated",
+          "sensation",
+          "profession",
+          "critic",
+          "owner-chef",
+          "regional",
+          "cozy",
+          "eatery",
+          "contemporary",
+          "thrilled",
+          "crowded",
+          "take away",
+          "go hand in hand",
+          "deserve",
+          "worthy"
+        ],
+        "words": [
+          {
+            "word": "iron",
+            "pos": "v./n.",
+            "zh": "アイロンをかける；アイロン",
+            "ex": "We will deliver your washed and ironed clothing.",
+            "exzh": "洗濯してアイロンをかけた衣類をお届けします。",
+            "ipa": "/ˈaɪɚn/",
+            "audio": "media/words/ep67/iron.mp3",
+            "ex_audio": "media/words/ep67/iron_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "toiletries",
+            "pos": "n.",
+            "zh": "洗面用品",
+            "ex": "Please call if you need additional toiletries.",
+            "exzh": "洗面用品が足りなければお電話ください。",
+            "ipa": "/ˈtɔɪlətriz/",
+            "audio": "media/words/ep67/toiletries.mp3",
+            "ex_audio": "media/words/ep67/toiletries_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "address",
+            "pos": "v.",
+            "zh": "対処する；取り組む",
+            "ex": "We will address the reported maintenance issue.",
+            "exzh": "報告された修理の問題に対処します。",
+            "ipa": "/ˈæˌdrɛs/",
+            "audio": "media/words/ep67/address.mp3",
+            "ex_audio": "media/words/ep67/address_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ranking",
+            "pos": "n.",
+            "zh": "ランキング；順位",
+            "ex": "The card received the top ranking this year.",
+            "exzh": "そのカードは今年最高の評価を得た。",
+            "ipa": "/ˈræŋkɪŋ/",
+            "audio": "media/words/ep67/ranking.mp3",
+            "ex_audio": "media/words/ep67/ranking_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cash back",
+            "pos": "n.",
+            "zh": "キャッシュバック",
+            "ex": "You get 3% cash back on every purchase.",
+            "exzh": "すべての買い物で3%のキャッシュバックがある。",
+            "ipa": "/kæʃ bæk/",
+            "audio": "media/words/ep67/cash-back.mp3",
+            "ex_audio": "media/words/ep67/cash-back_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in a row",
+            "pos": "adv.",
+            "zh": "連続で",
+            "ex": "It was named the best card for three years in a row.",
+            "exzh": "それは3年連続で最高のカードに選ばれた。",
+            "ipa": "/ɪn ə roʊ/",
+            "audio": "media/words/ep67/in-a-row.mp3",
+            "ex_audio": "media/words/ep67/in-a-row_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cardholder",
+            "pos": "n.",
+            "zh": "カード会員；カード保有者",
+            "ex": "All cardholders enjoy the following benefits.",
+            "exzh": "カード会員の皆様は以下の特典を受けられます。",
+            "ipa": "/ˈkɑrdˌhoʊldɚ/",
+            "audio": "media/words/ep67/cardholder.mp3",
+            "ex_audio": "media/words/ep67/cardholder_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "annual fee",
+            "pos": "n.",
+            "zh": "年会費",
+            "ex": "The card has no annual fee.",
+            "exzh": "このカードは年会費無料だ。",
+            "ipa": "/ˈænjuəl fi/",
+            "audio": "media/words/ep67/annual-fee.mp3",
+            "ex_audio": "media/words/ep67/annual-fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "light rail",
+            "pos": "n.",
+            "zh": "ライトレール；路面電車",
+            "ex": "You get a discount on light-rail fares.",
+            "exzh": "ライトレールの運賃が割引になる。",
+            "ipa": "/laɪt reɪl/",
+            "audio": "media/words/ep67/light-rail.mp3",
+            "ex_audio": "media/words/ep67/light-rail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "up to",
+            "pos": "prep.",
+            "zh": "最大で；…まで",
+            "ex": "Get up to a 10% discount on train fares.",
+            "exzh": "電車の運賃が最大10%割引になる。",
+            "ipa": "/ʌp tu/",
+            "audio": "media/words/ep67/up-to.mp3",
+            "ex_audio": "media/words/ep67/up-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prolific",
+            "pos": "adj.",
+            "zh": "多作の；多産な",
+            "ex": "Radhak Dhar was a prolific illustrator.",
+            "exzh": "Radhak Dhar は多作なイラストレーターだった。",
+            "ipa": "/proʊˈlɪfɪk/",
+            "audio": "media/words/ep67/prolific.mp3",
+            "ex_audio": "media/words/ep67/prolific_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "revered",
+            "pos": "adj.",
+            "zh": "崇敬される；敬愛される",
+            "ex": "He remains one of India's most revered graphic novelists.",
+            "exzh": "彼は今もインドで最も敬愛されるグラフィックノベル作家の1人だ。",
+            "ipa": "/rɪˈvɪrd/",
+            "audio": "media/words/ep67/revered.mp3",
+            "ex_audio": "media/words/ep67/revered_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "depict",
+            "pos": "v.",
+            "zh": "描く；描写する",
+            "ex": "His novels depict fantastical landscapes.",
+            "exzh": "彼の小説は幻想的な風景を描いている。",
+            "ipa": "/dɪˈpɪkt/",
+            "audio": "media/words/ep67/depict.mp3",
+            "ex_audio": "media/words/ep67/depict_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fantastical",
+            "pos": "adj.",
+            "zh": "空想的な；幻想的な",
+            "ex": "The book is full of fantastical creatures.",
+            "exzh": "その本は空想上の生き物でいっぱいだ。",
+            "ipa": "",
+            "audio": "media/words/ep67/fantastical.mp3",
+            "ex_audio": "media/words/ep67/fantastical_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "loosely",
+            "pos": "adv.",
+            "zh": "おおまかに；ゆるく",
+            "ex": "The stories are loosely based on actual events.",
+            "exzh": "その物語は実際の出来事におおまかに基づいている。",
+            "ipa": "/ˈlusli/",
+            "audio": "media/words/ep67/loosely.mp3",
+            "ex_audio": "media/words/ep67/loosely_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lend support",
+            "pos": "v.",
+            "zh": "裏づける；支持する",
+            "ex": "His journals lend support to this theory.",
+            "exzh": "彼の日記はこの説を裏づけている。",
+            "ipa": "/lɛnd səˈpɔrt/",
+            "audio": "media/words/ep67/lend-support.mp3",
+            "ex_audio": "media/words/ep67/lend-support_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fictional",
+            "pos": "adj.",
+            "zh": "架空の；作り話の",
+            "ex": "The stories are not completely fictional.",
+            "exzh": "その物語は完全なフィクションではない。",
+            "ipa": "/ˈfɪkʃənəl/",
+            "audio": "media/words/ep67/fictional.mp3",
+            "ex_audio": "media/words/ep67/fictional_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "meticulous",
+            "pos": "adj.",
+            "zh": "細心の；几帳面な",
+            "ex": "His journals reveal his meticulous record keeping.",
+            "exzh": "彼の日記から几帳面な記録の様子がわかる。",
+            "ipa": "/məˈtɪkjələs/",
+            "audio": "media/words/ep67/meticulous.mp3",
+            "ex_audio": "media/words/ep67/meticulous_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "diligence",
+            "pos": "n.",
+            "zh": "勤勉；熱心さ",
+            "ex": "Dhar's diligence explains his success.",
+            "exzh": "Dhar の勤勉さが彼の成功を説明している。",
+            "ipa": "/ˈdɪlədʒəns/",
+            "audio": "media/words/ep67/diligence.mp3",
+            "ex_audio": "media/words/ep67/diligence_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "work ethic",
+            "pos": "n.",
+            "zh": "仕事への姿勢；勤労意欲",
+            "ex": "She is known for her strong work ethic.",
+            "exzh": "彼女は仕事熱心なことで知られている。",
+            "ipa": "/wɝk ˈɛθɪk/",
+            "audio": "media/words/ep67/work-ethic.mp3",
+            "ex_audio": "media/words/ep67/work-ethic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tremendous",
+            "pos": "adj.",
+            "zh": "膨大な；ものすごい",
+            "ex": "He produced a tremendous volume of work.",
+            "exzh": "彼は膨大な量の作品を生み出した。",
+            "ipa": "/trəˈmɛndəs/",
+            "audio": "media/words/ep67/tremendous.mp3",
+            "ex_audio": "media/words/ep67/tremendous_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "late notice",
+            "pos": "n.",
+            "zh": "急な知らせ",
+            "ex": "Sorry for the late notice.",
+            "exzh": "急なお知らせですみません。",
+            "ipa": "/leɪt ˈnoʊtəs/",
+            "audio": "media/words/ep67/late-notice.mp3",
+            "ex_audio": "media/words/ep67/late-notice_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "land",
+            "pos": "v./n.",
+            "zh": "獲得する；着陸する；土地",
+            "ex": "He landed a big new account.",
+            "exzh": "彼は大きな新規顧客を獲得した。",
+            "ipa": "/lænd/",
+            "audio": "media/words/ep67/land.mp3",
+            "ex_audio": "media/words/ep67/land_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "formally",
+            "pos": "adv.",
+            "zh": "正式に",
+            "ex": "It will be formally announced this afternoon.",
+            "exzh": "今日の午後に正式に発表される。",
+            "ipa": "/ˈfɔrməli/",
+            "audio": "media/words/ep67/formally.mp3",
+            "ex_audio": "media/words/ep67/formally_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "persuade",
+            "pos": "v.",
+            "zh": "説得する",
+            "ex": "We tried for years to persuade them.",
+            "exzh": "何年も彼らを説得しようとしてきた。",
+            "ipa": "/pɚˈsweɪd/",
+            "audio": "media/words/ep67/persuade.mp3",
+            "ex_audio": "media/words/ep67/persuade_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recruitment",
+            "pos": "n.",
+            "zh": "獲得；採用；勧誘",
+            "ex": "The party celebrates his recruitment of a new client.",
+            "exzh": "そのパーティーは彼の新規顧客の獲得を祝うものだ。",
+            "ipa": "/rəˈkrutmənt/",
+            "audio": "media/words/ep67/recruitment.mp3",
+            "ex_audio": "media/words/ep67/recruitment_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "streamer",
+            "pos": "n.",
+            "zh": "紙テープ；吹き流し",
+            "ex": "We have balloons and streamers for the party.",
+            "exzh": "パーティー用の風船と紙テープがある。",
+            "ipa": "/ˈstrimɚ/",
+            "audio": "media/words/ep67/streamer.mp3",
+            "ex_audio": "media/words/ep67/streamer_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "left over",
+            "pos": "adj.",
+            "zh": "残った；余った",
+            "ex": "There are some decorations left over from last month.",
+            "exzh": "先月の飾りが少し残っている。",
+            "ipa": "/lɛft ˈoʊvɚ/",
+            "audio": "media/words/ep67/left-over.mp3",
+            "ex_audio": "media/words/ep67/left-over_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "grab",
+            "pos": "v.",
+            "zh": "さっと取る；つかむ",
+            "ex": "I'll grab them from the closet.",
+            "exzh": "戸棚から取ってきます。",
+            "ipa": "/ɡræb/",
+            "audio": "media/words/ep67/grab.mp3",
+            "ex_audio": "media/words/ep67/grab_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "much-anticipated",
+            "pos": "adj.",
+            "zh": "待望の；期待の大きい",
+            "ex": "The much-anticipated opening is set for July 1.",
+            "exzh": "待望の開店は7月1日に決まった。",
+            "ipa": "/mʌtʃ-ænˈtɪsəˌpeɪtɪd/",
+            "audio": "media/words/ep67/much-anticipated.mp3",
+            "ex_audio": "media/words/ep67/much-anticipated_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "sensation",
+            "pos": "n.",
+            "zh": "大評判；センセーション；感覚",
+            "ex": "The food truck was an instant sensation.",
+            "exzh": "そのフードトラックはたちまち大評判になった。",
+            "ipa": "/sɛnˈseɪʃən/",
+            "audio": "media/words/ep67/sensation.mp3",
+            "ex_audio": "media/words/ep67/sensation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "profession",
+            "pos": "n.",
+            "zh": "職業；専門職",
+            "ex": "What is his profession?",
+            "exzh": "彼の職業は何ですか。",
+            "ipa": "/prəˈfɛʃən/",
+            "audio": "media/words/ep67/profession.mp3",
+            "ex_audio": "media/words/ep67/profession_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "critic",
+            "pos": "n.",
+            "zh": "評論家；批評家",
+            "ex": "The art critic praised the exhibit.",
+            "exzh": "その美術評論家は展示を絶賛した。",
+            "ipa": "/ˈkrɪtɪk/",
+            "audio": "media/words/ep67/critic.mp3",
+            "ex_audio": "media/words/ep67/critic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "owner-chef",
+            "pos": "n.",
+            "zh": "オーナーシェフ",
+            "ex": "The owner-chef started with a food truck.",
+            "exzh": "そのオーナーシェフはフードトラックから始めた。",
+            "ipa": "/ˈoʊnɚ-ʃɛf/",
+            "audio": "media/words/ep67/owner-chef.mp3",
+            "ex_audio": "media/words/ep67/owner-chef_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regional",
+            "pos": "adj.",
+            "zh": "地方の；地域の",
+            "ex": "She cooks regional Italian food.",
+            "exzh": "彼女はイタリアの郷土料理を作る。",
+            "ipa": "/ˈridʒənəl/",
+            "audio": "media/words/ep67/regional.mp3",
+            "ex_audio": "media/words/ep67/regional_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "cozy",
+            "pos": "adj.",
+            "zh": "居心地のいい；こぢんまりした",
+            "ex": "She created a cozy eatery.",
+            "exzh": "彼女は居心地のいい食堂を作った。",
+            "ipa": "/ˈkoʊzi/",
+            "audio": "media/words/ep67/cozy.mp3",
+            "ex_audio": "media/words/ep67/cozy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "eatery",
+            "pos": "n.",
+            "zh": "食堂；飲食店",
+            "ex": "The eatery serves classic Italian dishes.",
+            "exzh": "その食堂は定番のイタリア料理を出している。",
+            "ipa": "/ˈitɚi/",
+            "audio": "media/words/ep67/eatery.mp3",
+            "ex_audio": "media/words/ep67/eatery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "contemporary",
+            "pos": "adj.",
+            "zh": "現代的な；現代の",
+            "ex": "They serve contemporary versions of classic dishes.",
+            "exzh": "定番料理を現代風にアレンジして出している。",
+            "ipa": "/kənˈtɛmpɚˌɛri/",
+            "audio": "media/words/ep67/contemporary.mp3",
+            "ex_audio": "media/words/ep67/contemporary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "thrilled",
+            "pos": "adj.",
+            "zh": "大喜びの；わくわくした",
+            "ex": "We were thrilled to get a reservation.",
+            "exzh": "予約が取れて大喜びした。",
+            "ipa": "/θrɪld/",
+            "audio": "media/words/ep67/thrilled.mp3",
+            "ex_audio": "media/words/ep67/thrilled_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "crowded",
+            "pos": "adj.",
+            "zh": "混雑した",
+            "ex": "The restaurant was crowded and loud.",
+            "exzh": "その店は混雑していてうるさかった。",
+            "ipa": "/ˈkraʊdəd/",
+            "audio": "media/words/ep67/crowded.mp3",
+            "ex_audio": "media/words/ep67/crowded_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take away",
+            "pos": "v.",
+            "zh": "減らす；奪う；持ち去る",
+            "ex": "The noise took away some of our enjoyment.",
+            "exzh": "騒音で楽しさが少し減った。",
+            "ipa": "/teɪk əˈweɪ/",
+            "audio": "media/words/ep67/take-away.mp3",
+            "ex_audio": "media/words/ep67/take-away_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go hand in hand",
+            "pos": "v.",
+            "zh": "密接に結びついている；切り離せない",
+            "ex": "At our restaurant, food and art go hand in hand.",
+            "exzh": "当店では料理と芸術が切り離せない。",
+            "ipa": "/ɡoʊ hænd ɪn hænd/",
+            "audio": "media/words/ep67/go-hand-in-hand.mp3",
+            "ex_audio": "media/words/ep67/go-hand-in-hand_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deserve",
+            "pos": "v.",
+            "zh": "…に値する；…を受けるべきだ",
+            "ex": "These artists deserve a wider audience.",
+            "exzh": "その芸術家たちはもっと多くの人に知られるべきだ。",
+            "ipa": "/dɪˈzɝv/",
+            "audio": "media/words/ep67/deserve.mp3",
+            "ex_audio": "media/words/ep67/deserve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "worthy",
+            "pos": "adj.",
+            "zh": "価値のある；立派な",
+            "ex": "It is a worthy mission.",
+            "exzh": "それは価値のある使命だ。",
+            "ipa": "/ˈwɝði/",
+            "audio": "media/words/ep67/worthy.mp3",
+            "ex_audio": "media/words/ep67/worthy_ex.mp3",
+            "highlight": true,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep67_cover.png",
+    "theme_ja": "試験後の第1回 · Part 7 精読：Test 2 の5セット（お知らせ · 広告 · 展示解説 · チャット · ダブルパッセージ）",
+    "words": [
+      {
+        "word": "iron",
+        "pos": "v./n.",
+        "zh": "熨烫；熨斗",
+        "ex": "We will deliver your washed and ironed clothing.",
+        "exzh": "我们会把您洗好熨好的衣服送来。",
+        "ipa": "/ˈaɪɚn/",
+        "audio": "media/words/ep67/iron.mp3",
+        "ex_audio": "media/words/ep67/iron_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "toiletries",
+        "pos": "n.",
+        "zh": "洗漱用品；化妆品",
+        "ex": "Please call if you need additional toiletries.",
+        "exzh": "如需更多洗漱用品，请打电话。",
+        "ipa": "/ˈtɔɪlətriz/",
+        "audio": "media/words/ep67/toiletries.mp3",
+        "ex_audio": "media/words/ep67/toiletries_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "address",
+        "pos": "v.",
+        "zh": "处理；解决；对…讲话",
+        "ex": "We will address the reported maintenance issue.",
+        "exzh": "我们会处理报修的问题。",
+        "ipa": "/ˈæˌdrɛs/",
+        "audio": "media/words/ep67/address.mp3",
+        "ex_audio": "media/words/ep67/address_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ranking",
+        "pos": "n.",
+        "zh": "排名；名次",
+        "ex": "The card received the top ranking this year.",
+        "exzh": "这张卡今年获得了最高排名。",
+        "ipa": "/ˈræŋkɪŋ/",
+        "audio": "media/words/ep67/ranking.mp3",
+        "ex_audio": "media/words/ep67/ranking_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cash back",
+        "pos": "n.",
+        "zh": "现金返还；返现",
+        "ex": "You get 3% cash back on every purchase.",
+        "exzh": "每笔消费都能返现3%。",
+        "ipa": "/kæʃ bæk/",
+        "audio": "media/words/ep67/cash-back.mp3",
+        "ex_audio": "media/words/ep67/cash-back_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in a row",
+        "pos": "adv.",
+        "zh": "连续地；一连",
+        "ex": "It was named the best card for three years in a row.",
+        "exzh": "它连续三年被评为最佳信用卡。",
+        "ipa": "/ɪn ə roʊ/",
+        "audio": "media/words/ep67/in-a-row.mp3",
+        "ex_audio": "media/words/ep67/in-a-row_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cardholder",
+        "pos": "n.",
+        "zh": "持卡人",
+        "ex": "All cardholders enjoy the following benefits.",
+        "exzh": "所有持卡人都享有以下福利。",
+        "ipa": "/ˈkɑrdˌhoʊldɚ/",
+        "audio": "media/words/ep67/cardholder.mp3",
+        "ex_audio": "media/words/ep67/cardholder_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "annual fee",
+        "pos": "n.",
+        "zh": "年费",
+        "ex": "The card has no annual fee.",
+        "exzh": "这张卡没有年费。",
+        "ipa": "/ˈænjuəl fi/",
+        "audio": "media/words/ep67/annual-fee.mp3",
+        "ex_audio": "media/words/ep67/annual-fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "light rail",
+        "pos": "n.",
+        "zh": "轻轨",
+        "ex": "You get a discount on light-rail fares.",
+        "exzh": "乘坐轻轨可以打折。",
+        "ipa": "/laɪt reɪl/",
+        "audio": "media/words/ep67/light-rail.mp3",
+        "ex_audio": "media/words/ep67/light-rail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "up to",
+        "pos": "prep.",
+        "zh": "最多；高达；直到",
+        "ex": "Get up to a 10% discount on train fares.",
+        "exzh": "火车票最多可打九折。",
+        "ipa": "/ʌp tu/",
+        "audio": "media/words/ep67/up-to.mp3",
+        "ex_audio": "media/words/ep67/up-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prolific",
+        "pos": "adj.",
+        "zh": "多产的；作品多的",
+        "ex": "Radhak Dhar was a prolific illustrator.",
+        "exzh": "Radhak Dhar 是一位多产的插画家。",
+        "ipa": "/proʊˈlɪfɪk/",
+        "audio": "media/words/ep67/prolific.mp3",
+        "ex_audio": "media/words/ep67/prolific_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "revered",
+        "pos": "adj.",
+        "zh": "受尊敬的；受崇敬的",
+        "ex": "He remains one of India's most revered graphic novelists.",
+        "exzh": "他至今仍是印度最受尊敬的图像小说家之一。",
+        "ipa": "/rɪˈvɪrd/",
+        "audio": "media/words/ep67/revered.mp3",
+        "ex_audio": "media/words/ep67/revered_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "depict",
+        "pos": "v.",
+        "zh": "描绘；描述",
+        "ex": "His novels depict fantastical landscapes.",
+        "exzh": "他的小说描绘奇幻的风景。",
+        "ipa": "/dɪˈpɪkt/",
+        "audio": "media/words/ep67/depict.mp3",
+        "ex_audio": "media/words/ep67/depict_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fantastical",
+        "pos": "adj.",
+        "zh": "奇幻的；荒诞的",
+        "ex": "The book is full of fantastical creatures.",
+        "exzh": "这本书里满是奇幻的生物。",
+        "ipa": "",
+        "audio": "media/words/ep67/fantastical.mp3",
+        "ex_audio": "media/words/ep67/fantastical_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "loosely",
+        "pos": "adv.",
+        "zh": "大致地；松散地",
+        "ex": "The stories are loosely based on actual events.",
+        "exzh": "这些故事大致取材于真实事件。",
+        "ipa": "/ˈlusli/",
+        "audio": "media/words/ep67/loosely.mp3",
+        "ex_audio": "media/words/ep67/loosely_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lend support",
+        "pos": "v.",
+        "zh": "支持；佐证",
+        "ex": "His journals lend support to this theory.",
+        "exzh": "他的日记佐证了这个说法。",
+        "ipa": "/lɛnd səˈpɔrt/",
+        "audio": "media/words/ep67/lend-support.mp3",
+        "ex_audio": "media/words/ep67/lend-support_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fictional",
+        "pos": "adj.",
+        "zh": "虚构的；小说的",
+        "ex": "The stories are not completely fictional.",
+        "exzh": "这些故事不完全是虚构的。",
+        "ipa": "/ˈfɪkʃənəl/",
+        "audio": "media/words/ep67/fictional.mp3",
+        "ex_audio": "media/words/ep67/fictional_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "meticulous",
+        "pos": "adj.",
+        "zh": "一丝不苟的；极其细致的",
+        "ex": "His journals reveal his meticulous record keeping.",
+        "exzh": "他的日记显示出他记录事情一丝不苟。",
+        "ipa": "/məˈtɪkjələs/",
+        "audio": "media/words/ep67/meticulous.mp3",
+        "ex_audio": "media/words/ep67/meticulous_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "diligence",
+        "pos": "n.",
+        "zh": "勤奋；勤勉",
+        "ex": "Dhar's diligence explains his success.",
+        "exzh": "Dhar 的勤奋解释了他的成功。",
+        "ipa": "/ˈdɪlədʒəns/",
+        "audio": "media/words/ep67/diligence.mp3",
+        "ex_audio": "media/words/ep67/diligence_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "work ethic",
+        "pos": "n.",
+        "zh": "职业精神；敬业精神",
+        "ex": "She is known for her strong work ethic.",
+        "exzh": "她以很强的敬业精神出名。",
+        "ipa": "/wɝk ˈɛθɪk/",
+        "audio": "media/words/ep67/work-ethic.mp3",
+        "ex_audio": "media/words/ep67/work-ethic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tremendous",
+        "pos": "adj.",
+        "zh": "巨大的；极大的",
+        "ex": "He produced a tremendous volume of work.",
+        "exzh": "他创作了大量的作品。",
+        "ipa": "/trəˈmɛndəs/",
+        "audio": "media/words/ep67/tremendous.mp3",
+        "ex_audio": "media/words/ep67/tremendous_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "late notice",
+        "pos": "n.",
+        "zh": "临时通知",
+        "ex": "Sorry for the late notice.",
+        "exzh": "抱歉这么晚才通知。",
+        "ipa": "/leɪt ˈnoʊtəs/",
+        "audio": "media/words/ep67/late-notice.mp3",
+        "ex_audio": "media/words/ep67/late-notice_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "land",
+        "pos": "v./n.",
+        "zh": "成功拿下；着陆；土地",
+        "ex": "He landed a big new account.",
+        "exzh": "他拿下了一个大客户。",
+        "ipa": "/lænd/",
+        "audio": "media/words/ep67/land.mp3",
+        "ex_audio": "media/words/ep67/land_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "formally",
+        "pos": "adv.",
+        "zh": "正式地",
+        "ex": "It will be formally announced this afternoon.",
+        "exzh": "今天下午会正式宣布。",
+        "ipa": "/ˈfɔrməli/",
+        "audio": "media/words/ep67/formally.mp3",
+        "ex_audio": "media/words/ep67/formally_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "persuade",
+        "pos": "v.",
+        "zh": "说服；劝说",
+        "ex": "We tried for years to persuade them.",
+        "exzh": "我们多年来一直在努力说服他们。",
+        "ipa": "/pɚˈsweɪd/",
+        "audio": "media/words/ep67/persuade.mp3",
+        "ex_audio": "media/words/ep67/persuade_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recruitment",
+        "pos": "n.",
+        "zh": "招募；争取；招聘",
+        "ex": "The party celebrates his recruitment of a new client.",
+        "exzh": "这个派对是庆祝他争取到了新客户。",
+        "ipa": "/rəˈkrutmənt/",
+        "audio": "media/words/ep67/recruitment.mp3",
+        "ex_audio": "media/words/ep67/recruitment_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "streamer",
+        "pos": "n.",
+        "zh": "彩带；横幅",
+        "ex": "We have balloons and streamers for the party.",
+        "exzh": "我们有派对用的气球和彩带。",
+        "ipa": "/ˈstrimɚ/",
+        "audio": "media/words/ep67/streamer.mp3",
+        "ex_audio": "media/words/ep67/streamer_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "left over",
+        "pos": "adj.",
+        "zh": "剩下的；剩余的",
+        "ex": "There are some decorations left over from last month.",
+        "exzh": "上个月还剩了一些装饰品。",
+        "ipa": "/lɛft ˈoʊvɚ/",
+        "audio": "media/words/ep67/left-over.mp3",
+        "ex_audio": "media/words/ep67/left-over_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "grab",
+        "pos": "v.",
+        "zh": "拿；抓；匆匆拿走",
+        "ex": "I'll grab them from the closet.",
+        "exzh": "我去柜子里把它们拿来。",
+        "ipa": "/ɡræb/",
+        "audio": "media/words/ep67/grab.mp3",
+        "ex_audio": "media/words/ep67/grab_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "much-anticipated",
+        "pos": "adj.",
+        "zh": "备受期待的",
+        "ex": "The much-anticipated opening is set for July 1.",
+        "exzh": "备受期待的开业定在七月一日。",
+        "ipa": "/mʌtʃ-ænˈtɪsəˌpeɪtɪd/",
+        "audio": "media/words/ep67/much-anticipated.mp3",
+        "ex_audio": "media/words/ep67/much-anticipated_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "sensation",
+        "pos": "n.",
+        "zh": "轰动；轰动一时的人或事；感觉",
+        "ex": "The food truck was an instant sensation.",
+        "exzh": "这辆餐车一下子就火了。",
+        "ipa": "/sɛnˈseɪʃən/",
+        "audio": "media/words/ep67/sensation.mp3",
+        "ex_audio": "media/words/ep67/sensation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "profession",
+        "pos": "n.",
+        "zh": "职业；行业",
+        "ex": "What is his profession?",
+        "exzh": "他是做什么职业的？",
+        "ipa": "/prəˈfɛʃən/",
+        "audio": "media/words/ep67/profession.mp3",
+        "ex_audio": "media/words/ep67/profession_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "critic",
+        "pos": "n.",
+        "zh": "评论家；批评者",
+        "ex": "The art critic praised the exhibit.",
+        "exzh": "这位艺术评论家称赞了这个展览。",
+        "ipa": "/ˈkrɪtɪk/",
+        "audio": "media/words/ep67/critic.mp3",
+        "ex_audio": "media/words/ep67/critic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "owner-chef",
+        "pos": "n.",
+        "zh": "老板兼主厨",
+        "ex": "The owner-chef started with a food truck.",
+        "exzh": "这位老板兼主厨是从一辆餐车起家的。",
+        "ipa": "/ˈoʊnɚ-ʃɛf/",
+        "audio": "media/words/ep67/owner-chef.mp3",
+        "ex_audio": "media/words/ep67/owner-chef_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regional",
+        "pos": "adj.",
+        "zh": "地方的；地区的",
+        "ex": "She cooks regional Italian food.",
+        "exzh": "她做意大利地方菜。",
+        "ipa": "/ˈridʒənəl/",
+        "audio": "media/words/ep67/regional.mp3",
+        "ex_audio": "media/words/ep67/regional_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "cozy",
+        "pos": "adj.",
+        "zh": "温馨的；舒适的",
+        "ex": "She created a cozy eatery.",
+        "exzh": "她开了一家温馨的小餐馆。",
+        "ipa": "/ˈkoʊzi/",
+        "audio": "media/words/ep67/cozy.mp3",
+        "ex_audio": "media/words/ep67/cozy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "eatery",
+        "pos": "n.",
+        "zh": "小餐馆；饭馆",
+        "ex": "The eatery serves classic Italian dishes.",
+        "exzh": "这家小餐馆供应经典意大利菜。",
+        "ipa": "/ˈitɚi/",
+        "audio": "media/words/ep67/eatery.mp3",
+        "ex_audio": "media/words/ep67/eatery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "contemporary",
+        "pos": "adj.",
+        "zh": "现代的；当代的",
+        "ex": "They serve contemporary versions of classic dishes.",
+        "exzh": "他们供应经典菜的现代版本。",
+        "ipa": "/kənˈtɛmpɚˌɛri/",
+        "audio": "media/words/ep67/contemporary.mp3",
+        "ex_audio": "media/words/ep67/contemporary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "thrilled",
+        "pos": "adj.",
+        "zh": "非常兴奋的；高兴极了",
+        "ex": "We were thrilled to get a reservation.",
+        "exzh": "我们订到位子时高兴极了。",
+        "ipa": "/θrɪld/",
+        "audio": "media/words/ep67/thrilled.mp3",
+        "ex_audio": "media/words/ep67/thrilled_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "crowded",
+        "pos": "adj.",
+        "zh": "拥挤的",
+        "ex": "The restaurant was crowded and loud.",
+        "exzh": "餐厅又挤又吵。",
+        "ipa": "/ˈkraʊdəd/",
+        "audio": "media/words/ep67/crowded.mp3",
+        "ex_audio": "media/words/ep67/crowded_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take away",
+        "pos": "v.",
+        "zh": "减少；带走；拿走",
+        "ex": "The noise took away some of our enjoyment.",
+        "exzh": "噪音让我们少了些乐趣。",
+        "ipa": "/teɪk əˈweɪ/",
+        "audio": "media/words/ep67/take-away.mp3",
+        "ex_audio": "media/words/ep67/take-away_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go hand in hand",
+        "pos": "v.",
+        "zh": "密切相关；相辅相成",
+        "ex": "At our restaurant, food and art go hand in hand.",
+        "exzh": "在我们餐厅，美食和艺术相辅相成。",
+        "ipa": "/ɡoʊ hænd ɪn hænd/",
+        "audio": "media/words/ep67/go-hand-in-hand.mp3",
+        "ex_audio": "media/words/ep67/go-hand-in-hand_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deserve",
+        "pos": "v.",
+        "zh": "值得；应得",
+        "ex": "These artists deserve a wider audience.",
+        "exzh": "这些艺术家值得被更多人看到。",
+        "ipa": "/dɪˈzɝv/",
+        "audio": "media/words/ep67/deserve.mp3",
+        "ex_audio": "media/words/ep67/deserve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "worthy",
+        "pos": "adj.",
+        "zh": "值得的；有价值的",
+        "ex": "It is a worthy mission.",
+        "exzh": "这是一项有意义的使命。",
+        "ipa": "/ˈwɝði/",
+        "audio": "media/words/ep67/worthy.mp3",
+        "ex_audio": "media/words/ep67/worthy_ex.mp3",
+        "highlight": true,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 66,
     "theme": "考试当天 · Part 7 精读：Test 2 四组阅读（新闻 · 广告 · 备忘 · 邮件）",
     "date": "2026-11-17",
