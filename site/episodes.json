@@ -1,5 +1,851 @@
 [
   {
+    "number": 68,
+    "theme": "Part 7 多篇阅读精读：Test 2 双篇（课程表 + 邮件）· 三篇（建筑评论 + 网页 + 邮件）",
+    "date": "2026-11-19",
+    "duration_sec": 1750.0,
+    "segments": [
+      {
+        "title": "1. Part 7 多篇阅读（双篇：课程表 + 邮件 · 三篇：评论 + 网页 + 邮件，Test 2 Q181–190）",
+        "start": 0.0,
+        "length": 1236.49
+      },
+      {
+        "title": "2. 本期 25 词总复习 · 拼读",
+        "start": 1236.49,
+        "length": 513.46
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "prerequisite",
+        "zh": "先决条件；先修课"
+      },
+      {
+        "word": "confidentiality",
+        "zh": "保密性；机密性"
+      },
+      {
+        "word": "boon",
+        "zh": "好处；恩惠；福音"
+      },
+      {
+        "word": "state-of-the-art",
+        "zh": "最先进的"
+      },
+      {
+        "word": "biography",
+        "zh": "传记；个人简介"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "minimum",
+        "zh": "最低限度；最小的"
+      },
+      {
+        "word": "analytics",
+        "zh": "数据分析；分析学"
+      },
+      {
+        "word": "fundamental",
+        "zh": "基础的；根本的"
+      },
+      {
+        "word": "prerequisite",
+        "zh": "先决条件；先修课"
+      },
+      {
+        "word": "take charge of",
+        "zh": "负责；接管"
+      },
+      {
+        "word": "corporate",
+        "zh": "公司的；企业的"
+      },
+      {
+        "word": "confidentiality",
+        "zh": "保密性；机密性"
+      },
+      {
+        "word": "negotiate",
+        "zh": "谈判；协商"
+      },
+      {
+        "word": "adopt",
+        "zh": "采用；采纳；收养"
+      },
+      {
+        "word": "maximize",
+        "zh": "使最大化"
+      },
+      {
+        "word": "convention centre",
+        "zh": "会展中心；英式拼写"
+      },
+      {
+        "word": "boon",
+        "zh": "好处；恩惠；福音"
+      },
+      {
+        "word": "sneak peek",
+        "zh": "抢先一看；预览"
+      },
+      {
+        "word": "spectacular",
+        "zh": "壮观的；精彩的"
+      },
+      {
+        "word": "finishing touches",
+        "zh": "最后的润色；收尾工作"
+      },
+      {
+        "word": "anchored",
+        "zh": "以为核心的；固定的"
+      },
+      {
+        "word": "sun-drenched",
+        "zh": "阳光充足的"
+      },
+      {
+        "word": "auditorium",
+        "zh": "礼堂；观众席"
+      },
+      {
+        "word": "state-of-the-art",
+        "zh": "最先进的"
+      },
+      {
+        "word": "audiovisual",
+        "zh": "视听的"
+      },
+      {
+        "word": "advance registration",
+        "zh": "提前报名；预先登记"
+      },
+      {
+        "word": "master of ceremonies",
+        "zh": "司仪；主持人"
+      },
+      {
+        "word": "numerous",
+        "zh": "许多的；众多的"
+      },
+      {
+        "word": "delightful",
+        "zh": "令人愉快的；可爱的"
+      },
+      {
+        "word": "biography",
+        "zh": "传记；个人简介"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep68.mp4",
+    "script_pdf": "media/ep68_script.pdf",
+    "source_video": "ep68.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep68.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep68.mp4",
+        "script_pdf": "media/ep68_script.pdf",
+        "duration_sec": 1750.0,
+        "theme": "Part 7 多篇阅读精读：Test 2 双篇（课程表 + 邮件）· 三篇（建筑评论 + 网页 + 邮件）",
+        "segments": [
+          {
+            "title": "1. Part 7 多篇阅读（双篇：课程表 + 邮件 · 三篇：评论 + 网页 + 邮件，Test 2 Q181–190）",
+            "start": 0.0,
+            "length": 1236.49
+          },
+          {
+            "title": "2. 本期 25 词总复习 · 拼读",
+            "start": 1236.49,
+            "length": 513.46
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep68ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep68ja.mp4",
+        "script_pdf": "media/ep68ja_script.pdf",
+        "duration_sec": 2008.8,
+        "theme": "Part 7 複数文書の精読：Test 2 ダブル（日程表 + メール）· トリプル（建築評論 + ウェブページ + メール）",
+        "segments": [
+          {
+            "title": "1. Part 7 複数文書（ダブル：日程表 + メール · トリプル：評論 + ウェブページ + メール、Test 2 Q181–190）",
+            "start": 0.0,
+            "length": 1433.75
+          },
+          {
+            "title": "2. 今回の 25 語総復習 · スペル",
+            "start": 1433.75,
+            "length": 575.04
+          }
+        ],
+        "poster": "media/ep68ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "prerequisite",
+            "zh": "前提条件；必須の先行科目"
+          },
+          {
+            "word": "confidentiality",
+            "zh": "機密性；守秘"
+          },
+          {
+            "word": "boon",
+            "zh": "恩恵；ありがたいもの"
+          },
+          {
+            "word": "state-of-the-art",
+            "zh": "最新式の；最先端の"
+          },
+          {
+            "word": "biography",
+            "zh": "伝記；経歴"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "minimum",
+          "analytics",
+          "fundamental",
+          "prerequisite",
+          "take charge of",
+          "corporate",
+          "confidentiality",
+          "negotiate",
+          "adopt",
+          "maximize",
+          "convention centre",
+          "boon",
+          "sneak peek",
+          "spectacular",
+          "finishing touches",
+          "anchored",
+          "sun-drenched",
+          "auditorium",
+          "state-of-the-art",
+          "audiovisual",
+          "advance registration",
+          "master of ceremonies",
+          "numerous",
+          "delightful",
+          "biography"
+        ],
+        "words": [
+          {
+            "word": "minimum",
+            "pos": "n./adj.",
+            "zh": "最低限；最小の",
+            "ex": "Employees take a minimum of two courses a year.",
+            "exzh": "社員は年に最低2つのコースを受ける。",
+            "ipa": "/ˈmɪnəməm/",
+            "audio": "media/words/ep68/minimum.mp3",
+            "ex_audio": "media/words/ep68/minimum_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "analytics",
+            "pos": "n.",
+            "zh": "データ分析；アナリティクス",
+            "ex": "The course is an introduction to business analytics.",
+            "exzh": "そのコースはビジネス分析の入門だ。",
+            "ipa": "/ˌænəˈlɪtɪks/",
+            "audio": "media/words/ep68/analytics.mp3",
+            "ex_audio": "media/words/ep68/analytics_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "基礎的な；根本的な",
+            "ex": "Learn fundamental data analysis.",
+            "exzh": "基礎的なデータ分析を学ぶ。",
+            "ipa": "/ˌfʌndəˈmɛntəl/",
+            "audio": "media/words/ep68/fundamental.mp3",
+            "ex_audio": "media/words/ep68/fundamental_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prerequisite",
+            "pos": "n.",
+            "zh": "前提条件；必須の先行科目",
+            "ex": "The introductory course is a prerequisite.",
+            "exzh": "入門コースが前提条件だ。",
+            "ipa": "/priˈrɛkwəzət/",
+            "audio": "media/words/ep68/prerequisite.mp3",
+            "ex_audio": "media/words/ep68/prerequisite_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "take charge of",
+            "pos": "v.",
+            "zh": "…を担当する；引き受ける",
+            "ex": "He was asked to take charge of computer training.",
+            "exzh": "彼はコンピューター研修の担当を頼まれた。",
+            "ipa": "/teɪk tʃɑrdʒ əv/",
+            "audio": "media/words/ep68/take-charge-of.mp3",
+            "ex_audio": "media/words/ep68/take-charge-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "corporate",
+            "pos": "adj.",
+            "zh": "会社の；企業の",
+            "ex": "The new system is a corporate priority.",
+            "exzh": "新しいシステムは会社の最優先事項だ。",
+            "ipa": "/ˈkɔrpɚət/",
+            "audio": "media/words/ep68/corporate.mp3",
+            "ex_audio": "media/words/ep68/corporate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "confidentiality",
+            "pos": "n.",
+            "zh": "機密性；守秘",
+            "ex": "The course covers client confidentiality.",
+            "exzh": "そのコースは顧客の守秘を扱う。",
+            "ipa": "/ˌkɑnfəˌdɛnʃiˈæləti/",
+            "audio": "media/words/ep68/confidentiality.mp3",
+            "ex_audio": "media/words/ep68/confidentiality_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "negotiate",
+            "pos": "v.",
+            "zh": "交渉する",
+            "ex": "Learn how to negotiate with confidence.",
+            "exzh": "自信を持って交渉する方法を学ぶ。",
+            "ipa": "/nəˈɡoʊʃiˌeɪt/",
+            "audio": "media/words/ep68/negotiate.mp3",
+            "ex_audio": "media/words/ep68/negotiate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "adopt",
+            "pos": "v.",
+            "zh": "採用する；取り入れる",
+            "ex": "Adopt strategies to maximize results.",
+            "exzh": "成果を最大にする戦略を取り入れる。",
+            "ipa": "/əˈdɑpt/",
+            "audio": "media/words/ep68/adopt.mp3",
+            "ex_audio": "media/words/ep68/adopt_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "maximize",
+            "pos": "v.",
+            "zh": "最大にする",
+            "ex": "We want to maximize our results.",
+            "exzh": "成果を最大にしたい。",
+            "ipa": "/ˈmæksəˌmaɪz/",
+            "audio": "media/words/ep68/maximize.mp3",
+            "ex_audio": "media/words/ep68/maximize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "convention centre",
+            "pos": "n.",
+            "zh": "コンベンションセンター（イギリス式つづり）",
+            "ex": "The city's new convention centre opens in two weeks.",
+            "exzh": "市の新しいコンベンションセンターは2週間後に開業する。",
+            "ipa": "/kənˈvɛnʃən ˈsɛntɚ/",
+            "audio": "media/words/ep68/convention-centre.mp3",
+            "ex_audio": "media/words/ep68/convention-centre_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "boon",
+            "pos": "n.",
+            "zh": "恩恵；ありがたいもの",
+            "ex": "The centre is expected to be a boon to local hotels.",
+            "exzh": "センターは地元のホテルにとって恩恵になると見込まれている。",
+            "ipa": "/bun/",
+            "audio": "media/words/ep68/boon.mp3",
+            "ex_audio": "media/words/ep68/boon_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "sneak peek",
+            "pos": "n.",
+            "zh": "ひと足先にのぞくこと；内覧",
+            "ex": "I was given a sneak peek last week.",
+            "exzh": "先週ひと足先に見せてもらった。",
+            "ipa": "/snik pik/",
+            "audio": "media/words/ep68/sneak-peek.mp3",
+            "ex_audio": "media/words/ep68/sneak-peek_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "spectacular",
+            "pos": "adj.",
+            "zh": "壮観な；見事な",
+            "ex": "The roses are spectacular at this time of year.",
+            "exzh": "毎年この時期のバラは見事だ。",
+            "ipa": "/spɛkˈtækjəlɚ/",
+            "audio": "media/words/ep68/spectacular.mp3",
+            "ex_audio": "media/words/ep68/spectacular_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "finishing touches",
+            "pos": "n.",
+            "zh": "最後の仕上げ",
+            "ex": "Workers were putting the finishing touches on the hall.",
+            "exzh": "作業員がホールに最後の仕上げをしていた。",
+            "ipa": "/ˈfɪnɪʃɪŋ ˈtʌtʃəz/",
+            "audio": "media/words/ep68/finishing-touches.mp3",
+            "ex_audio": "media/words/ep68/finishing-touches_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "anchored",
+            "pos": "adj.",
+            "zh": "…を中心に据えた；固定された",
+            "ex": "The building is anchored by a grand hall.",
+            "exzh": "その建物は大ホールを中心にしている。",
+            "ipa": "/ˈæŋkɚd/",
+            "audio": "media/words/ep68/anchored.mp3",
+            "ex_audio": "media/words/ep68/anchored_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sun-drenched",
+            "pos": "adj.",
+            "zh": "日当たりのいい；陽光あふれる",
+            "ex": "The hall is an airy, sun-drenched space.",
+            "exzh": "ホールは風通しがよく、日当たりのいい空間だ。",
+            "ipa": "/sʌn-drɛntʃt/",
+            "audio": "media/words/ep68/sun-drenched.mp3",
+            "ex_audio": "media/words/ep68/sun-drenched_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "auditorium",
+            "pos": "n.",
+            "zh": "講堂；客席",
+            "ex": "It has a 900-seat auditorium.",
+            "exzh": "900席の講堂がある。",
+            "ipa": "/ˌɔdəˈtɔriəm/",
+            "audio": "media/words/ep68/auditorium.mp3",
+            "ex_audio": "media/words/ep68/auditorium_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "state-of-the-art",
+            "pos": "adj.",
+            "zh": "最新式の；最先端の",
+            "ex": "All rooms feature state-of-the-art equipment.",
+            "exzh": "すべての部屋に最新式の設備がある。",
+            "ipa": "/ˌsteɪtəvðɪˈɑrt/",
+            "audio": "media/words/ep68/state-of-the-art.mp3",
+            "ex_audio": "media/words/ep68/state-of-the-art_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "audiovisual",
+            "pos": "adj.",
+            "zh": "視聴覚の",
+            "ex": "The rooms have audiovisual technologies.",
+            "exzh": "部屋には視聴覚設備がある。",
+            "ipa": "/ˌɔdioʊˈvɪʒuəl/",
+            "audio": "media/words/ep68/audiovisual.mp3",
+            "ex_audio": "media/words/ep68/audiovisual_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "advance registration",
+            "pos": "n.",
+            "zh": "事前登録",
+            "ex": "Advance registration is required.",
+            "exzh": "事前登録が必要だ。",
+            "ipa": "/ədˈvæns ˌrɛdʒɪˈstreɪʃən/",
+            "audio": "media/words/ep68/advance-registration.mp3",
+            "ex_audio": "media/words/ep68/advance-registration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "master of ceremonies",
+            "pos": "n.",
+            "zh": "司会者",
+            "ex": "He will serve as our master of ceremonies.",
+            "exzh": "彼が司会を務める。",
+            "ipa": "/ˈmæstɚ əv ˈsɛrəˌmoʊniz/",
+            "audio": "media/words/ep68/master-of-ceremonies.mp3",
+            "ex_audio": "media/words/ep68/master-of-ceremonies_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "numerous",
+            "pos": "adj.",
+            "zh": "多数の；数多くの",
+            "ex": "He is the author of numerous books.",
+            "exzh": "彼は多くの本の著者だ。",
+            "ipa": "/ˈnumɚəs/",
+            "audio": "media/words/ep68/numerous.mp3",
+            "ex_audio": "media/words/ep68/numerous_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "delightful",
+            "pos": "adj.",
+            "zh": "楽しい；とても感じのよい",
+            "ex": "It was delightful meeting you.",
+            "exzh": "お会いできてとても楽しかったです。",
+            "ipa": "/dɪˈlaɪtfəl/",
+            "audio": "media/words/ep68/delightful.mp3",
+            "ex_audio": "media/words/ep68/delightful_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "biography",
+            "pos": "n.",
+            "zh": "伝記；経歴",
+            "ex": "Please send me your biography.",
+            "exzh": "あなたの経歴を送ってください。",
+            "ipa": "/baɪˈɑɡrəfi/",
+            "audio": "media/words/ep68/biography.mp3",
+            "ex_audio": "media/words/ep68/biography_ex.mp3",
+            "highlight": true,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep68_cover.png",
+    "theme_ja": "Part 7 複数文書の精読：Test 2 ダブル（日程表 + メール）· トリプル（建築評論 + ウェブページ + メール）",
+    "words": [
+      {
+        "word": "minimum",
+        "pos": "n./adj.",
+        "zh": "最低限度；最小的",
+        "ex": "Employees take a minimum of two courses a year.",
+        "exzh": "员工每年至少上两门课。",
+        "ipa": "/ˈmɪnəməm/",
+        "audio": "media/words/ep68/minimum.mp3",
+        "ex_audio": "media/words/ep68/minimum_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "analytics",
+        "pos": "n.",
+        "zh": "数据分析；分析学",
+        "ex": "The course is an introduction to business analytics.",
+        "exzh": "这门课是商业数据分析入门。",
+        "ipa": "/ˌænəˈlɪtɪks/",
+        "audio": "media/words/ep68/analytics.mp3",
+        "ex_audio": "media/words/ep68/analytics_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fundamental",
+        "pos": "adj.",
+        "zh": "基础的；根本的",
+        "ex": "Learn fundamental data analysis.",
+        "exzh": "学习基础的数据分析。",
+        "ipa": "/ˌfʌndəˈmɛntəl/",
+        "audio": "media/words/ep68/fundamental.mp3",
+        "ex_audio": "media/words/ep68/fundamental_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prerequisite",
+        "pos": "n.",
+        "zh": "先决条件；先修课",
+        "ex": "The introductory course is a prerequisite.",
+        "exzh": "入门课程是先修课。",
+        "ipa": "/priˈrɛkwəzət/",
+        "audio": "media/words/ep68/prerequisite.mp3",
+        "ex_audio": "media/words/ep68/prerequisite_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "take charge of",
+        "pos": "v.",
+        "zh": "负责；接管",
+        "ex": "He was asked to take charge of computer training.",
+        "exzh": "他被要求负责电脑培训。",
+        "ipa": "/teɪk tʃɑrdʒ əv/",
+        "audio": "media/words/ep68/take-charge-of.mp3",
+        "ex_audio": "media/words/ep68/take-charge-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "corporate",
+        "pos": "adj.",
+        "zh": "公司的；企业的",
+        "ex": "The new system is a corporate priority.",
+        "exzh": "新系统是公司的头等大事。",
+        "ipa": "/ˈkɔrpɚət/",
+        "audio": "media/words/ep68/corporate.mp3",
+        "ex_audio": "media/words/ep68/corporate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "confidentiality",
+        "pos": "n.",
+        "zh": "保密性；机密性",
+        "ex": "The course covers client confidentiality.",
+        "exzh": "这门课讲客户信息保密。",
+        "ipa": "/ˌkɑnfəˌdɛnʃiˈæləti/",
+        "audio": "media/words/ep68/confidentiality.mp3",
+        "ex_audio": "media/words/ep68/confidentiality_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "negotiate",
+        "pos": "v.",
+        "zh": "谈判；协商",
+        "ex": "Learn how to negotiate with confidence.",
+        "exzh": "学习如何自信地谈判。",
+        "ipa": "/nəˈɡoʊʃiˌeɪt/",
+        "audio": "media/words/ep68/negotiate.mp3",
+        "ex_audio": "media/words/ep68/negotiate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "adopt",
+        "pos": "v.",
+        "zh": "采用；采纳；收养",
+        "ex": "Adopt strategies to maximize results.",
+        "exzh": "采用能让成果最大化的策略。",
+        "ipa": "/əˈdɑpt/",
+        "audio": "media/words/ep68/adopt.mp3",
+        "ex_audio": "media/words/ep68/adopt_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "maximize",
+        "pos": "v.",
+        "zh": "使最大化",
+        "ex": "We want to maximize our results.",
+        "exzh": "我们想让成果最大化。",
+        "ipa": "/ˈmæksəˌmaɪz/",
+        "audio": "media/words/ep68/maximize.mp3",
+        "ex_audio": "media/words/ep68/maximize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "convention centre",
+        "pos": "n.",
+        "zh": "会展中心（英式拼写）",
+        "ex": "The city's new convention centre opens in two weeks.",
+        "exzh": "城市新的会展中心两周后开业。",
+        "ipa": "/kənˈvɛnʃən ˈsɛntɚ/",
+        "audio": "media/words/ep68/convention-centre.mp3",
+        "ex_audio": "media/words/ep68/convention-centre_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "boon",
+        "pos": "n.",
+        "zh": "好处；恩惠；福音",
+        "ex": "The centre is expected to be a boon to local hotels.",
+        "exzh": "会展中心预计会给当地酒店带来好处。",
+        "ipa": "/bun/",
+        "audio": "media/words/ep68/boon.mp3",
+        "ex_audio": "media/words/ep68/boon_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "sneak peek",
+        "pos": "n.",
+        "zh": "抢先一看；预览",
+        "ex": "I was given a sneak peek last week.",
+        "exzh": "上周我得到机会抢先看了一下。",
+        "ipa": "/snik pik/",
+        "audio": "media/words/ep68/sneak-peek.mp3",
+        "ex_audio": "media/words/ep68/sneak-peek_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "spectacular",
+        "pos": "adj.",
+        "zh": "壮观的；精彩的",
+        "ex": "The roses are spectacular at this time of year.",
+        "exzh": "每年这个时候的玫瑰非常壮观。",
+        "ipa": "/spɛkˈtækjəlɚ/",
+        "audio": "media/words/ep68/spectacular.mp3",
+        "ex_audio": "media/words/ep68/spectacular_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "finishing touches",
+        "pos": "n.",
+        "zh": "最后的润色；收尾工作",
+        "ex": "Workers were putting the finishing touches on the hall.",
+        "exzh": "工人们正在给大厅做最后的收尾。",
+        "ipa": "/ˈfɪnɪʃɪŋ ˈtʌtʃəz/",
+        "audio": "media/words/ep68/finishing-touches.mp3",
+        "ex_audio": "media/words/ep68/finishing-touches_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "anchored",
+        "pos": "adj.",
+        "zh": "以……为核心的；固定的",
+        "ex": "The building is anchored by a grand hall.",
+        "exzh": "这座建筑以一个大厅为核心。",
+        "ipa": "/ˈæŋkɚd/",
+        "audio": "media/words/ep68/anchored.mp3",
+        "ex_audio": "media/words/ep68/anchored_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sun-drenched",
+        "pos": "adj.",
+        "zh": "阳光充足的",
+        "ex": "The hall is an airy, sun-drenched space.",
+        "exzh": "大厅宽敞通风、阳光充足。",
+        "ipa": "/sʌn-drɛntʃt/",
+        "audio": "media/words/ep68/sun-drenched.mp3",
+        "ex_audio": "media/words/ep68/sun-drenched_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "auditorium",
+        "pos": "n.",
+        "zh": "礼堂；观众席",
+        "ex": "It has a 900-seat auditorium.",
+        "exzh": "那里有一个九百座的礼堂。",
+        "ipa": "/ˌɔdəˈtɔriəm/",
+        "audio": "media/words/ep68/auditorium.mp3",
+        "ex_audio": "media/words/ep68/auditorium_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "state-of-the-art",
+        "pos": "adj.",
+        "zh": "最先进的",
+        "ex": "All rooms feature state-of-the-art equipment.",
+        "exzh": "所有房间都配有最先进的设备。",
+        "ipa": "/ˌsteɪtəvðɪˈɑrt/",
+        "audio": "media/words/ep68/state-of-the-art.mp3",
+        "ex_audio": "media/words/ep68/state-of-the-art_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "audiovisual",
+        "pos": "adj.",
+        "zh": "视听的",
+        "ex": "The rooms have audiovisual technologies.",
+        "exzh": "房间配有视听设备。",
+        "ipa": "/ˌɔdioʊˈvɪʒuəl/",
+        "audio": "media/words/ep68/audiovisual.mp3",
+        "ex_audio": "media/words/ep68/audiovisual_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "advance registration",
+        "pos": "n.",
+        "zh": "提前报名；预先登记",
+        "ex": "Advance registration is required.",
+        "exzh": "必须提前报名。",
+        "ipa": "/ədˈvæns ˌrɛdʒɪˈstreɪʃən/",
+        "audio": "media/words/ep68/advance-registration.mp3",
+        "ex_audio": "media/words/ep68/advance-registration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "master of ceremonies",
+        "pos": "n.",
+        "zh": "司仪；主持人",
+        "ex": "He will serve as our master of ceremonies.",
+        "exzh": "他将担任我们的主持人。",
+        "ipa": "/ˈmæstɚ əv ˈsɛrəˌmoʊniz/",
+        "audio": "media/words/ep68/master-of-ceremonies.mp3",
+        "ex_audio": "media/words/ep68/master-of-ceremonies_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "numerous",
+        "pos": "adj.",
+        "zh": "许多的；众多的",
+        "ex": "He is the author of numerous books.",
+        "exzh": "他写了许多本书。",
+        "ipa": "/ˈnumɚəs/",
+        "audio": "media/words/ep68/numerous.mp3",
+        "ex_audio": "media/words/ep68/numerous_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "delightful",
+        "pos": "adj.",
+        "zh": "令人愉快的；可爱的",
+        "ex": "It was delightful meeting you.",
+        "exzh": "见到您非常愉快。",
+        "ipa": "/dɪˈlaɪtfəl/",
+        "audio": "media/words/ep68/delightful.mp3",
+        "ex_audio": "media/words/ep68/delightful_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "biography",
+        "pos": "n.",
+        "zh": "传记；个人简介",
+        "ex": "Please send me your biography.",
+        "exzh": "请把您的个人简介发给我。",
+        "ipa": "/baɪˈɑɡrəfi/",
+        "audio": "media/words/ep68/biography.mp3",
+        "ex_audio": "media/words/ep68/biography_ex.mp3",
+        "highlight": true,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 67,
     "theme": "考后第一期 · Part 7 精读：Test 2 五组阅读（通知 · 广告 · 展览说明 · 聊天 · 双篇）",
     "date": "2026-11-18",
