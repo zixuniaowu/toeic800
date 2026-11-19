@@ -1,5 +1,532 @@
 [
   {
+    "number": 69,
+    "theme": "Part 7 三篇阅读精读：Test 2 城市徒步游（行程表 + 两封邮件）· 回收服务变更（邮件 + 网页 + 备忘录）",
+    "date": "2026-11-20",
+    "duration_sec": 1543.6,
+    "segments": [
+      {
+        "title": "1. Part 7 三篇阅读（行程表 + 两封邮件 · 邮件 + 网页 + 备忘录，Test 2 Q191–200）",
+        "start": 0.0,
+        "length": 1196.06
+      },
+      {
+        "title": "2. 本期 14 词总复习 · 拼读",
+        "start": 1196.06,
+        "length": 347.51
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "iconic",
+        "zh": "标志性的；偶像的"
+      },
+      {
+        "word": "souvenir",
+        "zh": "纪念品；特产"
+      },
+      {
+        "word": "curbside",
+        "zh": "路边的；上门的"
+      },
+      {
+        "word": "recyclables",
+        "zh": "可回收物"
+      },
+      {
+        "word": "pay in advance",
+        "zh": "预先付款"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "stroll",
+        "zh": "散步；漫步"
+      },
+      {
+        "word": "iconic",
+        "zh": "标志性的；偶像的"
+      },
+      {
+        "word": "surviving",
+        "zh": "现存的；幸存的"
+      },
+      {
+        "word": "wrap up",
+        "zh": "结束；收尾"
+      },
+      {
+        "word": "souvenir",
+        "zh": "纪念品；特产"
+      },
+      {
+        "word": "memorabilia",
+        "zh": "纪念品；收藏品"
+      },
+      {
+        "word": "curbside",
+        "zh": "路边的；上门的"
+      },
+      {
+        "word": "recyclables",
+        "zh": "可回收物"
+      },
+      {
+        "word": "disposable",
+        "zh": "一次性的；可丢弃的"
+      },
+      {
+        "word": "periodic",
+        "zh": "定期的；周期性的"
+      },
+      {
+        "word": "latex",
+        "zh": "乳胶"
+      },
+      {
+        "word": "wheelie bin",
+        "zh": "带轮子的大垃圾桶；英式"
+      },
+      {
+        "word": "pay in advance",
+        "zh": "预先付款"
+      },
+      {
+        "word": "fully paid up",
+        "zh": "已全部付清的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep69.mp4",
+    "script_pdf": "media/ep69_script.pdf",
+    "source_video": "ep69.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep69.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep69.mp4",
+        "script_pdf": "media/ep69_script.pdf",
+        "duration_sec": 1543.6,
+        "theme": "Part 7 三篇阅读精读：Test 2 城市徒步游（行程表 + 两封邮件）· 回收服务变更（邮件 + 网页 + 备忘录）",
+        "segments": [
+          {
+            "title": "1. Part 7 三篇阅读（行程表 + 两封邮件 · 邮件 + 网页 + 备忘录，Test 2 Q191–200）",
+            "start": 0.0,
+            "length": 1196.06
+          },
+          {
+            "title": "2. 本期 14 词总复习 · 拼读",
+            "start": 1196.06,
+            "length": 347.51
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep69ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep69ja.mp4",
+        "script_pdf": "media/ep69ja_script.pdf",
+        "duration_sec": 1791.7,
+        "theme": "Part 7 トリプルパッセージの精読：Test 2 街歩きツアー（日程表 + メール2通）· リサイクルサービスの変更（メール + ウェブページ + 社内メモ）",
+        "segments": [
+          {
+            "title": "1. Part 7 トリプルパッセージ（日程表 + メール2通 · メール + ウェブページ + 社内メモ、Test 2 Q191–200）",
+            "start": 0.0,
+            "length": 1373.85
+          },
+          {
+            "title": "2. 今回の 14 語総復習 · スペル",
+            "start": 1373.85,
+            "length": 417.88
+          }
+        ],
+        "poster": "media/ep69ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "iconic",
+            "zh": "象徴的な；代表的な"
+          },
+          {
+            "word": "souvenir",
+            "zh": "お土産；記念品"
+          },
+          {
+            "word": "curbside",
+            "zh": "戸別の；道路脇の"
+          },
+          {
+            "word": "recyclables",
+            "zh": "リサイクル可能なもの；資源ごみ"
+          },
+          {
+            "word": "pay in advance",
+            "zh": "前払いする"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "stroll",
+          "iconic",
+          "surviving",
+          "wrap up",
+          "souvenir",
+          "memorabilia",
+          "curbside",
+          "recyclables",
+          "disposable",
+          "periodic",
+          "latex",
+          "wheelie bin",
+          "pay in advance",
+          "fully paid up"
+        ],
+        "words": [
+          {
+            "word": "stroll",
+            "pos": "n./v.",
+            "zh": "散歩；ぶらぶら歩く",
+            "ex": "Enjoy a stroll through the gardens.",
+            "exzh": "庭園の散策を楽しんでください。",
+            "ipa": "/stroʊl/",
+            "audio": "media/words/ep69/stroll.mp3",
+            "ex_audio": "media/words/ep69/stroll_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "iconic",
+            "pos": "adj.",
+            "zh": "象徴的な；代表的な",
+            "ex": "The company introduced an iconic armchair.",
+            "exzh": "その会社は象徴的なひじ掛けいすを生み出した。",
+            "ipa": "/ˌaɪˈkɑnɪk/",
+            "audio": "media/words/ep69/iconic.mp3",
+            "ex_audio": "media/words/ep69/iconic_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "surviving",
+            "pos": "adj.",
+            "zh": "現存する；生き残った",
+            "ex": "It is the oldest surviving building in town.",
+            "exzh": "町に現存する最古の建物だ。",
+            "ipa": "/sɚˈvaɪvɪŋ/",
+            "audio": "media/words/ep69/surviving.mp3",
+            "ex_audio": "media/words/ep69/surviving_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "wrap up",
+            "pos": "v.",
+            "zh": "締めくくる；終える",
+            "ex": "We will wrap up the tour at a gift shop.",
+            "exzh": "ツアーは土産物店で締めくくる。",
+            "ipa": "/ræp ʌp/",
+            "audio": "media/words/ep69/wrap-up.mp3",
+            "ex_audio": "media/words/ep69/wrap-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "souvenir",
+            "pos": "n.",
+            "zh": "お土産；記念品",
+            "ex": "You can shop for souvenirs there.",
+            "exzh": "そこでお土産が買える。",
+            "ipa": "/ˌsuvəˈnɪr/",
+            "audio": "media/words/ep69/souvenir.mp3",
+            "ex_audio": "media/words/ep69/souvenir_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "memorabilia",
+            "pos": "n.",
+            "zh": "記念品；記念グッズ",
+            "ex": "The shop sells T-shirts and other memorabilia.",
+            "exzh": "その店はTシャツなどの記念品を売っている。",
+            "ipa": "/ˌmɛmɚəˈbiljə/",
+            "audio": "media/words/ep69/memorabilia.mp3",
+            "ex_audio": "media/words/ep69/memorabilia_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "curbside",
+            "pos": "adj.",
+            "zh": "戸別の；道路脇の",
+            "ex": "Friday is the last day of curbside pickup.",
+            "exzh": "金曜日が戸別回収の最終日だ。",
+            "ipa": "/ˈkɝbˌsaɪd/",
+            "audio": "media/words/ep69/curbside.mp3",
+            "ex_audio": "media/words/ep69/curbside_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "recyclables",
+            "pos": "n.",
+            "zh": "リサイクル可能なもの；資源ごみ",
+            "ex": "Sort your recyclables into the right bins.",
+            "exzh": "資源ごみを正しい箱に分別してください。",
+            "ipa": "/riˈsaɪkləbəlz/",
+            "audio": "media/words/ep69/recyclables.mp3",
+            "ex_audio": "media/words/ep69/recyclables_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "disposable",
+            "pos": "adj.",
+            "zh": "使い捨ての",
+            "ex": "Try to reduce your use of disposable containers.",
+            "exzh": "使い捨て容器の使用を減らしましょう。",
+            "ipa": "/dɪˈspoʊzəbəl/",
+            "audio": "media/words/ep69/disposable.mp3",
+            "ex_audio": "media/words/ep69/disposable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "periodic",
+            "pos": "adj.",
+            "zh": "定期的な",
+            "ex": "The facility holds periodic collections of batteries.",
+            "exzh": "その施設は電池の定期回収を行っている。",
+            "ipa": "/ˌpɪriˈɑdɪk/",
+            "audio": "media/words/ep69/periodic.mp3",
+            "ex_audio": "media/words/ep69/periodic_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "latex",
+            "pos": "n.",
+            "zh": "ラテックス",
+            "ex": "They also collect latex paint.",
+            "exzh": "ラテックス塗料も回収している。",
+            "ipa": "/ˈleɪˌtɛks/",
+            "audio": "media/words/ep69/latex.mp3",
+            "ex_audio": "media/words/ep69/latex_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "wheelie bin",
+            "pos": "n.",
+            "zh": "キャスター付き大型ごみ箱（イギリス英語）",
+            "ex": "The fee includes two large wheelie bins.",
+            "exzh": "料金には大型のキャスター付きごみ箱2個が含まれる。",
+            "ipa": "",
+            "audio": "media/words/ep69/wheelie-bin.mp3",
+            "ex_audio": "media/words/ep69/wheelie-bin_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pay in advance",
+            "pos": "v.",
+            "zh": "前払いする",
+            "ex": "Pay in advance and receive a reduced price.",
+            "exzh": "前払いすると割引価格になる。",
+            "ipa": "/peɪ ɪn ədˈvæns/",
+            "audio": "media/words/ep69/pay-in-advance.mp3",
+            "ex_audio": "media/words/ep69/pay-in-advance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "fully paid up",
+            "pos": "adj.",
+            "zh": "全額支払い済みの",
+            "ex": "All customers are fully paid up for the year.",
+            "exzh": "全員1年分を全額支払い済みだ。",
+            "ipa": "/ˈfʊli peɪd ʌp/",
+            "audio": "media/words/ep69/fully-paid-up.mp3",
+            "ex_audio": "media/words/ep69/fully-paid-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep69_cover.png",
+    "theme_ja": "Part 7 トリプルパッセージの精読：Test 2 街歩きツアー（日程表 + メール2通）· リサイクルサービスの変更（メール + ウェブページ + 社内メモ）",
+    "words": [
+      {
+        "word": "stroll",
+        "pos": "n./v.",
+        "zh": "散步；漫步",
+        "ex": "Enjoy a stroll through the gardens.",
+        "exzh": "在花园里悠闲地散散步吧。",
+        "ipa": "/stroʊl/",
+        "audio": "media/words/ep69/stroll.mp3",
+        "ex_audio": "media/words/ep69/stroll_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "iconic",
+        "pos": "adj.",
+        "zh": "标志性的；偶像的",
+        "ex": "The company introduced an iconic armchair.",
+        "exzh": "这家公司推出了一款标志性的扶手椅。",
+        "ipa": "/ˌaɪˈkɑnɪk/",
+        "audio": "media/words/ep69/iconic.mp3",
+        "ex_audio": "media/words/ep69/iconic_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "surviving",
+        "pos": "adj.",
+        "zh": "现存的；幸存的",
+        "ex": "It is the oldest surviving building in town.",
+        "exzh": "这是镇上现存最古老的建筑。",
+        "ipa": "/sɚˈvaɪvɪŋ/",
+        "audio": "media/words/ep69/surviving.mp3",
+        "ex_audio": "media/words/ep69/surviving_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wrap up",
+        "pos": "v.",
+        "zh": "结束；收尾",
+        "ex": "We will wrap up the tour at a gift shop.",
+        "exzh": "我们会在一家礼品店结束这次游览。",
+        "ipa": "/ræp ʌp/",
+        "audio": "media/words/ep69/wrap-up.mp3",
+        "ex_audio": "media/words/ep69/wrap-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "souvenir",
+        "pos": "n.",
+        "zh": "纪念品；特产",
+        "ex": "You can shop for souvenirs there.",
+        "exzh": "你可以在那里买纪念品。",
+        "ipa": "/ˌsuvəˈnɪr/",
+        "audio": "media/words/ep69/souvenir.mp3",
+        "ex_audio": "media/words/ep69/souvenir_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "memorabilia",
+        "pos": "n.",
+        "zh": "纪念品；收藏品",
+        "ex": "The shop sells T-shirts and other memorabilia.",
+        "exzh": "这家店卖T恤和其他纪念品。",
+        "ipa": "/ˌmɛmɚəˈbiljə/",
+        "audio": "media/words/ep69/memorabilia.mp3",
+        "ex_audio": "media/words/ep69/memorabilia_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "curbside",
+        "pos": "adj.",
+        "zh": "路边的；上门的",
+        "ex": "Friday is the last day of curbside pickup.",
+        "exzh": "周五是路边收取的最后一天。",
+        "ipa": "/ˈkɝbˌsaɪd/",
+        "audio": "media/words/ep69/curbside.mp3",
+        "ex_audio": "media/words/ep69/curbside_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "recyclables",
+        "pos": "n.",
+        "zh": "可回收物",
+        "ex": "Sort your recyclables into the right bins.",
+        "exzh": "请把可回收物分类放进相应的桶里。",
+        "ipa": "/riˈsaɪkləbəlz/",
+        "audio": "media/words/ep69/recyclables.mp3",
+        "ex_audio": "media/words/ep69/recyclables_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "disposable",
+        "pos": "adj.",
+        "zh": "一次性的；可丢弃的",
+        "ex": "Try to reduce your use of disposable containers.",
+        "exzh": "尽量少用一次性容器。",
+        "ipa": "/dɪˈspoʊzəbəl/",
+        "audio": "media/words/ep69/disposable.mp3",
+        "ex_audio": "media/words/ep69/disposable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "periodic",
+        "pos": "adj.",
+        "zh": "定期的；周期性的",
+        "ex": "The facility holds periodic collections of batteries.",
+        "exzh": "这个设施会定期回收电池。",
+        "ipa": "/ˌpɪriˈɑdɪk/",
+        "audio": "media/words/ep69/periodic.mp3",
+        "ex_audio": "media/words/ep69/periodic_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "latex",
+        "pos": "n.",
+        "zh": "乳胶",
+        "ex": "They also collect latex paint.",
+        "exzh": "他们也回收乳胶漆。",
+        "ipa": "/ˈleɪˌtɛks/",
+        "audio": "media/words/ep69/latex.mp3",
+        "ex_audio": "media/words/ep69/latex_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wheelie bin",
+        "pos": "n.",
+        "zh": "带轮子的大垃圾桶（英式）",
+        "ex": "The fee includes two large wheelie bins.",
+        "exzh": "费用包括两个带轮子的大垃圾桶。",
+        "ipa": "",
+        "audio": "media/words/ep69/wheelie-bin.mp3",
+        "ex_audio": "media/words/ep69/wheelie-bin_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pay in advance",
+        "pos": "v.",
+        "zh": "预先付款",
+        "ex": "Pay in advance and receive a reduced price.",
+        "exzh": "提前付款就能享受折扣价。",
+        "ipa": "/peɪ ɪn ədˈvæns/",
+        "audio": "media/words/ep69/pay-in-advance.mp3",
+        "ex_audio": "media/words/ep69/pay-in-advance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "fully paid up",
+        "pos": "adj.",
+        "zh": "已全部付清的",
+        "ex": "All customers are fully paid up for the year.",
+        "exzh": "所有客户全年的费用都已付清。",
+        "ipa": "/ˈfʊli peɪd ʌp/",
+        "audio": "media/words/ep69/fully-paid-up.mp3",
+        "ex_audio": "media/words/ep69/fully-paid-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 68,
     "theme": "Part 7 多篇阅读精读：Test 2 双篇（课程表 + 邮件）· 三篇（建筑评论 + 网页 + 邮件）",
     "date": "2026-11-19",
