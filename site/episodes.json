@@ -1,5 +1,1147 @@
 [
   {
+    "number": 70,
+    "theme": "错题薄弱项专题①：Part 3/4 开头题与意图题（Test 1 五组 · 逐句精听）",
+    "date": "2026-11-21",
+    "duration_sec": 3613.6,
+    "segments": [
+      {
+        "title": "1. Part 3/4 薄弱项精讲（Test 1 两组对话 + 三组独白 · 逐句精听）",
+        "start": 0.0,
+        "length": 2597.39
+      },
+      {
+        "title": "2. Part 7 错题复习（Test 1 Q149–150 通知）",
+        "start": 2597.39,
+        "length": 349.03
+      },
+      {
+        "title": "3. 本期 34 词总复习 · 拼读",
+        "start": 2946.42,
+        "length": 667.15
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "lunch service",
+        "zh": "午餐营业；午餐供应"
+      },
+      {
+        "word": "release form",
+        "zh": "授权书；同意书"
+      },
+      {
+        "word": "justify",
+        "zh": "证明……合理；为……辩护"
+      },
+      {
+        "word": "alternative energy",
+        "zh": "替代能源"
+      },
+      {
+        "word": "maintenance",
+        "zh": "维修；保养"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. Prepare some decorations",
+        "zh": "第149题；Bolano 为什么给 Kiyoti 活动策划公司的员工提供午餐？第一段说；Bolano 是我们最受欢迎的"
+      },
+      {
+        "word": "collaboration",
+        "zh": "意思是：合作；协作"
+      },
+      {
+        "word": "appreciation",
+        "zh": "意思是：感谢；欣赏；理解"
+      },
+      {
+        "word": "signature",
+        "zh": "意思是：签名"
+      },
+      {
+        "word": "circulate",
+        "zh": "意思是：传阅；流通；循环"
+      },
+      {
+        "word": "lunch service",
+        "zh": "午餐营业；午餐供应"
+      },
+      {
+        "word": "flattop grill",
+        "zh": "平顶铁板炉；铁板烤炉"
+      },
+      {
+        "word": "scrape off",
+        "zh": "刮掉；刮去"
+      },
+      {
+        "word": "wipe off",
+        "zh": "擦掉；擦去"
+      },
+      {
+        "word": "protective",
+        "zh": "防护的；保护性的"
+      },
+      {
+        "word": "appliance",
+        "zh": "家用电器；器具"
+      },
+      {
+        "word": "container ship",
+        "zh": "集装箱船"
+      },
+      {
+        "word": "release form",
+        "zh": "授权书；同意书"
+      },
+      {
+        "word": "initiative",
+        "zh": "举措；倡议；主动性"
+      },
+      {
+        "word": "environmental impact",
+        "zh": "对环境的影响"
+      },
+      {
+        "word": "lease",
+        "zh": "租赁；租约；租借"
+      },
+      {
+        "word": "retention",
+        "zh": "留住；保持"
+      },
+      {
+        "word": "funding",
+        "zh": "资金；经费"
+      },
+      {
+        "word": "necessity",
+        "zh": "必要性；必需品"
+      },
+      {
+        "word": "rental fee",
+        "zh": "租金；租赁费"
+      },
+      {
+        "word": "forecast",
+        "zh": "预报；预测"
+      },
+      {
+        "word": "call for",
+        "zh": "；天气；预报会有；需要；要求"
+      },
+      {
+        "word": "justify",
+        "zh": "证明合理；为辩护"
+      },
+      {
+        "word": "acknowledge",
+        "zh": "承认；确认收到"
+      },
+      {
+        "word": "physicist",
+        "zh": "物理学家"
+      },
+      {
+        "word": "alternative energy",
+        "zh": "替代能源"
+      },
+      {
+        "word": "fusion",
+        "zh": "聚变；融合"
+      },
+      {
+        "word": "obstacle",
+        "zh": "障碍；阻碍"
+      },
+      {
+        "word": "overcome",
+        "zh": "克服；战胜"
+      },
+      {
+        "word": "maintenance",
+        "zh": "维修；保养"
+      },
+      {
+        "word": "apartment complex",
+        "zh": "公寓小区；公寓楼群"
+      },
+      {
+        "word": "temporarily",
+        "zh": "暂时地；临时地"
+      },
+      {
+        "word": "entryway",
+        "zh": "入口；门厅"
+      },
+      {
+        "word": "attendant",
+        "zh": "服务员；管理员"
+      },
+      {
+        "word": "inconvenient",
+        "zh": "不方便的"
+      },
+      {
+        "word": "collaboration",
+        "zh": "合作；协作"
+      },
+      {
+        "word": "appreciation",
+        "zh": "感谢；欣赏；理解"
+      },
+      {
+        "word": "signature",
+        "zh": "签名"
+      },
+      {
+        "word": "circulate",
+        "zh": "传阅；流通；循环"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep70.mp4",
+    "script_pdf": "media/ep70_script.pdf",
+    "source_video": "ep70.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep70.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep70.mp4",
+        "script_pdf": "media/ep70_script.pdf",
+        "duration_sec": 3613.6,
+        "theme": "错题薄弱项专题①：Part 3/4 开头题与意图题（Test 1 五组 · 逐句精听）",
+        "segments": [
+          {
+            "title": "1. Part 3/4 薄弱项精讲（Test 1 两组对话 + 三组独白 · 逐句精听）",
+            "start": 0.0,
+            "length": 2597.39
+          },
+          {
+            "title": "2. Part 7 错题复习（Test 1 Q149–150 通知）",
+            "start": 2597.39,
+            "length": 349.03
+          },
+          {
+            "title": "3. 本期 34 词总复习 · 拼读",
+            "start": 2946.42,
+            "length": 667.15
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep70ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep70ja.mp4",
+        "script_pdf": "media/ep70ja_script.pdf",
+        "duration_sec": 4619.6,
+        "theme": "苦手分野特集①：Part 3/4 の1問目と意図問題（Test 1 の5セット · 1文ずつ精聴）",
+        "segments": [
+          {
+            "title": "1. Part 3/4 苦手分野の精講（Test 1 の会話2セット + トーク3セット · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 3427.79
+          },
+          {
+            "title": "2. Part 7 間違い復習（Test 1 Q149–150 お知らせ）",
+            "start": 3427.79,
+            "length": 448.41
+          },
+          {
+            "title": "3. 今回の 34 語総復習 · スペル",
+            "start": 3876.2,
+            "length": 743.38
+          }
+        ],
+        "poster": "media/ep70ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "lunch service",
+            "zh": "ランチ営業；昼食の提供"
+          },
+          {
+            "word": "release form",
+            "zh": "許諾書；同意書"
+          },
+          {
+            "word": "justify",
+            "zh": "正当化する；妥当性を示す"
+          },
+          {
+            "word": "alternative energy",
+            "zh": "代替エネルギー"
+          },
+          {
+            "word": "maintenance",
+            "zh": "保守；修理；メンテナンス"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "lunch service",
+          "flattop grill",
+          "scrape off",
+          "wipe off",
+          "protective",
+          "appliance",
+          "container ship",
+          "release form",
+          "initiative",
+          "environmental impact",
+          "lease",
+          "retention",
+          "funding",
+          "necessity",
+          "rental fee",
+          "forecast",
+          "call for",
+          "justify",
+          "acknowledge",
+          "physicist",
+          "alternative energy",
+          "fusion",
+          "obstacle",
+          "overcome",
+          "maintenance",
+          "apartment complex",
+          "temporarily",
+          "entryway",
+          "attendant",
+          "inconvenient",
+          "collaboration",
+          "appreciation",
+          "signature",
+          "circulate"
+        ],
+        "words": [
+          {
+            "word": "lunch service",
+            "pos": "n.",
+            "zh": "ランチ営業；昼食の提供",
+            "ex": "These vegetables are for tomorrow's lunch service.",
+            "exzh": "この野菜は明日のランチ営業用だ。",
+            "ipa": "/lʌntʃ ˈsɝvəs/",
+            "audio": "media/words/ep70/lunch-service.mp3",
+            "ex_audio": "media/words/ep70/lunch-service_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "flattop grill",
+            "pos": "n.",
+            "zh": "鉄板グリル",
+            "ex": "Clean the flattop grill before you leave.",
+            "exzh": "帰る前に鉄板グリルを掃除して。",
+            "ipa": "",
+            "audio": "media/words/ep70/flattop-grill.mp3",
+            "ex_audio": "media/words/ep70/flattop-grill_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "scrape off",
+            "pos": "phr.",
+            "zh": "こすり落とす；こそげ取る",
+            "ex": "First, scrape off any remaining food.",
+            "exzh": "まず、残った食べ物をこそげ落とす。",
+            "ipa": "/skreɪp ɔf/",
+            "audio": "media/words/ep70/scrape-off.mp3",
+            "ex_audio": "media/words/ep70/scrape-off_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "wipe off",
+            "pos": "phr.",
+            "zh": "拭き取る",
+            "ex": "Then wipe it off with a cloth.",
+            "exzh": "それから布で拭き取る。",
+            "ipa": "/waɪp ɔf/",
+            "audio": "media/words/ep70/wipe-off.mp3",
+            "ex_audio": "media/words/ep70/wipe-off_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "protective",
+            "pos": "adj.",
+            "zh": "保護用の；防護の",
+            "ex": "We need to wear protective gloves.",
+            "exzh": "保護手袋をする必要がある。",
+            "ipa": "/prəˈtɛktɪv/",
+            "audio": "media/words/ep70/protective.mp3",
+            "ex_audio": "media/words/ep70/protective_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appliance",
+            "pos": "n.",
+            "zh": "家電製品；器具",
+            "ex": "The grill is a kitchen appliance.",
+            "exzh": "グリルは厨房の機器だ。",
+            "ipa": "/əˈplaɪəns/",
+            "audio": "media/words/ep70/appliance.mp3",
+            "ex_audio": "media/words/ep70/appliance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "container ship",
+            "pos": "n.",
+            "zh": "コンテナ船",
+            "ex": "The container ship carries goods across the ocean.",
+            "exzh": "そのコンテナ船は海を越えて貨物を運ぶ。",
+            "ipa": "/kənˈteɪnɚ ʃɪp/",
+            "audio": "media/words/ep70/container-ship.mp3",
+            "ex_audio": "media/words/ep70/container-ship_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "release form",
+            "pos": "n.",
+            "zh": "許諾書；同意書",
+            "ex": "Please sign this photo release form.",
+            "exzh": "この写真使用許諾書に署名してください。",
+            "ipa": "/riˈlis fɔrm/",
+            "audio": "media/words/ep70/release-form.mp3",
+            "ex_audio": "media/words/ep70/release-form_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "initiative",
+            "pos": "n.",
+            "zh": "取り組み；構想；主体性",
+            "ex": "We want to focus on your environmental initiatives.",
+            "exzh": "御社の環境への取り組みを中心にお聞きしたい。",
+            "ipa": "/ˌɪˈnɪʃətɪv/",
+            "audio": "media/words/ep70/initiative.mp3",
+            "ex_audio": "media/words/ep70/initiative_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "environmental impact",
+            "pos": "n.",
+            "zh": "環境への影響",
+            "ex": "The company is trying to reduce its environmental impact.",
+            "exzh": "その会社は環境への影響を減らそうとしている。",
+            "ipa": "/ɪnˌvaɪrənˈmɛntəl ˌɪmˈpækt/",
+            "audio": "media/words/ep70/environmental-impact.mp3",
+            "ex_audio": "media/words/ep70/environmental-impact_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lease",
+            "pos": "n./v.",
+            "zh": "賃貸借；リース契約；賃借する",
+            "ex": "They signed a lease agreement for the office.",
+            "exzh": "彼らは事務所の賃貸契約書に署名した。",
+            "ipa": "/lis/",
+            "audio": "media/words/ep70/lease.mp3",
+            "ex_audio": "media/words/ep70/lease_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retention",
+            "pos": "n.",
+            "zh": "保持；定着；引き留め",
+            "ex": "Employee retention is important for small businesses.",
+            "exzh": "社員の定着は小さな会社にとって大切だ。",
+            "ipa": "/riˈtɛnʃən/",
+            "audio": "media/words/ep70/retention.mp3",
+            "ex_audio": "media/words/ep70/retention_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "funding",
+            "pos": "n.",
+            "zh": "資金；費用",
+            "ex": "I submitted a funding request yesterday.",
+            "exzh": "昨日、費用の申請を出した。",
+            "ipa": "/ˈfʌndɪŋ/",
+            "audio": "media/words/ep70/funding.mp3",
+            "ex_audio": "media/words/ep70/funding_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "necessity",
+            "pos": "n.",
+            "zh": "必要性；必需品",
+            "ex": "You questioned the necessity of some items.",
+            "exzh": "いくつかの項目の必要性に疑問を示された。",
+            "ipa": "/nəˈsɛsəti/",
+            "audio": "media/words/ep70/necessity.mp3",
+            "ex_audio": "media/words/ep70/necessity_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rental fee",
+            "pos": "n.",
+            "zh": "レンタル料；賃借料",
+            "ex": "The rental fee for the tent is 200 dollars.",
+            "exzh": "テントのレンタル料は200ドルだ。",
+            "ipa": "/ˈrɛntəl fi/",
+            "audio": "media/words/ep70/rental-fee.mp3",
+            "ex_audio": "media/words/ep70/rental-fee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "forecast",
+            "pos": "n./v.",
+            "zh": "予報；予測する",
+            "ex": "The forecast is calling for rain.",
+            "exzh": "天気予報では雨だ。",
+            "ipa": "/ˈfɔrˌkæst/",
+            "audio": "media/words/ep70/forecast.mp3",
+            "ex_audio": "media/words/ep70/forecast_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "call for",
+            "pos": "phr.",
+            "zh": "（天気を）予報する；必要とする；求める",
+            "ex": "The forecast calls for snow tomorrow.",
+            "exzh": "予報では明日は雪だ。",
+            "ipa": "/kɔl fɔr/",
+            "audio": "media/words/ep70/call-for.mp3",
+            "ex_audio": "media/words/ep70/call-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "justify",
+            "pos": "v.",
+            "zh": "正当化する；妥当性を示す",
+            "ex": "He mentions the rain to justify a request.",
+            "exzh": "彼は申請の妥当性を示すために雨のことを言う。",
+            "ipa": "/ˈdʒʌstəˌfaɪ/",
+            "audio": "media/words/ep70/justify.mp3",
+            "ex_audio": "media/words/ep70/justify_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "acknowledge",
+            "pos": "v.",
+            "zh": "認める；受け取りを知らせる",
+            "ex": "He acknowledged his mistake.",
+            "exzh": "彼は自分の間違いを認めた。",
+            "ipa": "/ækˈnɑlɪdʒ/",
+            "audio": "media/words/ep70/acknowledge.mp3",
+            "ex_audio": "media/words/ep70/acknowledge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "physicist",
+            "pos": "n.",
+            "zh": "物理学者",
+            "ex": "I'll be interviewing physicist Dr. Claudia Tong.",
+            "exzh": "物理学者の Claudia Tong 博士にインタビューする。",
+            "ipa": "/ˈfɪzɪsɪst/",
+            "audio": "media/words/ep70/physicist.mp3",
+            "ex_audio": "media/words/ep70/physicist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "alternative energy",
+            "pos": "n.",
+            "zh": "代替エネルギー",
+            "ex": "Her team researches alternative energy sources.",
+            "exzh": "彼女のチームは代替エネルギー源を研究している。",
+            "ipa": "/ɔlˈtɝnətɪv ˈɛnɚdʒi/",
+            "audio": "media/words/ep70/alternative-energy.mp3",
+            "ex_audio": "media/words/ep70/alternative-energy_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "fusion",
+            "pos": "n.",
+            "zh": "核融合；融合",
+            "ex": "She will explain the science behind fusion energy.",
+            "exzh": "彼女は核融合エネルギーの仕組みを説明する。",
+            "ipa": "/ˈfjuʒən/",
+            "audio": "media/words/ep70/fusion.mp3",
+            "ex_audio": "media/words/ep70/fusion_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "obstacle",
+            "pos": "n.",
+            "zh": "障害；妨げ",
+            "ex": "Scientists need to overcome many obstacles.",
+            "exzh": "科学者は多くの障害を乗り越える必要がある。",
+            "ipa": "/ˈɑbstəkəl/",
+            "audio": "media/words/ep70/obstacle.mp3",
+            "ex_audio": "media/words/ep70/obstacle_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "overcome",
+            "pos": "v.",
+            "zh": "克服する；乗り越える",
+            "ex": "We overcame the problem together.",
+            "exzh": "私たちは一緒にその問題を乗り越えた。",
+            "ipa": "/ˈoʊvɚˌkʌm/",
+            "audio": "media/words/ep70/overcome.mp3",
+            "ex_audio": "media/words/ep70/overcome_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "maintenance",
+            "pos": "n.",
+            "zh": "保守；修理；メンテナンス",
+            "ex": "Good morning, maintenance team.",
+            "exzh": "おはようございます、保守チームの皆さん。",
+            "ipa": "/ˈmeɪntənəns/",
+            "audio": "media/words/ep70/maintenance.mp3",
+            "ex_audio": "media/words/ep70/maintenance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "apartment complex",
+            "pos": "n.",
+            "zh": "集合住宅；マンション群",
+            "ex": "We'll be closing the parking area of this apartment complex.",
+            "exzh": "このマンションの駐車場を閉鎖する。",
+            "ipa": "/əˈpɑrtmənt ˈkɑmplɛks/",
+            "audio": "media/words/ep70/apartment-complex.mp3",
+            "ex_audio": "media/words/ep70/apartment-complex_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "temporarily",
+            "pos": "adv.",
+            "zh": "一時的に；臨時に",
+            "ex": "Residents can park there temporarily.",
+            "exzh": "居住者は一時的にそこに駐車できる。",
+            "ipa": "/ˌtɛmpɚˈɛrəli/",
+            "audio": "media/words/ep70/temporarily.mp3",
+            "ex_audio": "media/words/ep70/temporarily_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "entryway",
+            "pos": "n.",
+            "zh": "入り口；玄関",
+            "ex": "Please post the signs in the entryways.",
+            "exzh": "掲示を入り口に貼ってください。",
+            "ipa": "/ˈɛntriweɪ/",
+            "audio": "media/words/ep70/entryway.mp3",
+            "ex_audio": "media/words/ep70/entryway_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "attendant",
+            "pos": "n.",
+            "zh": "係員；接客係",
+            "ex": "A parking attendant showed us where to park.",
+            "exzh": "駐車場の係員が止める場所を教えてくれた。",
+            "ipa": "/əˈtɛndənt/",
+            "audio": "media/words/ep70/attendant.mp3",
+            "ex_audio": "media/words/ep70/attendant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inconvenient",
+            "pos": "adj.",
+            "zh": "不便な；都合の悪い",
+            "ex": "The new location is inconvenient for residents.",
+            "exzh": "新しい場所は居住者にとって不便だ。",
+            "ipa": "/ˌɪnkənˈvinjənt/",
+            "audio": "media/words/ep70/inconvenient.mp3",
+            "ex_audio": "media/words/ep70/inconvenient_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "collaboration",
+            "pos": "n.",
+            "zh": "協力；共同作業",
+            "ex": "The lunch is in honour of our continued business collaboration.",
+            "exzh": "その昼食は両社の継続的な取引を記念したものだ。",
+            "ipa": "/kəˌlæbɚˈeɪʃən/",
+            "audio": "media/words/ep70/collaboration.mp3",
+            "ex_audio": "media/words/ep70/collaboration_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appreciation",
+            "pos": "n.",
+            "zh": "感謝；評価；理解",
+            "ex": "The lunch expresses appreciation for a business partnership.",
+            "exzh": "その昼食は取引関係への感謝を表している。",
+            "ipa": "/əˌpriʃiˈeɪʃən/",
+            "audio": "media/words/ep70/appreciation.mp3",
+            "ex_audio": "media/words/ep70/appreciation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "signature",
+            "pos": "n.",
+            "zh": "署名；サイン",
+            "ex": "Please add your signature to the card by 1 June.",
+            "exzh": "6月1日までにカードに署名してください。",
+            "ipa": "/ˈsɪɡnətʃɚ/",
+            "audio": "media/words/ep70/signature.mp3",
+            "ex_audio": "media/words/ep70/signature_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "circulate",
+            "pos": "v.",
+            "zh": "回覧する；流通する；循環する",
+            "ex": "We will be circulating a thank-you card.",
+            "exzh": "お礼のカードを回覧します。",
+            "ipa": "/ˈsɝkjəˌleɪt/",
+            "audio": "media/words/ep70/circulate.mp3",
+            "ex_audio": "media/words/ep70/circulate_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep70_cover.png",
+    "theme_ja": "苦手分野特集①：Part 3/4 の1問目と意図問題（Test 1 の5セット · 1文ずつ精聴）",
+    "words": [
+      {
+        "word": "lunch service",
+        "pos": "n.",
+        "zh": "午餐营业；午餐供应",
+        "ex": "These vegetables are for tomorrow's lunch service.",
+        "exzh": "这些蔬菜是明天午餐营业要用的。",
+        "ipa": "/lʌntʃ ˈsɝvəs/",
+        "audio": "media/words/ep70/lunch-service.mp3",
+        "ex_audio": "media/words/ep70/lunch-service_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "flattop grill",
+        "pos": "n.",
+        "zh": "平顶铁板炉；铁板烤炉",
+        "ex": "Clean the flattop grill before you leave.",
+        "exzh": "走之前把铁板炉清洁一下。",
+        "ipa": "",
+        "audio": "media/words/ep70/flattop-grill.mp3",
+        "ex_audio": "media/words/ep70/flattop-grill_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "scrape off",
+        "pos": "phr.",
+        "zh": "刮掉；刮去",
+        "ex": "First, scrape off any remaining food.",
+        "exzh": "首先，把剩下的食物刮掉。",
+        "ipa": "/skreɪp ɔf/",
+        "audio": "media/words/ep70/scrape-off.mp3",
+        "ex_audio": "media/words/ep70/scrape-off_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "wipe off",
+        "pos": "phr.",
+        "zh": "擦掉；擦去",
+        "ex": "Then wipe it off with a cloth.",
+        "exzh": "然后用布擦干净。",
+        "ipa": "/waɪp ɔf/",
+        "audio": "media/words/ep70/wipe-off.mp3",
+        "ex_audio": "media/words/ep70/wipe-off_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "protective",
+        "pos": "adj.",
+        "zh": "防护的；保护性的",
+        "ex": "We need to wear protective gloves.",
+        "exzh": "我们需要戴防护手套。",
+        "ipa": "/prəˈtɛktɪv/",
+        "audio": "media/words/ep70/protective.mp3",
+        "ex_audio": "media/words/ep70/protective_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appliance",
+        "pos": "n.",
+        "zh": "家用电器；器具",
+        "ex": "The grill is a kitchen appliance.",
+        "exzh": "铁板炉是一种厨房设备。",
+        "ipa": "/əˈplaɪəns/",
+        "audio": "media/words/ep70/appliance.mp3",
+        "ex_audio": "media/words/ep70/appliance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "container ship",
+        "pos": "n.",
+        "zh": "集装箱船",
+        "ex": "The container ship carries goods across the ocean.",
+        "exzh": "这艘集装箱船跨洋运送货物。",
+        "ipa": "/kənˈteɪnɚ ʃɪp/",
+        "audio": "media/words/ep70/container-ship.mp3",
+        "ex_audio": "media/words/ep70/container-ship_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "release form",
+        "pos": "n.",
+        "zh": "授权书；同意书",
+        "ex": "Please sign this photo release form.",
+        "exzh": "请在这份照片使用授权书上签字。",
+        "ipa": "/riˈlis fɔrm/",
+        "audio": "media/words/ep70/release-form.mp3",
+        "ex_audio": "media/words/ep70/release-form_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "initiative",
+        "pos": "n.",
+        "zh": "举措；倡议；主动性",
+        "ex": "We want to focus on your environmental initiatives.",
+        "exzh": "我们想重点讲你们的环保举措。",
+        "ipa": "/ˌɪˈnɪʃətɪv/",
+        "audio": "media/words/ep70/initiative.mp3",
+        "ex_audio": "media/words/ep70/initiative_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "environmental impact",
+        "pos": "n.",
+        "zh": "对环境的影响",
+        "ex": "The company is trying to reduce its environmental impact.",
+        "exzh": "公司正在努力减少对环境的影响。",
+        "ipa": "/ɪnˌvaɪrənˈmɛntəl ˌɪmˈpækt/",
+        "audio": "media/words/ep70/environmental-impact.mp3",
+        "ex_audio": "media/words/ep70/environmental-impact_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lease",
+        "pos": "n./v.",
+        "zh": "租赁；租约；租借",
+        "ex": "They signed a lease agreement for the office.",
+        "exzh": "他们签了办公室的租赁协议。",
+        "ipa": "/lis/",
+        "audio": "media/words/ep70/lease.mp3",
+        "ex_audio": "media/words/ep70/lease_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retention",
+        "pos": "n.",
+        "zh": "留住；保持",
+        "ex": "Employee retention is important for small businesses.",
+        "exzh": "留住员工对小企业很重要。",
+        "ipa": "/riˈtɛnʃən/",
+        "audio": "media/words/ep70/retention.mp3",
+        "ex_audio": "media/words/ep70/retention_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "funding",
+        "pos": "n.",
+        "zh": "资金；经费",
+        "ex": "I submitted a funding request yesterday.",
+        "exzh": "我昨天提交了经费申请。",
+        "ipa": "/ˈfʌndɪŋ/",
+        "audio": "media/words/ep70/funding.mp3",
+        "ex_audio": "media/words/ep70/funding_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "necessity",
+        "pos": "n.",
+        "zh": "必要性；必需品",
+        "ex": "You questioned the necessity of some items.",
+        "exzh": "您质疑了一些项目的必要性。",
+        "ipa": "/nəˈsɛsəti/",
+        "audio": "media/words/ep70/necessity.mp3",
+        "ex_audio": "media/words/ep70/necessity_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rental fee",
+        "pos": "n.",
+        "zh": "租金；租赁费",
+        "ex": "The rental fee for the tent is 200 dollars.",
+        "exzh": "帐篷的租金是两百美元。",
+        "ipa": "/ˈrɛntəl fi/",
+        "audio": "media/words/ep70/rental-fee.mp3",
+        "ex_audio": "media/words/ep70/rental-fee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "forecast",
+        "pos": "n./v.",
+        "zh": "预报；预测",
+        "ex": "The forecast is calling for rain.",
+        "exzh": "天气预报说会下雨。",
+        "ipa": "/ˈfɔrˌkæst/",
+        "audio": "media/words/ep70/forecast.mp3",
+        "ex_audio": "media/words/ep70/forecast_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "call for",
+        "pos": "phr.",
+        "zh": "（天气）预报会有；需要；要求",
+        "ex": "The forecast calls for snow tomorrow.",
+        "exzh": "天气预报说明天会下雪。",
+        "ipa": "/kɔl fɔr/",
+        "audio": "media/words/ep70/call-for.mp3",
+        "ex_audio": "media/words/ep70/call-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "justify",
+        "pos": "v.",
+        "zh": "证明……合理；为……辩护",
+        "ex": "He mentions the rain to justify a request.",
+        "exzh": "他提到下雨，是为了证明申请合理。",
+        "ipa": "/ˈdʒʌstəˌfaɪ/",
+        "audio": "media/words/ep70/justify.mp3",
+        "ex_audio": "media/words/ep70/justify_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "acknowledge",
+        "pos": "v.",
+        "zh": "承认；确认收到",
+        "ex": "He acknowledged his mistake.",
+        "exzh": "他承认了自己的错误。",
+        "ipa": "/ækˈnɑlɪdʒ/",
+        "audio": "media/words/ep70/acknowledge.mp3",
+        "ex_audio": "media/words/ep70/acknowledge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "physicist",
+        "pos": "n.",
+        "zh": "物理学家",
+        "ex": "I'll be interviewing physicist Dr. Claudia Tong.",
+        "exzh": "我将采访物理学家 Claudia Tong 博士。",
+        "ipa": "/ˈfɪzɪsɪst/",
+        "audio": "media/words/ep70/physicist.mp3",
+        "ex_audio": "media/words/ep70/physicist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "alternative energy",
+        "pos": "n.",
+        "zh": "替代能源",
+        "ex": "Her team researches alternative energy sources.",
+        "exzh": "她的团队研究替代能源。",
+        "ipa": "/ɔlˈtɝnətɪv ˈɛnɚdʒi/",
+        "audio": "media/words/ep70/alternative-energy.mp3",
+        "ex_audio": "media/words/ep70/alternative-energy_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "fusion",
+        "pos": "n.",
+        "zh": "聚变；融合",
+        "ex": "She will explain the science behind fusion energy.",
+        "exzh": "她会讲解核聚变能源背后的科学原理。",
+        "ipa": "/ˈfjuʒən/",
+        "audio": "media/words/ep70/fusion.mp3",
+        "ex_audio": "media/words/ep70/fusion_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "obstacle",
+        "pos": "n.",
+        "zh": "障碍；阻碍",
+        "ex": "Scientists need to overcome many obstacles.",
+        "exzh": "科学家需要克服很多障碍。",
+        "ipa": "/ˈɑbstəkəl/",
+        "audio": "media/words/ep70/obstacle.mp3",
+        "ex_audio": "media/words/ep70/obstacle_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "overcome",
+        "pos": "v.",
+        "zh": "克服；战胜",
+        "ex": "We overcame the problem together.",
+        "exzh": "我们一起克服了这个问题。",
+        "ipa": "/ˈoʊvɚˌkʌm/",
+        "audio": "media/words/ep70/overcome.mp3",
+        "ex_audio": "media/words/ep70/overcome_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "maintenance",
+        "pos": "n.",
+        "zh": "维修；保养",
+        "ex": "Good morning, maintenance team.",
+        "exzh": "早上好，维修团队的各位。",
+        "ipa": "/ˈmeɪntənəns/",
+        "audio": "media/words/ep70/maintenance.mp3",
+        "ex_audio": "media/words/ep70/maintenance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "apartment complex",
+        "pos": "n.",
+        "zh": "公寓小区；公寓楼群",
+        "ex": "We'll be closing the parking area of this apartment complex.",
+        "exzh": "我们要关闭这个公寓小区的停车场。",
+        "ipa": "/əˈpɑrtmənt ˈkɑmplɛks/",
+        "audio": "media/words/ep70/apartment-complex.mp3",
+        "ex_audio": "media/words/ep70/apartment-complex_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "temporarily",
+        "pos": "adv.",
+        "zh": "暂时地；临时地",
+        "ex": "Residents can park there temporarily.",
+        "exzh": "住户可以暂时停在那里。",
+        "ipa": "/ˌtɛmpɚˈɛrəli/",
+        "audio": "media/words/ep70/temporarily.mp3",
+        "ex_audio": "media/words/ep70/temporarily_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "entryway",
+        "pos": "n.",
+        "zh": "入口；门厅",
+        "ex": "Please post the signs in the entryways.",
+        "exzh": "请把告示贴在入口处。",
+        "ipa": "/ˈɛntriweɪ/",
+        "audio": "media/words/ep70/entryway.mp3",
+        "ex_audio": "media/words/ep70/entryway_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "attendant",
+        "pos": "n.",
+        "zh": "服务员；管理员",
+        "ex": "A parking attendant showed us where to park.",
+        "exzh": "停车场管理员告诉我们停在哪里。",
+        "ipa": "/əˈtɛndənt/",
+        "audio": "media/words/ep70/attendant.mp3",
+        "ex_audio": "media/words/ep70/attendant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inconvenient",
+        "pos": "adj.",
+        "zh": "不方便的",
+        "ex": "The new location is inconvenient for residents.",
+        "exzh": "新地点对住户来说不方便。",
+        "ipa": "/ˌɪnkənˈvinjənt/",
+        "audio": "media/words/ep70/inconvenient.mp3",
+        "ex_audio": "media/words/ep70/inconvenient_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "collaboration",
+        "pos": "n.",
+        "zh": "合作；协作",
+        "ex": "The lunch is in honour of our continued business collaboration.",
+        "exzh": "这次午餐是为了纪念我们持续的业务合作。",
+        "ipa": "/kəˌlæbɚˈeɪʃən/",
+        "audio": "media/words/ep70/collaboration.mp3",
+        "ex_audio": "media/words/ep70/collaboration_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appreciation",
+        "pos": "n.",
+        "zh": "感谢；欣赏；理解",
+        "ex": "The lunch expresses appreciation for a business partnership.",
+        "exzh": "这次午餐表达了对业务合作的感谢。",
+        "ipa": "/əˌpriʃiˈeɪʃən/",
+        "audio": "media/words/ep70/appreciation.mp3",
+        "ex_audio": "media/words/ep70/appreciation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "signature",
+        "pos": "n.",
+        "zh": "签名",
+        "ex": "Please add your signature to the card by 1 June.",
+        "exzh": "请在 6 月 1 日前在卡片上签名。",
+        "ipa": "/ˈsɪɡnətʃɚ/",
+        "audio": "media/words/ep70/signature.mp3",
+        "ex_audio": "media/words/ep70/signature_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "circulate",
+        "pos": "v.",
+        "zh": "传阅；流通；循环",
+        "ex": "We will be circulating a thank-you card.",
+        "exzh": "我们会传阅一张感谢卡。",
+        "ipa": "/ˈsɝkjəˌleɪt/",
+        "audio": "media/words/ep70/circulate.mp3",
+        "ex_audio": "media/words/ep70/circulate_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 69,
     "theme": "Part 7 三篇阅读精读：Test 2 城市徒步游（行程表 + 两封邮件）· 回收服务变更（邮件 + 网页 + 备忘录）",
     "date": "2026-11-20",
