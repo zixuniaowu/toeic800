@@ -1,5 +1,1134 @@
 [
   {
+    "number": 71,
+    "theme": "错题薄弱项专题②：Part 3/4 图表题（Test 1 五组 · 逐句精听）",
+    "date": "2026-11-22",
+    "duration_sec": 3342.2,
+    "segments": [
+      {
+        "title": "1. Part 3/4 图表题精讲（Test 1 三组对话 + 两组独白 · 逐句精听）",
+        "start": 0.0,
+        "length": 2084.5
+      },
+      {
+        "title": "2. Part 7 错题复习（Test 1 Q176–180 检查表 + 报告）",
+        "start": 2084.5,
+        "length": 600.14
+      },
+      {
+        "title": "3. 本期 33 词总复习 · 拼读",
+        "start": 2684.64,
+        "length": 657.58
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "emerging market",
+        "zh": "新兴市场"
+      },
+      {
+        "word": "conflict",
+        "zh": "（时间）冲突；矛盾"
+      },
+      {
+        "word": "haul",
+        "zh": "拖运；搬运（重物）"
+      },
+      {
+        "word": "unit price",
+        "zh": "单价"
+      },
+      {
+        "word": "tripping hazard",
+        "zh": "绊倒的隐患"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. File an additional report",
+        "zh": "第176题；When 问时间：根据检查表；急救箱是什么时候补充的？restock 是“重新补货、补充”。在检"
+      },
+      {
+        "word": "restock",
+        "zh": "意思是：重新补货；补充"
+      },
+      {
+        "word": "expired",
+        "zh": "意思是：过期的；到期的"
+      },
+      {
+        "word": "inspection",
+        "zh": "意思是：检查；视察"
+      },
+      {
+        "word": "noncompliance",
+        "zh": "意思是：不合规；违规；不遵守"
+      },
+      {
+        "word": "obstruction",
+        "zh": "意思是：障碍物；阻碍"
+      },
+      {
+        "word": "tripping hazard",
+        "zh": "意思是：绊倒的隐患"
+      },
+      {
+        "word": "occupant",
+        "zh": "意思是：使用者；居住者；占用者"
+      },
+      {
+        "word": "unannounced",
+        "zh": "意思是：不事先通知的；突击的"
+      },
+      {
+        "word": "emerging market",
+        "zh": "新兴市场"
+      },
+      {
+        "word": "follow up",
+        "zh": "跟进；后续联系"
+      },
+      {
+        "word": "check out",
+        "zh": "查看；看看"
+      },
+      {
+        "word": "stock",
+        "zh": "股票；库存"
+      },
+      {
+        "word": "work out",
+        "zh": "结果顺利；成功"
+      },
+      {
+        "word": "be about to",
+        "zh": "正要；即将"
+      },
+      {
+        "word": "take a look at",
+        "zh": "看一看；查看"
+      },
+      {
+        "word": "conflict",
+        "zh": "；时间；冲突；矛盾"
+      },
+      {
+        "word": "cancel",
+        "zh": "取消"
+      },
+      {
+        "word": "make up",
+        "zh": "制作；准备"
+      },
+      {
+        "word": "badge",
+        "zh": "证件；徽章"
+      },
+      {
+        "word": "finalize",
+        "zh": "最终确定；定稿"
+      },
+      {
+        "word": "promising",
+        "zh": "有希望的；有前途的"
+      },
+      {
+        "word": "meet one's needs",
+        "zh": "满足需求"
+      },
+      {
+        "word": "haul",
+        "zh": "拖运；搬运；重物"
+      },
+      {
+        "word": "reserve",
+        "zh": "预订；保留"
+      },
+      {
+        "word": "conditioner",
+        "zh": "护发素"
+      },
+      {
+        "word": "category",
+        "zh": "类别；种类"
+      },
+      {
+        "word": "scent",
+        "zh": "香味；气味"
+      },
+      {
+        "word": "propose",
+        "zh": "提议；建议"
+      },
+      {
+        "word": "fragrance",
+        "zh": "香味；香水"
+      },
+      {
+        "word": "go bad",
+        "zh": "变质；腐坏"
+      },
+      {
+        "word": "unit price",
+        "zh": "单价"
+      },
+      {
+        "word": "frankly",
+        "zh": "坦率地说"
+      },
+      {
+        "word": "complaint",
+        "zh": "投诉；抱怨"
+      },
+      {
+        "word": "restock",
+        "zh": "重新补货；补充"
+      },
+      {
+        "word": "expired",
+        "zh": "过期的；到期的"
+      },
+      {
+        "word": "inspection",
+        "zh": "检查；视察"
+      },
+      {
+        "word": "noncompliance",
+        "zh": "不合规；违规；不遵守"
+      },
+      {
+        "word": "obstruction",
+        "zh": "障碍物；阻碍"
+      },
+      {
+        "word": "tripping hazard",
+        "zh": "绊倒的隐患"
+      },
+      {
+        "word": "occupant",
+        "zh": "使用者；居住者；占用者"
+      },
+      {
+        "word": "unannounced",
+        "zh": "不事先通知的；突击的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep71.mp4",
+    "script_pdf": "media/ep71_script.pdf",
+    "source_video": "ep71.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep71.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep71.mp4",
+        "script_pdf": "media/ep71_script.pdf",
+        "duration_sec": 3342.2,
+        "theme": "错题薄弱项专题②：Part 3/4 图表题（Test 1 五组 · 逐句精听）",
+        "segments": [
+          {
+            "title": "1. Part 3/4 图表题精讲（Test 1 三组对话 + 两组独白 · 逐句精听）",
+            "start": 0.0,
+            "length": 2084.5
+          },
+          {
+            "title": "2. Part 7 错题复习（Test 1 Q176–180 检查表 + 报告）",
+            "start": 2084.5,
+            "length": 600.14
+          },
+          {
+            "title": "3. 本期 33 词总复习 · 拼读",
+            "start": 2684.64,
+            "length": 657.58
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep71ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep71ja.mp4",
+        "script_pdf": "media/ep71ja_script.pdf",
+        "duration_sec": 4097.2,
+        "theme": "苦手分野特集②：Part 3/4 の図表問題（Test 1 の5セット · 1文ずつ精聴）",
+        "segments": [
+          {
+            "title": "1. Part 3/4 図表問題の精講（Test 1 の会話3セット + トーク2セット · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 2639.26
+          },
+          {
+            "title": "2. Part 7 間違い復習（Test 1 Q176–180 チェックリスト + 報告書）",
+            "start": 2639.26,
+            "length": 734.54
+          },
+          {
+            "title": "3. 今回の 33 語総復習 · スペル",
+            "start": 3373.8,
+            "length": 723.44
+          }
+        ],
+        "poster": "media/ep71ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "emerging market",
+            "zh": "新興市場"
+          },
+          {
+            "word": "conflict",
+            "zh": "（予定の）重なり；衝突"
+          },
+          {
+            "word": "haul",
+            "zh": "（重い物を）運ぶ"
+          },
+          {
+            "word": "unit price",
+            "zh": "単価"
+          },
+          {
+            "word": "tripping hazard",
+            "zh": "つまずきの危険"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "emerging market",
+          "follow up",
+          "check out",
+          "stock",
+          "work out",
+          "be about to",
+          "take a look at",
+          "conflict",
+          "cancel",
+          "make up",
+          "badge",
+          "finalize",
+          "promising",
+          "meet one's needs",
+          "haul",
+          "reserve",
+          "conditioner",
+          "category",
+          "scent",
+          "propose",
+          "fragrance",
+          "go bad",
+          "unit price",
+          "frankly",
+          "complaint",
+          "restock",
+          "expired",
+          "inspection",
+          "noncompliance",
+          "obstruction",
+          "tripping hazard",
+          "occupant",
+          "unannounced"
+        ],
+        "words": [
+          {
+            "word": "emerging market",
+            "pos": "n.",
+            "zh": "新興市場",
+            "ex": "You gave a great presentation on emerging markets.",
+            "exzh": "新興市場についての素晴らしい発表でした。",
+            "ipa": "/ɪˈmɝdʒɪŋ ˈmɑrkət/",
+            "audio": "media/words/ep71/emerging-market.mp3",
+            "ex_audio": "media/words/ep71/emerging-market_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "follow up",
+            "pos": "v.",
+            "zh": "フォローアップする；後で連絡する",
+            "ex": "You asked me to follow up a week after the conference.",
+            "exzh": "会議の1週間後に連絡するよう頼まれました。",
+            "ipa": "/ˈfɑloʊ ʌp/",
+            "audio": "media/words/ep71/follow-up.mp3",
+            "ex_audio": "media/words/ep71/follow-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "check out",
+            "pos": "v.",
+            "zh": "調べる；見てみる",
+            "ex": "Have you checked out any of the apps?",
+            "exzh": "どれかアプリを見てみましたか。",
+            "ipa": "/tʃɛk aʊt/",
+            "audio": "media/words/ep71/check-out.mp3",
+            "ex_audio": "media/words/ep71/check-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stock",
+            "pos": "n.",
+            "zh": "株；在庫",
+            "ex": "It is a good way to invest in small-scale stocks.",
+            "exzh": "小型株に投資するのに良い方法です。",
+            "ipa": "/stɑk/",
+            "audio": "media/words/ep71/stock.mp3",
+            "ex_audio": "media/words/ep71/stock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "work out",
+            "pos": "v.",
+            "zh": "うまくいく",
+            "ex": "Glad it worked out for you.",
+            "exzh": "うまくいってよかったです。",
+            "ipa": "/wɝk aʊt/",
+            "audio": "media/words/ep71/work-out.mp3",
+            "ex_audio": "media/words/ep71/work-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be about to",
+            "pos": "v.",
+            "zh": "まさに…しようとしている",
+            "ex": "I'm just about to post the schedule online.",
+            "exzh": "ちょうどスケジュールをネットに載せるところです。",
+            "ipa": "/bi əˈbaʊt tu/",
+            "audio": "media/words/ep71/be-about-to.mp3",
+            "ex_audio": "media/words/ep71/be-about-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take a look at",
+            "pos": "v.",
+            "zh": "…を見てみる；確認する",
+            "ex": "Could you take a look at it first?",
+            "exzh": "先に見てもらえますか。",
+            "ipa": "/teɪk ə lʊk æt/",
+            "audio": "media/words/ep71/take-a-look-at.mp3",
+            "ex_audio": "media/words/ep71/take-a-look-at_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "conflict",
+            "pos": "n.",
+            "zh": "（予定の）重なり；衝突",
+            "ex": "There's a conflict with this morning class.",
+            "exzh": "この午前のクラスと時間が重なります。",
+            "ipa": "/ˈkɑnflɪkt/",
+            "audio": "media/words/ep71/conflict.mp3",
+            "ex_audio": "media/words/ep71/conflict_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "cancel",
+            "pos": "v.",
+            "zh": "中止する；取り消す",
+            "ex": "Should I cancel the class?",
+            "exzh": "そのクラスを中止しましょうか。",
+            "ipa": "/ˈkænsəl/",
+            "audio": "media/words/ep71/cancel.mp3",
+            "ex_audio": "media/words/ep71/cancel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "make up",
+            "pos": "v.",
+            "zh": "作る；用意する",
+            "ex": "We'll have to make up some entry badges.",
+            "exzh": "入館証をいくつか作らなければなりません。",
+            "ipa": "/meɪk ʌp/",
+            "audio": "media/words/ep71/make-up.mp3",
+            "ex_audio": "media/words/ep71/make-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "badge",
+            "pos": "n.",
+            "zh": "バッジ；入館証",
+            "ex": "Visitors must wear a badge.",
+            "exzh": "訪問者はバッジを着用しなければなりません。",
+            "ipa": "/bædʒ/",
+            "audio": "media/words/ep71/badge.mp3",
+            "ex_audio": "media/words/ep71/badge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "finalize",
+            "pos": "v.",
+            "zh": "最終決定する；仕上げる",
+            "ex": "Now that we've finalized the movie script, let's choose locations.",
+            "exzh": "映画の脚本が完成したので、ロケ地を選びましょう。",
+            "ipa": "/ˈfaɪnəˌlaɪz/",
+            "audio": "media/words/ep71/finalize.mp3",
+            "ex_audio": "media/words/ep71/finalize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "promising",
+            "pos": "adj.",
+            "zh": "有望な；見込みのある",
+            "ex": "Our representative found some promising places.",
+            "exzh": "担当者が有望な場所をいくつか見つけました。",
+            "ipa": "/ˈprɑməsɪŋ/",
+            "audio": "media/words/ep71/promising.mp3",
+            "ex_audio": "media/words/ep71/promising_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "meet one's needs",
+            "pos": "v.",
+            "zh": "ニーズを満たす",
+            "ex": "Let's see if the locations meet our needs.",
+            "exzh": "その場所が私たちのニーズに合うか見てみましょう。",
+            "ipa": "/mit wʌnz nidz/",
+            "audio": "media/words/ep71/meet-one-s-needs.mp3",
+            "ex_audio": "media/words/ep71/meet-one-s-needs_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "haul",
+            "pos": "v.",
+            "zh": "（重い物を）運ぶ",
+            "ex": "We'll be hauling cameras and equipment.",
+            "exzh": "カメラや機材を運ぶことになります。",
+            "ipa": "/hɔl/",
+            "audio": "media/words/ep71/haul.mp3",
+            "ex_audio": "media/words/ep71/haul_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "reserve",
+            "pos": "v.",
+            "zh": "予約する",
+            "ex": "I'm reserving the vehicle now.",
+            "exzh": "今、車を予約しています。",
+            "ipa": "/rɪˈzɝv/",
+            "audio": "media/words/ep71/reserve.mp3",
+            "ex_audio": "media/words/ep71/reserve_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "conditioner",
+            "pos": "n.",
+            "zh": "コンディショナー；リンス",
+            "ex": "We sell shampoos and conditioners.",
+            "exzh": "当社はシャンプーとコンディショナーを販売しています。",
+            "ipa": "/kənˈdɪʃənɚ/",
+            "audio": "media/words/ep71/conditioner.mp3",
+            "ex_audio": "media/words/ep71/conditioner_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "category",
+            "pos": "n.",
+            "zh": "区分；カテゴリー",
+            "ex": "I want to focus on one of the other categories.",
+            "exzh": "ほかの区分のうち1つに注目したいと思います。",
+            "ipa": "/ˈkætəˌɡɔri/",
+            "audio": "media/words/ep71/category.mp3",
+            "ex_audio": "media/words/ep71/category_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "scent",
+            "pos": "n.",
+            "zh": "香り",
+            "ex": "Clients prefer a large selection of scents.",
+            "exzh": "顧客は香りの種類が多いことを好みます。",
+            "ipa": "/sɛnt/",
+            "audio": "media/words/ep71/scent.mp3",
+            "ex_audio": "media/words/ep71/scent_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "propose",
+            "pos": "v.",
+            "zh": "提案する",
+            "ex": "I propose that we develop new fragrances.",
+            "exzh": "新しい香りの開発を提案します。",
+            "ipa": "/prəˈpoʊz/",
+            "audio": "media/words/ep71/propose.mp3",
+            "ex_audio": "media/words/ep71/propose_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fragrance",
+            "pos": "n.",
+            "zh": "香り；香料",
+            "ex": "The new fragrance is popular with hotel guests.",
+            "exzh": "新しい香りはホテルの宿泊客に人気です。",
+            "ipa": "/ˈfreɪɡrəns/",
+            "audio": "media/words/ep71/fragrance.mp3",
+            "ex_audio": "media/words/ep71/fragrance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go bad",
+            "pos": "v.",
+            "zh": "腐る；傷む",
+            "ex": "The spinach is already going bad.",
+            "exzh": "ホウレンソウはもう傷み始めています。",
+            "ipa": "/ɡoʊ bæd/",
+            "audio": "media/words/ep71/go-bad.mp3",
+            "ex_audio": "media/words/ep71/go-bad_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "unit price",
+            "pos": "n.",
+            "zh": "単価",
+            "ex": "You have recently increased the unit price of spinach.",
+            "exzh": "最近ホウレンソウの単価も上げましたね。",
+            "ipa": "/ˈjunət praɪs/",
+            "audio": "media/words/ep71/unit-price.mp3",
+            "ex_audio": "media/words/ep71/unit-price_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "frankly",
+            "pos": "adv.",
+            "zh": "率直に言って",
+            "ex": "Frankly, I'm disappointed.",
+            "exzh": "正直に言って、がっかりしています。",
+            "ipa": "/ˈfræŋkli/",
+            "audio": "media/words/ep71/frankly.mp3",
+            "ex_audio": "media/words/ep71/frankly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "complaint",
+            "pos": "n.",
+            "zh": "苦情；クレーム",
+            "ex": "The customer called to make a complaint.",
+            "exzh": "その客は苦情を言うために電話しました。",
+            "ipa": "/kəmˈpleɪnt/",
+            "audio": "media/words/ep71/complaint.mp3",
+            "ex_audio": "media/words/ep71/complaint_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "restock",
+            "pos": "v.",
+            "zh": "補充する；再入荷する",
+            "ex": "When was the first aid kit restocked?",
+            "exzh": "救急箱はいつ補充されたか。",
+            "ipa": "/riˈstɑk/",
+            "audio": "media/words/ep71/restock.mp3",
+            "ex_audio": "media/words/ep71/restock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expired",
+            "pos": "adj.",
+            "zh": "期限切れの",
+            "ex": "Replace any used and expired supplies.",
+            "exzh": "使用済みや期限切れの備品を交換する。",
+            "ipa": "/ɪkˈspaɪrd/",
+            "audio": "media/words/ep71/expired.mp3",
+            "ex_audio": "media/words/ep71/expired_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inspection",
+            "pos": "n.",
+            "zh": "点検；検査",
+            "ex": "I performed the safety inspection for this month.",
+            "exzh": "今月の安全点検を行った。",
+            "ipa": "/ˌɪnˈspɛkʃən/",
+            "audio": "media/words/ep71/inspection.mp3",
+            "ex_audio": "media/words/ep71/inspection_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "noncompliance",
+            "pos": "n.",
+            "zh": "規則違反；不適合；不遵守",
+            "ex": "I observed several instances of noncompliance.",
+            "exzh": "いくつかの不適合を確認した。",
+            "ipa": "/ˌnɑnkəmˈplaɪəns/",
+            "audio": "media/words/ep71/noncompliance.mp3",
+            "ex_audio": "media/words/ep71/noncompliance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "obstruction",
+            "pos": "n.",
+            "zh": "障害物；妨害",
+            "ex": "Make sure aisles are clear of hazardous obstructions.",
+            "exzh": "通路に危険な障害物がないことを確認する。",
+            "ipa": "/əbˈstrʌkʃən/",
+            "audio": "media/words/ep71/obstruction.mp3",
+            "ex_audio": "media/words/ep71/obstruction_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "tripping hazard",
+            "pos": "n.",
+            "zh": "つまずきの危険",
+            "ex": "The boxes were a tripping hazard.",
+            "exzh": "その箱はつまずく危険があった。",
+            "ipa": "/ˈtrɪpɪŋ ˈhæzɚd/",
+            "audio": "media/words/ep71/tripping-hazard.mp3",
+            "ex_audio": "media/words/ep71/tripping-hazard_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "occupant",
+            "pos": "n.",
+            "zh": "使用者；入居者",
+            "ex": "I advised the occupant to unplug the item.",
+            "exzh": "使用者にプラグを抜くよう助言した。",
+            "ipa": "/ˈɑkjəpənt/",
+            "audio": "media/words/ep71/occupant.mp3",
+            "ex_audio": "media/words/ep71/occupant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "unannounced",
+            "pos": "adj.",
+            "zh": "予告なしの；抜き打ちの",
+            "ex": "I will make an unannounced follow-up inspection.",
+            "exzh": "予告なしの再点検を行う。",
+            "ipa": "/ˌʌnəˈnaʊnst/",
+            "audio": "media/words/ep71/unannounced.mp3",
+            "ex_audio": "media/words/ep71/unannounced_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep71_cover.png",
+    "theme_ja": "苦手分野特集②：Part 3/4 の図表問題（Test 1 の5セット · 1文ずつ精聴）",
+    "words": [
+      {
+        "word": "emerging market",
+        "pos": "n.",
+        "zh": "新兴市场",
+        "ex": "You gave a great presentation on emerging markets.",
+        "exzh": "你关于新兴市场的演讲非常精彩。",
+        "ipa": "/ɪˈmɝdʒɪŋ ˈmɑrkət/",
+        "audio": "media/words/ep71/emerging-market.mp3",
+        "ex_audio": "media/words/ep71/emerging-market_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "follow up",
+        "pos": "v.",
+        "zh": "跟进；后续联系",
+        "ex": "You asked me to follow up a week after the conference.",
+        "exzh": "你让我在会议结束一周后跟进联系。",
+        "ipa": "/ˈfɑloʊ ʌp/",
+        "audio": "media/words/ep71/follow-up.mp3",
+        "ex_audio": "media/words/ep71/follow-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "check out",
+        "pos": "v.",
+        "zh": "查看；看看",
+        "ex": "Have you checked out any of the apps?",
+        "exzh": "这些应用你看过哪个吗？",
+        "ipa": "/tʃɛk aʊt/",
+        "audio": "media/words/ep71/check-out.mp3",
+        "ex_audio": "media/words/ep71/check-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stock",
+        "pos": "n.",
+        "zh": "股票；库存",
+        "ex": "It is a good way to invest in small-scale stocks.",
+        "exzh": "这是投资小盘股的好办法。",
+        "ipa": "/stɑk/",
+        "audio": "media/words/ep71/stock.mp3",
+        "ex_audio": "media/words/ep71/stock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "work out",
+        "pos": "v.",
+        "zh": "结果顺利；成功",
+        "ex": "Glad it worked out for you.",
+        "exzh": "很高兴这对你有用。",
+        "ipa": "/wɝk aʊt/",
+        "audio": "media/words/ep71/work-out.mp3",
+        "ex_audio": "media/words/ep71/work-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be about to",
+        "pos": "v.",
+        "zh": "正要；即将",
+        "ex": "I'm just about to post the schedule online.",
+        "exzh": "我正要把时间表发到网上。",
+        "ipa": "/bi əˈbaʊt tu/",
+        "audio": "media/words/ep71/be-about-to.mp3",
+        "ex_audio": "media/words/ep71/be-about-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take a look at",
+        "pos": "v.",
+        "zh": "看一看；查看",
+        "ex": "Could you take a look at it first?",
+        "exzh": "你能先看一下吗？",
+        "ipa": "/teɪk ə lʊk æt/",
+        "audio": "media/words/ep71/take-a-look-at.mp3",
+        "ex_audio": "media/words/ep71/take-a-look-at_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "conflict",
+        "pos": "n.",
+        "zh": "（时间）冲突；矛盾",
+        "ex": "There's a conflict with this morning class.",
+        "exzh": "这和上午的这门课时间冲突。",
+        "ipa": "/ˈkɑnflɪkt/",
+        "audio": "media/words/ep71/conflict.mp3",
+        "ex_audio": "media/words/ep71/conflict_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "cancel",
+        "pos": "v.",
+        "zh": "取消",
+        "ex": "Should I cancel the class?",
+        "exzh": "我要把这门课取消吗？",
+        "ipa": "/ˈkænsəl/",
+        "audio": "media/words/ep71/cancel.mp3",
+        "ex_audio": "media/words/ep71/cancel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "make up",
+        "pos": "v.",
+        "zh": "制作；准备",
+        "ex": "We'll have to make up some entry badges.",
+        "exzh": "我们得做一些入场证。",
+        "ipa": "/meɪk ʌp/",
+        "audio": "media/words/ep71/make-up.mp3",
+        "ex_audio": "media/words/ep71/make-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "badge",
+        "pos": "n.",
+        "zh": "证件；徽章",
+        "ex": "Visitors must wear a badge.",
+        "exzh": "访客必须佩戴证件。",
+        "ipa": "/bædʒ/",
+        "audio": "media/words/ep71/badge.mp3",
+        "ex_audio": "media/words/ep71/badge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "finalize",
+        "pos": "v.",
+        "zh": "最终确定；定稿",
+        "ex": "Now that we've finalized the movie script, let's choose locations.",
+        "exzh": "既然电影剧本已经定稿，我们来选拍摄地吧。",
+        "ipa": "/ˈfaɪnəˌlaɪz/",
+        "audio": "media/words/ep71/finalize.mp3",
+        "ex_audio": "media/words/ep71/finalize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "promising",
+        "pos": "adj.",
+        "zh": "有希望的；有前途的",
+        "ex": "Our representative found some promising places.",
+        "exzh": "我们的代表找到了一些有希望的地方。",
+        "ipa": "/ˈprɑməsɪŋ/",
+        "audio": "media/words/ep71/promising.mp3",
+        "ex_audio": "media/words/ep71/promising_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "meet one's needs",
+        "pos": "v.",
+        "zh": "满足需求",
+        "ex": "Let's see if the locations meet our needs.",
+        "exzh": "我们去看看这些地点是否符合我们的需求。",
+        "ipa": "/mit wʌnz nidz/",
+        "audio": "media/words/ep71/meet-one-s-needs.mp3",
+        "ex_audio": "media/words/ep71/meet-one-s-needs_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "haul",
+        "pos": "v.",
+        "zh": "拖运；搬运（重物）",
+        "ex": "We'll be hauling cameras and equipment.",
+        "exzh": "我们要运摄像机和设备。",
+        "ipa": "/hɔl/",
+        "audio": "media/words/ep71/haul.mp3",
+        "ex_audio": "media/words/ep71/haul_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "reserve",
+        "pos": "v.",
+        "zh": "预订；保留",
+        "ex": "I'm reserving the vehicle now.",
+        "exzh": "我正在预订车辆。",
+        "ipa": "/rɪˈzɝv/",
+        "audio": "media/words/ep71/reserve.mp3",
+        "ex_audio": "media/words/ep71/reserve_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "conditioner",
+        "pos": "n.",
+        "zh": "护发素",
+        "ex": "We sell shampoos and conditioners.",
+        "exzh": "我们销售洗发水和护发素。",
+        "ipa": "/kənˈdɪʃənɚ/",
+        "audio": "media/words/ep71/conditioner.mp3",
+        "ex_audio": "media/words/ep71/conditioner_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "category",
+        "pos": "n.",
+        "zh": "类别；种类",
+        "ex": "I want to focus on one of the other categories.",
+        "exzh": "我想重点关注其他类别中的一个。",
+        "ipa": "/ˈkætəˌɡɔri/",
+        "audio": "media/words/ep71/category.mp3",
+        "ex_audio": "media/words/ep71/category_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "scent",
+        "pos": "n.",
+        "zh": "香味；气味",
+        "ex": "Clients prefer a large selection of scents.",
+        "exzh": "客户喜欢有很多香型可选。",
+        "ipa": "/sɛnt/",
+        "audio": "media/words/ep71/scent.mp3",
+        "ex_audio": "media/words/ep71/scent_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "propose",
+        "pos": "v.",
+        "zh": "提议；建议",
+        "ex": "I propose that we develop new fragrances.",
+        "exzh": "我提议开发新香型。",
+        "ipa": "/prəˈpoʊz/",
+        "audio": "media/words/ep71/propose.mp3",
+        "ex_audio": "media/words/ep71/propose_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fragrance",
+        "pos": "n.",
+        "zh": "香味；香水",
+        "ex": "The new fragrance is popular with hotel guests.",
+        "exzh": "新香型很受酒店客人欢迎。",
+        "ipa": "/ˈfreɪɡrəns/",
+        "audio": "media/words/ep71/fragrance.mp3",
+        "ex_audio": "media/words/ep71/fragrance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go bad",
+        "pos": "v.",
+        "zh": "变质；腐坏",
+        "ex": "The spinach is already going bad.",
+        "exzh": "菠菜已经开始变质了。",
+        "ipa": "/ɡoʊ bæd/",
+        "audio": "media/words/ep71/go-bad.mp3",
+        "ex_audio": "media/words/ep71/go-bad_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "unit price",
+        "pos": "n.",
+        "zh": "单价",
+        "ex": "You have recently increased the unit price of spinach.",
+        "exzh": "你们最近还提高了菠菜的单价。",
+        "ipa": "/ˈjunət praɪs/",
+        "audio": "media/words/ep71/unit-price.mp3",
+        "ex_audio": "media/words/ep71/unit-price_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "frankly",
+        "pos": "adv.",
+        "zh": "坦率地说",
+        "ex": "Frankly, I'm disappointed.",
+        "exzh": "坦率地说，我很失望。",
+        "ipa": "/ˈfræŋkli/",
+        "audio": "media/words/ep71/frankly.mp3",
+        "ex_audio": "media/words/ep71/frankly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "complaint",
+        "pos": "n.",
+        "zh": "投诉；抱怨",
+        "ex": "The customer called to make a complaint.",
+        "exzh": "那位顾客打电话来投诉。",
+        "ipa": "/kəmˈpleɪnt/",
+        "audio": "media/words/ep71/complaint.mp3",
+        "ex_audio": "media/words/ep71/complaint_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "restock",
+        "pos": "v.",
+        "zh": "重新补货；补充",
+        "ex": "When was the first aid kit restocked?",
+        "exzh": "急救箱是什么时候补充的？",
+        "ipa": "/riˈstɑk/",
+        "audio": "media/words/ep71/restock.mp3",
+        "ex_audio": "media/words/ep71/restock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expired",
+        "pos": "adj.",
+        "zh": "过期的；到期的",
+        "ex": "Replace any used and expired supplies.",
+        "exzh": "更换用过的和过期的用品。",
+        "ipa": "/ɪkˈspaɪrd/",
+        "audio": "media/words/ep71/expired.mp3",
+        "ex_audio": "media/words/ep71/expired_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inspection",
+        "pos": "n.",
+        "zh": "检查；视察",
+        "ex": "I performed the safety inspection for this month.",
+        "exzh": "我进行了本月的安全检查。",
+        "ipa": "/ˌɪnˈspɛkʃən/",
+        "audio": "media/words/ep71/inspection.mp3",
+        "ex_audio": "media/words/ep71/inspection_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "noncompliance",
+        "pos": "n.",
+        "zh": "不合规；违规；不遵守",
+        "ex": "I observed several instances of noncompliance.",
+        "exzh": "我发现了几处不合规的情况。",
+        "ipa": "/ˌnɑnkəmˈplaɪəns/",
+        "audio": "media/words/ep71/noncompliance.mp3",
+        "ex_audio": "media/words/ep71/noncompliance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "obstruction",
+        "pos": "n.",
+        "zh": "障碍物；阻碍",
+        "ex": "Make sure aisles are clear of hazardous obstructions.",
+        "exzh": "确保过道没有危险的障碍物。",
+        "ipa": "/əbˈstrʌkʃən/",
+        "audio": "media/words/ep71/obstruction.mp3",
+        "ex_audio": "media/words/ep71/obstruction_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "tripping hazard",
+        "pos": "n.",
+        "zh": "绊倒的隐患",
+        "ex": "The boxes were a tripping hazard.",
+        "exzh": "这些箱子有绊倒人的危险。",
+        "ipa": "/ˈtrɪpɪŋ ˈhæzɚd/",
+        "audio": "media/words/ep71/tripping-hazard.mp3",
+        "ex_audio": "media/words/ep71/tripping-hazard_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "occupant",
+        "pos": "n.",
+        "zh": "使用者；居住者；占用者",
+        "ex": "I advised the occupant to unplug the item.",
+        "exzh": "我建议使用者拔掉电源。",
+        "ipa": "/ˈɑkjəpənt/",
+        "audio": "media/words/ep71/occupant.mp3",
+        "ex_audio": "media/words/ep71/occupant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "unannounced",
+        "pos": "adj.",
+        "zh": "不事先通知的；突击的",
+        "ex": "I will make an unannounced follow-up inspection.",
+        "exzh": "我会进行一次不事先通知的复查。",
+        "ipa": "/ˌʌnəˈnaʊnst/",
+        "audio": "media/words/ep71/unannounced.mp3",
+        "ex_audio": "media/words/ep71/unannounced_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 70,
     "theme": "错题薄弱项专题①：Part 3/4 开头题与意图题（Test 1 五组 · 逐句精听）",
     "date": "2026-11-21",
