@@ -1,5 +1,1196 @@
 [
   {
+    "number": 72,
+    "theme": "错题薄弱项专题③：Part 2 空白题 · Part 5/6 反复错题 · Part 7 两组（Test 1）",
+    "date": "2026-11-23",
+    "duration_sec": 2978.7,
+    "segments": [
+      {
+        "title": "1. Part 2 错题精讲（Test 1 Q10–15 · Q28 · 逐句精听）",
+        "start": 0.0,
+        "length": 890.28
+      },
+      {
+        "title": "2. Part 5/6 反复错题（Test 1 Q105 · Q106 · Q110 · Q136）",
+        "start": 890.28,
+        "length": 461.01
+      },
+      {
+        "title": "3. Part 7 错题复习①（Test 1 Q172–175 在线聊天）",
+        "start": 1351.29,
+        "length": 560.54
+      },
+      {
+        "title": "4. Part 7 错题复习②（Test 1 Q161–163 邮件 · 句子插入）",
+        "start": 1911.83,
+        "length": 457.73
+      },
+      {
+        "title": "5. 本期 33 词总复习 · 拼读",
+        "start": 2369.56,
+        "length": 609.13
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      },
+      {
+        "word": "retail",
+        "zh": "零售；零售的"
+      },
+      {
+        "word": "in fact",
+        "zh": "事实上；实际上"
+      },
+      {
+        "word": "luck out",
+        "zh": "走运；运气好"
+      },
+      {
+        "word": "alternatively",
+        "zh": "或者；另一种办法是"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. That she may be late for a sales meeting",
+        "zh": "第172题问写这些消息的人最可能在哪里工作。线索在 Hae-Jin 的消息里：展位上播放的视频；有的展示我"
+      },
+      {
+        "word": "appliance",
+        "zh": "意思是：家用电器；电器设备"
+      },
+      {
+        "word": "remodel",
+        "zh": "意思是：改造；装修"
+      },
+      {
+        "word": "in-home estimate",
+        "zh": "意思是：上门估价"
+      },
+      {
+        "word": "be away",
+        "zh": "意思是：不在；外出"
+      },
+      {
+        "word": "luck out",
+        "zh": "意思是：走运；运气好"
+      },
+      {
+        "word": "live stream",
+        "zh": "意思是：直播"
+      },
+      {
+        "word": "sales figures",
+        "zh": "意思是：销售数字；销售额"
+      },
+      {
+        "word": "favorable",
+        "zh": "意思是：有利的；良好的；赞同的"
+      },
+      {
+        "word": "D. [4]",
+        "zh": "第161题问 Robinson 先生为什么给 Noboa 女士发这封邮件。第一段说健步走俱乐部已经有三十二名员工"
+      },
+      {
+        "word": "committee",
+        "zh": "意思是：委员会"
+      },
+      {
+        "word": "update",
+        "zh": "意思是：最新情况；更新"
+      },
+      {
+        "word": "be scheduled to",
+        "zh": "意思是：预定；按计划要"
+      },
+      {
+        "word": "sign up",
+        "zh": "意思是：报名；登记"
+      },
+      {
+        "word": "recipe",
+        "zh": "意思是：食谱；菜谱；秘诀"
+      },
+      {
+        "word": "alternatively",
+        "zh": "意思是：或者；另一种办法是"
+      },
+      {
+        "word": "fund-raiser",
+        "zh": "意思是：募捐活动；筹款活动"
+      },
+      {
+        "word": "advertise",
+        "zh": "做广告；登广告"
+      },
+      {
+        "word": "reception",
+        "zh": "招待会；欢迎会；前台"
+      },
+      {
+        "word": "client",
+        "zh": "客户；委托人"
+      },
+      {
+        "word": "appointment",
+        "zh": "预约；约会；任命"
+      },
+      {
+        "word": "overseas",
+        "zh": "在海外；海外的"
+      },
+      {
+        "word": "luggage",
+        "zh": "行李"
+      },
+      {
+        "word": "position",
+        "zh": "职位；岗位；位置"
+      },
+      {
+        "word": "prototype",
+        "zh": "原型；样品；试制品"
+      },
+      {
+        "word": "parade",
+        "zh": "游行；巡游"
+      },
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      },
+      {
+        "word": "processing plant",
+        "zh": "加工厂"
+      },
+      {
+        "word": "equipment",
+        "zh": "设备；器材；不可数"
+      },
+      {
+        "word": "renovation",
+        "zh": "翻修；整修"
+      },
+      {
+        "word": "steadily",
+        "zh": "稳步地；持续地"
+      },
+      {
+        "word": "stationery",
+        "zh": "文具；信纸"
+      },
+      {
+        "word": "retail",
+        "zh": "零售；零售的"
+      },
+      {
+        "word": "increasingly",
+        "zh": "越来越；日益"
+      },
+      {
+        "word": "in fact",
+        "zh": "事实上；实际上"
+      },
+      {
+        "word": "appliance",
+        "zh": "家用电器；电器设备"
+      },
+      {
+        "word": "remodel",
+        "zh": "改造；装修"
+      },
+      {
+        "word": "in-home estimate",
+        "zh": "上门估价"
+      },
+      {
+        "word": "be away",
+        "zh": "不在；外出"
+      },
+      {
+        "word": "luck out",
+        "zh": "走运；运气好"
+      },
+      {
+        "word": "live stream",
+        "zh": "直播"
+      },
+      {
+        "word": "sales figures",
+        "zh": "销售数字；销售额"
+      },
+      {
+        "word": "favorable",
+        "zh": "有利的；良好的；赞同的"
+      },
+      {
+        "word": "committee",
+        "zh": "委员会"
+      },
+      {
+        "word": "update",
+        "zh": "最新情况；更新"
+      },
+      {
+        "word": "be scheduled to",
+        "zh": "预定；按计划要"
+      },
+      {
+        "word": "sign up",
+        "zh": "报名；登记"
+      },
+      {
+        "word": "recipe",
+        "zh": "食谱；菜谱；秘诀"
+      },
+      {
+        "word": "alternatively",
+        "zh": "或者；另一种办法是"
+      },
+      {
+        "word": "fund-raiser",
+        "zh": "募捐活动；筹款活动"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep72.mp4",
+    "script_pdf": "media/ep72_script.pdf",
+    "source_video": "ep72.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep72.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep72.mp4",
+        "script_pdf": "media/ep72_script.pdf",
+        "duration_sec": 2978.7,
+        "theme": "错题薄弱项专题③：Part 2 空白题 · Part 5/6 反复错题 · Part 7 两组（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 2 错题精讲（Test 1 Q10–15 · Q28 · 逐句精听）",
+            "start": 0.0,
+            "length": 890.28
+          },
+          {
+            "title": "2. Part 5/6 反复错题（Test 1 Q105 · Q106 · Q110 · Q136）",
+            "start": 890.28,
+            "length": 461.01
+          },
+          {
+            "title": "3. Part 7 错题复习①（Test 1 Q172–175 在线聊天）",
+            "start": 1351.29,
+            "length": 560.54
+          },
+          {
+            "title": "4. Part 7 错题复习②（Test 1 Q161–163 邮件 · 句子插入）",
+            "start": 1911.83,
+            "length": 457.73
+          },
+          {
+            "title": "5. 本期 33 词总复习 · 拼读",
+            "start": 2369.56,
+            "length": 609.13
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep72ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep72ja.mp4",
+        "script_pdf": "media/ep72ja_script.pdf",
+        "duration_sec": 3682.4,
+        "theme": "苦手分野特集③：Part 2 の無解答問題 · Part 5/6 で繰り返し間違えた問題 · Part 7 の2セット（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 2 間違い直し（Test 1 Q10–15 · Q28 · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 1170.17
+          },
+          {
+            "title": "2. Part 5/6 繰り返し間違えた問題（Test 1 Q105 · Q106 · Q110 · Q136）",
+            "start": 1170.17,
+            "length": 575.44
+          },
+          {
+            "title": "3. Part 7 間違い復習①（Test 1 Q172–175 オンラインチャット）",
+            "start": 1745.61,
+            "length": 703.73
+          },
+          {
+            "title": "4. Part 7 間違い復習②（Test 1 Q161–163 メール · 文の挿入）",
+            "start": 2449.34,
+            "length": 563.61
+          },
+          {
+            "title": "5. 今回の 33 語総復習 · スペル",
+            "start": 3012.95,
+            "length": 669.46
+          }
+        ],
+        "poster": "media/ep72ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "reschedule",
+            "zh": "日程を変更する；延期する"
+          },
+          {
+            "word": "retail",
+            "zh": "小売；小売の"
+          },
+          {
+            "word": "in fact",
+            "zh": "実際；それどころか"
+          },
+          {
+            "word": "luck out",
+            "zh": "運がいい；ついている"
+          },
+          {
+            "word": "alternatively",
+            "zh": "あるいは；代わりに"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "advertise",
+          "reception",
+          "client",
+          "appointment",
+          "overseas",
+          "luggage",
+          "position",
+          "prototype",
+          "parade",
+          "reschedule",
+          "processing plant",
+          "equipment",
+          "renovation",
+          "steadily",
+          "stationery",
+          "retail",
+          "increasingly",
+          "in fact",
+          "appliance",
+          "remodel",
+          "in-home estimate",
+          "be away",
+          "luck out",
+          "live stream",
+          "sales figures",
+          "favorable",
+          "committee",
+          "update",
+          "be scheduled to",
+          "sign up",
+          "recipe",
+          "alternatively",
+          "fund-raiser"
+        ],
+        "words": [
+          {
+            "word": "advertise",
+            "pos": "v.",
+            "zh": "広告を出す；宣伝する",
+            "ex": "Which magazine did you advertise in?",
+            "exzh": "どの雑誌に広告を出したのですか。",
+            "ipa": "/ˈædvɚˌtaɪz/",
+            "audio": "media/words/ep72/advertise.mp3",
+            "ex_audio": "media/words/ep72/advertise_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reception",
+            "pos": "n.",
+            "zh": "歓迎会；レセプション；受付",
+            "ex": "The reception is outdoors.",
+            "exzh": "歓迎会は屋外で行われる。",
+            "ipa": "/rɪˈsɛpʃən/",
+            "audio": "media/words/ep72/reception.mp3",
+            "ex_audio": "media/words/ep72/reception_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "client",
+            "pos": "n.",
+            "zh": "顧客；取引先；依頼人",
+            "ex": "No, I'm visiting a client.",
+            "exzh": "いいえ、取引先を訪問します。",
+            "ipa": "/ˈklaɪənt/",
+            "audio": "media/words/ep72/client.mp3",
+            "ex_audio": "media/words/ep72/client_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "appointment",
+            "pos": "n.",
+            "zh": "予約；約束；任命",
+            "ex": "Could I schedule an appointment with Dr. Taylor?",
+            "exzh": "Taylor 先生の予約を取れますか。",
+            "ipa": "/əˈpɔɪntmənt/",
+            "audio": "media/words/ep72/appointment.mp3",
+            "ex_audio": "media/words/ep72/appointment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "overseas",
+            "pos": "adv./adj.",
+            "zh": "海外で；海外の",
+            "ex": "He worked for a company overseas.",
+            "exzh": "彼は海外の会社で働いていた。",
+            "ipa": "/ˈoʊvɚˈsiz/",
+            "audio": "media/words/ep72/overseas.mp3",
+            "ex_audio": "media/words/ep72/overseas_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "luggage",
+            "pos": "n.",
+            "zh": "手荷物；旅行かばん",
+            "ex": "Yes, I'll be checking luggage.",
+            "exzh": "はい、荷物を預けます。",
+            "ipa": "/ˈlʌɡədʒ/",
+            "audio": "media/words/ep72/luggage.mp3",
+            "ex_audio": "media/words/ep72/luggage_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "position",
+            "pos": "n.",
+            "zh": "職；ポスト；位置",
+            "ex": "How soon can you start your new position?",
+            "exzh": "新しい職にはどのくらい早く就けますか。",
+            "ipa": "/pəˈzɪʃən/",
+            "audio": "media/words/ep72/position.mp3",
+            "ex_audio": "media/words/ep72/position_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "prototype",
+            "pos": "n.",
+            "zh": "試作品；原型",
+            "ex": "The client liked her prototype.",
+            "exzh": "顧客は彼女の試作品を気に入った。",
+            "ipa": "/ˈproʊtəˌtaɪp/",
+            "audio": "media/words/ep72/prototype.mp3",
+            "ex_audio": "media/words/ep72/prototype_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "parade",
+            "pos": "n.",
+            "zh": "パレード；行進",
+            "ex": "Who's going to be in the parade?",
+            "exzh": "パレードには誰が出ますか。",
+            "ipa": "/pɚˈeɪd/",
+            "audio": "media/words/ep72/parade.mp3",
+            "ex_audio": "media/words/ep72/parade_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reschedule",
+            "pos": "v.",
+            "zh": "日程を変更する；延期する",
+            "ex": "The parade was rescheduled for next month.",
+            "exzh": "パレードは来月に延期された。",
+            "ipa": "/riˈskɛdʒul/",
+            "audio": "media/words/ep72/reschedule.mp3",
+            "ex_audio": "media/words/ep72/reschedule_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "processing plant",
+            "pos": "n.",
+            "zh": "加工工場",
+            "ex": "The processing plant in Nelson City is new.",
+            "exzh": "ネルソン市の加工工場は新しい。",
+            "ipa": "/ˈprɑsɛsɪŋ plænt/",
+            "audio": "media/words/ep72/processing-plant.mp3",
+            "ex_audio": "media/words/ep72/processing-plant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "equipment",
+            "pos": "n.",
+            "zh": "設備；機器（不可算）",
+            "ex": "New equipment allows faster production.",
+            "exzh": "新しい設備で生産が速くなる。",
+            "ipa": "/ɪˈkwɪpmənt/",
+            "audio": "media/words/ep72/equipment.mp3",
+            "ex_audio": "media/words/ep72/equipment_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "renovation",
+            "pos": "n.",
+            "zh": "改修；改装",
+            "ex": "The renovations to the library are almost finished.",
+            "exzh": "図書館の改修はほぼ終わった。",
+            "ipa": "/ˌrɛnəˈveɪʃən/",
+            "audio": "media/words/ep72/renovation.mp3",
+            "ex_audio": "media/words/ep72/renovation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "steadily",
+            "pos": "adv.",
+            "zh": "着実に；着々と",
+            "ex": "Sales have grown steadily this year.",
+            "exzh": "今年は売上が着実に伸びている。",
+            "ipa": "/ˈstɛdəli/",
+            "audio": "media/words/ep72/steadily.mp3",
+            "ex_audio": "media/words/ep72/steadily_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stationery",
+            "pos": "n.",
+            "zh": "文房具；便箋",
+            "ex": "Bestform Stationery sells quality paper goods.",
+            "exzh": "Bestform Stationery は高品質の紙製品を販売している。",
+            "ipa": "/ˈsteɪʃəˌnɛri/",
+            "audio": "media/words/ep72/stationery.mp3",
+            "ex_audio": "media/words/ep72/stationery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retail",
+            "pos": "n./adj.",
+            "zh": "小売；小売の",
+            "ex": "The goods are sold online and in retail stores.",
+            "exzh": "その商品はオンラインと小売店で販売されている。",
+            "ipa": "/ˈriˌteɪl/",
+            "audio": "media/words/ep72/retail.mp3",
+            "ex_audio": "media/words/ep72/retail_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "increasingly",
+            "pos": "adv.",
+            "zh": "ますます",
+            "ex": "Online shopping is increasingly popular.",
+            "exzh": "オンラインショッピングはますます人気になっている。",
+            "ipa": "/ɪnˈkrisɪŋli/",
+            "audio": "media/words/ep72/increasingly.mp3",
+            "ex_audio": "media/words/ep72/increasingly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in fact",
+            "pos": "adv.",
+            "zh": "実際；それどころか",
+            "ex": "Sales are good. In fact, they are the best in ten years.",
+            "exzh": "売り上げは好調だ。実際、この10年で最高だ。",
+            "ipa": "/ɪn fækt/",
+            "audio": "media/words/ep72/in-fact.mp3",
+            "ex_audio": "media/words/ep72/in-fact_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "appliance",
+            "pos": "n.",
+            "zh": "家電製品；電化製品",
+            "ex": "What kind of appliance should we buy for the office?",
+            "exzh": "オフィスにはどんな家電を買いましょうか。",
+            "ipa": "/əˈplaɪəns/",
+            "audio": "media/words/ep72/appliance.mp3",
+            "ex_audio": "media/words/ep72/appliance_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "remodel",
+            "pos": "v.",
+            "zh": "改装する；リフォームする",
+            "ex": "They remodel kitchens and bathrooms.",
+            "exzh": "その会社はキッチンや浴室をリフォームしている。",
+            "ipa": "/riˈmɑdəl/",
+            "audio": "media/words/ep72/remodel.mp3",
+            "ex_audio": "media/words/ep72/remodel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in-home estimate",
+            "pos": "n.",
+            "zh": "訪問見積もり",
+            "ex": "I'll be handling in-home estimates and sales.",
+            "exzh": "私は訪問見積もりと販売を担当する。",
+            "ipa": "/ɪn-hoʊm ˈɛstəmət/",
+            "audio": "media/words/ep72/in-home-estimate.mp3",
+            "ex_audio": "media/words/ep72/in-home-estimate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be away",
+            "pos": "phr.",
+            "zh": "不在である；出かけている",
+            "ex": "I'll be away at my cousin's wedding.",
+            "exzh": "いとこの結婚式で不在になる。",
+            "ipa": "/bi əˈweɪ/",
+            "audio": "media/words/ep72/be-away.mp3",
+            "ex_audio": "media/words/ep72/be-away_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "luck out",
+            "pos": "phr.",
+            "zh": "運がいい；ついている",
+            "ex": "We really lucked out when we found Jacob!",
+            "exzh": "Jacob が見つかって本当にラッキーだった。",
+            "ipa": "/lʌk aʊt/",
+            "audio": "media/words/ep72/luck-out.mp3",
+            "ex_audio": "media/words/ep72/luck-out_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "live stream",
+            "pos": "v./n.",
+            "zh": "ライブ配信する；ライブ配信",
+            "ex": "He'll be live streaming our demonstrations.",
+            "exzh": "彼が私たちの実演をライブ配信する。",
+            "ipa": "/laɪv strim/",
+            "audio": "media/words/ep72/live-stream.mp3",
+            "ex_audio": "media/words/ep72/live-stream_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sales figures",
+            "pos": "n.",
+            "zh": "売上高；売上の数字",
+            "ex": "Our sales figures will be higher than ever.",
+            "exzh": "売上高はこれまでで最も高くなるだろう。",
+            "ipa": "/seɪlz ˈfɪɡjɚz/",
+            "audio": "media/words/ep72/sales-figures.mp3",
+            "ex_audio": "media/words/ep72/sales-figures_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "favorable",
+            "pos": "adj.",
+            "zh": "好ましい；順調な；好意的な",
+            "ex": "Sales have been increasing at a favorable rate.",
+            "exzh": "売上は順調なペースで伸びている。",
+            "ipa": "/ˈfeɪvɚəbəl/",
+            "audio": "media/words/ep72/favorable.mp3",
+            "ex_audio": "media/words/ep72/favorable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "committee",
+            "pos": "n.",
+            "zh": "委員会",
+            "ex": "She is a member of the Employee Wellness Committee.",
+            "exzh": "彼女は社員健康委員会のメンバーだ。",
+            "ipa": "/kəˈmɪti/",
+            "audio": "media/words/ep72/committee.mp3",
+            "ex_audio": "media/words/ep72/committee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "update",
+            "pos": "n./v.",
+            "zh": "最新情報；更新する",
+            "ex": "He sent an update on committee activities.",
+            "exzh": "彼は委員会の活動の最新情報を送った。",
+            "ipa": "/əpˈdeɪt/",
+            "audio": "media/words/ep72/update.mp3",
+            "ex_audio": "media/words/ep72/update_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be scheduled to",
+            "pos": "phr.",
+            "zh": "…する予定だ",
+            "ex": "The company dinner is scheduled to start at seven.",
+            "exzh": "会社の夕食会は7時に始まる予定だ。",
+            "ipa": "/bi ˈskɛdʒʊld tu/",
+            "audio": "media/words/ep72/be-scheduled-to.mp3",
+            "ex_audio": "media/words/ep72/be-scheduled-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sign up",
+            "pos": "phr.",
+            "zh": "申し込む；登録する",
+            "ex": "32 employees have already signed up.",
+            "exzh": "すでに社員32人が登録した。",
+            "ipa": "/saɪn ʌp/",
+            "audio": "media/words/ep72/sign-up.mp3",
+            "ex_audio": "media/words/ep72/sign-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recipe",
+            "pos": "n.",
+            "zh": "レシピ；調理法；秘訣",
+            "ex": "Employees submitted healthy recipes.",
+            "exzh": "社員が健康的なレシピを提出した。",
+            "ipa": "/ˈrɛsəpi/",
+            "audio": "media/words/ep72/recipe.mp3",
+            "ex_audio": "media/words/ep72/recipe_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "alternatively",
+            "pos": "adv.",
+            "zh": "あるいは；代わりに",
+            "ex": "Alternatively, we could print the recipes as a book.",
+            "exzh": "あるいは、レシピを本として印刷することもできる。",
+            "ipa": "/ɔlˈtɝnətɪvli/",
+            "audio": "media/words/ep72/alternatively.mp3",
+            "ex_audio": "media/words/ep72/alternatively_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "fund-raiser",
+            "pos": "n.",
+            "zh": "募金活動；資金集めのイベント",
+            "ex": "We could sell the book as a fund-raiser.",
+            "exzh": "その本を募金活動として販売することもできる。",
+            "ipa": "/ˈfʌnˌdreɪzɚ/",
+            "audio": "media/words/ep72/fund-raiser.mp3",
+            "ex_audio": "media/words/ep72/fund-raiser_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep72_cover.png",
+    "theme_ja": "苦手分野特集③：Part 2 の無解答問題 · Part 5/6 で繰り返し間違えた問題 · Part 7 の2セット（Test 1）",
+    "words": [
+      {
+        "word": "advertise",
+        "pos": "v.",
+        "zh": "做广告；登广告",
+        "ex": "Which magazine did you advertise in?",
+        "exzh": "你在哪本杂志登了广告？",
+        "ipa": "/ˈædvɚˌtaɪz/",
+        "audio": "media/words/ep72/advertise.mp3",
+        "ex_audio": "media/words/ep72/advertise_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reception",
+        "pos": "n.",
+        "zh": "招待会；欢迎会；前台",
+        "ex": "The reception is outdoors.",
+        "exzh": "招待会在户外举行。",
+        "ipa": "/rɪˈsɛpʃən/",
+        "audio": "media/words/ep72/reception.mp3",
+        "ex_audio": "media/words/ep72/reception_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "client",
+        "pos": "n.",
+        "zh": "客户；委托人",
+        "ex": "No, I'm visiting a client.",
+        "exzh": "不，我要去拜访一位客户。",
+        "ipa": "/ˈklaɪənt/",
+        "audio": "media/words/ep72/client.mp3",
+        "ex_audio": "media/words/ep72/client_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "appointment",
+        "pos": "n.",
+        "zh": "预约；约会；任命",
+        "ex": "Could I schedule an appointment with Dr. Taylor?",
+        "exzh": "我能预约看 Taylor 医生吗？",
+        "ipa": "/əˈpɔɪntmənt/",
+        "audio": "media/words/ep72/appointment.mp3",
+        "ex_audio": "media/words/ep72/appointment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "overseas",
+        "pos": "adv./adj.",
+        "zh": "在海外；海外的",
+        "ex": "He worked for a company overseas.",
+        "exzh": "他曾在海外一家公司工作。",
+        "ipa": "/ˈoʊvɚˈsiz/",
+        "audio": "media/words/ep72/overseas.mp3",
+        "ex_audio": "media/words/ep72/overseas_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "luggage",
+        "pos": "n.",
+        "zh": "行李",
+        "ex": "Yes, I'll be checking luggage.",
+        "exzh": "是的，我要托运行李。",
+        "ipa": "/ˈlʌɡədʒ/",
+        "audio": "media/words/ep72/luggage.mp3",
+        "ex_audio": "media/words/ep72/luggage_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "position",
+        "pos": "n.",
+        "zh": "职位；岗位；位置",
+        "ex": "How soon can you start your new position?",
+        "exzh": "你多快能开始新职位的工作？",
+        "ipa": "/pəˈzɪʃən/",
+        "audio": "media/words/ep72/position.mp3",
+        "ex_audio": "media/words/ep72/position_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "prototype",
+        "pos": "n.",
+        "zh": "原型；样品；试制品",
+        "ex": "The client liked her prototype.",
+        "exzh": "客户很喜欢她做的样品。",
+        "ipa": "/ˈproʊtəˌtaɪp/",
+        "audio": "media/words/ep72/prototype.mp3",
+        "ex_audio": "media/words/ep72/prototype_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "parade",
+        "pos": "n.",
+        "zh": "游行；巡游",
+        "ex": "Who's going to be in the parade?",
+        "exzh": "谁会参加游行？",
+        "ipa": "/pɚˈeɪd/",
+        "audio": "media/words/ep72/parade.mp3",
+        "ex_audio": "media/words/ep72/parade_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "zh": "重新安排时间；改期",
+        "ex": "The parade was rescheduled for next month.",
+        "exzh": "游行改到下个月了。",
+        "ipa": "/riˈskɛdʒul/",
+        "audio": "media/words/ep72/reschedule.mp3",
+        "ex_audio": "media/words/ep72/reschedule_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "processing plant",
+        "pos": "n.",
+        "zh": "加工厂",
+        "ex": "The processing plant in Nelson City is new.",
+        "exzh": "Nelson City 的加工厂是新的。",
+        "ipa": "/ˈprɑsɛsɪŋ plænt/",
+        "audio": "media/words/ep72/processing-plant.mp3",
+        "ex_audio": "media/words/ep72/processing-plant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "equipment",
+        "pos": "n.",
+        "zh": "设备；器材（不可数）",
+        "ex": "New equipment allows faster production.",
+        "exzh": "新设备能加快生产。",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "audio": "media/words/ep72/equipment.mp3",
+        "ex_audio": "media/words/ep72/equipment_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "renovation",
+        "pos": "n.",
+        "zh": "翻修；整修",
+        "ex": "The renovations to the library are almost finished.",
+        "exzh": "图书馆的翻修快完成了。",
+        "ipa": "/ˌrɛnəˈveɪʃən/",
+        "audio": "media/words/ep72/renovation.mp3",
+        "ex_audio": "media/words/ep72/renovation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "steadily",
+        "pos": "adv.",
+        "zh": "稳步地；持续地",
+        "ex": "Sales have grown steadily this year.",
+        "exzh": "今年销售额稳步增长。",
+        "ipa": "/ˈstɛdəli/",
+        "audio": "media/words/ep72/steadily.mp3",
+        "ex_audio": "media/words/ep72/steadily_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stationery",
+        "pos": "n.",
+        "zh": "文具；信纸",
+        "ex": "Bestform Stationery sells quality paper goods.",
+        "exzh": "Bestform 文具公司销售优质纸制品。",
+        "ipa": "/ˈsteɪʃəˌnɛri/",
+        "audio": "media/words/ep72/stationery.mp3",
+        "ex_audio": "media/words/ep72/stationery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retail",
+        "pos": "n./adj.",
+        "zh": "零售；零售的",
+        "ex": "The goods are sold online and in retail stores.",
+        "exzh": "这些商品在网上和零售店销售。",
+        "ipa": "/ˈriˌteɪl/",
+        "audio": "media/words/ep72/retail.mp3",
+        "ex_audio": "media/words/ep72/retail_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "increasingly",
+        "pos": "adv.",
+        "zh": "越来越；日益",
+        "ex": "Online shopping is increasingly popular.",
+        "exzh": "网购越来越受欢迎。",
+        "ipa": "/ɪnˈkrisɪŋli/",
+        "audio": "media/words/ep72/increasingly.mp3",
+        "ex_audio": "media/words/ep72/increasingly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in fact",
+        "pos": "adv.",
+        "zh": "事实上；实际上",
+        "ex": "Sales are good. In fact, they are the best in ten years.",
+        "exzh": "销售很好。事实上，是十年来最好的。",
+        "ipa": "/ɪn fækt/",
+        "audio": "media/words/ep72/in-fact.mp3",
+        "ex_audio": "media/words/ep72/in-fact_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "appliance",
+        "pos": "n.",
+        "zh": "家用电器；电器设备",
+        "ex": "What kind of appliance should we buy for the office?",
+        "exzh": "我们该给办公室买哪种电器？",
+        "ipa": "/əˈplaɪəns/",
+        "audio": "media/words/ep72/appliance.mp3",
+        "ex_audio": "media/words/ep72/appliance_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "remodel",
+        "pos": "v.",
+        "zh": "改造；装修",
+        "ex": "They remodel kitchens and bathrooms.",
+        "exzh": "他们装修厨房和浴室。",
+        "ipa": "/riˈmɑdəl/",
+        "audio": "media/words/ep72/remodel.mp3",
+        "ex_audio": "media/words/ep72/remodel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in-home estimate",
+        "pos": "n.",
+        "zh": "上门估价",
+        "ex": "I'll be handling in-home estimates and sales.",
+        "exzh": "我会负责上门估价和销售。",
+        "ipa": "/ɪn-hoʊm ˈɛstəmət/",
+        "audio": "media/words/ep72/in-home-estimate.mp3",
+        "ex_audio": "media/words/ep72/in-home-estimate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be away",
+        "pos": "phr.",
+        "zh": "不在；外出",
+        "ex": "I'll be away at my cousin's wedding.",
+        "exzh": "我会去参加表亲的婚礼，不在。",
+        "ipa": "/bi əˈweɪ/",
+        "audio": "media/words/ep72/be-away.mp3",
+        "ex_audio": "media/words/ep72/be-away_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "luck out",
+        "pos": "phr.",
+        "zh": "走运；运气好",
+        "ex": "We really lucked out when we found Jacob!",
+        "exzh": "我们找到 Jacob 真是走运！",
+        "ipa": "/lʌk aʊt/",
+        "audio": "media/words/ep72/luck-out.mp3",
+        "ex_audio": "media/words/ep72/luck-out_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "live stream",
+        "pos": "v./n.",
+        "zh": "直播",
+        "ex": "He'll be live streaming our demonstrations.",
+        "exzh": "他会直播我们的演示。",
+        "ipa": "/laɪv strim/",
+        "audio": "media/words/ep72/live-stream.mp3",
+        "ex_audio": "media/words/ep72/live-stream_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sales figures",
+        "pos": "n.",
+        "zh": "销售数字；销售额",
+        "ex": "Our sales figures will be higher than ever.",
+        "exzh": "我们的销售额将比以往都高。",
+        "ipa": "/seɪlz ˈfɪɡjɚz/",
+        "audio": "media/words/ep72/sales-figures.mp3",
+        "ex_audio": "media/words/ep72/sales-figures_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "favorable",
+        "pos": "adj.",
+        "zh": "有利的；良好的；赞同的",
+        "ex": "Sales have been increasing at a favorable rate.",
+        "exzh": "销售额一直以良好的势头增长。",
+        "ipa": "/ˈfeɪvɚəbəl/",
+        "audio": "media/words/ep72/favorable.mp3",
+        "ex_audio": "media/words/ep72/favorable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "committee",
+        "pos": "n.",
+        "zh": "委员会",
+        "ex": "She is a member of the Employee Wellness Committee.",
+        "exzh": "她是员工健康委员会的成员。",
+        "ipa": "/kəˈmɪti/",
+        "audio": "media/words/ep72/committee.mp3",
+        "ex_audio": "media/words/ep72/committee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "update",
+        "pos": "n./v.",
+        "zh": "最新情况；更新",
+        "ex": "He sent an update on committee activities.",
+        "exzh": "他发来了委员会活动的最新情况。",
+        "ipa": "/əpˈdeɪt/",
+        "audio": "media/words/ep72/update.mp3",
+        "ex_audio": "media/words/ep72/update_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be scheduled to",
+        "pos": "phr.",
+        "zh": "预定；按计划要",
+        "ex": "The company dinner is scheduled to start at seven.",
+        "exzh": "公司晚宴定在七点开始。",
+        "ipa": "/bi ˈskɛdʒʊld tu/",
+        "audio": "media/words/ep72/be-scheduled-to.mp3",
+        "ex_audio": "media/words/ep72/be-scheduled-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sign up",
+        "pos": "phr.",
+        "zh": "报名；登记",
+        "ex": "32 employees have already signed up.",
+        "exzh": "已经有三十二名员工报名了。",
+        "ipa": "/saɪn ʌp/",
+        "audio": "media/words/ep72/sign-up.mp3",
+        "ex_audio": "media/words/ep72/sign-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recipe",
+        "pos": "n.",
+        "zh": "食谱；菜谱；秘诀",
+        "ex": "Employees submitted healthy recipes.",
+        "exzh": "员工们提交了健康食谱。",
+        "ipa": "/ˈrɛsəpi/",
+        "audio": "media/words/ep72/recipe.mp3",
+        "ex_audio": "media/words/ep72/recipe_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "alternatively",
+        "pos": "adv.",
+        "zh": "或者；另一种办法是",
+        "ex": "Alternatively, we could print the recipes as a book.",
+        "exzh": "或者，我们也可以把食谱印成一本书。",
+        "ipa": "/ɔlˈtɝnətɪvli/",
+        "audio": "media/words/ep72/alternatively.mp3",
+        "ex_audio": "media/words/ep72/alternatively_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "fund-raiser",
+        "pos": "n.",
+        "zh": "募捐活动；筹款活动",
+        "ex": "We could sell the book as a fund-raiser.",
+        "exzh": "我们可以把这本书作为募捐活动来卖。",
+        "ipa": "/ˈfʌnˌdreɪzɚ/",
+        "audio": "media/words/ep72/fund-raiser.mp3",
+        "ex_audio": "media/words/ep72/fund-raiser_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 71,
     "theme": "错题薄弱项专题②：Part 3/4 图表题（Test 1 五组 · 逐句精听）",
     "date": "2026-11-22",
