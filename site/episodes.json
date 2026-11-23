@@ -1,5 +1,1082 @@
 [
   {
+    "number": 73,
+    "theme": "错题薄弱项专题④：Part 5 两次都错的 10 道题 · Part 7 两组（Test 1）",
+    "date": "2026-11-24",
+    "duration_sec": 2925.1,
+    "segments": [
+      {
+        "title": "1. Part 5 两次错题（Test 1 Q103 · Q108 · Q114 · Q118 · Q122 · Q125–128 · Q130）",
+        "start": 0.0,
+        "length": 1173.06
+      },
+      {
+        "title": "2. Part 7 错题复习①（Test 1 Q181–185 双篇 · 日程表 + 报道）",
+        "start": 1173.06,
+        "length": 772.46
+      },
+      {
+        "title": "3. Part 7 错题复习②（Test 1 Q158–160 邮件 · 问卷邀请）",
+        "start": 1945.53,
+        "length": 422.23
+      },
+      {
+        "title": "4. 本期 30 词总复习 · 拼读",
+        "start": 2367.76,
+        "length": 557.31
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "come with",
+        "zh": "附带；配有；伴随"
+      },
+      {
+        "word": "be subject to",
+        "zh": "受……支配；可能会被……"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；存货；清单"
+      },
+      {
+        "word": "setback",
+        "zh": "挫折；阻碍；倒退"
+      },
+      {
+        "word": "so as to",
+        "zh": "为了；以便"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. They paid extra for tickets.",
+        "zh": "第181题；根据制作日程表；关于投资者哪一项正确？在日程表里找 investors：一月有 25 January –"
+      },
+      {
+        "word": "investor",
+        "zh": "意思是：投资者"
+      },
+      {
+        "word": "interim",
+        "zh": "意思是：中期的；临时的；过渡期"
+      },
+      {
+        "word": "setback",
+        "zh": "意思是：挫折；阻碍；倒退"
+      },
+      {
+        "word": "encounter",
+        "zh": "意思是：遇到；碰到；遭遇"
+      },
+      {
+        "word": "postpone",
+        "zh": "意思是：推迟；延期"
+      },
+      {
+        "word": "take on",
+        "zh": "意思是：承担；接受；工作、角色；；雇用"
+      },
+      {
+        "word": "phase",
+        "zh": "意思是：阶段；时期"
+      },
+      {
+        "word": "indication",
+        "zh": "意思是：迹象；指示；参考"
+      },
+      {
+        "word": "D. To report on the economic growth of an island",
+        "zh": "第158题问关于 Koh 女士可以推断出什么。suggested 题要根据原文做推理。第一段说；她 7 月 7 日坐渡"
+      },
+      {
+        "word": "trail",
+        "zh": "意思是：小路；步道"
+      },
+      {
+        "word": "in business",
+        "zh": "意思是：在营业；在经营"
+      },
+      {
+        "word": "so as to",
+        "zh": "意思是：为了；以便"
+      },
+      {
+        "word": "be good for",
+        "zh": "意思是：有效期为；对有好处"
+      },
+      {
+        "word": "rear",
+        "zh": "后部；后面；后面的"
+      },
+      {
+        "word": "parking lot",
+        "zh": "停车场"
+      },
+      {
+        "word": "warranty",
+        "zh": "保修；保修单"
+      },
+      {
+        "word": "look forward to",
+        "zh": "期待；盼望；to 后接名词或动名词"
+      },
+      {
+        "word": "qualified",
+        "zh": "有资格的；合格的"
+      },
+      {
+        "word": "résumé",
+        "zh": "简历；履历"
+      },
+      {
+        "word": "come with",
+        "zh": "附带；配有；伴随"
+      },
+      {
+        "word": "guarantee",
+        "zh": "保证；保修；担保"
+      },
+      {
+        "word": "lubricate",
+        "zh": "上润滑油；使润滑"
+      },
+      {
+        "word": "shift",
+        "zh": "轮班；班次；转移；变动"
+      },
+      {
+        "word": "willing",
+        "zh": "愿意的；乐意的"
+      },
+      {
+        "word": "overtime",
+        "zh": "加班；加班时间；超时地"
+      },
+      {
+        "word": "internal audit",
+        "zh": "内部审计"
+      },
+      {
+        "word": "reveal",
+        "zh": "揭示；显示；透露"
+      },
+      {
+        "word": "inventory",
+        "zh": "库存；存货；清单"
+      },
+      {
+        "word": "in stock",
+        "zh": "有现货；有库存"
+      },
+      {
+        "word": "be subject to",
+        "zh": "受支配；可能会被"
+      },
+      {
+        "word": "identify",
+        "zh": "发现；识别；确认"
+      },
+      {
+        "word": "investor",
+        "zh": "投资者"
+      },
+      {
+        "word": "interim",
+        "zh": "中期的；临时的；过渡期"
+      },
+      {
+        "word": "setback",
+        "zh": "挫折；阻碍；倒退"
+      },
+      {
+        "word": "encounter",
+        "zh": "遇到；碰到；遭遇"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "take on",
+        "zh": "承担；接受；工作、角色；；雇用"
+      },
+      {
+        "word": "phase",
+        "zh": "阶段；时期"
+      },
+      {
+        "word": "indication",
+        "zh": "迹象；指示；参考"
+      },
+      {
+        "word": "trail",
+        "zh": "小路；步道"
+      },
+      {
+        "word": "in business",
+        "zh": "在营业；在经营"
+      },
+      {
+        "word": "so as to",
+        "zh": "为了；以便"
+      },
+      {
+        "word": "be good for",
+        "zh": "有效期为；对有好处"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep73.mp4",
+    "script_pdf": "media/ep73_script.pdf",
+    "source_video": "ep73.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep73.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep73.mp4",
+        "script_pdf": "media/ep73_script.pdf",
+        "duration_sec": 2925.1,
+        "theme": "错题薄弱项专题④：Part 5 两次都错的 10 道题 · Part 7 两组（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 5 两次错题（Test 1 Q103 · Q108 · Q114 · Q118 · Q122 · Q125–128 · Q130）",
+            "start": 0.0,
+            "length": 1173.06
+          },
+          {
+            "title": "2. Part 7 错题复习①（Test 1 Q181–185 双篇 · 日程表 + 报道）",
+            "start": 1173.06,
+            "length": 772.46
+          },
+          {
+            "title": "3. Part 7 错题复习②（Test 1 Q158–160 邮件 · 问卷邀请）",
+            "start": 1945.53,
+            "length": 422.23
+          },
+          {
+            "title": "4. 本期 30 词总复习 · 拼读",
+            "start": 2367.76,
+            "length": 557.31
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep73ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep73ja.mp4",
+        "script_pdf": "media/ep73ja_script.pdf",
+        "duration_sec": 3593.8,
+        "theme": "苦手分野特集④：Part 5 で2回間違えた10問 · Part 7 の2セット（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 5 で2回間違えた問題（Test 1 Q103 · Q108 · Q114 · Q118 · Q122 · Q125–128 · Q130）",
+            "start": 0.0,
+            "length": 1506.28
+          },
+          {
+            "title": "2. Part 7 間違い復習①（Test 1 Q181–185 ダブルパッセージ · スケジュール + 記事）",
+            "start": 1506.28,
+            "length": 964.51
+          },
+          {
+            "title": "3. Part 7 間違い復習②（Test 1 Q158–160 メール · アンケートの依頼）",
+            "start": 2470.79,
+            "length": 527.74
+          },
+          {
+            "title": "4. 今回の 30 語総復習 · スペル",
+            "start": 2998.53,
+            "length": 595.28
+          }
+        ],
+        "poster": "media/ep73ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "come with",
+            "zh": "…が付いている；伴う"
+          },
+          {
+            "word": "be subject to",
+            "zh": "…の対象となる；…を受けることがある"
+          },
+          {
+            "word": "inventory",
+            "zh": "在庫；棚卸し；目録"
+          },
+          {
+            "word": "setback",
+            "zh": "挫折；つまずき；後退"
+          },
+          {
+            "word": "so as to",
+            "zh": "…するために"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "rear",
+          "parking lot",
+          "warranty",
+          "look forward to",
+          "qualified",
+          "résumé",
+          "come with",
+          "guarantee",
+          "lubricate",
+          "shift",
+          "willing",
+          "overtime",
+          "internal audit",
+          "reveal",
+          "inventory",
+          "in stock",
+          "be subject to",
+          "identify",
+          "investor",
+          "interim",
+          "setback",
+          "encounter",
+          "postpone",
+          "take on",
+          "phase",
+          "indication",
+          "trail",
+          "in business",
+          "so as to",
+          "be good for"
+        ],
+        "words": [
+          {
+            "word": "rear",
+            "pos": "n./adj.",
+            "zh": "後ろ；後部；後方の",
+            "ex": "The food truck is at the rear of the lot.",
+            "exzh": "フードトラックは駐車場の奥にある。",
+            "ipa": "/rɪr/",
+            "audio": "media/words/ep73/rear.mp3",
+            "ex_audio": "media/words/ep73/rear_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "parking lot",
+            "pos": "n.",
+            "zh": "駐車場",
+            "ex": "The parking lot is full on weekends.",
+            "exzh": "週末は駐車場が満車だ。",
+            "ipa": "/ˈpɑrkɪŋ lɑt/",
+            "audio": "media/words/ep73/parking-lot.mp3",
+            "ex_audio": "media/words/ep73/parking-lot_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "warranty",
+            "pos": "n.",
+            "zh": "保証；保証書",
+            "ex": "All our products come with a one-year warranty.",
+            "exzh": "当社の全製品に1年間の保証が付いている。",
+            "ipa": "/ˈwɔrənti/",
+            "audio": "media/words/ep73/warranty.mp3",
+            "ex_audio": "media/words/ep73/warranty_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "look forward to",
+            "pos": "phr.",
+            "zh": "…を楽しみにする（to の後は名詞か動名詞）",
+            "ex": "We look forward to welcoming you back.",
+            "exzh": "再びお迎えできるのを楽しみにしております。",
+            "ipa": "/lʊk ˈfɔrwɚd tu/",
+            "audio": "media/words/ep73/look-forward-to.mp3",
+            "ex_audio": "media/words/ep73/look-forward-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "qualified",
+            "pos": "adj.",
+            "zh": "資格のある；適格な",
+            "ex": "He is the most qualified individual for the job.",
+            "exzh": "彼はその仕事に最も適格な人物だ。",
+            "ipa": "/ˈkwɑləˌfaɪd/",
+            "audio": "media/words/ep73/qualified.mp3",
+            "ex_audio": "media/words/ep73/qualified_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "résumé",
+            "pos": "n.",
+            "zh": "履歴書",
+            "ex": "Please submit your résumé by Friday.",
+            "exzh": "金曜日までに履歴書を提出してください。",
+            "ipa": "",
+            "audio": "media/words/ep73/r-sum.mp3",
+            "ex_audio": "media/words/ep73/r-sum_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "come with",
+            "pos": "phr.",
+            "zh": "…が付いている；伴う",
+            "ex": "Each pan comes with a twelve-year guarantee.",
+            "exzh": "フライパンにはそれぞれ12年保証が付いている。",
+            "ipa": "/kʌm wɪð/",
+            "audio": "media/words/ep73/come-with.mp3",
+            "ex_audio": "media/words/ep73/come-with_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "guarantee",
+            "pos": "n./v.",
+            "zh": "保証；保証する",
+            "ex": "The product comes with a two-year guarantee.",
+            "exzh": "その製品には2年保証が付いている。",
+            "ipa": "/ˌɡɛrənˈti/",
+            "audio": "media/words/ep73/guarantee.mp3",
+            "ex_audio": "media/words/ep73/guarantee_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "lubricate",
+            "pos": "v.",
+            "zh": "注油する；潤滑する",
+            "ex": "Which parts must be lubricated each shift?",
+            "exzh": "毎シフトどの部品に注油が必要か。",
+            "ipa": "/ˈlubrɪˌkeɪt/",
+            "audio": "media/words/ep73/lubricate.mp3",
+            "ex_audio": "media/words/ep73/lubricate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "shift",
+            "pos": "n./v.",
+            "zh": "シフト；勤務時間帯；移す",
+            "ex": "She works the night shift.",
+            "exzh": "彼女は夜勤のシフトだ。",
+            "ipa": "/ʃɪft/",
+            "audio": "media/words/ep73/shift.mp3",
+            "ex_audio": "media/words/ep73/shift_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "willing",
+            "pos": "adj.",
+            "zh": "…する意志がある；いとわない",
+            "ex": "Anyone willing to work overtime should sign up.",
+            "exzh": "残業できる人は申し込んでください。",
+            "ipa": "/ˈwɪlɪŋ/",
+            "audio": "media/words/ep73/willing.mp3",
+            "ex_audio": "media/words/ep73/willing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "overtime",
+            "pos": "n./adv.",
+            "zh": "残業；時間外",
+            "ex": "Staff will work overtime this week.",
+            "exzh": "職員は今週残業する。",
+            "ipa": "/ˈoʊvɚˌtaɪm/",
+            "audio": "media/words/ep73/overtime.mp3",
+            "ex_audio": "media/words/ep73/overtime_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "internal audit",
+            "pos": "n.",
+            "zh": "内部監査",
+            "ex": "The internal audit revealed a small mistake.",
+            "exzh": "内部監査で小さなミスが見つかった。",
+            "ipa": "/ˌɪnˈtɝnəl ˈɔdɪt/",
+            "audio": "media/words/ep73/internal-audit.mp3",
+            "ex_audio": "media/words/ep73/internal-audit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reveal",
+            "pos": "v.",
+            "zh": "明らかにする；示す",
+            "ex": "The survey revealed that customers want lower prices.",
+            "exzh": "調査で顧客がもっと安い価格を望んでいることがわかった。",
+            "ipa": "/rɪˈvil/",
+            "audio": "media/words/ep73/reveal.mp3",
+            "ex_audio": "media/words/ep73/reveal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "inventory",
+            "pos": "n.",
+            "zh": "在庫；棚卸し；目録",
+            "ex": "The company had to sell off its inventory.",
+            "exzh": "会社は在庫を売り払わなければならなかった。",
+            "ipa": "/ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep73/inventory.mp3",
+            "ex_audio": "media/words/ep73/inventory_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "in stock",
+            "pos": "phr.",
+            "zh": "在庫がある",
+            "ex": "These decorations are still in stock.",
+            "exzh": "これらの装飾品はまだ在庫がある。",
+            "ipa": "/ɪn stɑk/",
+            "audio": "media/words/ep73/in-stock.mp3",
+            "ex_audio": "media/words/ep73/in-stock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be subject to",
+            "pos": "phr.",
+            "zh": "…の対象となる；…を受けることがある",
+            "ex": "All prices are subject to change.",
+            "exzh": "価格はすべて変更されることがある。",
+            "ipa": "/bi səbˈdʒɛkt tu/",
+            "audio": "media/words/ep73/be-subject-to.mp3",
+            "ex_audio": "media/words/ep73/be-subject-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "identify",
+            "pos": "v.",
+            "zh": "特定する；見つける",
+            "ex": "The engineers identified the problem quickly.",
+            "exzh": "技術者たちはすぐに問題を特定した。",
+            "ipa": "/aɪˈdɛntəˌfaɪ/",
+            "audio": "media/words/ep73/identify.mp3",
+            "ex_audio": "media/words/ep73/identify_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "investor",
+            "pos": "n.",
+            "zh": "投資家",
+            "ex": "The investors received a financial report.",
+            "exzh": "投資家は財務報告を受け取った。",
+            "ipa": "/ˌɪnˈvɛstɚ/",
+            "audio": "media/words/ep73/investor.mp3",
+            "ex_audio": "media/words/ep73/investor_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "interim",
+            "pos": "adj./n.",
+            "zh": "中間の；暫定の；当座",
+            "ex": "An interim report is due in May.",
+            "exzh": "中間報告は5月が期限だ。",
+            "ipa": "/ˈɪntɚəm/",
+            "audio": "media/words/ep73/interim.mp3",
+            "ex_audio": "media/words/ep73/interim_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "setback",
+            "pos": "n.",
+            "zh": "挫折；つまずき；後退",
+            "ex": "The film crew faced several setbacks.",
+            "exzh": "撮影チームはいくつかのつまずきに直面した。",
+            "ipa": "/ˈsɛtˌbæk/",
+            "audio": "media/words/ep73/setback.mp3",
+            "ex_audio": "media/words/ep73/setback_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "encounter",
+            "pos": "v./n.",
+            "zh": "出くわす；直面する；遭遇",
+            "ex": "We encountered problems during filming.",
+            "exzh": "撮影中に問題に直面した。",
+            "ipa": "/ɪnˈkaʊntɚ/",
+            "audio": "media/words/ep73/encounter.mp3",
+            "ex_audio": "media/words/ep73/encounter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する",
+            "ex": "Filming was postponed for six weeks.",
+            "exzh": "撮影は6週間延期された。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep73/postpone.mp3",
+            "ex_audio": "media/words/ep73/postpone_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take on",
+            "pos": "phr.",
+            "zh": "（仕事や役を）引き受ける；雇う",
+            "ex": "Mark Tobel agreed to take on the role.",
+            "exzh": "マーク・トーベルはその役を引き受けることに同意した。",
+            "ipa": "/teɪk ɑn/",
+            "audio": "media/words/ep73/take-on.mp3",
+            "ex_audio": "media/words/ep73/take-on_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "phase",
+            "pos": "n.",
+            "zh": "段階；局面",
+            "ex": "Filming is the second phase of the schedule.",
+            "exzh": "撮影はスケジュールの第2段階だ。",
+            "ipa": "/feɪz/",
+            "audio": "media/words/ep73/phase.mp3",
+            "ex_audio": "media/words/ep73/phase_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "indication",
+            "pos": "n.",
+            "zh": "兆し；目安；指示",
+            "ex": "Early sales are a good indication of success.",
+            "exzh": "初期の売れ行きは成功の良い兆しだ。",
+            "ipa": "/ˌɪndəˈkeɪʃən/",
+            "audio": "media/words/ep73/indication.mp3",
+            "ex_audio": "media/words/ep73/indication_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "trail",
+            "pos": "n.",
+            "zh": "小道；遊歩道",
+            "ex": "The island has scenic biking and hiking trails.",
+            "exzh": "島には景色の良いサイクリングコースやハイキングコースがある。",
+            "ipa": "/treɪl/",
+            "audio": "media/words/ep73/trail.mp3",
+            "ex_audio": "media/words/ep73/trail_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in business",
+            "pos": "phr.",
+            "zh": "営業して；事業を営んで",
+            "ex": "It has been in business for fifty years.",
+            "exzh": "その会社は50年間営業している。",
+            "ipa": "/ɪn ˈbɪznəs/",
+            "audio": "media/words/ep73/in-business.mp3",
+            "ex_audio": "media/words/ep73/in-business_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "so as to",
+            "pos": "phr.",
+            "zh": "…するために",
+            "ex": "We ask for feedback so as to improve our service.",
+            "exzh": "サービスを改善するために意見を募っている。",
+            "ipa": "/soʊ æz tu/",
+            "audio": "media/words/ep73/so-as-to.mp3",
+            "ex_audio": "media/words/ep73/so-as-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "be good for",
+            "pos": "phr.",
+            "zh": "（期間）有効である；…に良い",
+            "ex": "The voucher is good for up to six months.",
+            "exzh": "クーポンは最長6か月有効だ。",
+            "ipa": "/bi ɡʊd fɔr/",
+            "audio": "media/words/ep73/be-good-for.mp3",
+            "ex_audio": "media/words/ep73/be-good-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep73_cover.png",
+    "theme_ja": "苦手分野特集④：Part 5 で2回間違えた10問 · Part 7 の2セット（Test 1）",
+    "words": [
+      {
+        "word": "rear",
+        "pos": "n./adj.",
+        "zh": "后部；后面；后面的",
+        "ex": "The food truck is at the rear of the lot.",
+        "exzh": "餐车在停车场的后部。",
+        "ipa": "/rɪr/",
+        "audio": "media/words/ep73/rear.mp3",
+        "ex_audio": "media/words/ep73/rear_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "parking lot",
+        "pos": "n.",
+        "zh": "停车场",
+        "ex": "The parking lot is full on weekends.",
+        "exzh": "周末停车场是满的。",
+        "ipa": "/ˈpɑrkɪŋ lɑt/",
+        "audio": "media/words/ep73/parking-lot.mp3",
+        "ex_audio": "media/words/ep73/parking-lot_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "warranty",
+        "pos": "n.",
+        "zh": "保修；保修单",
+        "ex": "All our products come with a one-year warranty.",
+        "exzh": "我们所有产品都有一年保修。",
+        "ipa": "/ˈwɔrənti/",
+        "audio": "media/words/ep73/warranty.mp3",
+        "ex_audio": "media/words/ep73/warranty_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "look forward to",
+        "pos": "phr.",
+        "zh": "期待；盼望（to 后接名词或动名词）",
+        "ex": "We look forward to welcoming you back.",
+        "exzh": "我们期待再次欢迎您。",
+        "ipa": "/lʊk ˈfɔrwɚd tu/",
+        "audio": "media/words/ep73/look-forward-to.mp3",
+        "ex_audio": "media/words/ep73/look-forward-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "qualified",
+        "pos": "adj.",
+        "zh": "有资格的；合格的",
+        "ex": "He is the most qualified individual for the job.",
+        "exzh": "他是这份工作最合格的人选。",
+        "ipa": "/ˈkwɑləˌfaɪd/",
+        "audio": "media/words/ep73/qualified.mp3",
+        "ex_audio": "media/words/ep73/qualified_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "résumé",
+        "pos": "n.",
+        "zh": "简历；履历",
+        "ex": "Please submit your résumé by Friday.",
+        "exzh": "请在周五前提交简历。",
+        "ipa": "",
+        "audio": "media/words/ep73/r-sum.mp3",
+        "ex_audio": "media/words/ep73/r-sum_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "come with",
+        "pos": "phr.",
+        "zh": "附带；配有；伴随",
+        "ex": "Each pan comes with a twelve-year guarantee.",
+        "exzh": "每只锅都附带十二年保修。",
+        "ipa": "/kʌm wɪð/",
+        "audio": "media/words/ep73/come-with.mp3",
+        "ex_audio": "media/words/ep73/come-with_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "guarantee",
+        "pos": "n./v.",
+        "zh": "保证；保修；担保",
+        "ex": "The product comes with a two-year guarantee.",
+        "exzh": "该产品附带两年保修。",
+        "ipa": "/ˌɡɛrənˈti/",
+        "audio": "media/words/ep73/guarantee.mp3",
+        "ex_audio": "media/words/ep73/guarantee_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "lubricate",
+        "pos": "v.",
+        "zh": "上润滑油；使润滑",
+        "ex": "Which parts must be lubricated each shift?",
+        "exzh": "每班必须给哪些零件上油？",
+        "ipa": "/ˈlubrɪˌkeɪt/",
+        "audio": "media/words/ep73/lubricate.mp3",
+        "ex_audio": "media/words/ep73/lubricate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "shift",
+        "pos": "n./v.",
+        "zh": "轮班；班次；转移；变动",
+        "ex": "She works the night shift.",
+        "exzh": "她上夜班。",
+        "ipa": "/ʃɪft/",
+        "audio": "media/words/ep73/shift.mp3",
+        "ex_audio": "media/words/ep73/shift_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "willing",
+        "pos": "adj.",
+        "zh": "愿意的；乐意的",
+        "ex": "Anyone willing to work overtime should sign up.",
+        "exzh": "愿意加班的人请报名。",
+        "ipa": "/ˈwɪlɪŋ/",
+        "audio": "media/words/ep73/willing.mp3",
+        "ex_audio": "media/words/ep73/willing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "overtime",
+        "pos": "n./adv.",
+        "zh": "加班；加班时间；超时地",
+        "ex": "Staff will work overtime this week.",
+        "exzh": "员工这周要加班。",
+        "ipa": "/ˈoʊvɚˌtaɪm/",
+        "audio": "media/words/ep73/overtime.mp3",
+        "ex_audio": "media/words/ep73/overtime_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "internal audit",
+        "pos": "n.",
+        "zh": "内部审计",
+        "ex": "The internal audit revealed a small mistake.",
+        "exzh": "内部审计发现了一个小错误。",
+        "ipa": "/ˌɪnˈtɝnəl ˈɔdɪt/",
+        "audio": "media/words/ep73/internal-audit.mp3",
+        "ex_audio": "media/words/ep73/internal-audit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reveal",
+        "pos": "v.",
+        "zh": "揭示；显示；透露",
+        "ex": "The survey revealed that customers want lower prices.",
+        "exzh": "调查显示顾客希望价格更低。",
+        "ipa": "/rɪˈvil/",
+        "audio": "media/words/ep73/reveal.mp3",
+        "ex_audio": "media/words/ep73/reveal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "inventory",
+        "pos": "n.",
+        "zh": "库存；存货；清单",
+        "ex": "The company had to sell off its inventory.",
+        "exzh": "公司不得不抛售库存。",
+        "ipa": "/ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep73/inventory.mp3",
+        "ex_audio": "media/words/ep73/inventory_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "in stock",
+        "pos": "phr.",
+        "zh": "有现货；有库存",
+        "ex": "These decorations are still in stock.",
+        "exzh": "这些装饰品还有现货。",
+        "ipa": "/ɪn stɑk/",
+        "audio": "media/words/ep73/in-stock.mp3",
+        "ex_audio": "media/words/ep73/in-stock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be subject to",
+        "pos": "phr.",
+        "zh": "受……支配；可能会被……",
+        "ex": "All prices are subject to change.",
+        "exzh": "所有价格都可能变动。",
+        "ipa": "/bi səbˈdʒɛkt tu/",
+        "audio": "media/words/ep73/be-subject-to.mp3",
+        "ex_audio": "media/words/ep73/be-subject-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "identify",
+        "pos": "v.",
+        "zh": "发现；识别；确认",
+        "ex": "The engineers identified the problem quickly.",
+        "exzh": "工程师们很快发现了问题。",
+        "ipa": "/aɪˈdɛntəˌfaɪ/",
+        "audio": "media/words/ep73/identify.mp3",
+        "ex_audio": "media/words/ep73/identify_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "investor",
+        "pos": "n.",
+        "zh": "投资者",
+        "ex": "The investors received a financial report.",
+        "exzh": "投资者收到了财务报告。",
+        "ipa": "/ˌɪnˈvɛstɚ/",
+        "audio": "media/words/ep73/investor.mp3",
+        "ex_audio": "media/words/ep73/investor_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "interim",
+        "pos": "adj./n.",
+        "zh": "中期的；临时的；过渡期",
+        "ex": "An interim report is due in May.",
+        "exzh": "中期报告五月到期。",
+        "ipa": "/ˈɪntɚəm/",
+        "audio": "media/words/ep73/interim.mp3",
+        "ex_audio": "media/words/ep73/interim_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "setback",
+        "pos": "n.",
+        "zh": "挫折；阻碍；倒退",
+        "ex": "The film crew faced several setbacks.",
+        "exzh": "剧组遇到了几次挫折。",
+        "ipa": "/ˈsɛtˌbæk/",
+        "audio": "media/words/ep73/setback.mp3",
+        "ex_audio": "media/words/ep73/setback_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "encounter",
+        "pos": "v./n.",
+        "zh": "遇到；碰到；遭遇",
+        "ex": "We encountered problems during filming.",
+        "exzh": "我们在拍摄期间遇到了问题。",
+        "ipa": "/ɪnˈkaʊntɚ/",
+        "audio": "media/words/ep73/encounter.mp3",
+        "ex_audio": "media/words/ep73/encounter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟；延期",
+        "ex": "Filming was postponed for six weeks.",
+        "exzh": "拍摄推迟了六周。",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep73/postpone.mp3",
+        "ex_audio": "media/words/ep73/postpone_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take on",
+        "pos": "phr.",
+        "zh": "承担；接受（工作、角色）；雇用",
+        "ex": "Mark Tobel agreed to take on the role.",
+        "exzh": "Mark Tobel 同意接演这个角色。",
+        "ipa": "/teɪk ɑn/",
+        "audio": "media/words/ep73/take-on.mp3",
+        "ex_audio": "media/words/ep73/take-on_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "phase",
+        "pos": "n.",
+        "zh": "阶段；时期",
+        "ex": "Filming is the second phase of the schedule.",
+        "exzh": "拍摄是日程的第二个阶段。",
+        "ipa": "/feɪz/",
+        "audio": "media/words/ep73/phase.mp3",
+        "ex_audio": "media/words/ep73/phase_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "indication",
+        "pos": "n.",
+        "zh": "迹象；指示；参考",
+        "ex": "Early sales are a good indication of success.",
+        "exzh": "早期销量是成功的好迹象。",
+        "ipa": "/ˌɪndəˈkeɪʃən/",
+        "audio": "media/words/ep73/indication.mp3",
+        "ex_audio": "media/words/ep73/indication_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "trail",
+        "pos": "n.",
+        "zh": "小路；步道",
+        "ex": "The island has scenic biking and hiking trails.",
+        "exzh": "岛上有风景优美的骑行道和步道。",
+        "ipa": "/treɪl/",
+        "audio": "media/words/ep73/trail.mp3",
+        "ex_audio": "media/words/ep73/trail_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in business",
+        "pos": "phr.",
+        "zh": "在营业；在经营",
+        "ex": "It has been in business for fifty years.",
+        "exzh": "它已经经营了五十年。",
+        "ipa": "/ɪn ˈbɪznəs/",
+        "audio": "media/words/ep73/in-business.mp3",
+        "ex_audio": "media/words/ep73/in-business_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "so as to",
+        "pos": "phr.",
+        "zh": "为了；以便",
+        "ex": "We ask for feedback so as to improve our service.",
+        "exzh": "为了改进服务，我们征求反馈。",
+        "ipa": "/soʊ æz tu/",
+        "audio": "media/words/ep73/so-as-to.mp3",
+        "ex_audio": "media/words/ep73/so-as-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "be good for",
+        "pos": "phr.",
+        "zh": "有效期为；对……有好处",
+        "ex": "The voucher is good for up to six months.",
+        "exzh": "代金券最长六个月有效。",
+        "ipa": "/bi ɡʊd fɔr/",
+        "audio": "media/words/ep73/be-good-for.mp3",
+        "ex_audio": "media/words/ep73/be-good-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 72,
     "theme": "错题薄弱项专题③：Part 2 空白题 · Part 5/6 反复错题 · Part 7 两组（Test 1）",
     "date": "2026-11-23",
