@@ -1,5 +1,1147 @@
 [
   {
+    "number": 74,
+    "theme": "错题薄弱项专题⑤：Part 6 三篇错题（Q141 错三次）· Part 7 三篇 Q186–190（Test 1）",
+    "date": "2026-11-25",
+    "duration_sec": 2779.5,
+    "segments": [
+      {
+        "title": "1. Part 6 错题复习（Test 1 Q140–142 · Q131–133 · Q143–146）",
+        "start": 0.0,
+        "length": 1531.38
+      },
+      {
+        "title": "2. Part 7 错题复习（Test 1 Q186–190 三篇 · 邮件 + 日程表 + 平面图）",
+        "start": 1531.38,
+        "length": 686.12
+      },
+      {
+        "title": "3. 本期 30 词总复习 · 拼读",
+        "start": 2217.5,
+        "length": 561.99
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "decline",
+        "zh": "婉拒；谢绝；下降"
+      },
+      {
+        "word": "facility",
+        "zh": "设施；场所；工厂"
+      },
+      {
+        "word": "modification",
+        "zh": "修改；改动"
+      },
+      {
+        "word": "municipal",
+        "zh": "市政的；市的"
+      },
+      {
+        "word": "adjacent to",
+        "zh": "邻近；毗邻"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. again",
+        "zh": "第140题；词汇题；四个名词。I thoroughly enjoyed meeting you and the other technicians during my"
+      },
+      {
+        "word": "thoroughly",
+        "zh": "意思是：非常；彻底地"
+      },
+      {
+        "word": "technician",
+        "zh": "意思是：技术人员"
+      },
+      {
+        "word": "decline",
+        "zh": "意思是：婉拒；谢绝；下降"
+      },
+      {
+        "word": "given",
+        "zh": "意思是：考虑到；鉴于"
+      },
+      {
+        "word": "reference",
+        "zh": "意思是：推荐人；推荐信；参考"
+      },
+      {
+        "word": "agricultural",
+        "zh": "意思是：农业的"
+      },
+      {
+        "word": "D. also",
+        "zh": "第131题；词汇题；四个选项都是名词。空格所在的句子是 It replaces an outdated blank located"
+      },
+      {
+        "word": "facility",
+        "zh": "意思是：设施；场所；工厂"
+      },
+      {
+        "word": "replace",
+        "zh": "意思是：取代；替换"
+      },
+      {
+        "word": "outdated",
+        "zh": "意思是：过时的；陈旧的"
+      },
+      {
+        "word": "annually",
+        "zh": "意思是：每年；按年"
+      },
+      {
+        "word": "figure",
+        "zh": "意思是：数字；数据；人物；图形"
+      },
+      {
+        "word": "D. Details of the proposed plan can be found on the Sulbury municipal Web site.",
+        "zh": "第143题；词汇题；四个都是动名词。The purpose of the meeting is to discuss the plan for blank"
+      },
+      {
+        "word": "widen",
+        "zh": "意思是：拓宽；加宽"
+      },
+      {
+        "word": "primary",
+        "zh": "意思是：主要的；首要的"
+      },
+      {
+        "word": "secondary",
+        "zh": "意思是：次要的；第二位的"
+      },
+      {
+        "word": "aim",
+        "zh": "意思是：目标；旨在"
+      },
+      {
+        "word": "modification",
+        "zh": "意思是：修改；改动"
+      },
+      {
+        "word": "existing",
+        "zh": "意思是：现有的"
+      },
+      {
+        "word": "municipal",
+        "zh": "意思是：市政的；市的"
+      },
+      {
+        "word": "proposal",
+        "zh": "意思是：提案；方案；建议书"
+      },
+      {
+        "word": "pedestrian",
+        "zh": "意思是：行人；步行的"
+      },
+      {
+        "word": "D. Directly across from the photography gallery",
+        "zh": "第186题；Nofrim 先生最可能是谁？推断人物身份。邮件里 Sal 对 Harris 说；清洁工九月十五号早上八点"
+      },
+      {
+        "word": "let in",
+        "zh": "意思是：让进来；放进入"
+      },
+      {
+        "word": "staff meeting",
+        "zh": "意思是：员工会议"
+      },
+      {
+        "word": "closed to the public",
+        "zh": "意思是：不对公众开放"
+      },
+      {
+        "word": "once a week",
+        "zh": "意思是：每周一次"
+      },
+      {
+        "word": "showtime",
+        "zh": "意思是：放映时间；开演时间"
+      },
+      {
+        "word": "noon",
+        "zh": "意思是：中午；正午"
+      },
+      {
+        "word": "gallery",
+        "zh": "意思是：展厅；画廊；美术馆"
+      },
+      {
+        "word": "frequently",
+        "zh": "意思是：经常；频繁地"
+      },
+      {
+        "word": "adjacent to",
+        "zh": "意思是：邻近；毗邻"
+      },
+      {
+        "word": "directly across from",
+        "zh": "意思是：正对面；就在对面"
+      },
+      {
+        "word": "thoroughly",
+        "zh": "非常；彻底地"
+      },
+      {
+        "word": "technician",
+        "zh": "技术人员"
+      },
+      {
+        "word": "decline",
+        "zh": "婉拒；谢绝；下降"
+      },
+      {
+        "word": "given",
+        "zh": "考虑到；鉴于"
+      },
+      {
+        "word": "reference",
+        "zh": "推荐人；推荐信；参考"
+      },
+      {
+        "word": "agricultural",
+        "zh": "农业的"
+      },
+      {
+        "word": "facility",
+        "zh": "设施；场所；工厂"
+      },
+      {
+        "word": "replace",
+        "zh": "取代；替换"
+      },
+      {
+        "word": "outdated",
+        "zh": "过时的；陈旧的"
+      },
+      {
+        "word": "annually",
+        "zh": "每年；按年"
+      },
+      {
+        "word": "figure",
+        "zh": "数字；数据；人物；图形"
+      },
+      {
+        "word": "widen",
+        "zh": "拓宽；加宽"
+      },
+      {
+        "word": "primary",
+        "zh": "主要的；首要的"
+      },
+      {
+        "word": "secondary",
+        "zh": "次要的；第二位的"
+      },
+      {
+        "word": "aim",
+        "zh": "目标；旨在"
+      },
+      {
+        "word": "modification",
+        "zh": "修改；改动"
+      },
+      {
+        "word": "existing",
+        "zh": "现有的"
+      },
+      {
+        "word": "municipal",
+        "zh": "市政的；市的"
+      },
+      {
+        "word": "proposal",
+        "zh": "提案；方案；建议书"
+      },
+      {
+        "word": "pedestrian",
+        "zh": "行人；步行的"
+      },
+      {
+        "word": "let in",
+        "zh": "让进来；放进入"
+      },
+      {
+        "word": "staff meeting",
+        "zh": "员工会议"
+      },
+      {
+        "word": "closed to the public",
+        "zh": "不对公众开放"
+      },
+      {
+        "word": "once a week",
+        "zh": "每周一次"
+      },
+      {
+        "word": "showtime",
+        "zh": "放映时间；开演时间"
+      },
+      {
+        "word": "noon",
+        "zh": "中午；正午"
+      },
+      {
+        "word": "gallery",
+        "zh": "展厅；画廊；美术馆"
+      },
+      {
+        "word": "frequently",
+        "zh": "经常；频繁地"
+      },
+      {
+        "word": "adjacent to",
+        "zh": "邻近；毗邻"
+      },
+      {
+        "word": "directly across from",
+        "zh": "正对面；就在对面"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep74.mp4",
+    "script_pdf": "media/ep74_script.pdf",
+    "source_video": "ep74.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep74.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep74.mp4",
+        "script_pdf": "media/ep74_script.pdf",
+        "duration_sec": 2779.5,
+        "theme": "错题薄弱项专题⑤：Part 6 三篇错题（Q141 错三次）· Part 7 三篇 Q186–190（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 6 错题复习（Test 1 Q140–142 · Q131–133 · Q143–146）",
+            "start": 0.0,
+            "length": 1531.38
+          },
+          {
+            "title": "2. Part 7 错题复习（Test 1 Q186–190 三篇 · 邮件 + 日程表 + 平面图）",
+            "start": 1531.38,
+            "length": 686.12
+          },
+          {
+            "title": "3. 本期 30 词总复习 · 拼读",
+            "start": 2217.5,
+            "length": 561.99
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep74ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep74ja.mp4",
+        "script_pdf": "media/ep74ja_script.pdf",
+        "duration_sec": 3412.9,
+        "theme": "苦手分野特集⑤：Part 6 の3つの文章の間違い（Q141 は3回）· Part 7 の3文書 Q186–190（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 6 間違い復習（Test 1 Q140–142 · Q131–133 · Q143–146）",
+            "start": 0.0,
+            "length": 1973.07
+          },
+          {
+            "title": "2. Part 7 間違い復習（Test 1 Q186–190 3文書 · メール + スケジュール + 平面図）",
+            "start": 1973.07,
+            "length": 833.75
+          },
+          {
+            "title": "3. 今回の 30 語総復習 · スペル",
+            "start": 2806.82,
+            "length": 606.06
+          }
+        ],
+        "poster": "media/ep74ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "decline",
+            "zh": "辞退する；断る；減少"
+          },
+          {
+            "word": "facility",
+            "zh": "施設；設備；工場"
+          },
+          {
+            "word": "modification",
+            "zh": "変更；修正"
+          },
+          {
+            "word": "municipal",
+            "zh": "市の；市営の"
+          },
+          {
+            "word": "adjacent to",
+            "zh": "…に隣接した"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "thoroughly",
+          "technician",
+          "decline",
+          "given",
+          "reference",
+          "agricultural",
+          "facility",
+          "replace",
+          "outdated",
+          "annually",
+          "figure",
+          "widen",
+          "primary",
+          "secondary",
+          "aim",
+          "modification",
+          "existing",
+          "municipal",
+          "proposal",
+          "pedestrian",
+          "let in",
+          "staff meeting",
+          "closed to the public",
+          "once a week",
+          "showtime",
+          "noon",
+          "gallery",
+          "frequently",
+          "adjacent to",
+          "directly across from"
+        ],
+        "words": [
+          {
+            "word": "thoroughly",
+            "pos": "adv.",
+            "zh": "心から；徹底的に",
+            "ex": "I thoroughly enjoyed meeting you.",
+            "exzh": "お会いできて本当に楽しかったです。",
+            "ipa": "/ˈθɝoʊli/",
+            "audio": "media/words/ep74/thoroughly.mp3",
+            "ex_audio": "media/words/ep74/thoroughly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "technician",
+            "pos": "n.",
+            "zh": "技術者",
+            "ex": "The technicians showed me the farm equipment.",
+            "exzh": "技術者たちが農場の機械を見せてくれた。",
+            "ipa": "/tɛkˈnɪʃən/",
+            "audio": "media/words/ep74/technician.mp3",
+            "ex_audio": "media/words/ep74/technician_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "decline",
+            "pos": "v./n.",
+            "zh": "辞退する；断る；減少",
+            "ex": "He had to decline the job offer.",
+            "exzh": "彼は仕事のオファーを断らなければならなかった。",
+            "ipa": "/dɪˈklaɪn/",
+            "audio": "media/words/ep74/decline.mp3",
+            "ex_audio": "media/words/ep74/decline_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "given",
+            "pos": "prep.",
+            "zh": "…を考えると；…を考慮すると",
+            "ex": "Given my interest, the decision was difficult.",
+            "exzh": "私の関心を考えると、決断は難しかった。",
+            "ipa": "/ˈɡɪvən/",
+            "audio": "media/words/ep74/given.mp3",
+            "ex_audio": "media/words/ep74/given_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reference",
+            "pos": "n.",
+            "zh": "推薦者；身元保証；参照",
+            "ex": "I can provide additional references.",
+            "exzh": "推薦者をさらに提供できます。",
+            "ipa": "/ˈrɛfɚəns/",
+            "audio": "media/words/ep74/reference.mp3",
+            "ex_audio": "media/words/ep74/reference_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "agricultural",
+            "pos": "adj.",
+            "zh": "農業の",
+            "ex": "We may meet again at an agricultural event.",
+            "exzh": "農業のイベントでまた会えるかもしれない。",
+            "ipa": "/ˌæɡrəˈkʌltʃɚəl/",
+            "audio": "media/words/ep74/agricultural.mp3",
+            "ex_audio": "media/words/ep74/agricultural_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "facility",
+            "pos": "n.",
+            "zh": "施設；設備；工場",
+            "ex": "It replaces an outdated facility located nearby.",
+            "exzh": "それは近くにある時代遅れの施設に取って代わる。",
+            "ipa": "/fəˈsɪlɪti/",
+            "audio": "media/words/ep74/facility.mp3",
+            "ex_audio": "media/words/ep74/facility_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "replace",
+            "pos": "v.",
+            "zh": "取って代わる；取り替える",
+            "ex": "The new plant replaces the old one.",
+            "exzh": "新工場が古い工場に取って代わる。",
+            "ipa": "/ˌriˈpleɪs/",
+            "audio": "media/words/ep74/replace.mp3",
+            "ex_audio": "media/words/ep74/replace_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "outdated",
+            "pos": "adj.",
+            "zh": "時代遅れの；旧式の",
+            "ex": "The new plant replaces an outdated facility.",
+            "exzh": "新工場は時代遅れの施設に取って代わる。",
+            "ipa": "/ˈaʊtˌdeɪtɪd/",
+            "audio": "media/words/ep74/outdated.mp3",
+            "ex_audio": "media/words/ep74/outdated_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "annually",
+            "pos": "adv.",
+            "zh": "毎年；年に1回",
+            "ex": "The plant can process 10 million kilos annually.",
+            "exzh": "その工場は年間1,000万キロを加工できる。",
+            "ipa": "/ˈænjuəli/",
+            "audio": "media/words/ep74/annually.mp3",
+            "ex_audio": "media/words/ep74/annually_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "figure",
+            "pos": "n.",
+            "zh": "数字；数値；人物；図",
+            "ex": "This figure is higher than last year.",
+            "exzh": "この数字は昨年より高い。",
+            "ipa": "/ˈfɪɡjɚ/",
+            "audio": "media/words/ep74/figure.mp3",
+            "ex_audio": "media/words/ep74/figure_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "widen",
+            "pos": "v.",
+            "zh": "広げる；拡幅する",
+            "ex": "The town plans to widen Clifton Road.",
+            "exzh": "町は Clifton Road を拡幅する予定だ。",
+            "ipa": "/ˈwaɪdən/",
+            "audio": "media/words/ep74/widen.mp3",
+            "ex_audio": "media/words/ep74/widen_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "primary",
+            "pos": "adj.",
+            "zh": "主な；第一の",
+            "ex": "The primary goal is to make the road safer.",
+            "exzh": "主な目的は道路をより安全にすることだ。",
+            "ipa": "/ˈpraɪˌmɛri/",
+            "audio": "media/words/ep74/primary.mp3",
+            "ex_audio": "media/words/ep74/primary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "secondary",
+            "pos": "adj.",
+            "zh": "二次的な；第二の",
+            "ex": "A secondary aim is to reduce traffic jams.",
+            "exzh": "第二の目的は交通渋滞を減らすことだ。",
+            "ipa": "/ˈsɛkənˌdɛri/",
+            "audio": "media/words/ep74/secondary.mp3",
+            "ex_audio": "media/words/ep74/secondary_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "aim",
+            "pos": "n./v.",
+            "zh": "目的；目指す",
+            "ex": "The aim of the project is to reduce traffic.",
+            "exzh": "そのプロジェクトの目的は交通量を減らすことだ。",
+            "ipa": "/eɪm/",
+            "audio": "media/words/ep74/aim.mp3",
+            "ex_audio": "media/words/ep74/aim_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "modification",
+            "pos": "n.",
+            "zh": "変更；修正",
+            "ex": "Any modifications made must allow easy access.",
+            "exzh": "行われる変更はすべて、出入りしやすいものでなければならない。",
+            "ipa": "/ˌmɑdəfəˈkeɪʃən/",
+            "audio": "media/words/ep74/modification.mp3",
+            "ex_audio": "media/words/ep74/modification_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "existing",
+            "pos": "adj.",
+            "zh": "既存の；現在の",
+            "ex": "Existing sidewalks will be extended.",
+            "exzh": "既存の歩道は延長される。",
+            "ipa": "/ɪɡˈzɪstɪŋ/",
+            "audio": "media/words/ep74/existing.mp3",
+            "ex_audio": "media/words/ep74/existing_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "municipal",
+            "pos": "adj.",
+            "zh": "市の；市営の",
+            "ex": "Details are on the municipal Web site.",
+            "exzh": "詳細は市のウェブサイトにある。",
+            "ipa": "/mjuˈnɪsəpəl/",
+            "audio": "media/words/ep74/municipal.mp3",
+            "ex_audio": "media/words/ep74/municipal_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "proposal",
+            "pos": "n.",
+            "zh": "提案；企画案",
+            "ex": "The council reviewed the proposal.",
+            "exzh": "議会は提案を検討した。",
+            "ipa": "/prəˈpoʊzəl/",
+            "audio": "media/words/ep74/proposal.mp3",
+            "ex_audio": "media/words/ep74/proposal_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "pedestrian",
+            "pos": "n./adj.",
+            "zh": "歩行者；歩行者用の",
+            "ex": "The road will be safer for pedestrians.",
+            "exzh": "この道は歩行者にとってより安全になる。",
+            "ipa": "/pəˈdɛstriən/",
+            "audio": "media/words/ep74/pedestrian.mp3",
+            "ex_audio": "media/words/ep74/pedestrian_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "let in",
+            "pos": "phr.",
+            "zh": "…を中に入れる",
+            "ex": "Please let the cleaners in at 8:00 a.m.",
+            "exzh": "朝8時に清掃員を中に入れてください。",
+            "ipa": "/lɛt ɪn/",
+            "audio": "media/words/ep74/let-in.mp3",
+            "ex_audio": "media/words/ep74/let-in_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "staff meeting",
+            "pos": "n.",
+            "zh": "職員会議；社内ミーティング",
+            "ex": "You can ask me at tomorrow's staff meeting.",
+            "exzh": "明日の職員会議で聞いてください。",
+            "ipa": "/stæf ˈmitɪŋ/",
+            "audio": "media/words/ep74/staff-meeting.mp3",
+            "ex_audio": "media/words/ep74/staff-meeting_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "closed to the public",
+            "pos": "phr.",
+            "zh": "一般公開されていない",
+            "ex": "The museum is closed to the public on Tuesdays.",
+            "exzh": "博物館は火曜日は一般公開されていない。",
+            "ipa": "/kloʊzd tu ðə ˈpʌblɪk/",
+            "audio": "media/words/ep74/closed-to-the-public.mp3",
+            "ex_audio": "media/words/ep74/closed-to-the-public_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "once a week",
+            "pos": "phr.",
+            "zh": "週に1回",
+            "ex": "The cleaning service comes once a week.",
+            "exzh": "清掃サービスは週に1回来る。",
+            "ipa": "/wʌns ə wik/",
+            "audio": "media/words/ep74/once-a-week.mp3",
+            "ex_audio": "media/words/ep74/once-a-week_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "showtime",
+            "pos": "n.",
+            "zh": "上映時間；開演時間",
+            "ex": "The showtimes are 10 A.M. and 2 P.M.",
+            "exzh": "上映時間は午前10時と午後2時だ。",
+            "ipa": "/ˈʃoʊˌtaɪm/",
+            "audio": "media/words/ep74/showtime.mp3",
+            "ex_audio": "media/words/ep74/showtime_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "noon",
+            "pos": "n.",
+            "zh": "正午",
+            "ex": "The film starts at noon.",
+            "exzh": "映画は正午に始まる。",
+            "ipa": "/nun/",
+            "audio": "media/words/ep74/noon.mp3",
+            "ex_audio": "media/words/ep74/noon_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "gallery",
+            "pos": "n.",
+            "zh": "展示室；ギャラリー",
+            "ex": "The windows in the pottery gallery need cleaning.",
+            "exzh": "陶芸展示室の窓は掃除が必要だ。",
+            "ipa": "/ˈɡælɚi/",
+            "audio": "media/words/ep74/gallery.mp3",
+            "ex_audio": "media/words/ep74/gallery_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "frequently",
+            "pos": "adv.",
+            "zh": "頻繁に；よく",
+            "ex": "These windows are frequently missed.",
+            "exzh": "この窓はよく見落とされる。",
+            "ipa": "/ˈfrikwəntli/",
+            "audio": "media/words/ep74/frequently.mp3",
+            "ex_audio": "media/words/ep74/frequently_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "adjacent to",
+            "pos": "phr.",
+            "zh": "…に隣接した",
+            "ex": "The store is adjacent to the gallery.",
+            "exzh": "店は展示室に隣接している。",
+            "ipa": "/əˈdʒeɪsənt tu/",
+            "audio": "media/words/ep74/adjacent-to.mp3",
+            "ex_audio": "media/words/ep74/adjacent-to_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "directly across from",
+            "pos": "phr.",
+            "zh": "…の真向かいに",
+            "ex": "The cafe is directly across from the museum.",
+            "exzh": "カフェは博物館の真向かいにある。",
+            "ipa": "/dɚˈɛktli əˈkrɔs frʌm/",
+            "audio": "media/words/ep74/directly-across-from.mp3",
+            "ex_audio": "media/words/ep74/directly-across-from_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep74_cover.png",
+    "theme_ja": "苦手分野特集⑤：Part 6 の3つの文章の間違い（Q141 は3回）· Part 7 の3文書 Q186–190（Test 1）",
+    "words": [
+      {
+        "word": "thoroughly",
+        "pos": "adv.",
+        "zh": "非常；彻底地",
+        "ex": "I thoroughly enjoyed meeting you.",
+        "exzh": "和您见面我非常愉快。",
+        "ipa": "/ˈθɝoʊli/",
+        "audio": "media/words/ep74/thoroughly.mp3",
+        "ex_audio": "media/words/ep74/thoroughly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "technician",
+        "pos": "n.",
+        "zh": "技术人员",
+        "ex": "The technicians showed me the farm equipment.",
+        "exzh": "技术人员给我看了农场设备。",
+        "ipa": "/tɛkˈnɪʃən/",
+        "audio": "media/words/ep74/technician.mp3",
+        "ex_audio": "media/words/ep74/technician_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "decline",
+        "pos": "v./n.",
+        "zh": "婉拒；谢绝；下降",
+        "ex": "He had to decline the job offer.",
+        "exzh": "他只好婉拒这份工作邀请。",
+        "ipa": "/dɪˈklaɪn/",
+        "audio": "media/words/ep74/decline.mp3",
+        "ex_audio": "media/words/ep74/decline_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "given",
+        "pos": "prep.",
+        "zh": "考虑到；鉴于",
+        "ex": "Given my interest, the decision was difficult.",
+        "exzh": "考虑到我的兴趣，这个决定很艰难。",
+        "ipa": "/ˈɡɪvən/",
+        "audio": "media/words/ep74/given.mp3",
+        "ex_audio": "media/words/ep74/given_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reference",
+        "pos": "n.",
+        "zh": "推荐人；推荐信；参考",
+        "ex": "I can provide additional references.",
+        "exzh": "我可以提供更多推荐人。",
+        "ipa": "/ˈrɛfɚəns/",
+        "audio": "media/words/ep74/reference.mp3",
+        "ex_audio": "media/words/ep74/reference_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "agricultural",
+        "pos": "adj.",
+        "zh": "农业的",
+        "ex": "We may meet again at an agricultural event.",
+        "exzh": "我们也许会在农业活动上再见。",
+        "ipa": "/ˌæɡrəˈkʌltʃɚəl/",
+        "audio": "media/words/ep74/agricultural.mp3",
+        "ex_audio": "media/words/ep74/agricultural_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "facility",
+        "pos": "n.",
+        "zh": "设施；场所；工厂",
+        "ex": "It replaces an outdated facility located nearby.",
+        "exzh": "它取代了附近一个老旧的设施。",
+        "ipa": "/fəˈsɪlɪti/",
+        "audio": "media/words/ep74/facility.mp3",
+        "ex_audio": "media/words/ep74/facility_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "replace",
+        "pos": "v.",
+        "zh": "取代；替换",
+        "ex": "The new plant replaces the old one.",
+        "exzh": "新工厂取代了旧工厂。",
+        "ipa": "/ˌriˈpleɪs/",
+        "audio": "media/words/ep74/replace.mp3",
+        "ex_audio": "media/words/ep74/replace_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "outdated",
+        "pos": "adj.",
+        "zh": "过时的；陈旧的",
+        "ex": "The new plant replaces an outdated facility.",
+        "exzh": "新工厂取代了一个老旧的设施。",
+        "ipa": "/ˈaʊtˌdeɪtɪd/",
+        "audio": "media/words/ep74/outdated.mp3",
+        "ex_audio": "media/words/ep74/outdated_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "annually",
+        "pos": "adv.",
+        "zh": "每年；按年",
+        "ex": "The plant can process 10 million kilos annually.",
+        "exzh": "这家工厂每年能加工一千万公斤。",
+        "ipa": "/ˈænjuəli/",
+        "audio": "media/words/ep74/annually.mp3",
+        "ex_audio": "media/words/ep74/annually_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "figure",
+        "pos": "n.",
+        "zh": "数字；数据；人物；图形",
+        "ex": "This figure is higher than last year.",
+        "exzh": "这个数字比去年高。",
+        "ipa": "/ˈfɪɡjɚ/",
+        "audio": "media/words/ep74/figure.mp3",
+        "ex_audio": "media/words/ep74/figure_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "widen",
+        "pos": "v.",
+        "zh": "拓宽；加宽",
+        "ex": "The town plans to widen Clifton Road.",
+        "exzh": "市里计划拓宽 Clifton 路。",
+        "ipa": "/ˈwaɪdən/",
+        "audio": "media/words/ep74/widen.mp3",
+        "ex_audio": "media/words/ep74/widen_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "primary",
+        "pos": "adj.",
+        "zh": "主要的；首要的",
+        "ex": "The primary goal is to make the road safer.",
+        "exzh": "主要目标是让道路更安全。",
+        "ipa": "/ˈpraɪˌmɛri/",
+        "audio": "media/words/ep74/primary.mp3",
+        "ex_audio": "media/words/ep74/primary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "secondary",
+        "pos": "adj.",
+        "zh": "次要的；第二位的",
+        "ex": "A secondary aim is to reduce traffic jams.",
+        "exzh": "第二个目标是减少交通堵塞。",
+        "ipa": "/ˈsɛkənˌdɛri/",
+        "audio": "media/words/ep74/secondary.mp3",
+        "ex_audio": "media/words/ep74/secondary_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "aim",
+        "pos": "n./v.",
+        "zh": "目标；旨在",
+        "ex": "The aim of the project is to reduce traffic.",
+        "exzh": "这个项目的目标是减少交通流量。",
+        "ipa": "/eɪm/",
+        "audio": "media/words/ep74/aim.mp3",
+        "ex_audio": "media/words/ep74/aim_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "modification",
+        "pos": "n.",
+        "zh": "修改；改动",
+        "ex": "Any modifications made must allow easy access.",
+        "exzh": "所做的任何改动都必须方便进出。",
+        "ipa": "/ˌmɑdəfəˈkeɪʃən/",
+        "audio": "media/words/ep74/modification.mp3",
+        "ex_audio": "media/words/ep74/modification_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "existing",
+        "pos": "adj.",
+        "zh": "现有的",
+        "ex": "Existing sidewalks will be extended.",
+        "exzh": "现有的人行道将被延长。",
+        "ipa": "/ɪɡˈzɪstɪŋ/",
+        "audio": "media/words/ep74/existing.mp3",
+        "ex_audio": "media/words/ep74/existing_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "municipal",
+        "pos": "adj.",
+        "zh": "市政的；市的",
+        "ex": "Details are on the municipal Web site.",
+        "exzh": "详情在市政网站上。",
+        "ipa": "/mjuˈnɪsəpəl/",
+        "audio": "media/words/ep74/municipal.mp3",
+        "ex_audio": "media/words/ep74/municipal_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案；方案；建议书",
+        "ex": "The council reviewed the proposal.",
+        "exzh": "市议会审阅了这份提案。",
+        "ipa": "/prəˈpoʊzəl/",
+        "audio": "media/words/ep74/proposal.mp3",
+        "ex_audio": "media/words/ep74/proposal_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "pedestrian",
+        "pos": "n./adj.",
+        "zh": "行人；步行的",
+        "ex": "The road will be safer for pedestrians.",
+        "exzh": "这条路对行人会更安全。",
+        "ipa": "/pəˈdɛstriən/",
+        "audio": "media/words/ep74/pedestrian.mp3",
+        "ex_audio": "media/words/ep74/pedestrian_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "let in",
+        "pos": "phr.",
+        "zh": "让……进来；放……进入",
+        "ex": "Please let the cleaners in at 8:00 a.m.",
+        "exzh": "请在早上八点让清洁工进来。",
+        "ipa": "/lɛt ɪn/",
+        "audio": "media/words/ep74/let-in.mp3",
+        "ex_audio": "media/words/ep74/let-in_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "staff meeting",
+        "pos": "n.",
+        "zh": "员工会议",
+        "ex": "You can ask me at tomorrow's staff meeting.",
+        "exzh": "你可以在明天的员工会议上问我。",
+        "ipa": "/stæf ˈmitɪŋ/",
+        "audio": "media/words/ep74/staff-meeting.mp3",
+        "ex_audio": "media/words/ep74/staff-meeting_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "closed to the public",
+        "pos": "phr.",
+        "zh": "不对公众开放",
+        "ex": "The museum is closed to the public on Tuesdays.",
+        "exzh": "博物馆星期二不对公众开放。",
+        "ipa": "/kloʊzd tu ðə ˈpʌblɪk/",
+        "audio": "media/words/ep74/closed-to-the-public.mp3",
+        "ex_audio": "media/words/ep74/closed-to-the-public_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "once a week",
+        "pos": "phr.",
+        "zh": "每周一次",
+        "ex": "The cleaning service comes once a week.",
+        "exzh": "清洁服务每周来一次。",
+        "ipa": "/wʌns ə wik/",
+        "audio": "media/words/ep74/once-a-week.mp3",
+        "ex_audio": "media/words/ep74/once-a-week_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "showtime",
+        "pos": "n.",
+        "zh": "放映时间；开演时间",
+        "ex": "The showtimes are 10 A.M. and 2 P.M.",
+        "exzh": "放映时间是上午十点和下午两点。",
+        "ipa": "/ˈʃoʊˌtaɪm/",
+        "audio": "media/words/ep74/showtime.mp3",
+        "ex_audio": "media/words/ep74/showtime_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "noon",
+        "pos": "n.",
+        "zh": "中午；正午",
+        "ex": "The film starts at noon.",
+        "exzh": "影片中午开始放映。",
+        "ipa": "/nun/",
+        "audio": "media/words/ep74/noon.mp3",
+        "ex_audio": "media/words/ep74/noon_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "gallery",
+        "pos": "n.",
+        "zh": "展厅；画廊；美术馆",
+        "ex": "The windows in the pottery gallery need cleaning.",
+        "exzh": "陶艺展厅的窗户需要清洗。",
+        "ipa": "/ˈɡælɚi/",
+        "audio": "media/words/ep74/gallery.mp3",
+        "ex_audio": "media/words/ep74/gallery_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "frequently",
+        "pos": "adv.",
+        "zh": "经常；频繁地",
+        "ex": "These windows are frequently missed.",
+        "exzh": "这些窗户经常被漏掉。",
+        "ipa": "/ˈfrikwəntli/",
+        "audio": "media/words/ep74/frequently.mp3",
+        "ex_audio": "media/words/ep74/frequently_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "adjacent to",
+        "pos": "phr.",
+        "zh": "邻近；毗邻",
+        "ex": "The store is adjacent to the gallery.",
+        "exzh": "商店紧邻展厅。",
+        "ipa": "/əˈdʒeɪsənt tu/",
+        "audio": "media/words/ep74/adjacent-to.mp3",
+        "ex_audio": "media/words/ep74/adjacent-to_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "directly across from",
+        "pos": "phr.",
+        "zh": "正对面；就在……对面",
+        "ex": "The cafe is directly across from the museum.",
+        "exzh": "咖啡馆就在博物馆正对面。",
+        "ipa": "/dɚˈɛktli əˈkrɔs frʌm/",
+        "audio": "media/words/ep74/directly-across-from.mp3",
+        "ex_audio": "media/words/ep74/directly-across-from_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 73,
     "theme": "错题薄弱项专题④：Part 5 两次都错的 10 道题 · Part 7 两组（Test 1）",
     "date": "2026-11-24",
