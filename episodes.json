@@ -1,5 +1,1139 @@
 [
   {
+    "number": 75,
+    "theme": "错题薄弱项专题⑥：Part 7 两组三篇阅读（Q191–195 · Q196–200，Test 1）",
+    "date": "2026-11-26",
+    "duration_sec": 2429.3,
+    "segments": [
+      {
+        "title": "1. Part 7 错题复习（Test 1 Q191–195 三篇 · 顾客邮件 + 经理邮件 + 员工通讯）",
+        "start": 0.0,
+        "length": 902.81
+      },
+      {
+        "title": "2. Part 7 错题复习（Test 1 Q196–200 三篇 · 研究报告 + 邮件 + 便条）",
+        "start": 902.81,
+        "length": 954.71
+      },
+      {
+        "title": "3. 本期 30 词总复习 · 拼读",
+        "start": 1857.52,
+        "length": 571.74
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "competitor",
+        "zh": "竞争对手"
+      },
+      {
+        "word": "enhancement",
+        "zh": "改进；增强（的功能）"
+      },
+      {
+        "word": "designated",
+        "zh": "指定的"
+      },
+      {
+        "word": "ferment",
+        "zh": "发酵"
+      },
+      {
+        "word": "touch base",
+        "zh": "碰头；联系一下"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. It will have a larger staff in August than it did in April.",
+        "zh": "第191题；Carmen 女士在第一封邮件里暗示了什么？suggest 在这里是“暗示”；是推断题。她说你们店"
+      },
+      {
+        "word": "competitive",
+        "zh": "意思是：有竞争力的；；价格；实惠的"
+      },
+      {
+        "word": "curbside pickup",
+        "zh": "意思是：路边取货；网上下单；店员把商品送到车上"
+      },
+      {
+        "word": "incentive",
+        "zh": "意思是：激励；动机"
+      },
+      {
+        "word": "be willing to",
+        "zh": "意思是：愿意；做"
+      },
+      {
+        "word": "patronize",
+        "zh": "意思是：光顾；经常惠顾"
+      },
+      {
+        "word": "competitor",
+        "zh": "意思是：竞争对手"
+      },
+      {
+        "word": "customer base",
+        "zh": "意思是：客户群；顾客基础"
+      },
+      {
+        "word": "recommend",
+        "zh": "意思是：推荐；建议"
+      },
+      {
+        "word": "profit",
+        "zh": "意思是：利润"
+      },
+      {
+        "word": "enhancement",
+        "zh": "意思是：改进；增强；的功能"
+      },
+      {
+        "word": "implement",
+        "zh": "意思是：实施；执行"
+      },
+      {
+        "word": "designated",
+        "zh": "意思是：指定的"
+      },
+      {
+        "word": "conclude",
+        "zh": "意思是：推断出；得出结论"
+      },
+      {
+        "word": "D. Eventide",
+        "zh": "第196题；报告引言里关于传统的可可豆处理方法；提到了什么？原文说；传统方法是可可豆收获以后；铺"
+      },
+      {
+        "word": "harvest",
+        "zh": "意思是：收获；收割；收成"
+      },
+      {
+        "word": "ferment",
+        "zh": "意思是：发酵"
+      },
+      {
+        "word": "moist",
+        "zh": "意思是：湿润的；潮湿的"
+      },
+      {
+        "word": "incubation",
+        "zh": "意思是：培养；孵化"
+      },
+      {
+        "word": "peel",
+        "zh": "意思是：果皮；外皮"
+      },
+      {
+        "word": "microbe",
+        "zh": "意思是：微生物"
+      },
+      {
+        "word": "bitterness",
+        "zh": "意思是：苦味；苦涩"
+      },
+      {
+        "word": "touch base",
+        "zh": "意思是：碰头；联系一下"
+      },
+      {
+        "word": "promotion",
+        "zh": "意思是：推广；促销；晋升"
+      },
+      {
+        "word": "alternative",
+        "zh": "意思是：替代的；另一种的；替代方案"
+      },
+      {
+        "word": "procurement",
+        "zh": "意思是：采购；获得"
+      },
+      {
+        "word": "rave about",
+        "zh": "意思是：极力称赞；赞不绝口"
+      },
+      {
+        "word": "responsible for",
+        "zh": "意思是：是…的原因；负责"
+      },
+      {
+        "word": "ingredient",
+        "zh": "意思是：原料；成分"
+      },
+      {
+        "word": "fill in for",
+        "zh": "意思是：替做工作；代班"
+      },
+      {
+        "word": "enclosed",
+        "zh": "意思是：随附的；附上的"
+      },
+      {
+        "word": "sold out",
+        "zh": "意思是：卖光的；售罄的"
+      },
+      {
+        "word": "competitive",
+        "zh": "有竞争力的；；价格；实惠的"
+      },
+      {
+        "word": "curbside pickup",
+        "zh": "路边取货；网上下单；店员把商品送到车上"
+      },
+      {
+        "word": "incentive",
+        "zh": "激励；动机"
+      },
+      {
+        "word": "be willing to",
+        "zh": "愿意；做"
+      },
+      {
+        "word": "patronize",
+        "zh": "光顾；经常惠顾"
+      },
+      {
+        "word": "competitor",
+        "zh": "竞争对手"
+      },
+      {
+        "word": "customer base",
+        "zh": "客户群；顾客基础"
+      },
+      {
+        "word": "recommend",
+        "zh": "推荐；建议"
+      },
+      {
+        "word": "profit",
+        "zh": "利润"
+      },
+      {
+        "word": "enhancement",
+        "zh": "改进；增强；的功能"
+      },
+      {
+        "word": "implement",
+        "zh": "实施；执行"
+      },
+      {
+        "word": "designated",
+        "zh": "指定的"
+      },
+      {
+        "word": "conclude",
+        "zh": "推断出；得出结论"
+      },
+      {
+        "word": "harvest",
+        "zh": "收获；收割；收成"
+      },
+      {
+        "word": "ferment",
+        "zh": "发酵"
+      },
+      {
+        "word": "moist",
+        "zh": "湿润的；潮湿的"
+      },
+      {
+        "word": "incubation",
+        "zh": "培养；孵化"
+      },
+      {
+        "word": "peel",
+        "zh": "果皮；外皮"
+      },
+      {
+        "word": "microbe",
+        "zh": "微生物"
+      },
+      {
+        "word": "bitterness",
+        "zh": "苦味；苦涩"
+      },
+      {
+        "word": "touch base",
+        "zh": "碰头；联系一下"
+      },
+      {
+        "word": "promotion",
+        "zh": "推广；促销；晋升"
+      },
+      {
+        "word": "alternative",
+        "zh": "替代的；另一种的；替代方案"
+      },
+      {
+        "word": "procurement",
+        "zh": "采购；获得"
+      },
+      {
+        "word": "rave about",
+        "zh": "极力称赞；赞不绝口"
+      },
+      {
+        "word": "responsible for",
+        "zh": "是…的原因；负责"
+      },
+      {
+        "word": "ingredient",
+        "zh": "原料；成分"
+      },
+      {
+        "word": "fill in for",
+        "zh": "替做工作；代班"
+      },
+      {
+        "word": "enclosed",
+        "zh": "随附的；附上的"
+      },
+      {
+        "word": "sold out",
+        "zh": "卖光的；售罄的"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep75.mp4",
+    "script_pdf": "media/ep75_script.pdf",
+    "source_video": "ep75.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep75.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep75.mp4",
+        "script_pdf": "media/ep75_script.pdf",
+        "duration_sec": 2429.3,
+        "theme": "错题薄弱项专题⑥：Part 7 两组三篇阅读（Q191–195 · Q196–200，Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 7 错题复习（Test 1 Q191–195 三篇 · 顾客邮件 + 经理邮件 + 员工通讯）",
+            "start": 0.0,
+            "length": 902.81
+          },
+          {
+            "title": "2. Part 7 错题复习（Test 1 Q196–200 三篇 · 研究报告 + 邮件 + 便条）",
+            "start": 902.81,
+            "length": 954.71
+          },
+          {
+            "title": "3. 本期 30 词总复习 · 拼读",
+            "start": 1857.52,
+            "length": 571.74
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep75ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep75ja.mp4",
+        "script_pdf": "media/ep75ja_script.pdf",
+        "duration_sec": 2914.8,
+        "theme": "苦手分野特集⑥：Part 7 のトリプルパッセージ2セット（Q191–195 · Q196–200、Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 7 間違い復習（Test 1 Q191–195 3文書 · 顧客メール + 店長メール + ニュースレター）",
+            "start": 0.0,
+            "length": 1140.56
+          },
+          {
+            "title": "2. Part 7 間違い復習（Test 1 Q196–200 3文書 · 研究報告 + メール + メモ）",
+            "start": 1140.56,
+            "length": 1146.93
+          },
+          {
+            "title": "3. 今回の 30 語総復習 · スペル",
+            "start": 2287.48,
+            "length": 627.37
+          }
+        ],
+        "poster": "media/ep75ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "competitor",
+            "zh": "競合相手；ライバル"
+          },
+          {
+            "word": "enhancement",
+            "zh": "改良；機能の強化"
+          },
+          {
+            "word": "designated",
+            "zh": "指定された"
+          },
+          {
+            "word": "ferment",
+            "zh": "発酵する；発酵させる"
+          },
+          {
+            "word": "touch base",
+            "zh": "連絡を取る；打ち合わせる"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "competitive",
+          "curbside pickup",
+          "incentive",
+          "be willing to",
+          "patronize",
+          "competitor",
+          "customer base",
+          "recommend",
+          "profit",
+          "enhancement",
+          "implement",
+          "designated",
+          "conclude",
+          "harvest",
+          "ferment",
+          "moist",
+          "incubation",
+          "peel",
+          "microbe",
+          "bitterness",
+          "touch base",
+          "promotion",
+          "alternative",
+          "procurement",
+          "rave about",
+          "responsible for",
+          "ingredient",
+          "fill in for",
+          "enclosed",
+          "sold out"
+        ],
+        "words": [
+          {
+            "word": "competitive",
+            "pos": "adj.",
+            "zh": "競争力のある；（価格が）安い",
+            "ex": "Prices at your store are very competitive.",
+            "exzh": "御社の店の価格はとても競争力がある。",
+            "ipa": "/kəmˈpɛtətɪv/",
+            "audio": "media/words/ep75/competitive.mp3",
+            "ex_audio": "media/words/ep75/competitive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "curbside pickup",
+            "pos": "n.",
+            "zh": "店頭での車受け取り（ネット注文、店員が車まで届ける）",
+            "ex": "Curbside pickup will begin on August 1.",
+            "exzh": "車での受け取りサービスは8月1日に始まる。",
+            "ipa": "/ˈkɝbˌsaɪd ˈpɪˌkʌp/",
+            "audio": "media/words/ep75/curbside-pickup.mp3",
+            "ex_audio": "media/words/ep75/curbside-pickup_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "incentive",
+            "pos": "n.",
+            "zh": "動機；誘因",
+            "ex": "It would be an added incentive to shop here.",
+            "exzh": "ここで買い物をするさらなる動機になります。",
+            "ipa": "/ˌɪnˈsɛntɪv/",
+            "audio": "media/words/ep75/incentive.mp3",
+            "ex_audio": "media/words/ep75/incentive_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "be willing to",
+            "pos": "phr.",
+            "zh": "…してもかまわない；進んで…する",
+            "ex": "I would be willing to pay a small fee.",
+            "exzh": "少額の料金なら払ってもかまわない。",
+            "ipa": "/bi ˈwɪlɪŋ tu/",
+            "audio": "media/words/ep75/be-willing-to.mp3",
+            "ex_audio": "media/words/ep75/be-willing-to_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "patronize",
+            "pos": "v.",
+            "zh": "ひいきにする；常連になる",
+            "ex": "I would patronize Vallie Grocery instead of Foodmore.",
+            "exzh": "Foodmore ではなく Vallie Grocery をひいきにします。",
+            "ipa": "/ˈpeɪtrəˌnaɪz/",
+            "audio": "media/words/ep75/patronize.mp3",
+            "ex_audio": "media/words/ep75/patronize_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "competitor",
+            "pos": "n.",
+            "zh": "競合相手；ライバル",
+            "ex": "We are losing customers to our closest competitor.",
+            "exzh": "最も近い競合店に客を奪われている。",
+            "ipa": "/kəmˈpɛtətɚ/",
+            "audio": "media/words/ep75/competitor.mp3",
+            "ex_audio": "media/words/ep75/competitor_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "customer base",
+            "pos": "n.",
+            "zh": "顧客層；顧客基盤",
+            "ex": "The new service could increase our customer base.",
+            "exzh": "新しいサービスで顧客層を広げられる。",
+            "ipa": "/ˈkʌstəmɚ beɪs/",
+            "audio": "media/words/ep75/customer-base.mp3",
+            "ex_audio": "media/words/ep75/customer-base_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "recommend",
+            "pos": "v.",
+            "zh": "勧める；推薦する",
+            "ex": "The e-mail recommends a new service.",
+            "exzh": "そのメールは新しいサービスを勧めています。",
+            "ipa": "/ˌrɛkəˈmɛnd/",
+            "audio": "media/words/ep75/recommend.mp3",
+            "ex_audio": "media/words/ep75/recommend_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "profit",
+            "pos": "n.",
+            "zh": "利益",
+            "ex": "Hiring more workers could increase our profits.",
+            "exzh": "人を増やせば利益を増やせるかもしれません。",
+            "ipa": "/ˈprɑfət/",
+            "audio": "media/words/ep75/profit.mp3",
+            "ex_audio": "media/words/ep75/profit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "enhancement",
+            "pos": "n.",
+            "zh": "改良；機能の強化",
+            "ex": "He offered to add an enhancement to the Web site.",
+            "exzh": "彼はウェブサイトに機能を追加すると申し出た。",
+            "ipa": "/ɛnˈhænsmənt/",
+            "audio": "media/words/ep75/enhancement.mp3",
+            "ex_audio": "media/words/ep75/enhancement_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "implement",
+            "pos": "v.",
+            "zh": "実施する；導入する",
+            "ex": "The store is implementing curbside pickup.",
+            "exzh": "その店は車での受け取りサービスを導入している。",
+            "ipa": "/ˈɪmpləmənt/",
+            "audio": "media/words/ep75/implement.mp3",
+            "ex_audio": "media/words/ep75/implement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "designated",
+            "pos": "adj.",
+            "zh": "指定された",
+            "ex": "Customers wait in a designated parking space.",
+            "exzh": "客は指定された駐車スペースで待つ。",
+            "ipa": "/ˈdɛzɪɡˌneɪtɪd/",
+            "audio": "media/words/ep75/designated.mp3",
+            "ex_audio": "media/words/ep75/designated_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "conclude",
+            "pos": "v.",
+            "zh": "結論づける；推測する",
+            "ex": "What can be concluded about Ms. Carmen?",
+            "exzh": "Carmen さんについて何が推測できますか。",
+            "ipa": "/kənˈklud/",
+            "audio": "media/words/ep75/conclude.mp3",
+            "ex_audio": "media/words/ep75/conclude_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "harvest",
+            "pos": "v./n.",
+            "zh": "収穫する；収穫",
+            "ex": "Cocoa beans are harvested and then covered.",
+            "exzh": "カカオ豆は収穫されてから覆いをかけられる。",
+            "ipa": "/ˈhɑrvəst/",
+            "audio": "media/words/ep75/harvest.mp3",
+            "ex_audio": "media/words/ep75/harvest_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ferment",
+            "pos": "v.",
+            "zh": "発酵する；発酵させる",
+            "ex": "The beans are covered for a few days to ferment.",
+            "exzh": "豆は数日間覆いをかけて発酵させる。",
+            "ipa": "/fɚˈmɛnt/",
+            "audio": "media/words/ep75/ferment.mp3",
+            "ex_audio": "media/words/ep75/ferment_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "moist",
+            "pos": "adj.",
+            "zh": "湿った",
+            "ex": "The new process is called moist incubation.",
+            "exzh": "新しい工程は「湿式培養」と呼ばれます。",
+            "ipa": "/mɔɪst/",
+            "audio": "media/words/ep75/moist.mp3",
+            "ex_audio": "media/words/ep75/moist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "incubation",
+            "pos": "n.",
+            "zh": "培養；ふ化",
+            "ex": "Moist incubation relies on a chemical reaction.",
+            "exzh": "湿式培養は化学反応に頼っています。",
+            "ipa": "/ˌɪŋkjuˈbeɪʃən/",
+            "audio": "media/words/ep75/incubation.mp3",
+            "ex_audio": "media/words/ep75/incubation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "peel",
+            "pos": "n.",
+            "zh": "皮",
+            "ex": "The covering most favored is banana peels.",
+            "exzh": "最もよく使われる覆いはバナナの皮です。",
+            "ipa": "/pil/",
+            "audio": "media/words/ep75/peel.mp3",
+            "ex_audio": "media/words/ep75/peel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "microbe",
+            "pos": "n.",
+            "zh": "微生物",
+            "ex": "Microbes reduce the beans' bitterness.",
+            "exzh": "微生物が豆の苦みを減らします。",
+            "ipa": "/ˈmaɪˌkroʊb/",
+            "audio": "media/words/ep75/microbe.mp3",
+            "ex_audio": "media/words/ep75/microbe_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "bitterness",
+            "pos": "n.",
+            "zh": "苦み",
+            "ex": "Fermentation reduces bitterness.",
+            "exzh": "発酵は苦みを減らします。",
+            "ipa": "/ˈbɪtɚnəs/",
+            "audio": "media/words/ep75/bitterness.mp3",
+            "ex_audio": "media/words/ep75/bitterness_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "touch base",
+            "pos": "phr.",
+            "zh": "連絡を取る；打ち合わせる",
+            "ex": "We should touch base tomorrow.",
+            "exzh": "明日、打ち合わせをしましょう。",
+            "ipa": "/tʌtʃ beɪs/",
+            "audio": "media/words/ep75/touch-base.mp3",
+            "ex_audio": "media/words/ep75/touch-base_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "promotion",
+            "pos": "n.",
+            "zh": "販売促進；宣伝",
+            "ex": "The marketing team understands product promotion.",
+            "exzh": "マーケティングチームは製品の宣伝に詳しいです。",
+            "ipa": "/prəˈmoʊʃən/",
+            "audio": "media/words/ep75/promotion.mp3",
+            "ex_audio": "media/words/ep75/promotion_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "alternative",
+            "pos": "adj./n.",
+            "zh": "代わりの；別の；代案",
+            "ex": "The team evaluated an alternative process.",
+            "exzh": "チームは代わりの方法を評価した。",
+            "ipa": "/ɔlˈtɝnətɪv/",
+            "audio": "media/words/ep75/alternative.mp3",
+            "ex_audio": "media/words/ep75/alternative_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "procurement",
+            "pos": "n.",
+            "zh": "調達；購入",
+            "ex": "We must increase the procurement of ingredients.",
+            "exzh": "材料の調達を増やさなければならない。",
+            "ipa": "/proʊˈkjʊrmənt/",
+            "audio": "media/words/ep75/procurement.mp3",
+            "ex_audio": "media/words/ep75/procurement_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "rave about",
+            "pos": "v.",
+            "zh": "…を絶賛する",
+            "ex": "Food bloggers are raving about our chocolate.",
+            "exzh": "フードブロガーが当社のチョコレートを絶賛しています。",
+            "ipa": "/reɪv əˈbaʊt/",
+            "audio": "media/words/ep75/rave-about.mp3",
+            "ex_audio": "media/words/ep75/rave-about_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "responsible for",
+            "pos": "adj.",
+            "zh": "…の原因となる；…を担当する",
+            "ex": "What is responsible for the recent success?",
+            "exzh": "最近の成功の原因は何ですか。",
+            "ipa": "/riˈspɑnsəbəl fɔr/",
+            "audio": "media/words/ep75/responsible-for.mp3",
+            "ex_audio": "media/words/ep75/responsible-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ingredient",
+            "pos": "n.",
+            "zh": "材料；原料",
+            "ex": "Sea salt is the key ingredient of the Eventide bar.",
+            "exzh": "海塩は Eventide バーの重要な材料です。",
+            "ipa": "/ˌɪnˈɡridiənt/",
+            "audio": "media/words/ep75/ingredient.mp3",
+            "ex_audio": "media/words/ep75/ingredient_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "fill in for",
+            "pos": "phr.",
+            "zh": "…の代わりを務める",
+            "ex": "Thank you for filling in for me while I was on vacation.",
+            "exzh": "休暇中に代わりを務めてくれてありがとう。",
+            "ipa": "/fɪl ɪn fɔr/",
+            "audio": "media/words/ep75/fill-in-for.mp3",
+            "ex_audio": "media/words/ep75/fill-in-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "enclosed",
+            "pos": "adj.",
+            "zh": "同封の",
+            "ex": "Enclosed find the package of chocolate bars.",
+            "exzh": "チョコレートの詰め合わせを同封します。",
+            "ipa": "/ɛnˈkloʊzd/",
+            "audio": "media/words/ep75/enclosed.mp3",
+            "ex_audio": "media/words/ep75/enclosed_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sold out",
+            "pos": "adj.",
+            "zh": "売り切れの；完売の",
+            "ex": "Our chocolates are sold out in Europe and Asia.",
+            "exzh": "当社のチョコレートはヨーロッパとアジアで完売した。",
+            "ipa": "/soʊld aʊt/",
+            "audio": "media/words/ep75/sold-out.mp3",
+            "ex_audio": "media/words/ep75/sold-out_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep75_cover.png",
+    "theme_ja": "苦手分野特集⑥：Part 7 のトリプルパッセージ2セット（Q191–195 · Q196–200、Test 1）",
+    "words": [
+      {
+        "word": "competitive",
+        "pos": "adj.",
+        "zh": "有竞争力的；（价格）实惠的",
+        "ex": "Prices at your store are very competitive.",
+        "exzh": "你们店的价格很有竞争力。",
+        "ipa": "/kəmˈpɛtətɪv/",
+        "audio": "media/words/ep75/competitive.mp3",
+        "ex_audio": "media/words/ep75/competitive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "curbside pickup",
+        "pos": "n.",
+        "zh": "路边取货（网上下单，店员把商品送到车上）",
+        "ex": "Curbside pickup will begin on August 1.",
+        "exzh": "路边取货服务将于八月一日开始。",
+        "ipa": "/ˈkɝbˌsaɪd ˈpɪˌkʌp/",
+        "audio": "media/words/ep75/curbside-pickup.mp3",
+        "ex_audio": "media/words/ep75/curbside-pickup_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "incentive",
+        "pos": "n.",
+        "zh": "激励；动机",
+        "ex": "It would be an added incentive to shop here.",
+        "exzh": "这会是在这里购物的额外动力。",
+        "ipa": "/ˌɪnˈsɛntɪv/",
+        "audio": "media/words/ep75/incentive.mp3",
+        "ex_audio": "media/words/ep75/incentive_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "be willing to",
+        "pos": "phr.",
+        "zh": "愿意（做）",
+        "ex": "I would be willing to pay a small fee.",
+        "exzh": "我愿意付一点手续费。",
+        "ipa": "/bi ˈwɪlɪŋ tu/",
+        "audio": "media/words/ep75/be-willing-to.mp3",
+        "ex_audio": "media/words/ep75/be-willing-to_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "patronize",
+        "pos": "v.",
+        "zh": "光顾；经常惠顾",
+        "ex": "I would patronize Vallie Grocery instead of Foodmore.",
+        "exzh": "我会光顾 Vallie 超市，而不去 Foodmore。",
+        "ipa": "/ˈpeɪtrəˌnaɪz/",
+        "audio": "media/words/ep75/patronize.mp3",
+        "ex_audio": "media/words/ep75/patronize_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "competitor",
+        "pos": "n.",
+        "zh": "竞争对手",
+        "ex": "We are losing customers to our closest competitor.",
+        "exzh": "我们的顾客正在流向最近的竞争对手。",
+        "ipa": "/kəmˈpɛtətɚ/",
+        "audio": "media/words/ep75/competitor.mp3",
+        "ex_audio": "media/words/ep75/competitor_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "customer base",
+        "pos": "n.",
+        "zh": "客户群；顾客基础",
+        "ex": "The new service could increase our customer base.",
+        "exzh": "这项新服务能扩大我们的客户群。",
+        "ipa": "/ˈkʌstəmɚ beɪs/",
+        "audio": "media/words/ep75/customer-base.mp3",
+        "ex_audio": "media/words/ep75/customer-base_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "recommend",
+        "pos": "v.",
+        "zh": "推荐；建议",
+        "ex": "The e-mail recommends a new service.",
+        "exzh": "这封邮件推荐了一项新服务。",
+        "ipa": "/ˌrɛkəˈmɛnd/",
+        "audio": "media/words/ep75/recommend.mp3",
+        "ex_audio": "media/words/ep75/recommend_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "profit",
+        "pos": "n.",
+        "zh": "利润",
+        "ex": "Hiring more workers could increase our profits.",
+        "exzh": "多雇些员工可以增加我们的利润。",
+        "ipa": "/ˈprɑfət/",
+        "audio": "media/words/ep75/profit.mp3",
+        "ex_audio": "media/words/ep75/profit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "enhancement",
+        "pos": "n.",
+        "zh": "改进；增强（的功能）",
+        "ex": "He offered to add an enhancement to the Web site.",
+        "exzh": "他主动提出给网站增加一项改进功能。",
+        "ipa": "/ɛnˈhænsmənt/",
+        "audio": "media/words/ep75/enhancement.mp3",
+        "ex_audio": "media/words/ep75/enhancement_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "implement",
+        "pos": "v.",
+        "zh": "实施；执行",
+        "ex": "The store is implementing curbside pickup.",
+        "exzh": "这家店正在实施路边取货服务。",
+        "ipa": "/ˈɪmpləmənt/",
+        "audio": "media/words/ep75/implement.mp3",
+        "ex_audio": "media/words/ep75/implement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "designated",
+        "pos": "adj.",
+        "zh": "指定的",
+        "ex": "Customers wait in a designated parking space.",
+        "exzh": "顾客在指定的停车位等候。",
+        "ipa": "/ˈdɛzɪɡˌneɪtɪd/",
+        "audio": "media/words/ep75/designated.mp3",
+        "ex_audio": "media/words/ep75/designated_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "conclude",
+        "pos": "v.",
+        "zh": "推断出；得出结论",
+        "ex": "What can be concluded about Ms. Carmen?",
+        "exzh": "关于 Carmen 女士可以推断出什么？",
+        "ipa": "/kənˈklud/",
+        "audio": "media/words/ep75/conclude.mp3",
+        "ex_audio": "media/words/ep75/conclude_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "harvest",
+        "pos": "v./n.",
+        "zh": "收获；收割；收成",
+        "ex": "Cocoa beans are harvested and then covered.",
+        "exzh": "可可豆收获后被盖起来。",
+        "ipa": "/ˈhɑrvəst/",
+        "audio": "media/words/ep75/harvest.mp3",
+        "ex_audio": "media/words/ep75/harvest_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ferment",
+        "pos": "v.",
+        "zh": "发酵",
+        "ex": "The beans are covered for a few days to ferment.",
+        "exzh": "可可豆被盖上几天让它发酵。",
+        "ipa": "/fɚˈmɛnt/",
+        "audio": "media/words/ep75/ferment.mp3",
+        "ex_audio": "media/words/ep75/ferment_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "moist",
+        "pos": "adj.",
+        "zh": "湿润的；潮湿的",
+        "ex": "The new process is called moist incubation.",
+        "exzh": "新工艺叫做湿式培养。",
+        "ipa": "/mɔɪst/",
+        "audio": "media/words/ep75/moist.mp3",
+        "ex_audio": "media/words/ep75/moist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "incubation",
+        "pos": "n.",
+        "zh": "培养；孵化",
+        "ex": "Moist incubation relies on a chemical reaction.",
+        "exzh": "湿式培养依靠化学反应。",
+        "ipa": "/ˌɪŋkjuˈbeɪʃən/",
+        "audio": "media/words/ep75/incubation.mp3",
+        "ex_audio": "media/words/ep75/incubation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "peel",
+        "pos": "n.",
+        "zh": "果皮；外皮",
+        "ex": "The covering most favored is banana peels.",
+        "exzh": "最受欢迎的覆盖物是香蕉皮。",
+        "ipa": "/pil/",
+        "audio": "media/words/ep75/peel.mp3",
+        "ex_audio": "media/words/ep75/peel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "microbe",
+        "pos": "n.",
+        "zh": "微生物",
+        "ex": "Microbes reduce the beans' bitterness.",
+        "exzh": "微生物会减少豆子的苦味。",
+        "ipa": "/ˈmaɪˌkroʊb/",
+        "audio": "media/words/ep75/microbe.mp3",
+        "ex_audio": "media/words/ep75/microbe_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "bitterness",
+        "pos": "n.",
+        "zh": "苦味；苦涩",
+        "ex": "Fermentation reduces bitterness.",
+        "exzh": "发酵能减少苦味。",
+        "ipa": "/ˈbɪtɚnəs/",
+        "audio": "media/words/ep75/bitterness.mp3",
+        "ex_audio": "media/words/ep75/bitterness_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "touch base",
+        "pos": "phr.",
+        "zh": "碰头；联系一下",
+        "ex": "We should touch base tomorrow.",
+        "exzh": "我们明天应该碰个头。",
+        "ipa": "/tʌtʃ beɪs/",
+        "audio": "media/words/ep75/touch-base.mp3",
+        "ex_audio": "media/words/ep75/touch-base_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "promotion",
+        "pos": "n.",
+        "zh": "推广；促销；晋升",
+        "ex": "The marketing team understands product promotion.",
+        "exzh": "市场团队很懂产品推广。",
+        "ipa": "/prəˈmoʊʃən/",
+        "audio": "media/words/ep75/promotion.mp3",
+        "ex_audio": "media/words/ep75/promotion_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "alternative",
+        "pos": "adj./n.",
+        "zh": "替代的；另一种的；替代方案",
+        "ex": "The team evaluated an alternative process.",
+        "exzh": "团队评估了一种替代方法。",
+        "ipa": "/ɔlˈtɝnətɪv/",
+        "audio": "media/words/ep75/alternative.mp3",
+        "ex_audio": "media/words/ep75/alternative_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "procurement",
+        "pos": "n.",
+        "zh": "采购；获得",
+        "ex": "We must increase the procurement of ingredients.",
+        "exzh": "我们必须增加原料的采购。",
+        "ipa": "/proʊˈkjʊrmənt/",
+        "audio": "media/words/ep75/procurement.mp3",
+        "ex_audio": "media/words/ep75/procurement_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "rave about",
+        "pos": "v.",
+        "zh": "极力称赞；赞不绝口",
+        "ex": "Food bloggers are raving about our chocolate.",
+        "exzh": "美食博主对我们的巧克力赞不绝口。",
+        "ipa": "/reɪv əˈbaʊt/",
+        "audio": "media/words/ep75/rave-about.mp3",
+        "ex_audio": "media/words/ep75/rave-about_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "responsible for",
+        "pos": "adj.",
+        "zh": "是…的原因；负责",
+        "ex": "What is responsible for the recent success?",
+        "exzh": "最近的成功是什么带来的？",
+        "ipa": "/riˈspɑnsəbəl fɔr/",
+        "audio": "media/words/ep75/responsible-for.mp3",
+        "ex_audio": "media/words/ep75/responsible-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ingredient",
+        "pos": "n.",
+        "zh": "原料；成分",
+        "ex": "Sea salt is the key ingredient of the Eventide bar.",
+        "exzh": "海盐是 Eventide 巧克力的关键原料。",
+        "ipa": "/ˌɪnˈɡridiənt/",
+        "audio": "media/words/ep75/ingredient.mp3",
+        "ex_audio": "media/words/ep75/ingredient_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "fill in for",
+        "pos": "phr.",
+        "zh": "替……做工作；代班",
+        "ex": "Thank you for filling in for me while I was on vacation.",
+        "exzh": "谢谢你在我休假期间替我顶班。",
+        "ipa": "/fɪl ɪn fɔr/",
+        "audio": "media/words/ep75/fill-in-for.mp3",
+        "ex_audio": "media/words/ep75/fill-in-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "enclosed",
+        "pos": "adj.",
+        "zh": "随附的；附上的",
+        "ex": "Enclosed find the package of chocolate bars.",
+        "exzh": "随信附上一大包巧克力。",
+        "ipa": "/ɛnˈkloʊzd/",
+        "audio": "media/words/ep75/enclosed.mp3",
+        "ex_audio": "media/words/ep75/enclosed_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sold out",
+        "pos": "adj.",
+        "zh": "卖光的；售罄的",
+        "ex": "Our chocolates are sold out in Europe and Asia.",
+        "exzh": "我们的巧克力在欧洲和亚洲都卖光了。",
+        "ipa": "/soʊld aʊt/",
+        "audio": "media/words/ep75/sold-out.mp3",
+        "ex_audio": "media/words/ep75/sold-out_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 74,
     "theme": "错题薄弱项专题⑤：Part 6 三篇错题（Q141 错三次）· Part 7 三篇 Q186–190（Test 1）",
     "date": "2026-11-25",
