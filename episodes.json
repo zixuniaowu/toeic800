@@ -1,5 +1,1180 @@
 [
   {
+    "number": 76,
+    "theme": "错题薄弱项专题⑦：Part 6 贷款邮件 + Part 7 三组重复错题（Q155–157 · Q164–167 · Q168–171，Test 1）",
+    "date": "2026-11-27",
+    "duration_sec": 2805.7,
+    "segments": [
+      {
+        "title": "1. Part 6 错题复习（Test 1 Q135 · Q137 · Q138 · 贷款申请邮件）",
+        "start": 0.0,
+        "length": 504.9
+      },
+      {
+        "title": "2. Part 7 错题复习（Test 1 Q155–157 网页 · Q164–167 邮件 · Q168–171 备忘录）",
+        "start": 504.9,
+        "length": 1728.54
+      },
+      {
+        "title": "3. 本期 31 词总复习 · 拼读",
+        "start": 2233.44,
+        "length": 572.3
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "undoubtedly",
+        "zh": "无疑地；肯定地"
+      },
+      {
+        "word": "excellence",
+        "zh": "卓越；优秀"
+      },
+      {
+        "word": "subject matter",
+        "zh": "题材；主题内容"
+      },
+      {
+        "word": "engage in",
+        "zh": "从事；参加（活动）"
+      },
+      {
+        "word": "in advance",
+        "zh": "提前；事先"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. much",
+        "zh": "第135题；词汇题；四个形容词。空格句是 It has become increasingly blank over the past five years"
+      },
+      {
+        "word": "locate",
+        "zh": "意思是：把设在；某地；；位于"
+      },
+      {
+        "word": "reality",
+        "zh": "意思是：现实；实现；make A a reality 让A成为现实"
+      },
+      {
+        "word": "read over",
+        "zh": "意思是：通读；从头到尾看一遍"
+      },
+      {
+        "word": "next steps",
+        "zh": "意思是：下一步；后续步骤"
+      },
+      {
+        "word": "D. It plans to open more stores in other regions.",
+        "zh": "第155题；这个网页介绍的是什么？先看页面顶部；选中的标签是 Features；“特色”。第一段说；一盏"
+      },
+      {
+        "word": "aspect",
+        "zh": "意思是：方面；特点"
+      },
+      {
+        "word": "workspace",
+        "zh": "意思是：工作空间；工作区"
+      },
+      {
+        "word": "undoubtedly",
+        "zh": "意思是：无疑地；肯定地"
+      },
+      {
+        "word": "assembly",
+        "zh": "意思是：组装；装配"
+      },
+      {
+        "word": "narrow",
+        "zh": "意思是：窄的；狭窄的"
+      },
+      {
+        "word": "out of stock",
+        "zh": "意思是：缺货的；无库存的"
+      },
+      {
+        "word": "panel",
+        "zh": "意思是：专家小组；评审团"
+      },
+      {
+        "word": "specialist",
+        "zh": "意思是：专家；专业人员"
+      },
+      {
+        "word": "excellence",
+        "zh": "意思是：卓越；优秀"
+      },
+      {
+        "word": "durability",
+        "zh": "意思是：耐用性；耐久性"
+      },
+      {
+        "word": "D. gentler",
+        "zh": "第164题；根据邮件；Peter Kucharsky 以什么出名？第一段说；In the past decade, Kucharsky has"
+      },
+      {
+        "word": "explore",
+        "zh": "意思是：探索；尝试；新领域"
+      },
+      {
+        "word": "compose",
+        "zh": "意思是：作；曲；；创作"
+      },
+      {
+        "word": "journalism",
+        "zh": "意思是：新闻业；新闻报道"
+      },
+      {
+        "word": "drama",
+        "zh": "意思是：剧情片；戏剧"
+      },
+      {
+        "word": "subject matter",
+        "zh": "意思是：题材；主题内容"
+      },
+      {
+        "word": "occasional",
+        "zh": "意思是：偶尔的；有时的"
+      },
+      {
+        "word": "noticeable",
+        "zh": "意思是：明显的；引人注意的"
+      },
+      {
+        "word": "a touch of",
+        "zh": "意思是：一点儿；少许"
+      },
+      {
+        "word": "D. [4]",
+        "zh": "第168题；申请长期休假的员工；公司对他们的一个要求或者说预期是什么？第一段先说资格：Employees"
+      },
+      {
+        "word": "benefit",
+        "zh": "意思是：福利；好处"
+      },
+      {
+        "word": "apply for",
+        "zh": "意思是：申请"
+      },
+      {
+        "word": "expectation",
+        "zh": "意思是：期望；；对人的；要求"
+      },
+      {
+        "word": "engage in",
+        "zh": "意思是：从事；参加；活动"
+      },
+      {
+        "word": "potential",
+        "zh": "意思是：潜在的；可能的"
+      },
+      {
+        "word": "long-term",
+        "zh": "意思是：长期的"
+      },
+      {
+        "word": "in advance",
+        "zh": "意思是：提前；事先"
+      },
+      {
+        "word": "arrange",
+        "zh": "意思是：安排；筹备"
+      },
+      {
+        "word": "electronically",
+        "zh": "意思是：以电子方式；通过网络"
+      },
+      {
+        "word": "locate",
+        "zh": "把设在；某地；；位于"
+      },
+      {
+        "word": "reality",
+        "zh": "现实；实现；make A a reality 让A成为现实"
+      },
+      {
+        "word": "read over",
+        "zh": "通读；从头到尾看一遍"
+      },
+      {
+        "word": "next steps",
+        "zh": "下一步；后续步骤"
+      },
+      {
+        "word": "aspect",
+        "zh": "方面；特点"
+      },
+      {
+        "word": "workspace",
+        "zh": "工作空间；工作区"
+      },
+      {
+        "word": "undoubtedly",
+        "zh": "无疑地；肯定地"
+      },
+      {
+        "word": "assembly",
+        "zh": "组装；装配"
+      },
+      {
+        "word": "narrow",
+        "zh": "窄的；狭窄的"
+      },
+      {
+        "word": "out of stock",
+        "zh": "缺货的；无库存的"
+      },
+      {
+        "word": "panel",
+        "zh": "专家小组；评审团"
+      },
+      {
+        "word": "specialist",
+        "zh": "专家；专业人员"
+      },
+      {
+        "word": "excellence",
+        "zh": "卓越；优秀"
+      },
+      {
+        "word": "durability",
+        "zh": "耐用性；耐久性"
+      },
+      {
+        "word": "explore",
+        "zh": "探索；尝试；新领域"
+      },
+      {
+        "word": "compose",
+        "zh": "作；曲；；创作"
+      },
+      {
+        "word": "journalism",
+        "zh": "新闻业；新闻报道"
+      },
+      {
+        "word": "drama",
+        "zh": "剧情片；戏剧"
+      },
+      {
+        "word": "subject matter",
+        "zh": "题材；主题内容"
+      },
+      {
+        "word": "occasional",
+        "zh": "偶尔的；有时的"
+      },
+      {
+        "word": "noticeable",
+        "zh": "明显的；引人注意的"
+      },
+      {
+        "word": "a touch of",
+        "zh": "一点儿；少许"
+      },
+      {
+        "word": "benefit",
+        "zh": "福利；好处"
+      },
+      {
+        "word": "apply for",
+        "zh": "申请"
+      },
+      {
+        "word": "expectation",
+        "zh": "期望；；对人的；要求"
+      },
+      {
+        "word": "engage in",
+        "zh": "从事；参加；活动"
+      },
+      {
+        "word": "potential",
+        "zh": "潜在的；可能的"
+      },
+      {
+        "word": "long-term",
+        "zh": "长期的"
+      },
+      {
+        "word": "in advance",
+        "zh": "提前；事先"
+      },
+      {
+        "word": "arrange",
+        "zh": "安排；筹备"
+      },
+      {
+        "word": "electronically",
+        "zh": "以电子方式；通过网络"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep76.mp4",
+    "script_pdf": "media/ep76_script.pdf",
+    "source_video": "ep76.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep76.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep76.mp4",
+        "script_pdf": "media/ep76_script.pdf",
+        "duration_sec": 2805.7,
+        "theme": "错题薄弱项专题⑦：Part 6 贷款邮件 + Part 7 三组重复错题（Q155–157 · Q164–167 · Q168–171，Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 6 错题复习（Test 1 Q135 · Q137 · Q138 · 贷款申请邮件）",
+            "start": 0.0,
+            "length": 504.9
+          },
+          {
+            "title": "2. Part 7 错题复习（Test 1 Q155–157 网页 · Q164–167 邮件 · Q168–171 备忘录）",
+            "start": 504.9,
+            "length": 1728.54
+          },
+          {
+            "title": "3. 本期 31 词总复习 · 拼读",
+            "start": 2233.44,
+            "length": 572.3
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep76ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep76ja.mp4",
+        "script_pdf": "media/ep76ja_script.pdf",
+        "duration_sec": 3440.3,
+        "theme": "苦手分野特集⑦：Part 6 融資のメール + Part 7 繰り返し間違えた3セット（Q155–157 · Q164–167 · Q168–171、Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 6 間違い復習（Test 1 Q135 · Q137 · Q138 · 融資申し込みのメール）",
+            "start": 0.0,
+            "length": 659.77
+          },
+          {
+            "title": "2. Part 7 間違い復習（Test 1 Q155–157 ウェブページ · Q164–167 メール · Q168–171 社内メモ）",
+            "start": 659.77,
+            "length": 2154.92
+          },
+          {
+            "title": "3. 今回の 31 語総復習 · スペル",
+            "start": 2814.69,
+            "length": 625.61
+          }
+        ],
+        "poster": "media/ep76ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "undoubtedly",
+            "zh": "間違いなく；疑いなく"
+          },
+          {
+            "word": "excellence",
+            "zh": "優秀さ；卓越"
+          },
+          {
+            "word": "subject matter",
+            "zh": "題材；テーマ"
+          },
+          {
+            "word": "engage in",
+            "zh": "…に従事する；…に携わる"
+          },
+          {
+            "word": "in advance",
+            "zh": "前もって；事前に"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "locate",
+          "reality",
+          "read over",
+          "next steps",
+          "aspect",
+          "workspace",
+          "undoubtedly",
+          "assembly",
+          "narrow",
+          "out of stock",
+          "panel",
+          "specialist",
+          "excellence",
+          "durability",
+          "explore",
+          "compose",
+          "journalism",
+          "drama",
+          "subject matter",
+          "occasional",
+          "noticeable",
+          "a touch of",
+          "benefit",
+          "apply for",
+          "expectation",
+          "engage in",
+          "potential",
+          "long-term",
+          "in advance",
+          "arrange",
+          "electronically"
+        ],
+        "words": [
+          {
+            "word": "locate",
+            "pos": "v.",
+            "zh": "（店などを）置く；設ける",
+            "ex": "I plan to locate this new business on the north side of town.",
+            "exzh": "この新しい店を町の北側に置くつもりです。",
+            "ipa": "/ˈloʊˌkeɪt/",
+            "audio": "media/words/ep76/locate.mp3",
+            "ex_audio": "media/words/ep76/locate_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reality",
+            "pos": "n.",
+            "zh": "現実（make A a reality でAを実現させる）",
+            "ex": "To make my plan a reality, I need to request a loan.",
+            "exzh": "計画を実現させるには、融資を申し込む必要がある。",
+            "ipa": "/ˌriˈæləˌti/",
+            "audio": "media/words/ep76/reality.mp3",
+            "ex_audio": "media/words/ep76/reality_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "read over",
+            "pos": "phr.",
+            "zh": "…に目を通す；ひと通り読む",
+            "ex": "Once you have read it over, please contact me.",
+            "exzh": "ひと通り目を通したら、ご連絡ください。",
+            "ipa": "/rɛd ˈoʊvɚ/",
+            "audio": "media/words/ep76/read-over.mp3",
+            "ex_audio": "media/words/ep76/read-over_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "next steps",
+            "pos": "n.",
+            "zh": "次の段階；今後の手順",
+            "ex": "I hope you will contact me regarding the next steps.",
+            "exzh": "次の段階についてご連絡いただければ幸いです。",
+            "ipa": "/nɛkst stɛps/",
+            "audio": "media/words/ep76/next-steps.mp3",
+            "ex_audio": "media/words/ep76/next-steps_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "aspect",
+            "pos": "n.",
+            "zh": "側面；特徴",
+            "ex": "The Web page describes the desirable aspects of the lamps.",
+            "exzh": "そのウェブページはライトの望ましい特徴を説明している。",
+            "ipa": "/ˈæˌspɛkt/",
+            "audio": "media/words/ep76/aspect.mp3",
+            "ex_audio": "media/words/ep76/aspect_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "workspace",
+            "pos": "n.",
+            "zh": "作業スペース；仕事場",
+            "ex": "A well-designed desk lamp is vital for any workspace.",
+            "exzh": "よく設計されたデスクライトはどんな作業スペースにも欠かせない。",
+            "ipa": "/ˈwɝkˌspeɪs/",
+            "audio": "media/words/ep76/workspace.mp3",
+            "ex_audio": "media/words/ep76/workspace_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "undoubtedly",
+            "pos": "adv.",
+            "zh": "間違いなく；疑いなく",
+            "ex": "Some people will undoubtedly choose a poor lamp.",
+            "exzh": "間違いなく、質の悪いライトを選んでしまう人もいる。",
+            "ipa": "/ənˈdaʊtɪdli/",
+            "audio": "media/words/ep76/undoubtedly.mp3",
+            "ex_audio": "media/words/ep76/undoubtedly_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "assembly",
+            "pos": "n.",
+            "zh": "組み立て",
+            "ex": "The Web page does not give assembly instructions.",
+            "exzh": "そのウェブページには組み立て説明書はない。",
+            "ipa": "/əˈsɛmbli/",
+            "audio": "media/words/ep76/assembly.mp3",
+            "ex_audio": "media/words/ep76/assembly_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "narrow",
+            "pos": "adj.",
+            "zh": "狭い；幅の細い",
+            "ex": "The TT-1 is designed for small or narrow computer desks.",
+            "exzh": "TT-1 は小さな、または幅の狭いパソコンデスク向けに作られている。",
+            "ipa": "/ˈnɛroʊ/",
+            "audio": "media/words/ep76/narrow.mp3",
+            "ex_audio": "media/words/ep76/narrow_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "out of stock",
+            "pos": "adj.",
+            "zh": "在庫切れの；品切れの",
+            "ex": "The Web page never says the TT-1 is out of stock.",
+            "exzh": "ウェブページには TT-1 が在庫切れだとは書かれていない。",
+            "ipa": "/aʊt əv stɑk/",
+            "audio": "media/words/ep76/out-of-stock.mp3",
+            "ex_audio": "media/words/ep76/out-of-stock_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "panel",
+            "pos": "n.",
+            "zh": "審査団；専門家の委員会",
+            "ex": "A panel of top design specialists examined our products.",
+            "exzh": "一流のデザイン専門家の審査団が当社製品を審査した。",
+            "ipa": "/ˈpænəl/",
+            "audio": "media/words/ep76/panel.mp3",
+            "ex_audio": "media/words/ep76/panel_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "specialist",
+            "pos": "n.",
+            "zh": "専門家；スペシャリスト",
+            "ex": "Design specialists gave the company an award.",
+            "exzh": "デザインの専門家がその会社に賞を与えた。",
+            "ipa": "/ˈspɛʃələst/",
+            "audio": "media/words/ep76/specialist.mp3",
+            "ex_audio": "media/words/ep76/specialist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "excellence",
+            "pos": "n.",
+            "zh": "優秀さ；卓越",
+            "ex": "Taoblar won the Excellence in Design award.",
+            "exzh": "Taoblar は優秀デザイン賞を受賞した。",
+            "ipa": "/ˈɛksələns/",
+            "audio": "media/words/ep76/excellence.mp3",
+            "ex_audio": "media/words/ep76/excellence_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "durability",
+            "pos": "n.",
+            "zh": "耐久性；丈夫さ",
+            "ex": "The Web page says nothing about durability.",
+            "exzh": "そのウェブページは耐久性について何も述べていない。",
+            "ipa": "/dɚəˈbɪlɪti/",
+            "audio": "media/words/ep76/durability.mp3",
+            "ex_audio": "media/words/ep76/durability_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "explore",
+            "pos": "v.",
+            "zh": "探る；（新しい分野を）手がける",
+            "ex": "Kucharsky explored other film genres.",
+            "exzh": "Kucharsky は他の映画ジャンルも手がけた。",
+            "ipa": "/ɪkˈsplɔr/",
+            "audio": "media/words/ep76/explore.mp3",
+            "ex_audio": "media/words/ep76/explore_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "compose",
+            "pos": "v.",
+            "zh": "作曲する；創作する",
+            "ex": "Composing music is not what Kucharsky is known for.",
+            "exzh": "Kucharsky は作曲で知られているわけではない。",
+            "ipa": "/kəmˈpoʊz/",
+            "audio": "media/words/ep76/compose.mp3",
+            "ex_audio": "media/words/ep76/compose_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "journalism",
+            "pos": "n.",
+            "zh": "ジャーナリズム；報道の仕事",
+            "ex": "She has worked in journalism for ten years.",
+            "exzh": "彼女は報道の仕事を10年続けている。",
+            "ipa": "/ˈdʒɝnəˌlɪzəm/",
+            "audio": "media/words/ep76/journalism.mp3",
+            "ex_audio": "media/words/ep76/journalism_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "drama",
+            "pos": "n.",
+            "zh": "ドラマ；劇",
+            "ex": "His first film, Snow Song, is a family drama.",
+            "exzh": "彼の最初の映画『Snow Song』は家族ドラマだ。",
+            "ipa": "/ˈdrɑmə/",
+            "audio": "media/words/ep76/drama.mp3",
+            "ex_audio": "media/words/ep76/drama_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "subject matter",
+            "pos": "n.",
+            "zh": "題材；テーマ",
+            "ex": "The subject matter is completely different from his later films.",
+            "exzh": "その題材は彼の後の映画とはまったく違う。",
+            "ipa": "/səbˈdʒɛkt ˈmætɚ/",
+            "audio": "media/words/ep76/subject-matter.mp3",
+            "ex_audio": "media/words/ep76/subject-matter_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "occasional",
+            "pos": "adj.",
+            "zh": "時々の；たまの",
+            "ex": "Grandmother and grandson have occasional misunderstandings.",
+            "exzh": "祖母と孫は時々誤解し合う。",
+            "ipa": "/əˈkeɪʒənəl/",
+            "audio": "media/words/ep76/occasional.mp3",
+            "ex_audio": "media/words/ep76/occasional_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "noticeable",
+            "pos": "adj.",
+            "zh": "目立つ；はっきりわかる",
+            "ex": "Also noticeable is the director's sense of humor.",
+            "exzh": "監督のユーモアのセンスも目立つ。",
+            "ipa": "/ˈnoʊtəsəbəl/",
+            "audio": "media/words/ep76/noticeable.mp3",
+            "ex_audio": "media/words/ep76/noticeable_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "a touch of",
+            "pos": "phr.",
+            "zh": "少しの…；…の気配",
+            "ex": "He brings a touch of humor to all situations.",
+            "exzh": "彼はどんな場面にも少しユーモアを添える。",
+            "ipa": "/ə tʌtʃ əv/",
+            "audio": "media/words/ep76/a-touch-of.mp3",
+            "ex_audio": "media/words/ep76/a-touch-of_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "benefit",
+            "pos": "n.",
+            "zh": "福利厚生；手当；利点",
+            "ex": "Nanvero is introducing a new sabbatical-leave benefit.",
+            "exzh": "Nanvero は新しい長期休暇の福利厚生を導入する。",
+            "ipa": "/ˈbɛnəfɪt/",
+            "audio": "media/words/ep76/benefit.mp3",
+            "ex_audio": "media/words/ep76/benefit_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "apply for",
+            "pos": "phr.",
+            "zh": "…を申し込む；…を申請する",
+            "ex": "Employees can apply for up to six weeks of leave.",
+            "exzh": "社員は最長6週間の休暇を申請できる。",
+            "ipa": "/əˈplaɪ fɔr/",
+            "audio": "media/words/ep76/apply-for.mp3",
+            "ex_audio": "media/words/ep76/apply-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "expectation",
+            "pos": "n.",
+            "zh": "期待；求められること",
+            "ex": "What is one expectation of staff who take sabbatical leave?",
+            "exzh": "長期休暇を取る社員に求められることは何ですか。",
+            "ipa": "/ˌɛkspɛkˈteɪʃən/",
+            "audio": "media/words/ep76/expectation.mp3",
+            "ex_audio": "media/words/ep76/expectation_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "engage in",
+            "pos": "phr.",
+            "zh": "…に従事する；…に携わる",
+            "ex": "Employees can engage in activities they normally could not pursue.",
+            "exzh": "社員は普段はできない活動に携わることができる。",
+            "ipa": "/ɛnˈɡeɪdʒ ɪn/",
+            "audio": "media/words/ep76/engage-in.mp3",
+            "ex_audio": "media/words/ep76/engage-in_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "potential",
+            "pos": "adj.",
+            "zh": "潜在的な；見込みのある",
+            "ex": "The policy is not meant to attract potential employees.",
+            "exzh": "この制度は採用候補者を引きつけるためのものではない。",
+            "ipa": "/pəˈtɛnʃəl/",
+            "audio": "media/words/ep76/potential.mp3",
+            "ex_audio": "media/words/ep76/potential_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "long-term",
+            "pos": "adj.",
+            "zh": "長期の；長年の",
+            "ex": "The new benefit rewards long-term employees.",
+            "exzh": "新しい福利厚生は長年勤める社員に報いるものだ。",
+            "ipa": "/ˈlɔŋˈtɝm/",
+            "audio": "media/words/ep76/long-term.mp3",
+            "ex_audio": "media/words/ep76/long-term_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "in advance",
+            "pos": "phr.",
+            "zh": "前もって；事前に",
+            "ex": "Leave must be requested three months in advance.",
+            "exzh": "休暇は3か月前までに申請しなければならない。",
+            "ipa": "/ɪn ədˈvæns/",
+            "audio": "media/words/ep76/in-advance.mp3",
+            "ex_audio": "media/words/ep76/in-advance_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "arrange",
+            "pos": "v.",
+            "zh": "手配する；準備する",
+            "ex": "Your supervisor can arrange coverage for your job.",
+            "exzh": "上司があなたの仕事の代わりを手配できる。",
+            "ipa": "/ɚˈeɪndʒ/",
+            "audio": "media/words/ep76/arrange.mp3",
+            "ex_audio": "media/words/ep76/arrange_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "electronically",
+            "pos": "adv.",
+            "zh": "電子的に；オンラインで",
+            "ex": "The form must be submitted electronically.",
+            "exzh": "申請書はオンラインで提出しなければならない。",
+            "ipa": "/ˌɪˌlɛkˈtrɑnɪkəˌli/",
+            "audio": "media/words/ep76/electronically.mp3",
+            "ex_audio": "media/words/ep76/electronically_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep76_cover.png",
+    "theme_ja": "苦手分野特集⑦：Part 6 融資のメール + Part 7 繰り返し間違えた3セット（Q155–157 · Q164–167 · Q168–171、Test 1）",
+    "words": [
+      {
+        "word": "locate",
+        "pos": "v.",
+        "zh": "把……设在（某地）；位于",
+        "ex": "I plan to locate this new business on the north side of town.",
+        "exzh": "我打算把这家新店开在城北。",
+        "ipa": "/ˈloʊˌkeɪt/",
+        "audio": "media/words/ep76/locate.mp3",
+        "ex_audio": "media/words/ep76/locate_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reality",
+        "pos": "n.",
+        "zh": "现实；实现（make A a reality 让A成为现实）",
+        "ex": "To make my plan a reality, I need to request a loan.",
+        "exzh": "要让我的计划成为现实，我需要申请贷款。",
+        "ipa": "/ˌriˈæləˌti/",
+        "audio": "media/words/ep76/reality.mp3",
+        "ex_audio": "media/words/ep76/reality_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "read over",
+        "pos": "phr.",
+        "zh": "通读；从头到尾看一遍",
+        "ex": "Once you have read it over, please contact me.",
+        "exzh": "您通读一遍之后，请和我联系。",
+        "ipa": "/rɛd ˈoʊvɚ/",
+        "audio": "media/words/ep76/read-over.mp3",
+        "ex_audio": "media/words/ep76/read-over_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "next steps",
+        "pos": "n.",
+        "zh": "下一步；后续步骤",
+        "ex": "I hope you will contact me regarding the next steps.",
+        "exzh": "希望您就下一步和我联系。",
+        "ipa": "/nɛkst stɛps/",
+        "audio": "media/words/ep76/next-steps.mp3",
+        "ex_audio": "media/words/ep76/next-steps_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "aspect",
+        "pos": "n.",
+        "zh": "方面；特点",
+        "ex": "The Web page describes the desirable aspects of the lamps.",
+        "exzh": "这个网页介绍了台灯的理想特点。",
+        "ipa": "/ˈæˌspɛkt/",
+        "audio": "media/words/ep76/aspect.mp3",
+        "ex_audio": "media/words/ep76/aspect_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "workspace",
+        "pos": "n.",
+        "zh": "工作空间；工作区",
+        "ex": "A well-designed desk lamp is vital for any workspace.",
+        "exzh": "一盏设计好的台灯对任何工作空间都很重要。",
+        "ipa": "/ˈwɝkˌspeɪs/",
+        "audio": "media/words/ep76/workspace.mp3",
+        "ex_audio": "media/words/ep76/workspace_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "undoubtedly",
+        "pos": "adv.",
+        "zh": "无疑地；肯定地",
+        "ex": "Some people will undoubtedly choose a poor lamp.",
+        "exzh": "有些人肯定会选到不好的台灯。",
+        "ipa": "/ənˈdaʊtɪdli/",
+        "audio": "media/words/ep76/undoubtedly.mp3",
+        "ex_audio": "media/words/ep76/undoubtedly_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "assembly",
+        "pos": "n.",
+        "zh": "组装；装配",
+        "ex": "The Web page does not give assembly instructions.",
+        "exzh": "这个网页没有给出组装说明。",
+        "ipa": "/əˈsɛmbli/",
+        "audio": "media/words/ep76/assembly.mp3",
+        "ex_audio": "media/words/ep76/assembly_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "narrow",
+        "pos": "adj.",
+        "zh": "窄的；狭窄的",
+        "ex": "The TT-1 is designed for small or narrow computer desks.",
+        "exzh": "TT-1 是为小的或窄的电脑桌设计的。",
+        "ipa": "/ˈnɛroʊ/",
+        "audio": "media/words/ep76/narrow.mp3",
+        "ex_audio": "media/words/ep76/narrow_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "out of stock",
+        "pos": "adj.",
+        "zh": "缺货的；无库存的",
+        "ex": "The Web page never says the TT-1 is out of stock.",
+        "exzh": "网页从没说 TT-1 缺货。",
+        "ipa": "/aʊt əv stɑk/",
+        "audio": "media/words/ep76/out-of-stock.mp3",
+        "ex_audio": "media/words/ep76/out-of-stock_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "panel",
+        "pos": "n.",
+        "zh": "专家小组；评审团",
+        "ex": "A panel of top design specialists examined our products.",
+        "exzh": "一个顶级设计专家小组审查了我们的产品。",
+        "ipa": "/ˈpænəl/",
+        "audio": "media/words/ep76/panel.mp3",
+        "ex_audio": "media/words/ep76/panel_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "specialist",
+        "pos": "n.",
+        "zh": "专家；专业人员",
+        "ex": "Design specialists gave the company an award.",
+        "exzh": "设计专家给这家公司颁了奖。",
+        "ipa": "/ˈspɛʃələst/",
+        "audio": "media/words/ep76/specialist.mp3",
+        "ex_audio": "media/words/ep76/specialist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "excellence",
+        "pos": "n.",
+        "zh": "卓越；优秀",
+        "ex": "Taoblar won the Excellence in Design award.",
+        "exzh": "Taoblar 获得了卓越设计奖。",
+        "ipa": "/ˈɛksələns/",
+        "audio": "media/words/ep76/excellence.mp3",
+        "ex_audio": "media/words/ep76/excellence_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "durability",
+        "pos": "n.",
+        "zh": "耐用性；耐久性",
+        "ex": "The Web page says nothing about durability.",
+        "exzh": "这个网页完全没提耐用性。",
+        "ipa": "/dɚəˈbɪlɪti/",
+        "audio": "media/words/ep76/durability.mp3",
+        "ex_audio": "media/words/ep76/durability_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "explore",
+        "pos": "v.",
+        "zh": "探索；尝试（新领域）",
+        "ex": "Kucharsky explored other film genres.",
+        "exzh": "Kucharsky 尝试过其他电影类型。",
+        "ipa": "/ɪkˈsplɔr/",
+        "audio": "media/words/ep76/explore.mp3",
+        "ex_audio": "media/words/ep76/explore_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "compose",
+        "pos": "v.",
+        "zh": "作（曲）；创作",
+        "ex": "Composing music is not what Kucharsky is known for.",
+        "exzh": "Kucharsky 出名不是因为作曲。",
+        "ipa": "/kəmˈpoʊz/",
+        "audio": "media/words/ep76/compose.mp3",
+        "ex_audio": "media/words/ep76/compose_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "journalism",
+        "pos": "n.",
+        "zh": "新闻业；新闻报道",
+        "ex": "She has worked in journalism for ten years.",
+        "exzh": "她在新闻业工作了十年。",
+        "ipa": "/ˈdʒɝnəˌlɪzəm/",
+        "audio": "media/words/ep76/journalism.mp3",
+        "ex_audio": "media/words/ep76/journalism_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "drama",
+        "pos": "n.",
+        "zh": "剧情片；戏剧",
+        "ex": "His first film, Snow Song, is a family drama.",
+        "exzh": "他的第一部电影《Snow Song》是一部家庭剧。",
+        "ipa": "/ˈdrɑmə/",
+        "audio": "media/words/ep76/drama.mp3",
+        "ex_audio": "media/words/ep76/drama_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "subject matter",
+        "pos": "n.",
+        "zh": "题材；主题内容",
+        "ex": "The subject matter is completely different from his later films.",
+        "exzh": "它的题材和他后来的电影完全不同。",
+        "ipa": "/səbˈdʒɛkt ˈmætɚ/",
+        "audio": "media/words/ep76/subject-matter.mp3",
+        "ex_audio": "media/words/ep76/subject-matter_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "occasional",
+        "pos": "adj.",
+        "zh": "偶尔的；有时的",
+        "ex": "Grandmother and grandson have occasional misunderstandings.",
+        "exzh": "祖母和孙子偶尔会有误会。",
+        "ipa": "/əˈkeɪʒənəl/",
+        "audio": "media/words/ep76/occasional.mp3",
+        "ex_audio": "media/words/ep76/occasional_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "noticeable",
+        "pos": "adj.",
+        "zh": "明显的；引人注意的",
+        "ex": "Also noticeable is the director's sense of humor.",
+        "exzh": "同样明显的是导演的幽默感。",
+        "ipa": "/ˈnoʊtəsəbəl/",
+        "audio": "media/words/ep76/noticeable.mp3",
+        "ex_audio": "media/words/ep76/noticeable_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "a touch of",
+        "pos": "phr.",
+        "zh": "一点儿；少许",
+        "ex": "He brings a touch of humor to all situations.",
+        "exzh": "他给所有场景都带来一点幽默。",
+        "ipa": "/ə tʌtʃ əv/",
+        "audio": "media/words/ep76/a-touch-of.mp3",
+        "ex_audio": "media/words/ep76/a-touch-of_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "benefit",
+        "pos": "n.",
+        "zh": "福利；好处",
+        "ex": "Nanvero is introducing a new sabbatical-leave benefit.",
+        "exzh": "Nanvero 正在推出一项新的长期休假福利。",
+        "ipa": "/ˈbɛnəfɪt/",
+        "audio": "media/words/ep76/benefit.mp3",
+        "ex_audio": "media/words/ep76/benefit_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "apply for",
+        "pos": "phr.",
+        "zh": "申请",
+        "ex": "Employees can apply for up to six weeks of leave.",
+        "exzh": "员工最多可以申请六周的假。",
+        "ipa": "/əˈplaɪ fɔr/",
+        "audio": "media/words/ep76/apply-for.mp3",
+        "ex_audio": "media/words/ep76/apply-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "expectation",
+        "pos": "n.",
+        "zh": "期望；（对人的）要求",
+        "ex": "What is one expectation of staff who take sabbatical leave?",
+        "exzh": "对申请长期休假的员工，有什么要求？",
+        "ipa": "/ˌɛkspɛkˈteɪʃən/",
+        "audio": "media/words/ep76/expectation.mp3",
+        "ex_audio": "media/words/ep76/expectation_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "engage in",
+        "pos": "phr.",
+        "zh": "从事；参加（活动）",
+        "ex": "Employees can engage in activities they normally could not pursue.",
+        "exzh": "员工可以去做平时做不了的事。",
+        "ipa": "/ɛnˈɡeɪdʒ ɪn/",
+        "audio": "media/words/ep76/engage-in.mp3",
+        "ex_audio": "media/words/ep76/engage-in_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "potential",
+        "pos": "adj.",
+        "zh": "潜在的；可能的",
+        "ex": "The policy is not meant to attract potential employees.",
+        "exzh": "这项政策不是为了吸引潜在的员工。",
+        "ipa": "/pəˈtɛnʃəl/",
+        "audio": "media/words/ep76/potential.mp3",
+        "ex_audio": "media/words/ep76/potential_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "long-term",
+        "pos": "adj.",
+        "zh": "长期的",
+        "ex": "The new benefit rewards long-term employees.",
+        "exzh": "这项新福利是奖励长期员工的。",
+        "ipa": "/ˈlɔŋˈtɝm/",
+        "audio": "media/words/ep76/long-term.mp3",
+        "ex_audio": "media/words/ep76/long-term_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "in advance",
+        "pos": "phr.",
+        "zh": "提前；事先",
+        "ex": "Leave must be requested three months in advance.",
+        "exzh": "休假必须提前三个月申请。",
+        "ipa": "/ɪn ədˈvæns/",
+        "audio": "media/words/ep76/in-advance.mp3",
+        "ex_audio": "media/words/ep76/in-advance_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "arrange",
+        "pos": "v.",
+        "zh": "安排；筹备",
+        "ex": "Your supervisor can arrange coverage for your job.",
+        "exzh": "你的主管可以安排人替你工作。",
+        "ipa": "/ɚˈeɪndʒ/",
+        "audio": "media/words/ep76/arrange.mp3",
+        "ex_audio": "media/words/ep76/arrange_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "electronically",
+        "pos": "adv.",
+        "zh": "以电子方式；通过网络",
+        "ex": "The form must be submitted electronically.",
+        "exzh": "申请表必须在网上提交。",
+        "ipa": "/ˌɪˌlɛkˈtrɑnɪkəˌli/",
+        "audio": "media/words/ep76/electronically.mp3",
+        "ex_audio": "media/words/ep76/electronically_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 75,
     "theme": "错题薄弱项专题⑥：Part 7 两组三篇阅读（Q191–195 · Q196–200，Test 1）",
     "date": "2026-11-26",
