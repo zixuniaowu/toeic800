@@ -286,7 +286,7 @@
   },
   "ep43ja.mp4": {
    "repo": "toeic800-media3",
-   "size": 40593936
+   "size": 40594108
   },
   "ep44.mp4": {
    "repo": "toeic800-media3",
@@ -302,39 +302,39 @@
   },
   "ep45ja.mp4": {
    "repo": "toeic800-media3",
-   "size": 39457877
+   "size": 39458497
   },
   "ep46.mp4": {
    "repo": "toeic800-media3",
-   "size": 33608108
+   "size": 33607632
   },
   "ep46ja.mp4": {
    "repo": "toeic800-media3",
-   "size": 41462485
+   "size": 41462781
   },
   "ep47.mp4": {
    "repo": "toeic800-media3",
-   "size": 33409321
+   "size": 33409253
   },
   "ep47ja.mp4": {
    "repo": "toeic800-media3",
-   "size": 41050084
+   "size": 41049612
   },
   "ep48.mp4": {
    "repo": "toeic800-media3",
-   "size": 37279371
+   "size": 37278779
   },
   "ep48ja.mp4": {
    "repo": "toeic800-media3",
-   "size": 46421693
+   "size": 46422309
   },
   "ep49.mp4": {
    "repo": "toeic800-media3",
-   "size": 37434581
+   "size": 37433569
   },
   "ep49ja.mp4": {
    "repo": "toeic800-media4",
-   "size": 47050738
+   "size": 47050106
   },
   "ep5.mp4": {
    "repo": "toeic800-media1",
@@ -342,11 +342,11 @@
   },
   "ep50.mp4": {
    "repo": "toeic800-media4",
-   "size": 43039285
+   "size": 43038497
   },
   "ep50ja.mp4": {
    "repo": "toeic800-media4",
-   "size": 53495389
+   "size": 53494345
   },
   "ep51.mp4": {
    "repo": "toeic800-media4",
@@ -458,11 +458,11 @@
   },
   "ep64.mp4": {
    "repo": "toeic800-media4",
-   "size": 29567274
+   "size": 29567234
   },
   "ep64ja.mp4": {
    "repo": "toeic800-media4",
-   "size": 36017781
+   "size": 36017385
   },
   "ep65.mp4": {
    "repo": "toeic800-media5",
@@ -470,7 +470,7 @@
   },
   "ep65ja.mp4": {
    "repo": "toeic800-media5",
-   "size": 41478218
+   "size": 41478050
   },
   "ep66.mp4": {
    "repo": "toeic800-media5",
@@ -514,7 +514,7 @@
   },
   "ep70ja.mp4": {
    "repo": "toeic800-media5",
-   "size": 41983651
+   "size": 41983795
   },
   "ep71.mp4": {
    "repo": "toeic800-media5",
@@ -554,15 +554,23 @@
   },
   "ep75ja.mp4": {
    "repo": "toeic800-media5",
-   "size": 27804661
+   "size": 27804949
   },
   "ep76.mp4": {
    "repo": "toeic800-media5",
-   "size": 26845314
+   "size": 26844818
   },
   "ep76ja.mp4": {
    "repo": "toeic800-media5",
    "size": 32831393
+  },
+  "ep77.mp4": {
+   "repo": "toeic800-media5",
+   "size": 26508650
+  },
+  "ep77ja.mp4": {
+   "repo": "toeic800-media5",
+   "size": 32226078
   },
   "ep8.mp4": {
    "repo": "toeic800-media1",

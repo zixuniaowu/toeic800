@@ -1,5 +1,1210 @@
 [
   {
+    "number": 77,
+    "theme": "错题薄弱项专题⑧：Part 2 第二单元开头空白题 + Part 7 广告 · 邮件 · 短信（Test 1）",
+    "date": "2026-11-28",
+    "duration_sec": 3122.7,
+    "segments": [
+      {
+        "title": "1. Part 2 错题精讲（Test 1 Q18 · IP-B/IP-C 第二单元开头 10 题 · 逐句精听）",
+        "start": 0.0,
+        "length": 1523.36
+      },
+      {
+        "title": "2. Part 7 错题复习①（Test 1 Q151–152 童装店广告）",
+        "start": 1523.36,
+        "length": 325.33
+      },
+      {
+        "title": "3. Part 7 错题复习②（Test 1 Q147–148 邮件 · Q153–154 短信）",
+        "start": 1848.68,
+        "length": 617.37
+      },
+      {
+        "title": "4. 本期 34 词总复习 · 拼读",
+        "start": 2466.05,
+        "length": 656.62
+      }
+    ],
+    "highlight_words": [
+      {
+        "word": "go into effect",
+        "zh": "生效；开始实施"
+      },
+      {
+        "word": "that I know of",
+        "zh": "据我所知"
+      },
+      {
+        "word": "launder",
+        "zh": "洗（衣物）；洗熨"
+      },
+      {
+        "word": "retain",
+        "zh": "保留；保持"
+      },
+      {
+        "word": "determination",
+        "zh": "决定；确定；决心"
+      }
+    ],
+    "review_words": [
+      {
+        "word": "D. It will soon be available in retail stores.",
+        "zh": "第151题问广告宣传的是什么。广告标题是 Pamela's Clothes for Kids—shop now；童装店；马上来买"
+      },
+      {
+        "word": "trite",
+        "zh": "意思是：陈腐的；老套的"
+      },
+      {
+        "word": "stylish",
+        "zh": "意思是：时髦的；有型的"
+      },
+      {
+        "word": "sturdy",
+        "zh": "意思是：结实的；耐用的"
+      },
+      {
+        "word": "launder",
+        "zh": "意思是：洗；衣物；；洗熨"
+      },
+      {
+        "word": "stain resistant",
+        "zh": "意思是：防污的；耐脏的"
+      },
+      {
+        "word": "D. Arrive at the theater by 8:00 P.M.",
+        "zh": "第147题；这封邮件的目的是什么？第一句说：我们很遗憾地通知您；明天晚上八点 Chloe Chang 的演出"
+      },
+      {
+        "word": "regret to inform",
+        "zh": "意思是：遗憾地通知"
+      },
+      {
+        "word": "patron",
+        "zh": "意思是：顾客；常客；赞助人"
+      },
+      {
+        "word": "retain",
+        "zh": "意思是：保留；保持"
+      },
+      {
+        "word": "box office",
+        "zh": "意思是：售票处"
+      },
+      {
+        "word": "reschedule",
+        "zh": "意思是：重新安排时间；改期"
+      },
+      {
+        "word": "D. Edit the guidelines Ms. Martinez sent",
+        "zh": "第153题是意图题；问 8 点 15 分 Olivera 写 That makes sense 是什么意思。先看前一条：Arnold 说两点"
+      },
+      {
+        "word": "on my way",
+        "zh": "意思是：在路上；正在去的途中"
+      },
+      {
+        "word": "notification",
+        "zh": "意思是：通知；通告"
+      },
+      {
+        "word": "determination",
+        "zh": "意思是：决定；确定；决心"
+      },
+      {
+        "word": "guidelines",
+        "zh": "意思是：指南；准则"
+      },
+      {
+        "word": "payroll",
+        "zh": "工资；工资单；发薪"
+      },
+      {
+        "word": "go into effect",
+        "zh": "生效；开始实施"
+      },
+      {
+        "word": "quarter",
+        "zh": "季度；四分之一"
+      },
+      {
+        "word": "auditorium",
+        "zh": "礼堂；大会堂"
+      },
+      {
+        "word": "committee chair",
+        "zh": "委员会主席"
+      },
+      {
+        "word": "projector",
+        "zh": "投影仪"
+      },
+      {
+        "word": "equipped with",
+        "zh": "配备有"
+      },
+      {
+        "word": "postpone",
+        "zh": "推迟；延期"
+      },
+      {
+        "word": "that I know of",
+        "zh": "据我所知"
+      },
+      {
+        "word": "process",
+        "zh": "处理；办理；流程"
+      },
+      {
+        "word": "ink cartridge",
+        "zh": "墨盒"
+      },
+      {
+        "word": "print",
+        "zh": "打印；印刷；用印刷体书写"
+      },
+      {
+        "word": "set up",
+        "zh": "布置；摆放；安装"
+      },
+      {
+        "word": "register for",
+        "zh": "报名；注册"
+      },
+      {
+        "word": "certification",
+        "zh": "认证；资格证书"
+      },
+      {
+        "word": "deadline",
+        "zh": "截止日期；期限"
+      },
+      {
+        "word": "due",
+        "zh": "到期的；截止的；预定的"
+      },
+      {
+        "word": "initials",
+        "zh": "姓名首字母"
+      },
+      {
+        "word": "take inventory",
+        "zh": "盘点库存"
+      },
+      {
+        "word": "receptionist",
+        "zh": "接待员；前台"
+      },
+      {
+        "word": "trite",
+        "zh": "陈腐的；老套的"
+      },
+      {
+        "word": "stylish",
+        "zh": "时髦的；有型的"
+      },
+      {
+        "word": "sturdy",
+        "zh": "结实的；耐用的"
+      },
+      {
+        "word": "launder",
+        "zh": "洗；衣物；；洗熨"
+      },
+      {
+        "word": "stain resistant",
+        "zh": "防污的；耐脏的"
+      },
+      {
+        "word": "regret to inform",
+        "zh": "遗憾地通知"
+      },
+      {
+        "word": "patron",
+        "zh": "顾客；常客；赞助人"
+      },
+      {
+        "word": "retain",
+        "zh": "保留；保持"
+      },
+      {
+        "word": "box office",
+        "zh": "售票处"
+      },
+      {
+        "word": "reschedule",
+        "zh": "重新安排时间；改期"
+      },
+      {
+        "word": "on my way",
+        "zh": "在路上；正在去的途中"
+      },
+      {
+        "word": "notification",
+        "zh": "通知；通告"
+      },
+      {
+        "word": "determination",
+        "zh": "决定；确定；决心"
+      },
+      {
+        "word": "guidelines",
+        "zh": "指南；准则"
+      }
+    ],
+    "video": "https://zixuniaowu.github.io/toeic800-media5/ep77.mp4",
+    "script_pdf": "media/ep77_script.pdf",
+    "source_video": "ep77.mp4",
+    "languages": {
+      "zh": {
+        "label": "中文版",
+        "page": "ep77.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep77.mp4",
+        "script_pdf": "media/ep77_script.pdf",
+        "duration_sec": 3122.7,
+        "theme": "错题薄弱项专题⑧：Part 2 第二单元开头空白题 + Part 7 广告 · 邮件 · 短信（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 2 错题精讲（Test 1 Q18 · IP-B/IP-C 第二单元开头 10 题 · 逐句精听）",
+            "start": 0.0,
+            "length": 1523.36
+          },
+          {
+            "title": "2. Part 7 错题复习①（Test 1 Q151–152 童装店广告）",
+            "start": 1523.36,
+            "length": 325.33
+          },
+          {
+            "title": "3. Part 7 错题复习②（Test 1 Q147–148 邮件 · Q153–154 短信）",
+            "start": 1848.68,
+            "length": 617.37
+          },
+          {
+            "title": "4. 本期 34 词总复习 · 拼读",
+            "start": 2466.05,
+            "length": 656.62
+          }
+        ],
+        "has_words": true
+      },
+      "ja": {
+        "label": "日本語版",
+        "page": "ep77ja.html",
+        "video": "https://zixuniaowu.github.io/toeic800-media5/ep77ja.mp4",
+        "script_pdf": "media/ep77ja_script.pdf",
+        "duration_sec": 3852.8,
+        "theme": "苦手分野特集⑧：Part 2 UNIT TWO 冒頭の無解答問題 + Part 7 広告 · メール · テキストメッセージ（Test 1）",
+        "segments": [
+          {
+            "title": "1. Part 2 間違い直し（Test 1 Q18 · IP-B/IP-C UNIT TWO 冒頭10問 · 1文ずつ精聴）",
+            "start": 0.0,
+            "length": 1969.47
+          },
+          {
+            "title": "2. Part 7 間違い復習①（Test 1 Q151–152 子ども服店の広告）",
+            "start": 1969.47,
+            "length": 409.47
+          },
+          {
+            "title": "3. Part 7 間違い復習②（Test 1 Q147–148 メール · Q153–154 テキストメッセージ）",
+            "start": 2378.94,
+            "length": 764.27
+          },
+          {
+            "title": "4. 今回の 34 語総復習 · スペル",
+            "start": 3143.21,
+            "length": 709.61
+          }
+        ],
+        "poster": "media/ep77ja_cover.png",
+        "highlight_words": [
+          {
+            "word": "go into effect",
+            "zh": "発効する；施行される"
+          },
+          {
+            "word": "that I know of",
+            "zh": "私の知る限り"
+          },
+          {
+            "word": "launder",
+            "zh": "洗濯する"
+          },
+          {
+            "word": "retain",
+            "zh": "保持する；取っておく"
+          },
+          {
+            "word": "determination",
+            "zh": "決定；判断；決意"
+          }
+        ],
+        "review_words": [],
+        "words_meta": [
+          "payroll",
+          "go into effect",
+          "quarter",
+          "auditorium",
+          "committee chair",
+          "projector",
+          "equipped with",
+          "postpone",
+          "that I know of",
+          "process",
+          "ink cartridge",
+          "print",
+          "set up",
+          "register for",
+          "certification",
+          "deadline",
+          "due",
+          "initials",
+          "take inventory",
+          "receptionist",
+          "trite",
+          "stylish",
+          "sturdy",
+          "launder",
+          "stain resistant",
+          "regret to inform",
+          "patron",
+          "retain",
+          "box office",
+          "reschedule",
+          "on my way",
+          "notification",
+          "determination",
+          "guidelines"
+        ],
+        "words": [
+          {
+            "word": "payroll",
+            "pos": "n.",
+            "zh": "給与；給与支払い",
+            "ex": "The updated payroll policy goes into effect next month.",
+            "exzh": "改定された給与規定は来月から施行される。",
+            "ipa": "/ˈpeɪˌroʊl/",
+            "audio": "media/words/ep77/payroll.mp3",
+            "ex_audio": "media/words/ep77/payroll_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "go into effect",
+            "pos": "phr.",
+            "zh": "発効する；施行される",
+            "ex": "The new rules will go into effect on Monday.",
+            "exzh": "新しい規則は月曜日から施行される。",
+            "ipa": "/ɡoʊ ˈɪntu ɪˈfɛkt/",
+            "audio": "media/words/ep77/go-into-effect.mp3",
+            "ex_audio": "media/words/ep77/go-into-effect_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "quarter",
+            "pos": "n.",
+            "zh": "四半期；4分の1",
+            "ex": "At the end of the quarter, I think.",
+            "exzh": "四半期末だと思います。",
+            "ipa": "/ˈkwɔrtɚ/",
+            "audio": "media/words/ep77/quarter.mp3",
+            "ex_audio": "media/words/ep77/quarter_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "auditorium",
+            "pos": "n.",
+            "zh": "講堂；ホール",
+            "ex": "The auditorium is on the third floor.",
+            "exzh": "講堂は3階にある。",
+            "ipa": "/ˌɔdəˈtɔriəm/",
+            "audio": "media/words/ep77/auditorium.mp3",
+            "ex_audio": "media/words/ep77/auditorium_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "committee chair",
+            "pos": "n.",
+            "zh": "委員長",
+            "ex": "He's the committee chair.",
+            "exzh": "彼は委員長だ。",
+            "ipa": "/kəˈmɪti tʃɛr/",
+            "audio": "media/words/ep77/committee-chair.mp3",
+            "ex_audio": "media/words/ep77/committee-chair_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "projector",
+            "pos": "n.",
+            "zh": "プロジェクター",
+            "ex": "Should I test the projector in the meeting room now?",
+            "exzh": "今、会議室のプロジェクターをテストしましょうか。",
+            "ipa": "/prəˈdʒɛktɚ/",
+            "audio": "media/words/ep77/projector.mp3",
+            "ex_audio": "media/words/ep77/projector_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "equipped with",
+            "pos": "phr.",
+            "zh": "…を備えた；…が付いた",
+            "ex": "It came equipped with a navigation system.",
+            "exzh": "ナビゲーションシステムが付いていた。",
+            "ipa": "/ɪˈkwɪpt wɪð/",
+            "audio": "media/words/ep77/equipped-with.mp3",
+            "ex_audio": "media/words/ep77/equipped-with_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "postpone",
+            "pos": "v.",
+            "zh": "延期する",
+            "ex": "The budget meeting was postponed until Friday.",
+            "exzh": "予算会議は金曜日に延期された。",
+            "ipa": "/poʊstˈpoʊn/",
+            "audio": "media/words/ep77/postpone.mp3",
+            "ex_audio": "media/words/ep77/postpone_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "that I know of",
+            "pos": "phr.",
+            "zh": "私の知る限り",
+            "ex": "This is the first that I know of.",
+            "exzh": "私の知る限り、これが初めてだ。",
+            "ipa": "/ðæt aɪ noʊ əv/",
+            "audio": "media/words/ep77/that-i-know-of.mp3",
+            "ex_audio": "media/words/ep77/that-i-know-of_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "process",
+            "pos": "v./n.",
+            "zh": "処理する；手続きする；手順",
+            "ex": "I can help you process the order for shipment.",
+            "exzh": "この注文の発送手続きを手伝えますよ。",
+            "ipa": "/ˈprɑˌsɛs/",
+            "audio": "media/words/ep77/process.mp3",
+            "ex_audio": "media/words/ep77/process_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "ink cartridge",
+            "pos": "n.",
+            "zh": "インクカートリッジ",
+            "ex": "That was the last ink cartridge.",
+            "exzh": "それが最後のインクカートリッジだった。",
+            "ipa": "/ɪŋk ˈkɑrtrədʒ/",
+            "audio": "media/words/ep77/ink-cartridge.mp3",
+            "ex_audio": "media/words/ep77/ink-cartridge_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "print",
+            "pos": "v.",
+            "zh": "印刷する；活字体で書く",
+            "ex": "Please print your name here.",
+            "exzh": "ここに活字体でお名前をお書きください。",
+            "ipa": "/prɪnt/",
+            "audio": "media/words/ep77/print.mp3",
+            "ex_audio": "media/words/ep77/print_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "set up",
+            "pos": "phr.",
+            "zh": "準備する；設置する",
+            "ex": "The caterers will begin setting up for the party soon.",
+            "exzh": "ケータリング業者はまもなくパーティーの準備を始める。",
+            "ipa": "/sɛt ʌp/",
+            "audio": "media/words/ep77/set-up.mp3",
+            "ex_audio": "media/words/ep77/set-up_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "register for",
+            "pos": "phr.",
+            "zh": "…に申し込む；登録する",
+            "ex": "Should we register for the course today?",
+            "exzh": "今日その講座に申し込みましょうか。",
+            "ipa": "/ˈrɛdʒɪstɚ fɔr/",
+            "audio": "media/words/ep77/register-for.mp3",
+            "ex_audio": "media/words/ep77/register-for_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "certification",
+            "pos": "n.",
+            "zh": "認定；資格証明",
+            "ex": "She completed a certification course.",
+            "exzh": "彼女は資格認定講座を修了した。",
+            "ipa": "/ˌsɝtəfəˈkeɪʃən/",
+            "audio": "media/words/ep77/certification.mp3",
+            "ex_audio": "media/words/ep77/certification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "deadline",
+            "pos": "n.",
+            "zh": "締め切り；期限",
+            "ex": "The deadline has already passed.",
+            "exzh": "締め切りはもう過ぎた。",
+            "ipa": "/ˈdɛdˌlaɪn/",
+            "audio": "media/words/ep77/deadline.mp3",
+            "ex_audio": "media/words/ep77/deadline_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "due",
+            "pos": "adj.",
+            "zh": "期限が来た；…する予定の",
+            "ex": "The report is due on Friday.",
+            "exzh": "報告書は金曜日が締め切りだ。",
+            "ipa": "/du/",
+            "audio": "media/words/ep77/due.mp3",
+            "ex_audio": "media/words/ep77/due_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "initials",
+            "pos": "n.",
+            "zh": "イニシャル；名前の頭文字",
+            "ex": "Just my initials.",
+            "exzh": "私のイニシャルだけです。",
+            "ipa": "/ˌɪˈnɪʃəlz/",
+            "audio": "media/words/ep77/initials.mp3",
+            "ex_audio": "media/words/ep77/initials_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "take inventory",
+            "pos": "phr.",
+            "zh": "棚卸しをする",
+            "ex": "We need to finish taking inventory first.",
+            "exzh": "まず棚卸しを終えなければならない。",
+            "ipa": "/teɪk ˌɪnvənˈtɔri/",
+            "audio": "media/words/ep77/take-inventory.mp3",
+            "ex_audio": "media/words/ep77/take-inventory_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "receptionist",
+            "pos": "n.",
+            "zh": "受付係",
+            "ex": "The new receptionist starts on Monday.",
+            "exzh": "新しい受付係は月曜日から働く。",
+            "ipa": "/rɪˈsɛpʃənɪst/",
+            "audio": "media/words/ep77/receptionist.mp3",
+            "ex_audio": "media/words/ep77/receptionist_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "trite",
+            "pos": "adj.",
+            "zh": "ありきたりの；陳腐な",
+            "ex": "Playtime clothes for children shouldn't be boring or trite!",
+            "exzh": "子どもの遊び着は退屈でありきたりであってはいけません！",
+            "ipa": "/traɪt/",
+            "audio": "media/words/ep77/trite.mp3",
+            "ex_audio": "media/words/ep77/trite_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "stylish",
+            "pos": "adj.",
+            "zh": "おしゃれな；洗練された",
+            "ex": "Children's clothing should be comfortable, affordable, and stylish.",
+            "exzh": "子ども服は着心地がよく、手頃で、おしゃれであるべきです。",
+            "ipa": "/ˈstaɪlɪʃ/",
+            "audio": "media/words/ep77/stylish.mp3",
+            "ex_audio": "media/words/ep77/stylish_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "sturdy",
+            "pos": "adj.",
+            "zh": "丈夫な；頑丈な",
+            "ex": "The clothes kids play in must be sturdy.",
+            "exzh": "子どもが遊ぶときの服は丈夫でなければならない。",
+            "ipa": "/ˈstɝdi/",
+            "audio": "media/words/ep77/sturdy.mp3",
+            "ex_audio": "media/words/ep77/sturdy_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "launder",
+            "pos": "v.",
+            "zh": "洗濯する",
+            "ex": "These shirts are easy to launder.",
+            "exzh": "これらのシャツは洗濯しやすい。",
+            "ipa": "/ˈlɔndɚ/",
+            "audio": "media/words/ep77/launder.mp3",
+            "ex_audio": "media/words/ep77/launder_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "stain resistant",
+            "pos": "adj.",
+            "zh": "汚れに強い；防汚の",
+            "ex": "Our sweaters are machine washable and stain resistant.",
+            "exzh": "当店のセーターは洗濯機で洗えて、汚れに強いです。",
+            "ipa": "/steɪn rɪˈzɪstənt/",
+            "audio": "media/words/ep77/stain-resistant.mp3",
+            "ex_audio": "media/words/ep77/stain-resistant_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "regret to inform",
+            "pos": "phr.",
+            "zh": "残念ながらお知らせする",
+            "ex": "We regret to inform you that the performance has been postponed.",
+            "exzh": "残念ながら、公演が延期になったことをお知らせします。",
+            "ipa": "/rəˈɡrɛt tu ˌɪnˈfɔrm/",
+            "audio": "media/words/ep77/regret-to-inform.mp3",
+            "ex_audio": "media/words/ep77/regret-to-inform_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "patron",
+            "pos": "n.",
+            "zh": "客；ひいき客；後援者",
+            "ex": "The theater offered patrons discounted tickets.",
+            "exzh": "劇場は客に割引チケットを提供した。",
+            "ipa": "/ˈpeɪtrən/",
+            "audio": "media/words/ep77/patron.mp3",
+            "ex_audio": "media/words/ep77/patron_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "retain",
+            "pos": "v.",
+            "zh": "保持する；取っておく",
+            "ex": "Please retain your tickets.",
+            "exzh": "チケットを保管しておいてください。",
+            "ipa": "/rɪˈteɪn/",
+            "audio": "media/words/ep77/retain.mp3",
+            "ex_audio": "media/words/ep77/retain_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "box office",
+            "pos": "n.",
+            "zh": "チケット売り場",
+            "ex": "Contact the box office at 555-0112.",
+            "exzh": "555-0112 でチケット売り場に連絡してください。",
+            "ipa": "/bɑks ˈɔfɪs/",
+            "audio": "media/words/ep77/box-office.mp3",
+            "ex_audio": "media/words/ep77/box-office_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "reschedule",
+            "pos": "v.",
+            "zh": "日程を変更する；延期する",
+            "ex": "The parade was rescheduled for next month.",
+            "exzh": "パレードは来月に延期された。",
+            "ipa": "/riˈskɛdʒul/",
+            "audio": "media/words/ep77/reschedule.mp3",
+            "ex_audio": "media/words/ep77/reschedule_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "on my way",
+            "pos": "phr.",
+            "zh": "向かっている途中で",
+            "ex": "I'll text you when I am on my way.",
+            "exzh": "向かうときにメッセージを送ります。",
+            "ipa": "/ɑn maɪ weɪ/",
+            "audio": "media/words/ep77/on-my-way.mp3",
+            "ex_audio": "media/words/ep77/on-my-way_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "notification",
+            "pos": "n.",
+            "zh": "通知；知らせ",
+            "ex": "You will receive a notification by e-mail.",
+            "exzh": "メールで通知が届く。",
+            "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+            "audio": "media/words/ep77/notification.mp3",
+            "ex_audio": "media/words/ep77/notification_ex.mp3",
+            "highlight": false,
+            "review": true
+          },
+          {
+            "word": "determination",
+            "pos": "n.",
+            "zh": "決定；判断；決意",
+            "ex": "She wants our final determination by Monday.",
+            "exzh": "彼女は月曜までに最終決定を求めている。",
+            "ipa": "/dɪˌtɝməˈneɪʃən/",
+            "audio": "media/words/ep77/determination.mp3",
+            "ex_audio": "media/words/ep77/determination_ex.mp3",
+            "highlight": true,
+            "review": true
+          },
+          {
+            "word": "guidelines",
+            "pos": "n.",
+            "zh": "指針；ガイドライン",
+            "ex": "She e-mailed the hiring guidelines to me.",
+            "exzh": "彼女は採用の指針をメールで送ってくれた。",
+            "ipa": "/ˈɡaɪdˌlaɪnz/",
+            "audio": "media/words/ep77/guidelines.mp3",
+            "ex_audio": "media/words/ep77/guidelines_ex.mp3",
+            "highlight": false,
+            "review": true
+          }
+        ],
+        "has_words": true
+      }
+    },
+    "poster": "media/ep77_cover.png",
+    "theme_ja": "苦手分野特集⑧：Part 2 UNIT TWO 冒頭の無解答問題 + Part 7 広告 · メール · テキストメッセージ（Test 1）",
+    "words": [
+      {
+        "word": "payroll",
+        "pos": "n.",
+        "zh": "工资；工资单；发薪",
+        "ex": "The updated payroll policy goes into effect next month.",
+        "exzh": "更新后的工资政策下个月生效。",
+        "ipa": "/ˈpeɪˌroʊl/",
+        "audio": "media/words/ep77/payroll.mp3",
+        "ex_audio": "media/words/ep77/payroll_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "go into effect",
+        "pos": "phr.",
+        "zh": "生效；开始实施",
+        "ex": "The new rules will go into effect on Monday.",
+        "exzh": "新规定将于周一生效。",
+        "ipa": "/ɡoʊ ˈɪntu ɪˈfɛkt/",
+        "audio": "media/words/ep77/go-into-effect.mp3",
+        "ex_audio": "media/words/ep77/go-into-effect_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "quarter",
+        "pos": "n.",
+        "zh": "季度；四分之一",
+        "ex": "At the end of the quarter, I think.",
+        "exzh": "我想是在这个季度末。",
+        "ipa": "/ˈkwɔrtɚ/",
+        "audio": "media/words/ep77/quarter.mp3",
+        "ex_audio": "media/words/ep77/quarter_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "auditorium",
+        "pos": "n.",
+        "zh": "礼堂；大会堂",
+        "ex": "The auditorium is on the third floor.",
+        "exzh": "礼堂在三楼。",
+        "ipa": "/ˌɔdəˈtɔriəm/",
+        "audio": "media/words/ep77/auditorium.mp3",
+        "ex_audio": "media/words/ep77/auditorium_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "committee chair",
+        "pos": "n.",
+        "zh": "委员会主席",
+        "ex": "He's the committee chair.",
+        "exzh": "他是委员会主席。",
+        "ipa": "/kəˈmɪti tʃɛr/",
+        "audio": "media/words/ep77/committee-chair.mp3",
+        "ex_audio": "media/words/ep77/committee-chair_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "projector",
+        "pos": "n.",
+        "zh": "投影仪",
+        "ex": "Should I test the projector in the meeting room now?",
+        "exzh": "我现在去测试会议室的投影仪吗？",
+        "ipa": "/prəˈdʒɛktɚ/",
+        "audio": "media/words/ep77/projector.mp3",
+        "ex_audio": "media/words/ep77/projector_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "equipped with",
+        "pos": "phr.",
+        "zh": "配备有……",
+        "ex": "It came equipped with a navigation system.",
+        "exzh": "它配备了导航系统。",
+        "ipa": "/ɪˈkwɪpt wɪð/",
+        "audio": "media/words/ep77/equipped-with.mp3",
+        "ex_audio": "media/words/ep77/equipped-with_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟；延期",
+        "ex": "The budget meeting was postponed until Friday.",
+        "exzh": "预算会议推迟到周五了。",
+        "ipa": "/poʊstˈpoʊn/",
+        "audio": "media/words/ep77/postpone.mp3",
+        "ex_audio": "media/words/ep77/postpone_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "that I know of",
+        "pos": "phr.",
+        "zh": "据我所知",
+        "ex": "This is the first that I know of.",
+        "exzh": "据我所知这是第一次。",
+        "ipa": "/ðæt aɪ noʊ əv/",
+        "audio": "media/words/ep77/that-i-know-of.mp3",
+        "ex_audio": "media/words/ep77/that-i-know-of_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "process",
+        "pos": "v./n.",
+        "zh": "处理；办理；流程",
+        "ex": "I can help you process the order for shipment.",
+        "exzh": "我可以帮你处理这份订单的发货。",
+        "ipa": "/ˈprɑˌsɛs/",
+        "audio": "media/words/ep77/process.mp3",
+        "ex_audio": "media/words/ep77/process_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "ink cartridge",
+        "pos": "n.",
+        "zh": "墨盒",
+        "ex": "That was the last ink cartridge.",
+        "exzh": "那是最后一个墨盒了。",
+        "ipa": "/ɪŋk ˈkɑrtrədʒ/",
+        "audio": "media/words/ep77/ink-cartridge.mp3",
+        "ex_audio": "media/words/ep77/ink-cartridge_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "print",
+        "pos": "v.",
+        "zh": "打印；印刷；用印刷体书写",
+        "ex": "Please print your name here.",
+        "exzh": "请在这里用正楷写上您的名字。",
+        "ipa": "/prɪnt/",
+        "audio": "media/words/ep77/print.mp3",
+        "ex_audio": "media/words/ep77/print_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "set up",
+        "pos": "phr.",
+        "zh": "布置；摆放；安装",
+        "ex": "The caterers will begin setting up for the party soon.",
+        "exzh": "餐饮承办商很快就会开始为派对做布置。",
+        "ipa": "/sɛt ʌp/",
+        "audio": "media/words/ep77/set-up.mp3",
+        "ex_audio": "media/words/ep77/set-up_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "register for",
+        "pos": "phr.",
+        "zh": "报名；注册",
+        "ex": "Should we register for the course today?",
+        "exzh": "我们今天报名这门课吗？",
+        "ipa": "/ˈrɛdʒɪstɚ fɔr/",
+        "audio": "media/words/ep77/register-for.mp3",
+        "ex_audio": "media/words/ep77/register-for_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "certification",
+        "pos": "n.",
+        "zh": "认证；资格证书",
+        "ex": "She completed a certification course.",
+        "exzh": "她完成了一门资格认证课程。",
+        "ipa": "/ˌsɝtəfəˈkeɪʃən/",
+        "audio": "media/words/ep77/certification.mp3",
+        "ex_audio": "media/words/ep77/certification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "deadline",
+        "pos": "n.",
+        "zh": "截止日期；期限",
+        "ex": "The deadline has already passed.",
+        "exzh": "截止日期已经过了。",
+        "ipa": "/ˈdɛdˌlaɪn/",
+        "audio": "media/words/ep77/deadline.mp3",
+        "ex_audio": "media/words/ep77/deadline_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "due",
+        "pos": "adj.",
+        "zh": "到期的；截止的；预定的",
+        "ex": "The report is due on Friday.",
+        "exzh": "报告周五截止。",
+        "ipa": "/du/",
+        "audio": "media/words/ep77/due.mp3",
+        "ex_audio": "media/words/ep77/due_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "initials",
+        "pos": "n.",
+        "zh": "姓名首字母",
+        "ex": "Just my initials.",
+        "exzh": "只要我名字的首字母。",
+        "ipa": "/ˌɪˈnɪʃəlz/",
+        "audio": "media/words/ep77/initials.mp3",
+        "ex_audio": "media/words/ep77/initials_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "take inventory",
+        "pos": "phr.",
+        "zh": "盘点库存",
+        "ex": "We need to finish taking inventory first.",
+        "exzh": "我们得先把库存盘点完。",
+        "ipa": "/teɪk ˌɪnvənˈtɔri/",
+        "audio": "media/words/ep77/take-inventory.mp3",
+        "ex_audio": "media/words/ep77/take-inventory_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "receptionist",
+        "pos": "n.",
+        "zh": "接待员；前台",
+        "ex": "The new receptionist starts on Monday.",
+        "exzh": "新来的接待员周一开始上班。",
+        "ipa": "/rɪˈsɛpʃənɪst/",
+        "audio": "media/words/ep77/receptionist.mp3",
+        "ex_audio": "media/words/ep77/receptionist_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "trite",
+        "pos": "adj.",
+        "zh": "陈腐的；老套的",
+        "ex": "Playtime clothes for children shouldn't be boring or trite!",
+        "exzh": "孩子们玩耍时穿的衣服不应该无聊又老套！",
+        "ipa": "/traɪt/",
+        "audio": "media/words/ep77/trite.mp3",
+        "ex_audio": "media/words/ep77/trite_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "stylish",
+        "pos": "adj.",
+        "zh": "时髦的；有型的",
+        "ex": "Children's clothing should be comfortable, affordable, and stylish.",
+        "exzh": "童装应该舒适、实惠又时髦。",
+        "ipa": "/ˈstaɪlɪʃ/",
+        "audio": "media/words/ep77/stylish.mp3",
+        "ex_audio": "media/words/ep77/stylish_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "sturdy",
+        "pos": "adj.",
+        "zh": "结实的；耐用的",
+        "ex": "The clothes kids play in must be sturdy.",
+        "exzh": "孩子们玩耍时穿的衣服必须结实。",
+        "ipa": "/ˈstɝdi/",
+        "audio": "media/words/ep77/sturdy.mp3",
+        "ex_audio": "media/words/ep77/sturdy_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "launder",
+        "pos": "v.",
+        "zh": "洗（衣物）；洗熨",
+        "ex": "These shirts are easy to launder.",
+        "exzh": "这些衬衫很好洗。",
+        "ipa": "/ˈlɔndɚ/",
+        "audio": "media/words/ep77/launder.mp3",
+        "ex_audio": "media/words/ep77/launder_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "stain resistant",
+        "pos": "adj.",
+        "zh": "防污的；耐脏的",
+        "ex": "Our sweaters are machine washable and stain resistant.",
+        "exzh": "我们的毛衣可以机洗，而且防污。",
+        "ipa": "/steɪn rɪˈzɪstənt/",
+        "audio": "media/words/ep77/stain-resistant.mp3",
+        "ex_audio": "media/words/ep77/stain-resistant_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "regret to inform",
+        "pos": "phr.",
+        "zh": "遗憾地通知",
+        "ex": "We regret to inform you that the performance has been postponed.",
+        "exzh": "我们很遗憾地通知您，演出已经延期。",
+        "ipa": "/rəˈɡrɛt tu ˌɪnˈfɔrm/",
+        "audio": "media/words/ep77/regret-to-inform.mp3",
+        "ex_audio": "media/words/ep77/regret-to-inform_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "patron",
+        "pos": "n.",
+        "zh": "顾客；常客；赞助人",
+        "ex": "The theater offered patrons discounted tickets.",
+        "exzh": "剧院给观众提供了打折票。",
+        "ipa": "/ˈpeɪtrən/",
+        "audio": "media/words/ep77/patron.mp3",
+        "ex_audio": "media/words/ep77/patron_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "retain",
+        "pos": "v.",
+        "zh": "保留；保持",
+        "ex": "Please retain your tickets.",
+        "exzh": "请保留好您的门票。",
+        "ipa": "/rɪˈteɪn/",
+        "audio": "media/words/ep77/retain.mp3",
+        "ex_audio": "media/words/ep77/retain_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "box office",
+        "pos": "n.",
+        "zh": "售票处",
+        "ex": "Contact the box office at 555-0112.",
+        "exzh": "请拨打 555-0112 联系售票处。",
+        "ipa": "/bɑks ˈɔfɪs/",
+        "audio": "media/words/ep77/box-office.mp3",
+        "ex_audio": "media/words/ep77/box-office_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "reschedule",
+        "pos": "v.",
+        "zh": "重新安排时间；改期",
+        "ex": "The parade was rescheduled for next month.",
+        "exzh": "游行改到下个月了。",
+        "ipa": "/riˈskɛdʒul/",
+        "audio": "media/words/ep77/reschedule.mp3",
+        "ex_audio": "media/words/ep77/reschedule_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "on my way",
+        "pos": "phr.",
+        "zh": "在路上；正在去的途中",
+        "ex": "I'll text you when I am on my way.",
+        "exzh": "我出发的时候给你发短信。",
+        "ipa": "/ɑn maɪ weɪ/",
+        "audio": "media/words/ep77/on-my-way.mp3",
+        "ex_audio": "media/words/ep77/on-my-way_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "notification",
+        "pos": "n.",
+        "zh": "通知；通告",
+        "ex": "You will receive a notification by e-mail.",
+        "exzh": "您会收到一封邮件通知。",
+        "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+        "audio": "media/words/ep77/notification.mp3",
+        "ex_audio": "media/words/ep77/notification_ex.mp3",
+        "highlight": false,
+        "review": true
+      },
+      {
+        "word": "determination",
+        "pos": "n.",
+        "zh": "决定；确定；决心",
+        "ex": "She wants our final determination by Monday.",
+        "exzh": "她希望周一前得到我们的最终决定。",
+        "ipa": "/dɪˌtɝməˈneɪʃən/",
+        "audio": "media/words/ep77/determination.mp3",
+        "ex_audio": "media/words/ep77/determination_ex.mp3",
+        "highlight": true,
+        "review": true
+      },
+      {
+        "word": "guidelines",
+        "pos": "n.",
+        "zh": "指南；准则",
+        "ex": "She e-mailed the hiring guidelines to me.",
+        "exzh": "她把招聘指南用邮件发给我了。",
+        "ipa": "/ˈɡaɪdˌlaɪnz/",
+        "audio": "media/words/ep77/guidelines.mp3",
+        "ex_audio": "media/words/ep77/guidelines_ex.mp3",
+        "highlight": false,
+        "review": true
+      }
+    ]
+  },
+  {
     "number": 76,
     "theme": "错题薄弱项专题⑦：Part 6 贷款邮件 + Part 7 三组重复错题（Q155–157 · Q164–167 · Q168–171，Test 1）",
     "date": "2026-11-27",
